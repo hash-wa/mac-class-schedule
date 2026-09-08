@@ -1237,7 +1237,7 @@ dialog.tray-dialog::backdrop { background: rgba(0,0,0,0.6); }
   justify-content: center;
   min-width: 2.5rem;
   height: 1.5rem;
-  padding: 0 0.4rem;
+  padding: 0 0.3rem;
   border-radius: 999px;
   font-family: var(--font-mono);
   font-size: 0.72rem;
@@ -1245,15 +1245,18 @@ dialog.tray-dialog::backdrop { background: rgba(0,0,0,0.6); }
   align-self: center;
   flex: none;
   border: 1px solid transparent;
+  /* the pill doubles as a fill gauge: the left --fill portion gets an
+     extra layer of the row's tint, showing how full the section is */
+  background-image: linear-gradient(to right, var(--fill-tint, transparent) var(--fill, 0%), transparent var(--fill, 0%));
 }
-.seat-badge.seat-open { background: rgba(111, 191, 115, 0.18); color: var(--green); border-color: var(--green); }
-.seat-badge.seat-low { background: rgba(217, 164, 65, 0.18); color: var(--amber-bright); border-color: var(--amber); }
-.seat-badge.seat-full { background: rgba(217, 127, 127, 0.18); color: var(--red); border-color: var(--red); }
-.seat-badge.seat-unknown { background: var(--ink-800); color: var(--paper-dim); border-color: var(--ink-600); }
+.seat-badge.seat-open { background-color: rgba(111, 191, 115, 0.18); --fill-tint: rgba(111, 191, 115, 0.25); color: var(--green); border-color: var(--green); }
+.seat-badge.seat-low { background-color: rgba(217, 164, 65, 0.18); --fill-tint: rgba(217, 164, 65, 0.25); color: var(--amber-bright); border-color: var(--amber); }
+.seat-badge.seat-full { background-color: rgba(217, 127, 127, 0.18); --fill-tint: rgba(217, 127, 127, 0.25); color: var(--red); border-color: var(--red); }
+.seat-badge.seat-unknown { background-color: var(--ink-800); color: var(--paper-dim); border-color: var(--ink-600); }
 
-/* extend the summary grid to fit the wider badge column */
+/* extend the summary grid to fit the wider badge column ("12/150" worst case) */
 .course-summary {
-  grid-template-columns: 2.75rem 9rem 1fr auto auto auto;
+  grid-template-columns: 3.75rem 9rem 1fr auto auto auto;
 }
 
 /* ---------- schedule conflicts ---------- */

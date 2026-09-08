@@ -1564,11 +1564,13 @@
     node.querySelector(".course-term-tag").textContent = c._term_label;
 
     const badge = node.querySelector(".seat-badge");
-    const seatInfo = seatStatus(c.open_seats);
+    const seatInfo = seatStatus(c.open_seats, c.max_enrollment);
     badge.classList.add(seatInfo.cls);
     badge.textContent = seatInfo.short;
     badge.title = seatInfo.label;
     badge.setAttribute("aria-label", seatInfo.label);
+    const fill = computeFillInfo(c);
+    if (fill) badge.style.setProperty("--fill", `${Math.max(0, Math.min(100, fill.pct))}%`);
 
     const detail = node.querySelector(".course-detail");
     const descEl = node.querySelector(".course-description");
@@ -1715,12 +1717,15 @@
     return parseInt(matches[matches.length - 1], 10);
   }
 
-  function seatStatus(openSeatsRaw) {
+  function seatStatus(openSeatsRaw, maxEnrollmentRaw) {
     const n = normalizeSeatCount(openSeatsRaw);
-    if (n < 0) return { cls: "seat-full", label: `Over-enrolled by ${Math.abs(n)}`, short: String(n) };
-    if (n === 0) return { cls: "seat-full", label: "0 seats open", short: "0" };
-    if (n <= 3) return { cls: "seat-low", label: `${n} seat${n === 1 ? "" : "s"} left`, short: String(n) };
-    return { cls: "seat-open", label: `${n} seats open`, short: String(n) };
+    const max = parseInt(maxEnrollmentRaw, 10);
+    const hasMax = Number.isFinite(max) && max > 0;
+    const short = hasMax ? `${n}/${max}` : String(n);
+    if (n < 0) return { cls: "seat-full", label: `Over-enrolled by ${Math.abs(n)}${hasMax ? ` (${max - n}/${max} enrolled)` : ""}`, short };
+    if (n === 0) return { cls: "seat-full", label: hasMax ? `0 of ${max} seats open` : "0 seats open", short };
+    if (n <= 3) return { cls: "seat-low", label: hasMax ? `${n} of ${max} seats open` : `${n} seat${n === 1 ? "" : "s"} left`, short };
+    return { cls: "seat-open", label: hasMax ? `${n} of ${max} seats open` : `${n} seats open`, short };
   }
 
   function escapeHtml(s) {

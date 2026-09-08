@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 _site/
 .claude/settings.json
+# local-preview copy of the data folder (see "Running locally" in README)
+webapp/data/
