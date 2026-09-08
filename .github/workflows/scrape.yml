@@ -18,6 +18,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write # to dispatch pages.yml after pushing new data
 
 jobs:
   scrape:
@@ -56,12 +57,29 @@ jobs:
 
       - name: Commit updated data
         if: steps.gate.outputs.run == 'true'
+        id: commit
         run: |
           git config user.name "schedule-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet && echo "No changes." || git commit -m "Update schedules ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update schedules ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger Pages deploy
+        # Pushes made with the default GITHUB_TOKEN deliberately don't fire
+        # other workflows (GitHub's recursion guard), so pages.yml never sees
+        # the bot's data commits. workflow_dispatch is exempt from that guard,
+        # so kick the deploy explicitly whenever new data was actually pushed.
+        if: steps.gate.outputs.run == 'true' && steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main --repo "$GITHUB_REPOSITORY"
 
       - name: Open issue for scrape problems
         if: steps.gate.outputs.run == 'true' && steps.scrape.outputs.had_problems == 'true'
