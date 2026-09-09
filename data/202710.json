@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-09T03:40:02.098527+00:00",
+  "scraped_at": "2026-09-09T10:55:56.045375+00:00",
   "course_count": 777,
   "courses": [
     {
@@ -849,7 +849,7 @@
         }
       ],
       "instructor": "Summer Hills-Bonczyk",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 6 seniors, 4 juniors, 2 sophomores, 2 incoming First-Years",
@@ -3543,7 +3543,7 @@
         }
       ],
       "instructor": "Thomas Varberg",
-      "open_seats": "25",
+      "open_seats": "24",
       "max_enrollment": "70",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4784,7 +4784,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [
         "STAT 112-02 (10186)"
@@ -5132,7 +5132,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "STAT 212-01 (10201)"
@@ -5254,7 +5254,7 @@
         }
       ],
       "instructor": "Lauren Milne",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5398,7 +5398,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5614,7 +5614,7 @@
         }
       ],
       "instructor": "Felix Friedt",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6122,7 +6122,7 @@
         }
       ],
       "instructor": "Kehaulani Fagatele-Folau",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6956,7 +6956,7 @@
         }
       ],
       "instructor": "Michael Prior",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "17",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9535,7 +9535,7 @@
         }
       ],
       "instructor": "Emily First",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9559,7 +9559,7 @@
         }
       ],
       "instructor": "Emily First",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9825,7 +9825,7 @@
         }
       ],
       "instructor": "Ross Shields",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9849,7 +9849,7 @@
         }
       ],
       "instructor": "Francesca Caligiuri Shields",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12358,7 +12358,7 @@
         }
       ],
       "instructor": "Will Mitchell",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13894,7 +13894,7 @@
         }
       ],
       "instructor": "Priscilla Momah",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14158,7 +14158,7 @@
         }
       ],
       "instructor": "Phil Nicolaides",
-      "open_seats": "17",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15158,7 +15158,7 @@
         }
       ],
       "instructor": "Lisa Mueller",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16030,7 +16030,7 @@
         }
       ],
       "instructor": "Emily Twedell",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17766,7 +17766,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [
         "COMP 112-02 (10185)"
@@ -17988,7 +17988,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "COMP 212-01 (10200)"
