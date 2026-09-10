@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-10T03:37:37.578010+00:00",
+  "scraped_at": "2026-09-10T10:52:30.329162+00:00",
   "course_count": 776,
   "courses": [
     {
@@ -726,7 +726,7 @@
         }
       ],
       "instructor": "Arjun Guneratne, Tom Robertson",
-      "open_seats": "23",
+      "open_seats": "24",
       "max_enrollment": "30",
       "crosslistings": [
         "ENVI 294-04 (10012)",
@@ -1762,7 +1762,7 @@
         }
       ],
       "instructor": "Arjun Guneratne, Tom Robertson",
-      "open_seats": "23",
+      "open_seats": "24",
       "max_enrollment": "30",
       "crosslistings": [
         "ANTH 294-01 (10011)",
@@ -4784,7 +4784,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [
         "STAT 112-02 (10186)"
@@ -6516,7 +6516,7 @@
         }
       ],
       "instructor": "Peter Bognanni",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7920,7 +7920,7 @@
         }
       ],
       "instructor": "Arjun Guneratne, Tom Robertson",
-      "open_seats": "23",
+      "open_seats": "24",
       "max_enrollment": "30",
       "crosslistings": [
         "ANTH 294-01 (10011)",
@@ -9239,7 +9239,7 @@
         }
       ],
       "instructor": "Ashley Nepp",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9993,7 +9993,7 @@
         }
       ],
       "instructor": "Amanda Wolfson",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10041,7 +10041,7 @@
         }
       ],
       "instructor": "Francesca Caligiuri Shields",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12406,7 +12406,7 @@
         }
       ],
       "instructor": "Andrew Beveridge",
-      "open_seats": "-1",
+      "open_seats": "-2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14110,7 +14110,7 @@
         }
       ],
       "instructor": "Donnie Brooks",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17742,7 +17742,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [
         "COMP 112-02 (10185)"
@@ -17916,7 +17916,7 @@
         }
       ],
       "instructor": "Lori Ziegelmeier",
-      "open_seats": "-4",
+      "open_seats": "-3",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
@@ -17990,7 +17990,7 @@
         }
       ],
       "instructor": "Alicia Johnson",
-      "open_seats": "-2",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
