@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-11T03:35:53.526544+00:00",
+  "scraped_at": "2026-09-11T10:48:47.511734+00:00",
   "course_count": 776,
   "courses": [
     {
@@ -454,7 +454,7 @@
         }
       ],
       "instructor": "Jenna Rice Rahaim",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "10 seats saved for incoming First-Years",
@@ -675,7 +675,7 @@
         }
       ],
       "instructor": "Jenna Rice Rahaim",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [
         "INTL 258-01 (10881)",
@@ -1297,7 +1297,7 @@
         }
       ],
       "instructor": "Ruthann Godollei",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9141,7 +9141,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11011,7 +11011,7 @@
         }
       ],
       "instructor": "Jenna Rice Rahaim",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [
         "ANTH 249-01 (10798)",
@@ -12166,7 +12166,7 @@
         }
       ],
       "instructor": "Yariana Diaz",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12790,7 +12790,7 @@
         }
       ],
       "instructor": "Jenna Rice Rahaim",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [
         "ANTH 249-01 (10798)",
@@ -14062,7 +14062,7 @@
         }
       ],
       "instructor": "Don DeBoer",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14614,7 +14614,7 @@
         }
       ],
       "instructor": "Sheharyar Imran",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17445,7 +17445,7 @@
         }
       ],
       "instructor": "Blanca Gimeno Escudero",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17493,7 +17493,7 @@
         }
       ],
       "instructor": "Blanca Gimeno Escudero",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
