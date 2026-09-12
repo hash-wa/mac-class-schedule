@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-12T03:40:01.599080+00:00",
+  "scraped_at": "2026-09-12T10:17:59.244162+00:00",
   "course_count": 775,
   "courses": [
     {
@@ -98,7 +98,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1447,7 +1447,7 @@
         }
       ],
       "instructor": "Erik Davis",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "RELI 111-02 (10983)"
@@ -1654,7 +1654,7 @@
         }
       ],
       "instructor": "Xin Yang",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "CHIN 258-01 (10158)",
@@ -2021,7 +2021,7 @@
         }
       ],
       "instructor": "Sarah Boyer",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2069,7 +2069,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4145,7 +4145,7 @@
         }
       ],
       "instructor": "Xin Yang",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 258-01 (10159)",
@@ -11631,7 +11631,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 245-01 (10572)"
@@ -13966,7 +13966,7 @@
         }
       ],
       "instructor": "Nicholas Brundy",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14808,7 +14808,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "LATI 245-01 (10573)"
@@ -16320,7 +16320,7 @@
         }
       ],
       "instructor": "Erik Davis",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "ASIA 113-02 (10987)"
@@ -16891,7 +16891,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "-1",
+      "open_seats": "-2",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "10 seats saved for First-Years",
@@ -17157,7 +17157,7 @@
         }
       ],
       "instructor": "Susana Blanco-Iglesias",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -18795,7 +18795,7 @@
         }
       ],
       "instructor": "Xin Yang",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "CHIN 258-01 (10158)",
