@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-12T10:17:59.244162+00:00",
+  "scraped_at": "2026-09-12T15:12:15.707950+00:00",
   "course_count": 775,
   "courses": [
     {
@@ -4460,7 +4460,7 @@
         }
       ],
       "instructor": "Andrew Overman, James Laine",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "25",
       "crosslistings": [
         "RELI 135-01 (10174)"
@@ -6882,7 +6882,7 @@
         }
       ],
       "instructor": "Peter Bognanni",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9093,7 +9093,7 @@
         }
       ],
       "instructor": "Daniel Trudeau",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9215,7 +9215,7 @@
         }
       ],
       "instructor": "Laura Smith",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15352,7 +15352,7 @@
         }
       ],
       "instructor": "Cari Gillen-O'Neel",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "34",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15448,7 +15448,7 @@
         }
       ],
       "instructor": "Jamie Atkins",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16346,7 +16346,7 @@
         }
       ],
       "instructor": "Andrew Overman, James Laine",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "25",
       "crosslistings": [
         "CLAS 135-01 (10173)"
