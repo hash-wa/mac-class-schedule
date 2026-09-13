@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-13T03:47:33.518283+00:00",
+  "scraped_at": "2026-09-13T11:17:56.636694+00:00",
   "course_count": 775,
   "courses": [
     {
@@ -6244,7 +6244,7 @@
         }
       ],
       "instructor": "Gonzalo Guzmán",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17037,7 +17037,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17421,7 +17421,7 @@
         }
       ],
       "instructor": "Fernando Contreras",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
