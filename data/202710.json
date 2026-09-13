@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-13T11:17:56.636694+00:00",
+  "scraped_at": "2026-09-13T15:48:09.663894+00:00",
   "course_count": 775,
   "courses": [
     {
@@ -478,7 +478,7 @@
         }
       ],
       "instructor": "Jenna Rice Rahaim",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1628,7 +1628,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "JAPA 254-01 (10437)"
@@ -10985,7 +10985,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "RUSS 250-01 (10654)"
@@ -11404,7 +11404,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 254-01 (10438)"
@@ -12526,7 +12526,7 @@
         }
       ],
       "instructor": "Kristin Heysse",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16762,7 +16762,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "INTL 250-01 (10655)"
@@ -17642,7 +17642,7 @@
         }
       ],
       "instructor": "Toni Dorca",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
