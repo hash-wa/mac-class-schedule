@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-14T03:55:34.961006+00:00",
+  "scraped_at": "2026-09-14T12:08:11.497007+00:00",
   "course_count": 775,
   "courses": [
     {
@@ -13870,7 +13870,7 @@
         }
       ],
       "instructor": "Priscilla Momah",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14935,7 +14935,7 @@
         }
       ],
       "instructor": "Patrick Schmidt",
-      "open_seats": "9",
+      "open_seats": "10",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
