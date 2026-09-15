@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-15T03:55:25.465822+00:00",
+  "scraped_at": "2026-09-15T11:19:47.476133+00:00",
   "course_count": 774,
   "courses": [
     {
@@ -3063,7 +3063,7 @@
         }
       ],
       "instructor": "Isabella Nimm",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "9 seats saved for incoming First-Years",
@@ -3135,7 +3135,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm, Isabella Nimm",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "18 seats saved for incoming First-Years",
@@ -5398,7 +5398,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "-2",
+      "open_seats": "-1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12974,7 +12974,7 @@
         }
       ],
       "instructor": "Inga Chinilina",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13779,7 +13779,7 @@
         }
       ],
       "instructor": "Julie Kendle",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13947,7 +13947,7 @@
         }
       ],
       "instructor": "Nicholas Brundy",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
