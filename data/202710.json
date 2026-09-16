@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-16T03:52:56.351225+00:00",
+  "scraped_at": "2026-09-16T11:02:30.852665+00:00",
   "course_count": 774,
   "courses": [
     {
@@ -576,7 +576,7 @@
         }
       ],
       "instructor": "Marianne Milligan",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "LING 225-01 (10460)",
@@ -1371,7 +1371,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "ASIA 327-01 (10053)"
@@ -1813,7 +1813,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "ART 327-01 (10052)"
@@ -5422,7 +5422,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6660,7 +6660,7 @@
         }
       ],
       "instructor": "James Dawes",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7490,7 +7490,7 @@
         }
       ],
       "instructor": "Aila O'Loughlin",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [
         "PHIL 221-01 (10879)"
@@ -7516,7 +7516,7 @@
         }
       ],
       "instructor": "Marianne Milligan",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "LING 225-01 (10460)",
@@ -7543,7 +7543,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "30",
       "crosslistings": [
         "GEOG 232-01 (10333)"
@@ -8049,7 +8049,7 @@
         }
       ],
       "instructor": "Roopali Phadke",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9043,7 +9043,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "30",
       "crosslistings": [
         "ENVI 232-01 (10334)"
@@ -11964,7 +11964,7 @@
         }
       ],
       "instructor": "Marianne Milligan",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "ANTH 225-01 (10461)",
@@ -13655,7 +13655,7 @@
         }
       ],
       "instructor": "Aila O'Loughlin",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 221-01 (10880)"
@@ -14115,7 +14115,7 @@
         }
       ],
       "instructor": "Phil Nicolaides",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
