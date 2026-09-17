@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-17T03:57:29.506633+00:00",
+  "scraped_at": "2026-09-17T11:12:48.355510+00:00",
   "course_count": 774,
   "courses": [
     {
@@ -98,7 +98,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5206,7 +5206,7 @@
         }
       ],
       "instructor": "Bret Jackson",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5398,7 +5398,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7769,7 +7769,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "21",
       "crosslistings": [
         "GERM 274-01 (10383)",
@@ -10070,7 +10070,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "21",
       "crosslistings": [
         "ENVI 274-01 (10384)",
@@ -13731,7 +13731,7 @@
         }
       ],
       "instructor": "Amanda Evans",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13779,7 +13779,7 @@
         }
       ],
       "instructor": "Julie Kendle",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14259,7 +14259,7 @@
         }
       ],
       "instructor": "James Heyman, Tonnis ter Veldhuis",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14283,7 +14283,7 @@
         }
       ],
       "instructor": "Brian Adams",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14889,7 +14889,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "21",
       "crosslistings": [
         "GERM 274-01 (10383)",
@@ -15717,7 +15717,7 @@
         }
       ],
       "instructor": "Erika DeAngelis",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15765,7 +15765,7 @@
         }
       ],
       "instructor": "Grace Vieth",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17801,7 +17801,7 @@
         }
       ],
       "instructor": "Brianna Heggeseth",
-      "open_seats": "-6",
+      "open_seats": "-5",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
