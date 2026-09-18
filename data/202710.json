@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-18T03:44:54.726581+00:00",
+  "scraped_at": "2026-09-18T10:45:59.902746+00:00",
   "course_count": 774,
   "courses": [
     {
@@ -478,7 +478,7 @@
         }
       ],
       "instructor": "Jenna Rice Rahaim",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2093,7 +2093,7 @@
         }
       ],
       "instructor": "Linda Jeanguenin",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "31",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2165,7 +2165,7 @@
         }
       ],
       "instructor": "Joseph Ly",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13779,7 +13779,7 @@
         }
       ],
       "instructor": "Julie Kendle",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14043,7 +14043,7 @@
         }
       ],
       "instructor": "Don DeBoer",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14235,7 +14235,7 @@
         }
       ],
       "instructor": "Michelle Milne",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14307,7 +14307,7 @@
         }
       ],
       "instructor": "Brian Adams",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16994,7 +16994,7 @@
         }
       ],
       "instructor": "Erik Larson",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
