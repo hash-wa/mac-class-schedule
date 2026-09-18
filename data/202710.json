@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-18T10:45:59.902746+00:00",
+  "scraped_at": "2026-09-18T16:01:39.902192+00:00",
   "course_count": 774,
   "courses": [
     {
@@ -46,7 +46,7 @@
         }
       ],
       "instructor": "Daylanne English",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "ENGL 112-01 (10247)"
@@ -196,7 +196,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 256-01 (10400)"
@@ -526,7 +526,7 @@
         }
       ],
       "instructor": "Samantha Blatt",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1097,7 +1097,7 @@
         }
       ],
       "instructor": "Summer Hills-Bonczyk",
-      "open_seats": "-1",
+      "open_seats": "-2",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 5 seniors, 3 juniors, 2 sophomores, 2 incoming First-Years",
@@ -1447,7 +1447,7 @@
         }
       ],
       "instructor": "Erik Davis",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "RELI 111-02 (10983)"
@@ -1707,7 +1707,7 @@
         }
       ],
       "instructor": "Satoko Suzuki",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "JAPA 282-01 (10439)",
@@ -2093,7 +2093,7 @@
         }
       ],
       "instructor": "Linda Jeanguenin",
-      "open_seats": "-1",
+      "open_seats": "-2",
       "max_enrollment": "31",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2141,7 +2141,7 @@
         }
       ],
       "instructor": "Joseph Ly",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "21",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2847,7 +2847,7 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "5",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2967,7 +2967,7 @@
         }
       ],
       "instructor": "Stephen Tereniak",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "15 seats saved for incoming First-Years",
@@ -3183,7 +3183,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "9 seats saved for incoming First-Years",
@@ -3567,7 +3567,7 @@
         }
       ],
       "instructor": "Thomas Varberg",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5278,7 +5278,7 @@
         }
       ],
       "instructor": "Paul Cantrell",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5422,7 +5422,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6022,7 +6022,7 @@
         }
       ],
       "instructor": "Jessica Kiser",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "ECON 494-02 (10239)"
@@ -6048,7 +6048,7 @@
         }
       ],
       "instructor": "Jessica Kiser",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "ECON 494-01 (10238)"
@@ -6122,7 +6122,7 @@
         }
       ],
       "instructor": "Kehaulani Fagatele-Folau",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6418,7 +6418,7 @@
         }
       ],
       "instructor": "Daylanne English",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 112-01 (10248)"
@@ -6690,7 +6690,7 @@
       "seat_reservations": "",
       "description": "This course serves as an introduction to medicine and literature. How have human health and medical practice been represented in literary texts? How does literature and the tools of literary analysis help us to better understand health, sickness, healing, and caring for ourselves and others? Readings will come from a variety of literary traditions, historical periods, and formal genres, including but not limited to classical myth, fairy tales, drama, poetry, short stories, novels, creative non-fiction, and graphic novels. These will be augmented by theoretical, historical, and bioethical texts. This course counts as a foundation course for the English major.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ENGL%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -7498,7 +7498,7 @@
       "seat_reservations": "",
       "description": "The field of environmental ethics sparks a rich line of philosophical inquiry largely focused on the moral status of the natural world and the non-human entities within it. What reasons do we have to give moral consideration to the environment? And what do we mean when we say we have a moral duty toward the environment? Do we have moral duties to individuals within a species, or to species themselves, or to ecosystems, or to...? This course will invite you to reflect on key philosophical works that engage these and related questions. This course relies heavily on scholarship in Indigenous Environmental Justice and depending on the semester, may also include the debate over the ethics of wilderness preservation; global climate change and resource sustainability; rights of water and other so-called ’natural objects’ such as trees, plants, and rocks.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ENVI%27%20num=%27221%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -7894,7 +7894,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "15",
       "crosslistings": [
         "HIST 294-02 (10293)"
@@ -8199,7 +8199,7 @@
         }
       ],
       "instructor": "Andrew Billing",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8247,7 +8247,7 @@
         }
       ],
       "instructor": "Aida Lewis",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8487,7 +8487,7 @@
         }
       ],
       "instructor": "El Hadji Diop",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8559,7 +8559,7 @@
         }
       ],
       "instructor": "Erica Petersen",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9191,7 +9191,7 @@
         }
       ],
       "instructor": "Eric Carter",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9239,7 +9239,7 @@
         }
       ],
       "instructor": "Ashley Nepp",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10395,7 +10395,7 @@
         }
       ],
       "instructor": "Amy Sullivan",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10419,7 +10419,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 256-01 (10401)"
@@ -10521,7 +10521,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "15",
       "crosslistings": [
         "ENVI 294-03 (10292)"
@@ -10918,7 +10918,7 @@
         }
       ],
       "instructor": "Alix Johnson",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10942,7 +10942,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11411,7 +11411,7 @@
         }
       ],
       "instructor": "Satoko Suzuki",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 282-01 (10440)",
@@ -11991,7 +11991,7 @@
         }
       ],
       "instructor": "Satoko Suzuki",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "JAPA 282-01 (10439)",
@@ -13663,7 +13663,7 @@
       "seat_reservations": "",
       "description": "The field of environmental ethics sparks a rich line of philosophical inquiry largely focused on the moral status of the natural world and the non-human entities within it. What reasons do we have to give moral consideration to the environment? And what do we mean when we say we have a moral duty toward the environment? Do we have moral duties to individuals within a species, or to species themselves, or to ecosystems, or to...? This course will invite you to reflect on key philosophical works that engage these and related questions. This course relies heavily on scholarship in Indigenous Environmental Justice and depending on the semester, may also include the debate over the ethics of wilderness preservation; global climate change and resource sustainability; rights of water and other so-called ’natural objects’ such as trees, plants, and rocks.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHIL%27%20num=%27221%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -13713,7 +13713,7 @@
       "seat_reservations": "",
       "description": "There are over 5000 nations of Indigenous peoples globally, including over 574 Native American tribal nations in what we now call the United States. This discussion-based course engages the rich diversity of thought in the tradition of Native American and Indigenous philosophy from both a historical as well as contemporary perspective. We will read from Indigenous philosophers on topics such as land, relations, being, and sovereignty to pose questions such as: What does it mean to be alive? What is the best way to know?, and, How do we live a good life in agreement with our surroundings?",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHIL%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -13995,7 +13995,7 @@
         }
       ],
       "instructor": "Matthew Reed",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14043,7 +14043,7 @@
         }
       ],
       "instructor": "Don DeBoer",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15021,7 +15021,7 @@
       "seat_reservations": "",
       "description": "Varies by semester. Consult the department or class schedule for current listing.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27POLI%27%20num=%27294%27%20sect=%27F1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -16227,7 +16227,7 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "5",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16301,7 +16301,7 @@
         }
       ],
       "instructor": "Erik Davis",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "ASIA 113-02 (10987)"
@@ -16533,7 +16533,7 @@
       "seat_reservations": "",
       "description": "The Christian Right has played a defining role in United States and global politics since at least the 1940s. What is the history of this movement? Who has it involved? What are the key positions of this movement—around gender, sexuality, healthcare, schools, civil rights, capitalism, and empire–and how have they changed or come into conflict with one another? This course approaches these questions through a lens of feminist cultural studies and materialist analysis. The first part of the course will familiarize students with the language of the Christian Right. The second part of the course situates the growth of the American Christian Right within the context of the decolonial, feminist, and Black freedom struggles that were its wider milieu. The third part of the course is attuned to the global geopolitical entanglements from the later Cold War to the present. Assignments include a primary source analysis, two self-scheduled visits to a field site of students’ own choosing, presence at biweekly film screenings (every other Wednesday from 7-9pm starting in week Week 4), and a final essay project on any topic related to the class.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -16872,7 +16872,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "-2",
+      "open_seats": "-1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "10 seats saved for First-Years",
@@ -16896,7 +16896,7 @@
         }
       ],
       "instructor": "Khaldoun Samman",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "6 seats saved for First-Years",
@@ -17258,7 +17258,7 @@
         }
       ],
       "instructor": "Toni Dorca",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17354,7 +17354,7 @@
         }
       ],
       "instructor": "Cynthia Kauffeld",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
