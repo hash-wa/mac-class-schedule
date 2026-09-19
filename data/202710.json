@@ -1,8 +1,8 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-18T20:35:04.692081+00:00",
-  "course_count": 774,
+  "scraped_at": "2026-09-19T03:41:34.297041+00:00",
+  "course_count": 773,
   "courses": [
     {
       "crn": "10721",
@@ -46,7 +46,7 @@
         }
       ],
       "instructor": "Daylanne English",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "ENGL 112-01 (10247)"
@@ -98,7 +98,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1576,7 +1576,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "PHIL 211-01 (10535)"
@@ -2625,7 +2625,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2649,7 +2649,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2943,7 +2943,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "15 seats saved for incoming First-Years",
@@ -2991,7 +2991,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "15 seats saved for incoming First-Years",
@@ -3039,7 +3039,7 @@
         }
       ],
       "instructor": "Isabella Nimm",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "9 seats saved for incoming First-Years",
@@ -3063,7 +3063,7 @@
         }
       ],
       "instructor": "Isabella Nimm",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "9 seats saved for incoming First-Years",
@@ -4810,7 +4810,7 @@
         }
       ],
       "instructor": "Getiria Onsongo",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "24",
       "crosslistings": [
         "STAT 112-03 (10188)"
@@ -6418,7 +6418,7 @@
         }
       ],
       "instructor": "Daylanne English",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 112-01 (10248)"
@@ -6732,7 +6732,7 @@
         }
       ],
       "instructor": "Coral Lumbley",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7569,7 +7569,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 234-01 (10281)"
@@ -8847,7 +8847,7 @@
         }
       ],
       "instructor": "Andrew Billing",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8895,7 +8895,7 @@
         }
       ],
       "instructor": "Daniel Trudeau",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9239,7 +9239,7 @@
         }
       ],
       "instructor": "Ashley Nepp",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10369,7 +10369,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 234-01 (10280)"
@@ -11289,7 +11289,7 @@
         }
       ],
       "instructor": "Ritsuko Larson",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11313,7 +11313,7 @@
         }
       ],
       "instructor": "Kyoshin Sasahara",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12507,7 +12507,7 @@
         }
       ],
       "instructor": "Kristin Heysse",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13579,7 +13579,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 211-01 (10536)"
@@ -13957,30 +13957,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PE%27%20num=%2720%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "10524",
-      "subject": "PE",
-      "subject_name": "Physical Education",
-      "course_number": "23",
-      "section": "01",
-      "title": "Ultimate Frisbee 101",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "2:20 - 3:20 pm",
-          "room": "LEOCTR FIELDHOUSE"
-        }
-      ],
-      "instructor": "Russell Adams, Dina Kountoupes, Jenelle Zumbusch",
-      "open_seats": "30",
-      "max_enrollment": "30",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Whether you are curious about getting into ultimate frisbee or you already are an active player who wants to improve your skills, this course will provide the information that will help you reach your goal. Ultimate 101 will cover all aspects of the game, from the rules and basic drills to more advanced skills and drills for those that already know the sport. There will be both a classroom portion and an on-field portion to this class. Not repeatable for credit.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PE%27%20num=%2723%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "10525",
       "subject": "PE",
       "subject_name": "Physical Education",
@@ -14235,7 +14211,7 @@
         }
       ],
       "instructor": "Michelle Milne",
-      "open_seats": "8",
+      "open_seats": "6",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14307,7 +14283,7 @@
         }
       ],
       "instructor": "Brian Adams",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14595,7 +14571,7 @@
         }
       ],
       "instructor": "Sheharyar Imran",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15501,7 +15477,7 @@
         }
       ],
       "instructor": "Ariel James",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15549,7 +15525,7 @@
         }
       ],
       "instructor": "Steve Guglielmo",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16872,7 +16848,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "-1",
+      "open_seats": "-2",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "10 seats saved for First-Years",
@@ -17749,7 +17725,7 @@
         }
       ],
       "instructor": "Getiria Onsongo",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "24",
       "crosslistings": [
         "COMP 112-03 (10187)"
@@ -17825,7 +17801,7 @@
         }
       ],
       "instructor": "Lori Ziegelmeier",
-      "open_seats": "-1",
+      "open_seats": "-2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
@@ -17921,7 +17897,7 @@
         }
       ],
       "instructor": "Lori Ziegelmeier",
-      "open_seats": "-4",
+      "open_seats": "-3",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
