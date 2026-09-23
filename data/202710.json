@@ -1,8 +1,8 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-22T03:51:58.448445+00:00",
-  "course_count": 773,
+  "scraped_at": "2026-09-23T03:49:55.158758+00:00",
+  "course_count": 772,
   "courses": [
     {
       "crn": "10721",
@@ -268,7 +268,7 @@
         {
           "days": "M",
           "time": "7:00 - 10:00 pm",
-          "room": "HUM 214"
+          "room": "THEATR 205"
         }
       ],
       "instructor": "Kirisitina Sailiata",
@@ -3905,7 +3905,7 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3953,7 +3953,7 @@
         }
       ],
       "instructor": "Ruoxi Song",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12794,7 +12794,7 @@
         {
           "days": "M",
           "time": "7:00 - 10:00 pm",
-          "room": "HUM 214"
+          "room": "THEATR 205"
         }
       ],
       "instructor": "Kirisitina Sailiata",
@@ -13190,7 +13190,7 @@
         }
       ],
       "instructor": "Aaron Isakson",
-      "open_seats": "50",
+      "open_seats": "31",
       "max_enrollment": "50",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13315,7 +13315,7 @@
         }
       ],
       "instructor": "David Milne",
-      "open_seats": "30",
+      "open_seats": "16",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13339,7 +13339,7 @@
         }
       ],
       "instructor": "Peter Hennig",
-      "open_seats": "30",
+      "open_seats": "16",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13363,7 +13363,7 @@
         }
       ],
       "instructor": "Michael Breidenbach",
-      "open_seats": "30",
+      "open_seats": "12",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13387,7 +13387,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "30",
+      "open_seats": "11",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13411,7 +13411,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "70",
+      "open_seats": "36",
       "max_enrollment": "70",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13955,30 +13955,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PE%27%20num=%2720%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "10525",
-      "subject": "PE",
-      "subject_name": "Physical Education",
-      "course_number": "24",
-      "section": "01",
-      "title": "Racquet Sports",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "8:20 - 9:20 am",
-          "room": "LEOCTR FIELDHOUSE"
-        }
-      ],
-      "instructor": "Matthew Reed",
-      "open_seats": "7",
-      "max_enrollment": "12",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course will provide the opportunity to learn the basic rules and strategies for playing the games of racquetball, badminton and pickleball. Throughout the course students will be introduced to the mechanics of the different types of swings and learn a variety of defensive and offensive shots for the different sports. Students will gain an understanding of all the rules of serving for both singles and doubles and will practice several different types of serves. Students will have the opportunity to play singles, doubles, and cutthroat games throughout the semester and will participate in tournament play toward the end of the term. The indoor track will be used for warm-up for our class activities. Graded S/N. Attendance is vital to success of the course. Not repeatable for credit.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PE%27%20num=%2724%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "10526",
@@ -18410,7 +18386,7 @@
         }
       ],
       "instructor": "Wu Chen Khoo",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
