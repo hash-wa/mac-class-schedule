@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-24T03:42:06.958283+00:00",
+  "scraped_at": "2026-09-25T03:58:33.055718+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -4408,7 +4408,7 @@
         {
           "days": "T",
           "time": "10:10 - 11:10 am",
-          "room": "MAIN 410"
+          "room": ""
         }
       ],
       "instructor": "Nanette Goldman",
@@ -5374,7 +5374,7 @@
         }
       ],
       "instructor": "Abby Marsh",
-      "open_seats": "9",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8435,7 +8435,7 @@
         {
           "days": "M W F",
           "time": "9:40 - 10:40 am",
-          "room": "HUM 402"
+          "room": "HUM 409"
         }
       ],
       "instructor": "El Hadji Diop",
@@ -8459,7 +8459,7 @@
         {
           "days": "M W F",
           "time": "10:50 - 11:50 am",
-          "room": "HUM 402"
+          "room": "HUM 409"
         }
       ],
       "instructor": "El Hadji Diop",
@@ -8627,7 +8627,7 @@
         {
           "days": "M W F",
           "time": "9:40 - 10:40 am",
-          "room": "HUM 409"
+          "room": "HUM 402"
         }
       ],
       "instructor": "Claude Cassagne",
@@ -8651,7 +8651,7 @@
         {
           "days": "M W F",
           "time": "10:50 - 11:50 am",
-          "room": "HUM 409"
+          "room": "HUM 402"
         }
       ],
       "instructor": "Claude Cassagne",
@@ -12267,7 +12267,7 @@
         }
       ],
       "instructor": "William Grodzicki",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13190,7 +13190,7 @@
         }
       ],
       "instructor": "Aaron Isakson",
-      "open_seats": "29",
+      "open_seats": "27",
       "max_enrollment": "50",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13387,7 +13387,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13411,7 +13411,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "35",
+      "open_seats": "34",
       "max_enrollment": "70",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14091,7 +14091,7 @@
         }
       ],
       "instructor": "Phil Nicolaides",
-      "open_seats": "11",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17825,7 +17825,7 @@
         }
       ],
       "instructor": "Abby Loe",
-      "open_seats": "-4",
+      "open_seats": "-3",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
