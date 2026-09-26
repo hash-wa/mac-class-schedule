@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-09-25T03:59:09.982026+00:00",
+  "scraped_at": "2026-09-26T04:03:31.340890+00:00",
   "course_count": 707,
   "courses": [
     {
@@ -399,9 +399,9 @@
         "RUSS 294-01 (30614)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
+      "description": "Students in this project-based course will learn about the challenges faced by immigrants navigating the world of work in the U.S, and how people use storytelling about work to create meaning in their lives. In collaboration with the International Institute of Minnesota, an organization based in St. Paul that prepares recently arrived immigrants and refugees for the workplace, students will interview local émigrés from different parts of the world about the first jobs that they had in the U.S., and will make their stories available to the public. Our goal will be to preserve and share these stories in order to encourage public engagement with issues of immigration, labor, and economic justice, and to foster understanding of and compassion for the members of the diverse immigrant communities in the Twin Cities. Another aim of this course will be to help students think through their own ideas about work and potential career paths as they engage with community members who have grappled with these issues. Each week we will discuss shared readings, which will include literature, media articles, and scholarship, and will work together to advance our project. No previous experience or knowledge is required.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "U.S Identities and Differences, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -554,6 +554,26 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27115%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30720",
+      "subject": "ANTH",
+      "subject_name": "Anthropology",
+      "course_number": "223",
+      "section": "01",
+      "title": "Introduction to Archaeology",
+      "meetings": [],
+      "instructor": "",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "CLAS 223-01 (30161)"
+      ],
+      "seat_reservations": "",
+      "description": "This course introduces students to archaeology, the study of the material remains of human culture. Students will explore the history of the discipline and profession, its basic methods and theories, and the political and ethical dimensions of modern archaeological practice. Students learn to examine and interpret evidence using specific examples, from artifacts to sites to regions.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27223%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30015",
@@ -1124,6 +1144,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30721",
+      "subject": "ART",
+      "subject_name": "Art and Art History",
+      "course_number": "350",
+      "section": "01",
+      "title": "The Body and Identity in Later Chinese Art",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Kari Shepherdson-Scott",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [
+        "ASIA 350-01 (30722)"
+      ],
+      "seat_reservations": "",
+      "description": "The development of art and identities in China over the last 400 years has been, literally, revolutionary. From the Manchu rule of the Qing dynasty (1644-1911) and the emergence of the Chinese Republic (1912-1949) to the radical changes at work during the Cultural Revolution (1966-1976) under Mao Zedong and the appearance of complex reactionary artistic voices since the late 1970s, we have seen the dynamic development of modern subjectivities, evolving cultural connoisseurship, ethnic tensions, new definitions of citizenry, and counter-movements led by cynical agitators. Art and design have played a critical role in these developments, functioning as a formal and symbolic language through which communities and notions of personhood could form. This class draws on themes such as gender, sexuality, militarism, ethnicity, and commodity culture to delve into the rich resonance between the representation of the human figure and the expression of diverse identities. Students will not only learn to look closely at and write critically about a variety of media including paintings, calligraphy, prints, films, posters, performance art, and installations, but will also relate this historical cultural production to contemporaneous artistic, social, and political discourses. In the process, we will complicate notions of \"Chinese\" art and \"Chinese\" identity in Asia and on the global stage.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27350%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30039",
       "subject": "ART",
       "subject_name": "Art and Art History",
@@ -1212,30 +1258,6 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27374%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30043",
-      "subject": "ART",
-      "subject_name": "Art and Art History",
-      "course_number": "487",
-      "section": "01",
-      "title": "Art History Methodology Seminar",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course is designed for graduating art history majors and it exposes them to methods and theories of art history, with a particular focus on the transformation of the discipline that began in the 1970s and continues to the present. The course will expose the students to both conventional methods of art historical analysis (style, form, iconography) and to the so called \"revisionist\" perspectives of \"new\" art history. The course surveys a wide range of approaches used in the discipline, beginning with writers such as Vasari, Riegl, Panofsky, Gombrich, and ending with the more recent art historical studies informed by Marxism, feminism, and postmodern and postcolonial theories. Prerequisite(s): Art History seniors only.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Writing WA",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27487%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30044",
@@ -1513,6 +1535,32 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30722",
+      "subject": "ASIA",
+      "subject_name": "Asian Studies",
+      "course_number": "350",
+      "section": "01",
+      "title": "The Body and Identity in Later Chinese Art",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Kari Shepherdson-Scott",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [
+        "ART 350-01 (30721)"
+      ],
+      "seat_reservations": "",
+      "description": "The development of art and identities in China over the last 400 years has been, literally, revolutionary. From the Manchu rule of the Qing dynasty (1644-1911) and the emergence of the Chinese Republic (1912-1949) to the radical changes at work during the Cultural Revolution (1966-1976) under Mao Zedong and the appearance of complex reactionary artistic voices since the late 1970s, we have seen the dynamic development of modern subjectivities, evolving cultural connoisseurship, ethnic tensions, new definitions of citizenry, and counter-movements led by cynical agitators. Art and design have played a critical role in these developments, functioning as a formal and symbolic language through which communities and notions of personhood could form. This class draws on themes such as gender, sexuality, militarism, ethnicity, and commodity culture to delve into the rich resonance between the representation of the human figure and the expression of diverse identities. Students will not only learn to look closely at and write critically about a variety of media including paintings, calligraphy, prints, films, posters, performance art, and installations, but will also relate this historical cultural production to contemporaneous artistic, social, and political discourses. In the process, we will complicate notions of \"Chinese\" art and \"Chinese\" identity in Asia and on the global stage.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27350%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30146",
@@ -4174,7 +4222,9 @@
       "instructor": "",
       "open_seats": "20",
       "max_enrollment": "20",
-      "crosslistings": [],
+      "crosslistings": [
+        "ANTH 223-01 (30720)"
+      ],
       "seat_reservations": "",
       "description": "This course introduces students to archaeology, the study of the material remains of human culture. Students will explore the history of the discipline and profession, its basic methods and theories, and the political and ethical dimensions of modern archaeological practice. Students learn to examine and interpret evidence using specific examples, from artifacts to sites to regions.",
       "distribution_requirements": "Humanities",
@@ -9310,30 +9360,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30395",
-      "subject": "INTL",
-      "subject_name": "International Studies",
-      "course_number": "112",
-      "section": "01",
-      "title": "Intro to International Studies: Globalization, Media, and Technology",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "9:40 - 10:40 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Alix Johnson",
-      "open_seats": "22",
-      "max_enrollment": "22",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "How has the experience of globalization been shaped, defined, and complicated by media? This course centers the role of media and media technologies in exploring how collectivities are formed, differences articulated, and encounters negotiated in an (unevenly) interconnected world. Today we tend to associate globalization with digital media, but from the newspaper reports of foreign correspondents to portrayals of cultural identity on soap operas and sitcoms, media have long informed understandings of the world and our varied places in it. Thinking about, through, and with media artifacts across a range of geographic contexts, we examine and interrogate dynamics of global exchange. Prerequisite(s): Open to first- and second- year students, or permission of instructor.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27112%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30396",
       "subject": "INTL",
       "subject_name": "International Studies",
@@ -9366,8 +9392,8 @@
       "title": "Indigenous Peoples’ Movements in Global Context",
       "meetings": [
         {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
@@ -9583,30 +9609,6 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27380%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30405",
-      "subject": "INTL",
-      "subject_name": "International Studies",
-      "course_number": "482",
-      "section": "01",
-      "title": "Senior Seminar: Afterlives",
-      "meetings": [
-        {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Alix Johnson",
-      "open_seats": "7",
-      "max_enrollment": "7",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "The familiar rhythm of an obsolete industrial order. The disquieting echo of a colonial category. The generation-spanning aspirations of a migration journey. The instinctive reach toward a long-lapsed faith. All of us, always, live amidst afterlives: situations that live on past their purported end points, shaping what comes after in unruly ways. In this course we take up a deceptively simple question: how does the past make itself felt in the present? Following ghosts, ruins, radioactive isotopes, war wounds, data doubles, and other figures of the not-yet-gone, we explore a range of possible answers offered across time, space, and scholarly disciplines. In particular, we interrogate the afterlife as an avenue for thinking through our entanglements, antipathies, and responsibilities as citizens of the world. Another aim is to cultivate considered relations to what came before us, as well as afterlives yet to come. To these ends, students in this course will read a series of full-length monographs while experimenting with a range of research methods for engaging their own local, lived, and intimate afterlives.",
-      "distribution_requirements": "Social science",
-      "gen_ed_requirements": "Internationalism",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27482%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30406",
@@ -15013,9 +15015,9 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "In the twentieth century, political and artistic revolutions in Russia had repercussions far beyond its borders; we can still feel the effects to this day. How do artists respond to and shape historical events? How did writers in twentieth-century Russia transmute fear, violence, and chaos into art? In this course we will consider novels, stories, and poems, as well as paintings, music, and film reflecting upon the Bolshevik revolution, the Stalinist terror, World War II, the Thaw, glasnost and perestroika, and the turmoil of the post-Soviet era. We will become acquainted with major artistic trends including Symbolism, Futurism, and Socialist Realism; and observe how in each case, matters of style went hand in hand with the desire to change the world. Our readings will convey the fantastic schemes of the utopian thinkers at the turn of the century; artists’ responses to and participation in the political, scientific, and sexual experimentation of their time; and the survival of creative expression in the midst of unimaginable hardships. We will discover how and why some cultural figures chose to serve, and others to resist, the state, and what fate had in store for them. We will learn how provocateurs and innovators such as Mayakovsky, Akhmatova, Babel, Zoshchenko, Bulgakov, Solzhenitsyn, Brodsky, Pelevin, and Tolstaya explored the relationship between art and ideology, exile and creativity, laughter and subversion, memory and survival, individual psychology and historical cataclysm. All reading will be in English.",
+      "description": "In times of revolution and repression, Soviet writers and artists turned their work into a forceful means of resistance; dissidents today draw inspiration from these courageous predecessors who risked their lives to speak. In this course, we will explore literature, visual art, music, and films created in Russia and the surrounding region from the Soviet period into the present day. We start with the political and artistic revolutions in the final days of imperial Russia, then move through the eras of the bloody Bolshevik revolution, the repressive Stalinist regime, and the devastation of World War II. Next, we look at the new freedoms of the perestroika era, the fall of the Soviet Union, and Russia under Putin. We will examine cultural texts in their artistic, social, and political contexts, seeking to better understand Russia’s relationship with the West, as well as Russia’s history of authoritarianism and the struggle against it. Studying culture produced in Russia and the region in the Soviet and post-Soviet period will help us to empathize with those who lived through that tumultuous era and kept creative expression alive in the midst of unimaginable hardships. We will also be attentive to the contemporary situation in the wake of Putin’s war of aggression against Ukraine. We will use our course materials to shed light on current events in the post-Soviet sphere, striving to understand how we got here and what hope there might be for the future. All readings and discussion will be in English; no previous knowledge of Russian literature or history is required.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RUSS%27%20num=%27252%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -15039,9 +15041,9 @@
         "AMST 294-02 (30615)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Students in this project-based course will learn about the challenges faced by immigrants navigating the world of work in the U.S, and how people use storytelling about work to create meaning in their lives. In collaboration with the International Institute of Minnesota, an organization based in St. Paul that prepares recently arrived immigrants and refugees for the workplace, students will interview local émigrés from different parts of the world about the first jobs that they had in the U.S., and will make their stories available to the public. Our goal will be to preserve and share these stories in order to encourage public engagement with issues of immigration, labor, and economic justice, and to foster understanding of and compassion for the members of the diverse immigrant communities in the Twin Cities. Another aim of this course will be to help students think through their own ideas about work and potential career paths as they engage with community members who have grappled with these issues. Each week we will discuss shared readings, which will include literature, media articles, and scholarship, and will work together to advance our project. No previous experience or knowledge is required.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RUSS%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -15087,18 +15089,18 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "How does something become accepted as “real”? Why do certain ideas, categories, identities, and institutions seem natural or inevitable, even though they are created and maintained by people? In this course, we will examine how social reality is produced, negotiated, and reproduced through everyday interaction, shared meanings, institutions, and systems of power. We will explore how people create meaning through social interaction and how those meanings become taken for granted as common sense, while learning about various approaches (symbolic interactionism, social constructionism, and the sociology of knowledge) that seek to explain these processes. We will also consider how power shapes whose definitions of reality become accepted, whose experiences are marginalized or challenged, and how seemingly natural categories and practices can change over time. Ultimately, the course invites students to question what appears obvious, examine how it came to be, and consider how social realities might be constructed differently.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30618",
+      "crn": "30717",
       "subject": "SOCI",
       "subject_name": "Sociology",
-      "course_number": "194",
-      "section": "02",
-      "title": "The Old Order is Dying (and the New Cannot be Born)",
+      "course_number": "200",
+      "section": "01",
+      "title": "The Old Order is Dying and the New Cannot Be Born",
       "meetings": [
         {
           "days": "M",
@@ -15111,10 +15113,34 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course, which has no prerequisites, examines the deep structural crisis of the entire edifice of our political and economic system that some call progressive neoliberalism, characterized by a market-based economy wrapped in progressive sounding diversity politics. The course title reflects a predicament described by Antonio Gramsci in the 1930s, but that may be more salient today: \"’the crisis consists precisely in the fact that the old order is dying and the new cannot be born; in this interregnum a great variety of morbid symptoms appear.\" The morbid symptoms of our own old order can be seen in the severe and increasing inequality. The two beneficiaries of this system are (1) those who are at the apex of the system, the so-called 1% and (2) the highly-educated elite professionals, intellectuals, and managerial class, the next 9% and sometimes called the clergy or the secular high priests of the system. The remaining population, largely composed of less educated whites, minorities, blacks, and women are being further and further removed from the rewards of the system. This hyper-inegalitarian system of rule is now experiencing a legitimacy crisis by both the far right and the left, but no true alternatives have yet been proposed to reform or replace it. The far right wants to take us on a path of racial white supremacist rule and further escalate inequalities and prepare us for possibly even a more sinister form of a postcapitalist society. The far left, on the other hand, wants to create a system of radical democracy and respect for nature that has the potential for replacing capitalism with a new historical system based on a more just foundation. This course will identify what was historically in place, capitalism’s distinctive dynamics so that we may better determine what is needed to resolve it. With that in mind, as Nancy Fraser has argued, we need to seek a path forward that leads beyond the current impasse -- through political realignments to societal transformation. We will explore what this capitalist system is, how it functioned historically, where it is now, and what systems may replace it in the future. To cover all that in one course is exciting and may help us think about some possible futures we can begin to imagine and work toward.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27200%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30718",
+      "subject": "SOCI",
+      "subject_name": "Sociology",
+      "course_number": "215",
+      "section": "01",
+      "title": "Collective Memory",
+      "meetings": [
+        {
+          "days": "W",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Christina Hughes",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27215%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30619",
@@ -15224,8 +15250,8 @@
       "title": "Indigenous Peoples’ Movements in Global Context",
       "meetings": [
         {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
@@ -15242,35 +15268,11 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27280%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30627",
+      "crn": "30719",
       "subject": "SOCI",
       "subject_name": "Sociology",
-      "course_number": "294",
+      "course_number": "284",
       "section": "01",
-      "title": "Collective Memory",
-      "meetings": [
-        {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Christina Hughes",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30628",
-      "subject": "SOCI",
-      "subject_name": "Sociology",
-      "course_number": "294",
-      "section": "02",
       "title": "Suburbanization",
       "meetings": [
         {
@@ -15284,10 +15286,10 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27284%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30629",
@@ -15298,8 +15300,8 @@
       "title": "Law and Society",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],

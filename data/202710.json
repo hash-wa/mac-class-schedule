@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-25T03:58:33.055718+00:00",
+  "scraped_at": "2026-09-26T04:02:57.775543+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -4460,7 +4460,7 @@
         }
       ],
       "instructor": "Andrew Overman, James Laine",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "25",
       "crosslistings": [
         "RELI 135-01 (10174)"
@@ -12123,7 +12123,7 @@
         }
       ],
       "instructor": "Yariana Diaz",
-      "open_seats": "-3",
+      "open_seats": "-2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12219,7 +12219,7 @@
         }
       ],
       "instructor": "Curtis Balz",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14019,7 +14019,7 @@
         }
       ],
       "instructor": "Don DeBoer",
-      "open_seats": "1",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14547,7 +14547,7 @@
         }
       ],
       "instructor": "Sheharyar Imran",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14595,7 +14595,7 @@
         }
       ],
       "instructor": "Timothy Collins",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16303,7 +16303,7 @@
         }
       ],
       "instructor": "Andrew Overman, James Laine",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "25",
       "crosslistings": [
         "CLAS 135-01 (10173)"
@@ -17402,7 +17402,7 @@
         }
       ],
       "instructor": "Blanca Gimeno Escudero",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
