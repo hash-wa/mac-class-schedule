@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-09-28T04:17:55.340101+00:00",
+  "scraped_at": "2026-09-29T04:49:10.033476+00:00",
   "course_count": 707,
   "courses": [
     {
@@ -374,7 +374,7 @@
       ],
       "seat_reservations": "",
       "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -691,8 +691,8 @@
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -1166,7 +1166,7 @@
       "seat_reservations": "",
       "description": "The development of art and identities in China over the last 400 years has been, literally, revolutionary. From the Manchu rule of the Qing dynasty (1644-1911) and the emergence of the Chinese Republic (1912-1949) to the radical changes at work during the Cultural Revolution (1966-1976) under Mao Zedong and the appearance of complex reactionary artistic voices since the late 1970s, we have seen the dynamic development of modern subjectivities, evolving cultural connoisseurship, ethnic tensions, new definitions of citizenry, and counter-movements led by cynical agitators. Art and design have played a critical role in these developments, functioning as a formal and symbolic language through which communities and notions of personhood could form. This class draws on themes such as gender, sexuality, militarism, ethnicity, and commodity culture to delve into the rich resonance between the representation of the human figure and the expression of diverse identities. Students will not only learn to look closely at and write critically about a variety of media including paintings, calligraphy, prints, films, posters, performance art, and installations, but will also relate this historical cultural production to contemporaneous artistic, social, and political discourses. In the process, we will complicate notions of \"Chinese\" art and \"Chinese\" identity in Asia and on the global stage.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Internationalism",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27350%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -1302,8 +1302,8 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course introduces students to foundational legends, epics, novels, and poetry from across Asia. Studying core texts from the Arab World, India, China, Korea, and Japan will provide windows into the ancient cultures that produced these works. We will also examine these tales’ enduring power today. We will analyze the many changes these tales underwent as they spread across Asia and appeared in diverse media including visual arts and film. Texts include: The Journey to the West, The Arabian Nights, The Tale of Genji, and The Ramayana.",
-      "distribution_requirements": "",
+      "description": "This course introduces students to foundational legends, epics, novels, and poetry from across Asia. Studying core texts from India, China, Vietnam, Korea, and Japan provides windows into the ancient cultures that produced these works. We will also examine these tales’ enduring power today. We will analyze the many changes these tales underwent as they spread across Asia and appeared in diverse media including visual arts and film. Texts include: The Journey to the West, The Tale of Genji, The Tale of Kieu, and The Ramayana.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -1424,8 +1424,8 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "CHIN 251-01 (30139)",
         "EDUC 251-01 (30141)"
@@ -1559,7 +1559,7 @@
       "seat_reservations": "",
       "description": "The development of art and identities in China over the last 400 years has been, literally, revolutionary. From the Manchu rule of the Qing dynasty (1644-1911) and the emergence of the Chinese Republic (1912-1949) to the radical changes at work during the Cultural Revolution (1966-1976) under Mao Zedong and the appearance of complex reactionary artistic voices since the late 1970s, we have seen the dynamic development of modern subjectivities, evolving cultural connoisseurship, ethnic tensions, new definitions of citizenry, and counter-movements led by cynical agitators. Art and design have played a critical role in these developments, functioning as a formal and symbolic language through which communities and notions of personhood could form. This class draws on themes such as gender, sexuality, militarism, ethnicity, and commodity culture to delve into the rich resonance between the representation of the human figure and the expression of diverse identities. Students will not only learn to look closely at and write critically about a variety of media including paintings, calligraphy, prints, films, posters, performance art, and installations, but will also relate this historical cultural production to contemporaneous artistic, social, and political discourses. In the process, we will complicate notions of \"Chinese\" art and \"Chinese\" identity in Asia and on the global stage.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Internationalism",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27350%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -3745,8 +3745,8 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "ASIA 251-01 (30140)",
         "EDUC 251-01 (30141)"
@@ -3932,7 +3932,7 @@
       "title": "Greek Myths",
       "meetings": [
         {
-          "days": "T R",
+          "days": "M W",
           "time": "8:00 - 9:30 am",
           "room": ""
         }
@@ -5602,8 +5602,8 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "CHIN 251-01 (30139)",
         "ASIA 251-01 (30140)"
@@ -5716,7 +5716,7 @@
       "subject_name": "English and Creative Writing",
       "course_number": "105",
       "section": "01",
-      "title": "LGBTQ2S + Literature in America LGBTQ2S + Literature in America",
+      "title": "LGBTQ2S + Literature in America",
       "meetings": [
         {
           "days": "T R",

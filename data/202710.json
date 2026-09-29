@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-28T04:17:20.272547+00:00",
+  "scraped_at": "2026-09-29T04:48:34.133411+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -4268,7 +4268,7 @@
         }
       ],
       "instructor": "Brian Lush",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4292,7 +4292,7 @@
         }
       ],
       "instructor": "Brian Lush",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4510,7 +4510,7 @@
         }
       ],
       "instructor": "Beth Severy-Hoven",
-      "open_seats": "9",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13315,7 +13315,7 @@
         }
       ],
       "instructor": "David Milne",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13339,7 +13339,7 @@
         }
       ],
       "instructor": "Peter Hennig",
-      "open_seats": "16",
+      "open_seats": "17",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13971,7 +13971,7 @@
         }
       ],
       "instructor": "Matthew Reed",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
