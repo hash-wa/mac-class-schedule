@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-09-30T04:34:25.892857+00:00",
+  "scraped_at": "2026-10-01T04:45:54.305874+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -13190,7 +13190,7 @@
         }
       ],
       "instructor": "Aaron Isakson",
-      "open_seats": "27",
+      "open_seats": "28",
       "max_enrollment": "50",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13339,7 +13339,7 @@
         }
       ],
       "instructor": "Peter Hennig",
-      "open_seats": "17",
+      "open_seats": "16",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13363,7 +13363,7 @@
         }
       ],
       "instructor": "Michael Breidenbach",
-      "open_seats": "12",
+      "open_seats": "10",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13387,7 +13387,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13411,7 +13411,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "34",
+      "open_seats": "33",
       "max_enrollment": "70",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13827,7 +13827,7 @@
         }
       ],
       "instructor": "Sara Augustin",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13851,7 +13851,7 @@
         }
       ],
       "instructor": "Priscilla Momah",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
