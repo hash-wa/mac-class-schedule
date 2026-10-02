@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-01T04:45:54.305874+00:00",
+  "scraped_at": "2026-10-02T04:37:32.245177+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -2021,7 +2021,7 @@
         }
       ],
       "instructor": "Sarah Boyer",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2069,7 +2069,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17354,7 +17354,7 @@
         }
       ],
       "instructor": "Fernando Contreras",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",

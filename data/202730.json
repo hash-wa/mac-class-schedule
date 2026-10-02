@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-01T04:46:28.788428+00:00",
-  "course_count": 707,
+  "scraped_at": "2026-10-02T04:38:07.738333+00:00",
+  "course_count": 708,
   "courses": [
     {
       "crn": "30678",
@@ -6659,8 +6659,8 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "25",
+      "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
         "LATI 239-01 (30314)"
@@ -6869,7 +6869,7 @@
       "seat_reservations": "",
       "description": "This course introduces students to Rural Geography, a sub-discipline within Geography. Using a sustainable development framework this course emphasizes the linkages between human and physical landscapes through the evaluation of landuse and community change in rural areas throughout the US. We will explore the implications of demographic (including migration and immigration), economic, cultural, and environmental changes for rural environs using several case studies from across the US and Western Europe, including an overnight field trip to northern Minnesota and Wisconsin. Rural community strategies for adapting to and accommodating competing demands for water and landuse will be considered, including pressure for new housing developments, recreation opportunities (boating, fishing, hiking, biking), and conservation needs. Students will be exposed to theoretical and empirical approaches to rural development in different regional contexts, as well as problems associated with these development paradigms. We will explore the rapidly changing rural environments in a developed world context in order to deepen our understanding of the interconnectedness of human and physical systems more broadly.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27375%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -7709,8 +7709,8 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "25",
+      "max_enrollment": "25",
       "crosslistings": [
         "ENVI 239-01 (30313)",
         "LATI 239-01 (30314)"
@@ -7788,7 +7788,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course focuses on the statistical methods that geographers use to describe and analyze places and themes. Students will learn both descriptive and inferential statistical methods for use in geographical research, including exploratory data analysis techniques, spatial statistics, geographic sampling, hypothesis testing, and regression analysis. The course provides students with experience in the application of statistical methods to spatial problems through the use of statistical software. Students will also learn to evaluate and develop statistical research designs, including preparation and presentation of an original research project.",
+      "description": "This course focuses on the statistical methods that geographers use to describe and analyze places and themes. Students will learn both descriptive and inferential statistical methods for use in geographical research, including exploratory data analysis techniques, spatial statistics, geographic sampling, hypothesis testing, and regression analysis. The course provides students with experience in the application of statistical methods to spatial problems through the use of statistical software. Students will also learn to evaluate and develop statistical research designs, including preparation and presentation of an original research project. Prerequisite(s): Geography Major or permission of the instructor",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q3",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOG%27%20num=%27278%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -7890,7 +7890,7 @@
       "seat_reservations": "",
       "description": "This course introduces students to the geographic study of development around the world, with a particular emphasis on the Global South. The geographic approach emphasizes: the highly uneven nature of development; processes that link and differentiate various areas of the world; connections between development and the natural resource base; and the power relations inherent in development discourse. The course has three main sections: an introduction to development theory; an investigation of various development themes; and an intense exploration of what works and what doesn’t in development practice. While much of the development literature has focused on failure, a specific aim of this course will be to uncover and interrogate success stories.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOG%27%20num=%27363%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -7964,7 +7964,7 @@
       "seat_reservations": "",
       "description": "This course introduces students to Rural Geography, a sub-discipline within Geography. Using a sustainable development framework this course emphasizes the linkages between human and physical landscapes through the evaluation of landuse and community change in rural areas throughout the US and other Global North countries. We will explore the implications of demographic (including migration and immigration), economic, cultural, and environmental changes for rural environs using several case studies from across the US and Western Europe, including an overnight field trip to northern Minnesota and Wisconsin. Rural community strategies for adapting to and accommodating competing demands for water and landuse will be considered, including pressure for new housing developments, recreation opportunities (boating, fishing, hiking, biking), and conservation needs. Students will be exposed to theoretical and empirical approaches to rural development in different regional contexts, as well as problems associated with these development paradigms. We will explore the rapidly changing rural environments in a Global North context in order to deepen our understanding of the interconnectedness of human and physical systems more broadly.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOG%27%20num=%27375%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -9264,6 +9264,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27376%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30723",
+      "subject": "INTD",
+      "subject_name": "Interdisciplinary Courses",
+      "course_number": "225",
+      "section": "01",
+      "title": "Epidemiology",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Elisabeth Figueroa",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "Quantitative Thinking Q3",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTD%27%20num=%27225%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30391",
       "subject": "INTD",
       "subject_name": "Interdisciplinary Courses",
@@ -10038,8 +10062,8 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "25",
+      "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
         "ENVI 23-01 (30313)"
@@ -10242,7 +10266,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
@@ -10266,7 +10290,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "8:00 - 9:30 am",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -10290,7 +10314,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -10357,11 +10381,11 @@
       "subject_name": "Linguistics",
       "course_number": "294",
       "section": "01",
-      "title": "Discourse",
+      "title": "Language in the Landscape",
       "meetings": [
         {
-          "days": "M",
-          "time": "7:00 - 10:00 pm",
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
           "room": ""
         }
       ],
@@ -10385,7 +10409,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "12:00 - 1:00 pm",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
@@ -10460,7 +10484,7 @@
       "title": "Senior Seminar",
       "meetings": [
         {
-          "days": "M",
+          "days": "W",
           "time": "7:00 - 10:00 pm",
           "room": ""
         }
