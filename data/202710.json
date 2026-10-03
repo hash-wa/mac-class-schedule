@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-02T04:37:32.245177+00:00",
+  "scraped_at": "2026-10-03T04:19:48.179126+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -4340,7 +4340,7 @@
         }
       ],
       "instructor": "Haci Gündüz",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4364,7 +4364,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5594,7 +5594,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course explores the theoretical foundations and empirical realities of international trade flows, commercial policies (tariffs, quotas, etc.) and international finance. The course emphasizes the welfare implications of international trade and commercial policies and links these to discussion of disputes over international trade agreements. The international finance portion of the course covers the foreign exchange market, balance of payments analysis and an introduction to open economy macroeconomics. Recommended for students majoring in international studies. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "description": "This course explores the theoretical foundations and empirical realities of international trade flows, commercial policies (tariffs, quotas, etc.) and international finance. The course emphasizes the welfare implications of international trade and commercial policies and links these to discussion of disputes over international trade agreements. The international finance portion of the course covers the foreign exchange market and the determination of exchange rates in the short run and long run. Recommended for students majoring in international studies. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ECON%27%20num=%27221%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5618,7 +5618,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course explores the theoretical foundations and empirical realities of international trade flows, commercial policies (tariffs, quotas, etc.) and international finance. The course emphasizes the welfare implications of international trade and commercial policies and links these to discussion of disputes over international trade agreements. The international finance portion of the course covers the foreign exchange market, balance of payments analysis and an introduction to open economy macroeconomics. Recommended for students majoring in international studies. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "description": "This course explores the theoretical foundations and empirical realities of international trade flows, commercial policies (tariffs, quotas, etc.) and international finance. The course emphasizes the welfare implications of international trade and commercial policies and links these to discussion of disputes over international trade agreements. The international finance portion of the course covers the foreign exchange market and the determination of exchange rates in the short run and long run. Recommended for students majoring in international studies. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ECON%27%20num=%27221%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5978,7 +5978,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "An honors seminar to enhance the senior capstone requirement. This course counts as a Group E elective. It is a capstone course. Prerequisite(s): Permission of instructor required.",
+      "description": "The Economics Honors Program consists of two parts. In the Fall semester, you participate in the Honors Seminar. Here, we work intensively as a group to advance and develop a draft of your thesis. The purpose of this class is to learn about the research development process and to provide peer feedback on your drafts. You define the nature of each of your assignments in the first week and this will lay the foundation for your \"contract\" for the class. Your grade for the honors seminar will be determined by both the honors seminar instructor and your faculty honors advisor. In the second part of the Honors program (Spring semester) you will work exclusively with your advisor to complete the work that you started in the seminar. This effort will culminate in the presentation of your honors thesis in April at the Economics Honors Day. While many Honors projects are empirical in nature, not all are. We will take a nimble approach to assignments in this class to accommodate all project types. This course counts as a Group E elective and a capstone. Prerequisite(s): Permission of instructor required.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ECON%27%20num=%27444%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -10199,7 +10199,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "",
+      "description": "History 138 is an introductory course focused on African-American history and the places it inspired. We will examine the ideological, political, economic, and cultural make-up of the Black architectural traditions in the United States. The basic themes of this course will include: Black geographies; historiography; visual art and design; African-American literature; the spatial revolution; and Afrofuturism.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27HIST%27%20num=%27138%27%20sect=%27F1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -10223,7 +10223,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "",
+      "description": "History 139 is an introductory course focused on African-American history and the music it inspired. We will examine the ideological, political, economic, and cultural make-up of the Black musical traditions in the United States. The basic themes of this course will include: musicology; historiography; visual art and design; Gospel traditions; Blues Legacies; the Jazz revolution; and Hip Hop transformations.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27HIST%27%20num=%27139%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -10824,7 +10824,7 @@
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "One of the most significant trends of the current era has been globalization: the shrinking of distances, the greater interpenetration of the world’s peoples, and the rise, perhaps, of a so-called global culture. Yet it is too simple to say, \"it’s all a big mix,\" for the questions of how the mixing is done, and who mixes, are complex. The study of literature illuminates these questions. By reading important recent texts, this course tackles \"world\" questions: what does it mean to be from a certain place? what is a culture? and who are we in it? We’ll work to link our own personal readings with the texts in dialogue with the world. Texts will be drawn from U.S. multicultural, \"world,\" and travel literature, and rich theoretical readings. Open to first- and second-year students, or permission of the instructor. Prerequisite(s): Open only to First Year students and rising sophomores.",
+      "description": "One of the most significant trends of the current era has been globalization: the shrinking of distances, the greater interpenetration of the world’s peoples, and the rise, perhaps, of a so-called global culture. Yet it is too simple to say, \"it’s all a big mix,\" for the questions of how the mixing is done, and who mixes, are complex. The study of literature illuminates these questions. By reading important recent texts, this course tackles \"world\" questions: what does it mean to be from a certain place? what is a culture? and who are we in it? We’ll work to link our own personal readings with the texts in dialogue with the world. Texts will be drawn from U.S. multicultural, \"world,\" and travel literature, and rich theoretical readings. Open to first- and second-year students, or permission of the instructor.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27INTL%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -10848,7 +10848,7 @@
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "How has the experience of globalization been shaped, defined, and complicated by media? This course centers the role of media and media technologies in exploring how collectivities are formed, differences articulated, and encounters negotiated in an (unevenly) interconnected world. Today we tend to associate globalization with digital media, but from the newspaper reports of foreign correspondents to portrayals of cultural identity on soap operas and sitcoms, media have long informed understandings of the world and our varied places in it. Thinking about, through, and with media artifacts across a range of geographic contexts, we examine and interrogate dynamics of global exchange. Prerequisite(s): Open to first- and second- year students, or permission of instructor.",
+      "description": "How has the experience of globalization been shaped, defined, and complicated by media? This course centers the role of media and media technologies in exploring how collectivities are formed, differences articulated, and encounters negotiated in an (unevenly) interconnected world. Today we tend to associate globalization with digital media, but from the newspaper reports of foreign correspondents to portrayals of cultural identity on soap operas and sitcoms, media have long informed understandings of the world and our varied places in it. Thinking about, through, and with media artifacts across a range of geographic contexts, we examine and interrogate dynamics of global exchange. Open to first- and second-year students, or permission of the instructor.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27INTL%27%20num=%27112%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -11894,7 +11894,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "All languages have structure, and syntax is the study of how language users combine words into meaningful phrases, sentences, and conversations. The world’s languages vary enormously in how they express events and describe situations, and in this class, you will learn about the many different ways in which syntax makes this communication possible. We will explore this syntactic diversity by going hands-on with real data from a variety of languages - including specific languages of your choice. Prerequisite(s): LING 100",
+      "description": "All languages have structure, and syntax is the study of how language users combine words into meaningful phrases, sentences, and conversations. The world’s languages vary enormously in how they express events and describe situations, and in this class, you will learn about the many different ways in which their structures make this communication possible. We will explore this syntactic diversity by going hands-on with real data from a variety of languages - including specific languages of your choice.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27LING%27%20num=%27200%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -12055,7 +12055,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "The first prerequisite to understanding a linguistic message is the ability to decipher its code. This course is training in the decoding of grammar. Through practice in problem-solving, you will develop expertise in the grammatical systems of a wide sample of the world’s language types. Prerequisite(s): LING 100 - Introduction to Linguistics, LING 104 - Sounds of the World’s Languages, plus one of: LING 200 - Syntax or LING 205 - Phonology.",
+      "description": "This course offers a hands-on introduction to the essential techniques and ethical considerations involved in linguistic fieldwork. In the first half of the class, you’ll first build a strong foundation by exploring methodologies for documenting and analyzing diverse language structures, learning practical elicitation strategies, refining your linguistic analysis skills across phonology, morphology, syntax, and semantics, etc. examining the ethical responsibilities of linguists, and gaining insights into linguistic typology. The second half of the semester provides an opportunity to collaboratively conduct fieldwork with a speaker of another language who will join our class, allowing you to design elicitation sessions, and develop your analytical abilities. The course will introduce you to the skills and ethical awareness necessary to contribute meaningfully to the study and documentation of the world’s languages. Prerequisite(s): LING 100 - Introduction to Linguistics, LING 104 - Sounds of the World’s Languages, plus one of: LING 200 - Structures of the World’s Languages or LING 205 - Phonology.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27LING%27%20num=%27300%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14095,7 +14095,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is for individuals interested in learning the fundamentals for playing and coaching football. Students will learn the skills and techniques that are needed for each position on the field. Students will also learn defensive, offensive, and special team philosophies and schemes. This course will mainly be spent in the classroom, with some time spent on the football field for demonstrations and observation of practice. Not repeatable for credit.",
+      "description": "This course is intended to help novice football fans understand the strategies and intricacies of the game at a higher level. Each Monday evening, we will discuss different elements of gameplay, offensive/defensive schemes, and fundamental techniques... all while live-streaming the first half of that week’s Monday Night Football game! We will break down the games as we watch them and use commercial breaks for discussion and analysis. This course will be spent in the classroom, but you will learn some basic fundamentals like how to throw, catch, and tackle. If you want to become a more educated fan (or just beat your friends in Madden) this is the class for you!",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PE%27%20num=%2770%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14215,7 +14215,7 @@
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 221. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
+      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 126. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27226%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14239,7 +14239,7 @@
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 221. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
+      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 126. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27226%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14263,7 +14263,7 @@
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 221. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
+      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 126. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27226%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14287,7 +14287,7 @@
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 221. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
+      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 126. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27226%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14311,7 +14311,7 @@
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 221. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
+      "description": "A study of motion, including Newton’s Law of Motion, conservation of energy and momentum, rotational kinematics and dynamics, oscillations, waves in elastic media and thermal properties of matter. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 126. Prerequisite(s): Concurrent or previous registration in MATH 135 or MATH 137; or a 4 or 5 on the Advanced Placement AB or BC Calculus exam.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27226%27%20sect=%27L3%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14479,7 +14479,7 @@
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "The course rigorously covers many fundamental concepts of non-relativistic quantum mechanics, including the Heisenberg uncertainty principle and Pauli exclusion principle, single- and multi-particle stationary states in one, two, and three dimensions, and quantized angular momentum and spin. Schrodinger equation solutions for atomic and nuclear systems are studied, using differential equation, matrix, and perturbation techniques. Three lectures, 1 one-hour laboratory per week. Prerequisite(s): PHYS 370",
+      "description": "The course rigorously covers many fundamental concepts of non-relativistic quantum mechanics, including the Heisenberg uncertainty principle and Pauli exclusion principle, single- and multi-particle stationary states in one, two, and three dimensions, and quantized angular momentum and spin. Schrodinger equation solutions for atomic and nuclear systems are studied, using differential equation, matrix, and perturbation techniques. Three lectures, 1 one-hour laboratory per week. Prerequisite(s): PHYS 370 and MATH 236",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27481%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14503,7 +14503,7 @@
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "The course rigorously covers many fundamental concepts of non-relativistic quantum mechanics, including the Heisenberg uncertainty principle and Pauli exclusion principle, single- and multi-particle stationary states in one, two, and three dimensions, and quantized angular momentum and spin. Schrodinger equation solutions for atomic and nuclear systems are studied, using differential equation, matrix, and perturbation techniques. Three lectures, 1 one-hour laboratory per week. Prerequisite(s): PHYS 370",
+      "description": "The course rigorously covers many fundamental concepts of non-relativistic quantum mechanics, including the Heisenberg uncertainty principle and Pauli exclusion principle, single- and multi-particle stationary states in one, two, and three dimensions, and quantized angular momentum and spin. Schrodinger equation solutions for atomic and nuclear systems are studied, using differential equation, matrix, and perturbation techniques. Three lectures, 1 one-hour laboratory per week. Prerequisite(s): PHYS 370 and MATH 236",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PHYS%27%20num=%27481%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15721,7 +15721,7 @@
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course examines the experiences, causes, and treatments of the major forms of distress and disorder codified in the Diagnostic and Statistical Manual (DSM), including schizophrenia, mood disorders, anxiety disorders, dissociative disorders, stress disorders, and personality disorders. We critically evaluate theories and research derived from biological, genetic, psychological, interpersonal, and social-cultural perspectives. Group B course. Prerequisite(s): PSYC 100 or PSYC 180",
+      "description": "This course examines the experiences, causes, and treatments of the major forms of distress and disorder codified in the Diagnostic and Statistical Manual (DSM), including schizophrenia, mood disorders, anxiety disorders, dissociative disorders, stress disorders, and personality disorders. We critically evaluate theories and research derived from biological, genetic, psychological, interpersonal, and social-cultural perspectives. Group B course. Prerequisite(s): PSYC 100",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27PSYC%27%20num=%27252%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
