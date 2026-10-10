@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-09T05:08:09.480025+00:00",
+  "scraped_at": "2026-10-10T04:53:45.314407+00:00",
   "course_count": 710,
   "courses": [
     {
@@ -8712,7 +8712,7 @@
       "seat_reservations": "",
       "description": "All readings and class taught in English; no pre-knowledge required. In this course we shall examine the relation of religion to both capital and the modern forms of political power (what Michel Foucault termed biopolitics or biopower), as well as the biopolitical formations of race and racism as means for sustaining power-while discovering the enduring pertinence of Marx’s work in theorizing the above issues. Biopower emerges gradually in secular capitalist modernity as a form of power that legitimizes itself not through its right to \"take life\" (as in traditional forms of sovereignty) but through its obligation to protect and enhance life. Yet, albeit \"secular,\" biopower is a form of \"pastoral power\" (Foucault). We shall explore: the interconnectedness of modern biopower and religion; Marx’s critique of the dominant (Enlightenment) critique of religion and his thesis that the secular state presupposes religion; the colonial and racial constructions of religion; racial capitalism; the biopolitical constructions of race in its relation to social class and other forms of domination; and anti-racist criticisms of both Foucault and Marx.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GERM%27%20num=%27278%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -11306,7 +11306,7 @@
       "seat_reservations": "",
       "description": "Taught in English; there is an optional German component for those who want to have the course count toward their German-taught courses. In this case, students must do the reading and writing assignments and some of their oral presentations in German.In this course we focus on the exchanges and influences among French, German, and American cinematographers within the genre of road movies. We begin with a couple of 1940s-1950 American films that cut across the genres of road movie and film-noir and had an impact on the French nouvelle-vague director Jean-Luc Godard, whose films, in turn, inspired American road movies during their acme in the 1960s-1970s (Dennis Hopper, Bob Rafelson). We shall then turn to the German director Wim Wenders to focus on the relation of his 1970s-1980s road movies to both the German literary canon and American cinematography, notably Jim Jarmusch. The course will conclude with the German director of Turkish descent, Fatih Akin, who complicates the above exchanges by intertwining them with the significant German-Turkish cultural exchange. Students will gain insight into film as an aesthetic, ideological, and political medium, and into specifics of the culture of the countries involved. No pre-knowledge required; appropriate for all students.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27266%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -11334,7 +11334,7 @@
       "seat_reservations": "",
       "description": "All readings and class taught in English; no pre-knowledge required. In this course we shall examine the relation of religion to both capital and the modern forms of political power (what Michel Foucault termed biopolitics or biopower), as well as the biopolitical formations of race and racism as means for sustaining power-while discovering the enduring pertinence of Marx’s work in theorizing the above issues. Biopower emerges gradually in secular capitalist modernity as a form of power that legitimizes itself not through its right to \"take life\" (as in traditional forms of sovereignty) but through its obligation to protect and enhance life. Yet, albeit \"secular,\" biopower is a form of \"pastoral power\" (Foucault). We shall explore: the interconnectedness of modern biopower and religion; Marx’s critique of the dominant (Enlightenment) critique of religion and his thesis that the secular state presupposes religion; the colonial and racial constructions of religion; racial capitalism; the biopolitical constructions of race in its relation to social class and other forms of domination; and anti-racist criticisms of both Foucault and Marx.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27278%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -13435,7 +13435,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course will equip you with the skills and intuition to think about politics in a more critical and organized way. You will practice the scientific method - identifying a problem worthy of study, developing testable hypotheses, designing a research strategy, gathering data, analyzing data, and interpreting your results - and contemplate the philosophical conundrums that underlie our efforts to describe, explain, and interpret complex phenomena. Empirical Methods: The department requires its majors to take one course in empirical research methodology before their senior year. In addition to this course, there are a number of other courses that fulfill this requirement, including: POLI 272, SOCI 269, SOCI 270, SOCI 275. In some cases, research methods courses taken in other social science disciplines may be used to fulfill this requirement following approval by the political science department chair.",
+      "description": "This course will equip you with the skills and intuition to think about politics in a more critical and organized way. You will practice the scientific method - identifying a problem worthy of study, developing testable hypotheses, designing a research strategy, gathering data, analyzing data, and interpreting your results - and contemplate the philosophical conundrums that underlie our efforts to describe, explain, and interpret complex phenomena.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Quantitative Thinking Q3",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27269%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13465,7 +13465,7 @@
       "seat_reservations": "",
       "description": "All readings and class taught in English; no pre-knowledge required. In this course we shall examine the relation of religion to both capital and the modern forms of political power (what Michel Foucault termed biopolitics or biopower), as well as the biopolitical formations of race and racism as means for sustaining power-while discovering the enduring pertinence of Marx’s work in theorizing the above issues. Biopower emerges gradually in secular capitalist modernity as a form of power that legitimizes itself not through its right to \"take life\" (as in traditional forms of sovereignty) but through its obligation to protect and enhance life. Yet, albeit \"secular,\" biopower is a form of \"pastoral power\" (Foucault). We shall explore: the interconnectedness of modern biopower and religion; Marx’s critique of the dominant (Enlightenment) critique of religion and his thesis that the secular state presupposes religion; the colonial and racial constructions of religion; racial capitalism; the biopolitical constructions of race in its relation to social class and other forms of domination; and anti-racist criticisms of both Foucault and Marx.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27278%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -14795,7 +14795,7 @@
       "seat_reservations": "",
       "description": "All readings and class taught in English; no pre-knowledge required. In this course we shall examine the relation of religion to both capital and the modern forms of political power (what Michel Foucault termed biopolitics or biopower), as well as the biopolitical formations of race and racism as means for sustaining power-while discovering the enduring pertinence of Marx’s work in theorizing the above issues. Biopower emerges gradually in secular capitalist modernity as a form of power that legitimizes itself not through its right to \"take life\" (as in traditional forms of sovereignty) but through its obligation to protect and enhance life. Yet, albeit \"secular,\" biopower is a form of \"pastoral power\" (Foucault). We shall explore: the interconnectedness of modern biopower and religion; Marx’s critique of the dominant (Enlightenment) critique of religion and his thesis that the secular state presupposes religion; the colonial and racial constructions of religion; racial capitalism; the biopolitical constructions of race in its relation to social class and other forms of domination; and anti-racist criticisms of both Foucault and Marx.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27278%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
