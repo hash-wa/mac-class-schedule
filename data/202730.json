@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-12T04:55:37.807685+00:00",
-  "course_count": 710,
+  "scraped_at": "2026-10-13T00:18:22.876985+00:00",
+  "course_count": 712,
   "courses": [
     {
       "crn": "30678",
@@ -5020,6 +5020,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27113%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30729",
+      "subject": "ECON",
+      "subject_name": "Economics",
+      "course_number": "117",
+      "section": "01",
+      "title": "Business Negotiations",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Joyce Minor",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Business Negotiations will cover frameworks useful in negotiating business agreements, but the negotiating skills learned can be helpful in many settings. Starting with the classic text \"Getting to Yes\", students in this course will learn to implement a principled approach to negotiating by focusing on the true interests of the negotiating parties, brainstorming to find ways to improve the outcome of all parties, and identifying and defusing the most common \"dirty tricks\" of unprincipled negotiators. In class, students will practice negotiating each week, in a series of one-on-one and multi-party negotiating exercises. Case studies will be discussed and alumni will be invited to share negotiating experiences. This course counts as a Group B elective.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27117%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30200",
       "subject": "ECON",
       "subject_name": "Economics",
@@ -5029,7 +5053,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "8:00 - 9:30 am",
           "room": ""
         }
       ],
@@ -5053,11 +5077,11 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Mario Solis-Garcia",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -5076,12 +5100,12 @@
       "title": "Principles of Economics",
       "meetings": [
         {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "days": "M W F",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
-      "instructor": "Maren Young",
+      "instructor": "Alexander Von Hafften",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -5105,7 +5129,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Alexander Von Hafften",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -5116,28 +5140,28 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27119%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30204",
+      "crn": "30730",
       "subject": "ECON",
       "subject_name": "Economics",
-      "course_number": "258",
+      "course_number": "231",
       "section": "01",
-      "title": "Introduction to Securities Analysis",
+      "title": "Environmental Economics and Policy",
       "meetings": [
         {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
-      "instructor": "Joyce Minor",
+      "instructor": "Sarah West",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course will primarily focus on equity securities analysis (stocks) from the perspective of institutional (Wall Street) investors. Topics will include industry analysis and forecasting, financial statement analysis, fundamental company analysis and valuation methods. Students will form industry groups and will each research a company in that industry. Students will build complete historical and projected financial statement models in Excel. The end product of the course will be a company report written by each student. This course counts as a Group B elective. Prerequisite(s): ECON 113",
-      "distribution_requirements": "",
+      "description": "This course studies the economics of public policy toward the environment. We begin by examining the problem of market failure in the presence of externalities and public goods. Then, we consider public policy responses to these market failures, including command-and-control regulations, tax and subsidy incentives, marketable pollution permits, voluntary programs, and information as regulation. We consider these policies in contexts such as local pollution, climate change, threats to biodiversity, environmental justice, international trade, and development. In addition, we learn how to measure the costs and benefits of pollution control. By the end of the semester, you will learn how economists think about environmental problems, understand the advantages and disadvantages of a range of environmental policies, be able to conduct a cost-benefit analysis, and have a complete economic analysis of an environmental problem. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27258%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27231%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30205",
@@ -5148,12 +5172,12 @@
       "title": "Money and Banking",
       "meetings": [
         {
-          "days": "T R",
-          "time": "8:00 - 9:30 am",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
-      "instructor": "Mario Solis-Garcia",
+      "instructor": "Alexander Von Hafften",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -5172,8 +5196,8 @@
       "title": "Introduction to Investments and Portfolio Theory",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "M W F",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
@@ -5182,7 +5206,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course introduces the economic analysis of financial investment decisions under uncertainty. Students learn to measure risk and return, build diversified portfolios, and use basic asset-pricing models to understand the compensation investors require for bearing market risk. The course examines the characteristics and valuation of stocks, bonds, and options; market efficiency and the evaluation of investment performance; how macroeconomic conditions affect asset prices; and the roles of international diversification and tax policy in investor choice.",
+      "description": "This course introduces the economic analysis of financial investment decisions under uncertainty. Students learn to measure risk and return, build diversified portfolios, and use basic asset-pricing models to understand the compensation investors require for bearing market risk. The course examines the characteristics and valuation of stocks, bonds, and options; market efficiency and the evaluation of investment performance; how macroeconomic conditions affect asset prices; and the roles of international diversification and tax policy in investor choice. This course counts as a Group E elective. Prerequisite(s): ECON 119 or 129 with a C- or higher.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5196,8 +5220,8 @@
       "title": "Introduction to Investments and Portfolio Theory",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -5206,7 +5230,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course introduces the economic analysis of financial investment decisions under uncertainty. Students learn to measure risk and return, build diversified portfolios, and use basic asset-pricing models to understand the compensation investors require for bearing market risk. The course examines the characteristics and valuation of stocks, bonds, and options; market efficiency and the evaluation of investment performance; how macroeconomic conditions affect asset prices; and the roles of international diversification and tax policy in investor choice.",
+      "description": "This course introduces the economic analysis of financial investment decisions under uncertainty. Students learn to measure risk and return, build diversified portfolios, and use basic asset-pricing models to understand the compensation investors require for bearing market risk. The course examines the characteristics and valuation of stocks, bonds, and options; market efficiency and the evaluation of investment performance; how macroeconomic conditions affect asset prices; and the roles of international diversification and tax policy in investor choice. This course counts as a Group E elective. Prerequisite(s): ECON 119 or 129 with a C- or higher.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5220,12 +5244,12 @@
       "title": "Intermediate Microeconomic Analysis",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
-      "instructor": "Sarah West",
+      "instructor": "Mark Drozd",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -5244,12 +5268,12 @@
       "title": "Intermediate Microeconomic Analysis",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "10:50 - 11:50 am",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
-      "instructor": "Sarah West",
+      "instructor": "Mark Drozd",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -5389,7 +5413,7 @@
       "meetings": [
         {
           "days": "W",
-          "time": "12:00 - 1:00 pm",
+          "time": "8:30 - 9:30 am",
           "room": ""
         }
       ],
@@ -5465,7 +5489,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -5491,7 +5515,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -5513,7 +5537,7 @@
       "subject_name": "Economics",
       "course_number": "494",
       "section": "01",
-      "title": "Topics in ECON",
+      "title": "Monetary and Fiscal Policy",
       "meetings": [
         {
           "days": "M W",
@@ -5528,8 +5552,8 @@
         "ECON 494-02 (30219)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "This course explores concepts related to federal policy, split into fiscal policy (government spending, taxes, transfers, debt) and monetary policy (nominal interest rates, money supply), and their interaction within aggregate economies. Combining macroeconomic theory with empirical evidence, students will analyze inflation dynamics, political frictions, and central bank independence. Is inflation \"always and everywhere a monetary phenomenon,\" as Milton Friedman declared? What constraints does an independent central bank impose on its government? How do political and economic incentives shift when national debt reaches historical highs? What fiscal-monetary arrangement ultimately maximizes household welfare? This course counts as a Group E elective. Meets concurrently with ECON 494-02. Prerequisite(s): ECON 371 and ECON 381, with grades of C- or higher.",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27494%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -5539,7 +5563,7 @@
       "subject_name": "Economics",
       "course_number": "494",
       "section": "02",
-      "title": "Topics in ECON Capstone",
+      "title": "Monetary and Fiscal Policy Capstone",
       "meetings": [
         {
           "days": "M W",
@@ -5554,8 +5578,8 @@
         "ECON 494-01 (30218)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "This course explores concepts related to federal policy, split into fiscal policy (government spending, taxes, transfers, debt) and monetary policy (nominal interest rates, money supply), and their interaction within aggregate economies. Combining macroeconomic theory with empirical evidence, students will analyze inflation dynamics, political frictions, and central bank independence. Is inflation \"always and everywhere a monetary phenomenon,\" as Milton Friedman declared? What constraints does an independent central bank impose on its government? How do political and economic incentives shift when national debt reaches historical highs? What fiscal-monetary arrangement ultimately maximizes household welfare? This course counts as a Group E elective. It is a capstone course. Meets concurrently with ECON 494-02. Prerequisite(s): ECON 371 and ECON 381, with grades of C- or higher.",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27494%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -10176,6 +10200,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LATI%27%20num=%27285%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30726",
+      "subject": "LATI",
+      "subject_name": "Latin American Studies",
+      "course_number": "294",
+      "section": "01",
+      "title": "Sociology of Race/Ethnicity",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Erika Busse-Cárdenas",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "SOCI 220-01 (30619)"
+      ],
+      "seat_reservations": "",
+      "description": "This course explores historical and contemporary perspectives on racial and ethnic groups in American society, including African Americans, Native Americans, Asian Americans, Latinos, European Americans, and Americans of Middle Eastern descent. The goal is to develop an understanding of socio-historical forces that have shaped the lives of racial and ethnic groups in America.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "U.S Identities and Differences, Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LATI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30647",
       "subject": "LATI",
       "subject_name": "Latin American Studies",
@@ -11278,7 +11328,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course provides an overview of the history of film from the early 1940s, examining aesthetic, industrial, social, and theoretical topics in a variety of national and cultural contexts. Discussions, lectures, and screenings emphasize international commercial and alternative styles and their determinants. Why and how did alternative styles develop against and within the Hollywood system? The course explores issues of racism and gender as well as connections between the history of film and postwar transformations, with particular attention to the effects on filmmaking of the Cold War in the United States and of post colonial struggles in Africa, Asia, and Latin America. Several papers are required. Students who have completed MCST 248 - History of Film 1893-1941 will be encouraged to engage in independent research. Prerequisite(s): MCST 128 recommended.",
+      "description": "This will not be a straightforward film history course. While the readings, screenings, lectures, and discussions will sometimes present a series of “important” films, events, personalities, and phenomena, learning about and interpreting “timelines” and “facts” will be only one of our objectives. In addition to familiarizing ourselves with some of the “big names” and movements of the last 80 years of filmmaking, we will continually question our main object of study. What is “film” or “cinema”? Is it a technology, an institution, an art form, a cultural phenomenon, a money-making industry, a source for economic and political power, or a form of mindless entertainment? How has the popular and scholarly understanding of film changed throughout time? Beyond thinking critically about cinema as a problematic object of study, we will also interrogate what it means to read, experience, and write history. How do engage the past through researching, archiving, and representing it? What does it mean to produce knowledge about the past in the present? These questions about our methodology, about the uncertain status of what we study and the necessarily limited and perspectival ways we study it, will attend all of our engagements with the movies, technologies, production methods, forms of labor, ways of thinking or talking, and social practices that comprise the history of film since 1941. Students will explore and engage these theoretical concerns about cinema and historiography through a semester-long, independent research project, resulting in a creative and self-critical work of film history. No prerequisites, but MCST 128 is recommended.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27249%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -11416,7 +11466,7 @@
       "meetings": [
         {
           "days": "M",
-          "time": "7:00 - 10:00 pm",
+          "time": "1:10 - 4:30 pm",
           "room": ""
         }
       ],
@@ -13543,30 +13593,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30544",
-      "subject": "POLI",
-      "subject_name": "Political Science",
-      "course_number": "294",
-      "section": "02",
-      "title": "Global Environmental Politics",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Sheharyar Imran",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30545",
       "subject": "POLI",
       "subject_name": "Political Science",
@@ -13593,12 +13619,12 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30547",
+      "crn": "30728",
       "subject": "POLI",
       "subject_name": "Political Science",
-      "course_number": "322",
-      "section": "01",
-      "title": "Advanced International Theory",
+      "course_number": "294",
+      "section": "04",
+      "title": "War in Political Theory: From Ancient Times to the Age of AI",
       "meetings": [
         {
           "days": "M W F",
@@ -13607,14 +13633,38 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "16",
-      "max_enrollment": "16",
+      "open_seats": "20",
+      "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is designed to introduce students to the study of international relations theory as an academic discipline. It is intended to prepare students for graduate work in the field, but should be appropriate for those merely seeking to satisfy an interest in international relations theory. The course is intended primarily for advanced political science majors and non-majors in cognate fields who have significant experience in the discipline. Prerequisite(s): Sophomore-standing or permission of instructor.",
+      "description": "\"You may not be interested in war, but war is interested in you.” (attributed to Leon Trotsky) This course examines what philosophers, theologians, and political theorists --- across time, civilizations, and political traditions --- have said about war. It is organized around questions that bear directly on our own world. Why do states go to war, and what does war do to the communities that fight it? Under what conditions, if any, is war morally permissible? Can war between states be ended, and by what institutions? Can humanity survive modern scientific war? Has war changed so much that classical models no longer apply, and will artificial intelligence, robotics, and gene-editing alter its nature or only its conduct? Why does war endure at all? We take up these questions by exploring the works of Sun Tzu and Kautilya on strategy, Thucydides on war’s effect on political life, Augustine and Aquinas on just war, Ibn Khaldun on the cycles of dynasties, Hobbes and Kant on anarchy and perpetual peace, and Clausewitz and Lenin on war and politics. We end with contemporary thinkers: Jean Bethke Elshtain on gender and the image of the warrior, Mary Kaldor on “new wars,” Christopher Coker on war and AI, and Azar Gat on what in war is enduring and what is historically contingent. Students read primary texts closely and enegage them in discussion and in writing. No background in political theory is assumed.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27322%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30727",
+      "subject": "POLI",
+      "subject_name": "Political Science",
+      "course_number": "320",
+      "section": "01",
+      "title": "Global Political Economy",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Sheharyar Imran",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Traces the evolution of (global) political economy as a peculiarly modern way of understanding and organizing (global) social life. Particular attention will be paid to how the distinction between the political and the economic is drawn and implemented in interconnected ways within nation-states and in international society. Course includes a detailed study of one of the key components of the international political economy: international trade, international finance, technological processes, etc. Prerequisite(s): Sophomore-standing or permission of instructor.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27320%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30548",
@@ -15231,7 +15281,9 @@
       "instructor": "Erika Busse-Cárdenas",
       "open_seats": "20",
       "max_enrollment": "20",
-      "crosslistings": [],
+      "crosslistings": [
+        "LATI 294-01 (30726)"
+      ],
       "seat_reservations": "",
       "description": "This course explores historical and contemporary perspectives on racial and ethnic groups in American society, including African Americans, Native Americans, Asian Americans, Latinos, European Americans, and Americans of Middle Eastern descent. The goal is to develop an understanding of socio-historical forces that have shaped the lives of racial and ethnic groups in America.",
       "distribution_requirements": "Social science",

@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-12T04:55:01.012197+00:00",
+  "scraped_at": "2026-10-13T00:17:46.904101+00:00",
   "course_count": 773,
   "courses": [
     {
@@ -14234,7 +14234,7 @@
           "room": "OLRI 150"
         }
       ],
-      "instructor": "James Heyman, Tonnis ter Veldhuis",
+      "instructor": "Tonnis ter Veldhuis",
       "open_seats": "1",
       "max_enrollment": "27",
       "crosslistings": [],
