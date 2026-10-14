@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:19:12.891037+00:00",
+  "generated_at": "2026-10-14T04:01:16.603601+00:00",
   "terms": [
     {
       "term_code": "200910",
@@ -268,14 +268,14 @@
     {
       "term_code": "202710",
       "term_label": "Fall 2026",
-      "course_count": 773,
-      "scraped_at": "2026-10-13T00:17:46.904101+00:00"
+      "course_count": 772,
+      "scraped_at": "2026-10-14T03:59:47.274103+00:00"
     },
     {
       "term_code": "202730",
       "term_label": "Spring 2027",
-      "course_count": 712,
-      "scraped_at": "2026-10-13T00:18:22.876985+00:00"
+      "course_count": 713,
+      "scraped_at": "2026-10-14T04:00:26.149177+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-13T00:17:46.904101+00:00",
-  "course_count": 773,
+  "scraped_at": "2026-10-14T03:59:47.274103+00:00",
+  "course_count": 772,
   "courses": [
     {
       "crn": "10721",
@@ -3399,7 +3399,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5446,7 +5446,7 @@
         }
       ],
       "instructor": "Jessica Kiser",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8343,7 +8343,7 @@
         }
       ],
       "instructor": "Claude Cassagne",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8391,7 +8391,7 @@
         }
       ],
       "instructor": "Erica Petersen",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10844,7 +10844,7 @@
         }
       ],
       "instructor": "Alix Johnson",
-      "open_seats": "-1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13419,30 +13419,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27MUSI%27%20num=%2788%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "10513",
-      "subject": "MUSI",
-      "subject_name": "Music",
-      "course_number": "90",
-      "section": "01",
-      "title": "Mac Early Music Ensemble",
-      "meetings": [
-        {
-          "days": "W",
-          "time": "5:15 - 6:45 pm",
-          "room": "MUSIC 121"
-        }
-      ],
-      "instructor": "Clea Galhano",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Historical performance has changed the aesthetic and musical experiences of audiences all over the world. The new ways to interpret music before 1750 has changed the way the audiences listen to this kind of music. Macalester Early Music Ensemble approaches instrumental and vocal music from Medieval, Renaissance and Baroque period. No audition needed.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27MUSI%27%20num=%2790%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "10515",
@@ -18409,7 +18385,7 @@
           "room": "THEATR 001"
         }
       ],
-      "instructor": "Wu Chen Khoo",
+      "instructor": "Tree O'Halloran",
       "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],

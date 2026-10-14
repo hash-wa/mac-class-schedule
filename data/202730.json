@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-13T00:18:22.876985+00:00",
-  "course_count": 712,
+  "scraped_at": "2026-10-14T04:00:26.149177+00:00",
+  "course_count": 713,
   "courses": [
     {
       "crn": "30678",
@@ -5004,8 +5004,8 @@
       "title": "Financial Accounting",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -6861,7 +6861,7 @@
         "WGSS 294-01 (30706)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "When you think of ‘nature,’ what comes to mind? Do gender and sexuality come to mind? How about racial capitalism, settler colonialism, or heteropatriarchy? In this course, we will examine how systems of power shape our concepts and relationships with nature, paying particular attention to the intersections of race, gender, sexuality, and the environment. We will place feminist and queer ecologies in dialogue to destabilize assumptions about nature and science that reinforce ideas of what is “natural” and “normal.” Feminist and queer ecologies critique the ways in which heterosexuality, monogamy, and gender binaries render “nature” as orderly and pure, in need of protection from populations or relationships deemed deviant or dangerous. Instead, feminist and queer ecologies invite us to reimagine how our relationships with nature are rooted in intimacy, multiplicity, and interdependence. Special emphasis will be placed on critiquing the colonial unconscious of feminist and queer ecologies that tends to erase longstanding Indigenous practices of other-than-human relationality and kinship. Topics we will explore include environmental justice, queer theory, environmental racism, ecofeminism, science and technology studies, urban studies, rural studies, new materialism, political ecology, queer Indigenous feminisms, relationality and kinship, reproductive justice, climate justice, feminist and queer futurities, animal studies, and posthumanism.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17188,7 +17188,7 @@
         "ENVI 294-02 (30707)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "When you think of ‘nature,’ what comes to mind? Do gender and sexuality come to mind? How about racial capitalism, settler colonialism, or heteropatriarchy? In this course, we will examine how systems of power shape our concepts and relationships with nature, paying particular attention to the intersections of race, gender, sexuality, and the environment. We will place feminist and queer ecologies in dialogue to destabilize assumptions about nature and science that reinforce ideas of what is “natural” and “normal.” Feminist and queer ecologies critique the ways in which heterosexuality, monogamy, and gender binaries render “nature” as orderly and pure, in need of protection from populations or relationships deemed deviant or dangerous. Instead, feminist and queer ecologies invite us to reimagine how our relationships with nature are rooted in intimacy, multiplicity, and interdependence. Special emphasis will be placed on critiquing the colonial unconscious of feminist and queer ecologies that tends to erase longstanding Indigenous practices of other-than-human relationality and kinship. Topics we will explore include environmental justice, queer theory, environmental racism, ecofeminism, science and technology studies, urban studies, rural studies, new materialism, political ecology, queer Indigenous feminisms, relationality and kinship, reproductive justice, climate justice, feminist and queer futurities, animal studies, and posthumanism.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17218,6 +17218,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30731",
+      "subject": "WGSS",
+      "subject_name": "Women's, Gender, and Sexuality Studies",
+      "course_number": "294",
+      "section": "03",
+      "title": "Indigenous Futurisms: Narrative Mappings of Radical Hope",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Melanie Yazzie",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course draws from science fiction, film, art, graphic art, memoir, political writings, and theory to map Indigenous narratives of hope that help us imagine new worlds and possibilities while remaining grounded in Indigenous knowledge and lifeways. Guided by a profound commitment to abundance and dignity for all life, human and otherwise, Indigenous futurisms move us beyond critique to the radical and daring work of imagination, speculation and affirmation that form the foundation for world making. We will use storytelling to guide our examination of world making, asking, how do Indigenous storytellers envision a future beyond colonization, heteropatriarchy, carcerality, and capitalism? How do they combine Indigenous ways of knowing with critical frameworks to advance the larger project of decolonization? It is not a coincidence that most Indigenous futurisms, both historically and recently, arise from the imaginings, experiences, struggles, and dreams of Native women and queer Indigenous relatives, who are the customary stewards of stories, songs, laws, and practices that have long ensured the vitality and continuation of Indigenous nations, as well as the natural world. We will thus focus on diverse storytelling methods that center their voices, placing these works in conversation with feminist and queer frameworks, abolitionist traditions, Afrofuturisms, political ecology, geography, decolonization, and theories of kinship and relationality.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30582",
@@ -17264,7 +17288,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Through Orientalist and Colonial \"Feminist\" lenses Arab and Middle Eastern women have been pigeonholed into a multitude of binaries: invisible/hyper visible, silent/silenced, submissive/unruly, oppressed victim/violent terrorist, etc. By de-centering European and U.S. dominated discourse, we will examine feminist movements in both Arab and Iranian countries and their diasporas. From fights for women’s education in 1920’s Egypt to the Arab Springs in 2011, Indigenous feminist movements like the 2019 \"No Free Homeland Without Free Women\" work of Tal’at in Palestine and Iran’s Jin, Jîyan, Azadî (\"Women, Life, Freedom\") movement in 2022, to the work of the Palestinian Feminist Collective against colonial feminism in the wake of October 7th, we will explore women’s movements against intra-cultural patriarchy, liberal/Western feminisms, and colonialism/imperialism from the 20th century up through today’s political world. Through this course, students develop familiarity with anti-colonial feminist language and gain necessary historical context required to challenge ongoing erasure of the roles of Arab/Middle Eastern women in liberation movements.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
