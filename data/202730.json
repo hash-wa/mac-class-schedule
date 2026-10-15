@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-14T04:00:26.149177+00:00",
-  "course_count": 713,
+  "scraped_at": "2026-10-15T03:42:33.438189+00:00",
+  "course_count": 714,
   "courses": [
     {
       "crn": "30678",
@@ -779,7 +779,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "8:00 - 11:10 am",
+          "time": "1:20 - 4:30 pm",
           "room": ""
         }
       ],
@@ -871,11 +871,11 @@
       "subject_name": "Art and Art History",
       "course_number": "233",
       "section": "01",
-      "title": "Photography I",
+      "title": "Photo I: Visual Storytelling and Sequencing",
       "meetings": [
         {
-          "days": "T R",
-          "time": "8:00 - 11:10 am",
+          "days": "M W",
+          "time": "8:10 - 11:20 am",
           "room": ""
         }
       ],
@@ -884,7 +884,7 @@
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course introduces the conceptual, technical, and historical aspects of photography within a fine-arts context. The emphasis throughout is on photography as a creative and expressive medium and will introduce strategies and methods related to this goal through assignments and class activities. Students will learn the foundational aspects of digital photography from manual camera operation to the editing of images through Adobe Lightroom and Photoshop. Along the way, students will be introduced to the digital workflow, the critique process, and how to take their images from screen to print. Presentations and assigned readings will help students develop the critical and creative skills needed to understand how artistic photographs function in society and culture. Note: A digital SLR camera is required for this course--students may be able to rent one from the department on a first-come, first-served basis.",
+      "description": "This new version of Photo 1 will introduce the conceptual, technical, and historical aspects of photography while focusing on subject matter development, visual narratives, and sequencing with the intent of using the format of the photobook as a method of arranging images and storytelling. This course introduces students to digital workflow, handmade books, and how to take their images from screen to print. Students will learn foundational aspects of digital photography from manual camera operation, lighting, editing, and printing with Adobe Lightroom, Photoshop and InDesign. Presentations, assigned readings, independent research, and group critiques will help students develop the critical and creative skills needed to understand how image making and visual storytelling with sequencing can expand the creative possibilities within photography. This course emphasizes personal creativity, experimentation, and developing an intentional studio practice. Long and short form assignments will provide foundational structure while students work to visualize their ideas, concepts, and aesthetic interests in various sequenced formats. *A digital SLR camera is required for this course. Students can use their own camera or borrow one for the semester. Camera rentals are available at the start of classes.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27233%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -898,8 +898,8 @@
       "title": "Painting I",
       "meetings": [
         {
-          "days": "M W",
-          "time": "8:10 - 11:20 am",
+          "days": "T R",
+          "time": "1:10 - 4:20 pm",
           "room": ""
         }
       ],
@@ -920,8 +920,14 @@
       "course_number": "235",
       "section": "01",
       "title": "Sculpture I",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Samantha Leopold-Sullivan",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -988,8 +994,8 @@
       "title": "2-D Design",
       "meetings": [
         {
-          "days": "T R",
-          "time": "1:20 - 4:30 pm",
+          "days": "M W",
+          "time": "1:10 - 4:20 pm",
           "room": ""
         }
       ],
@@ -1004,38 +1010,20 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27239%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30032",
-      "subject": "ART",
-      "subject_name": "Art and Art History",
-      "course_number": "264",
-      "section": "01",
-      "title": "Contemporary Art and Theory",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Joanna Inglot",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course focuses on Contemporary Art since 1970 to the present, with special attention to art in the United States during the four three decades. It covers major artists and art movements that shaped the character of contemporary art in the world and addresses sociopolitical and cultural contexts in which they developed. Through selected themes, the course will also explore the relation between contemporary art and critical theory. It will introduce students to the key thinkers and ideas informing debates around contemporary art and aesthetics. The course takes advantage of local museums of contemporary art in the Twin Cities and partially revolves around visits and discussions of current exhibitions at the Walker Art Center, the Mia, the Weisman Art Museum and local galleries. Prerequisite(s): ART 149 or ART 160 or ART 161 or permission of instructor.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27264%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30033",
       "subject": "ART",
       "subject_name": "Art and Art History",
       "course_number": "267",
       "section": "01",
       "title": "3-D Design",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "8:00 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Samantha Leopold-Sullivan",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -1092,7 +1080,7 @@
       "seat_reservations": "",
       "description": "This course explores the art and architecture of ancient Western Asia from the earliest agricultural societies in the 10th millennium BCE to the arrival of Islam in the 7th century CE. Within this historical framework the lectures and class discussions will focus on culturally specific concepts of design, representation and aesthetics in ancient Mesopotamia, Iran, Anatolia and Syro-Palestine, and explore their uses in politics, imperialism, burial practices, private rituals and state cults. The lectures will explore topics such as the development of narrative representation, monumental public art, portraiture, small-scale glyptic arts and the design, and production of personal ornaments such as jewelry.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27281%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -1116,7 +1104,7 @@
       "seat_reservations": "",
       "description": "This course will explore the art and architecture of the medieval Christian world from the time of Constantine the Great (306-337 CE) to the fall of Constantinople in 1453. The lectures and class discussions will focus on the role of images and relics in Christianity as well as the developments in sacred and secular architecture across Europe and the Byzantine empire. Special emphasis will be given to certain trends such as the foundation of monasteries, pilgrimage, icon and relic worship, and the emergence of Romanesque and Gothic styles in architecture, which changed the urban and rural topography of the continent.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27284%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -1125,7 +1113,7 @@
       "subject_name": "Art and Art History",
       "course_number": "294",
       "section": "01",
-      "title": "Decolonizing American Art",
+      "title": "Decolonizing American Art: Artists, Museums, and Power",
       "meetings": [
         {
           "days": "TBA",
@@ -1134,8 +1122,8 @@
         }
       ],
       "instructor": "Joanna Inglot",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Varies by semester. Consult the department or class schedule for current listing.",
@@ -1175,11 +1163,11 @@
       "subject_name": "Art and Art History",
       "course_number": "370",
       "section": "01",
-      "title": "Drawing II",
+      "title": "Drawing II: Independent Drawing Projects",
       "meetings": [
         {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "days": "M W",
+          "time": "1:10 - 2:40 pm",
           "room": ""
         }
       ],
@@ -1188,28 +1176,34 @@
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Building on Art 130, this studio course seeks to enlarge the student’s visual vocabulary and inventive capacities in drawing. Students develop individual content and explore a wider range of drawing styles and materials, with projects that are more complex and which require sustained independent work. Group discussions, critiques, and visiting artists or field trips are part of the curriculum. The overall theme of the course varies each semester: see the Art and Art History website for current course posters. May be taken up to three times for credit. Prerequisite(s): ART 130 or permission of instructor.",
+      "description": "This course will guide you through the processes of developing, revising, and completing your own self-directed drawing project(s). We will spend the first part of the semester exploring different themes, content areas, and approaches to materials, to help you narrow down an idea that is meaningful to you. Working one-on-one, we will develop a timetable for completing a body of self-directed work during the semester. Realistic goals and accountability within a supportive class community will help keep you on track and provide you with in-progress feedback. Materials and scope of projects will depend on your own individual preferences, and might include traditional, digital, or non-traditional materials. Prerequisite: ART 130 Drawing I.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27370%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30040",
+      "crn": "30733",
       "subject": "ART",
       "subject_name": "Art and Art History",
-      "course_number": "372",
+      "course_number": "371",
       "section": "01",
-      "title": "Sculpture II",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "title": "Painting II",
+      "meetings": [
+        {
+          "days": "M W",
+          "time": "8:10 - 11:20 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Chris Willcox",
+      "open_seats": "7",
+      "max_enrollment": "7",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Sculpture 2 offers a hands-on studio experience that builds on the tools, processes, concepts, and conversations introduced in Sculpture 1. This class supports the development and creation of individually-designed sculptural projects and research, with an emphasis on experimentation and ideation. Students will have the opportunity to explore both contemporary and traditional fabrication methods such as carving, assemblage, mold-making, and casting, and well as engage sculptural concerns such as context and display, materiality, mimesis, and ephemerality. Slide presentations, short readings, critiques, group discussions, and gallery/museum visits supplement our studio research. Prerequisite(s): ART 235",
+      "description": "A continuation of ART 234, expanding both technical and critical/theoretical knowledge through projects which demand the development of each student’s individual interests. Required projects will encourage increasing self-direction and development of the students’ own artistic vision. Readings will supplement students’ critical and theoretical understanding of historical and contemporary art practices. Frequent group discussions and critiques, as well as museum/gallery field trips. Three two-hour periods per week. Offered every other semester. Prerequisite(s): ART 234 .",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27372%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27371%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30041",
@@ -1258,6 +1252,30 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27374%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30043",
+      "subject": "ART",
+      "subject_name": "Art and Art History",
+      "course_number": "487",
+      "section": "01",
+      "title": "Art History Methodology Seminar",
+      "meetings": [
+        {
+          "days": "TBA",
+          "time": "",
+          "room": ""
+        }
+      ],
+      "instructor": "Joanna Inglot",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course is designed for graduating art history majors and it exposes them to methods and theories of art history, with a particular focus on the transformation of the discipline that began in the 1970s and continues to the present. The course will expose the students to both conventional methods of art historical analysis (style, form, iconography) and to the so called \"revisionist\" perspectives of \"new\" art history. The course surveys a wide range of approaches used in the discipline, beginning with writers such as Vasari, Riegl, Panofsky, Gombrich, and ending with the more recent art historical studies informed by Marxism, feminism, and postmodern and postcolonial theories. Prerequisite(s): Art History seniors only.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27487%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30044",
@@ -9336,6 +9354,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27376%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30732",
+      "subject": "HIST",
+      "subject_name": "History",
+      "course_number": "394",
+      "section": "01",
+      "title": "For God or Revolution: Foreign Fighters in the Spanish Civil War",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Toni Dorca",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "SPAN 394-01 (30658)"
+      ],
+      "seat_reservations": "",
+      "description": "Approximately 40,000 foreign volunteers traveled to Spain during the Spanish Civil War (1936-1939) to fight against fascism, show their support for the democratically elected Republican government, and usher in a workers’ revolution. The majority of these volunteers joined the International Brigade as soldiers, but many others served as healthcare professionals, engineers, and journalists. On the other side of the political spectrum, roughly 70,000 Italian troops, 60,000 Moroccan troops, and 16,000 German troops provided vital support for the so-called Nationalists who, on July 18, 1936, had staged a military coup against the Republicans in the name of God, against communism, or both. Most notorious among them is the Condor Legion, the Nazi air force unit responsible for the bombing of the Basque city of Gernika that inspired Pablo Picasso’s eponymous painting. Against this historical backdrop, “For God or Revolution” focuses on the rich mosaic of experiences recorded in letters, diaries, documentaries, films, photographs, poems, and fiction by non-Spaniards who fought in opposing camps of the conflict. Alongside prominent names (Pablo Neruda, César Vallejo, Ernest Hemingway, George Orwell, André Malraux, or Robert Capa), lesser-known figures merit equal recognition, including army captain Mika Etchebéhère, photojournalist Gerda Taro, nurses Nan Green and Salaria Kea, and war correspondent Pablo de la Torriente Brau. Their conflicting testimonies highlight the sacrifices they made in pursuit of their ideals while reminding us of the complexity of the human condition in times of war. Readings in Spanish and English. Taught in Spanish. This course satisfies the area 2 requirement of the Spanish major and also counts as a 354 and above elective for the major or the minor. Prerequisites: SPAN 307 or permission of the instructor",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30723",
       "subject": "INTD",
       "subject_name": "Interdisciplinary Courses",
@@ -15597,7 +15641,7 @@
           "room": ""
         }
       ],
-      "instructor": "Claire Lozano",
+      "instructor": "Cynthia Kauffeld",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -15741,7 +15785,7 @@
           "room": ""
         }
       ],
-      "instructor": "Cynthia Kauffeld",
+      "instructor": "Claire Lozano",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -15972,7 +16016,9 @@
       "instructor": "Toni Dorca",
       "open_seats": "15",
       "max_enrollment": "15",
-      "crosslistings": [],
+      "crosslistings": [
+        "HIST 394-01 (30732)"
+      ],
       "seat_reservations": "",
       "description": "Approximately 40,000 foreign volunteers traveled to Spain during the Spanish Civil War (1936-1939) to fight against fascism, show their support for the democratically elected Republican government, and usher in a workers’ revolution. The majority of these volunteers joined the International Brigade as soldiers, but many others served as healthcare professionals, engineers, and journalists. On the other side of the political spectrum, roughly 70,000 Italian troops, 60,000 Moroccan troops, and 16,000 German troops provided vital support for the so-called Nationalists who, on July 18, 1936, had staged a military coup against the Republicans in the name of God, against communism, or both. Most notorious among them is the Condor Legion, the Nazi air force unit responsible for the bombing of the Basque city of Gernika that inspired Pablo Picasso’s eponymous painting. Against this historical backdrop, “For God or Revolution” focuses on the rich mosaic of experiences recorded in letters, diaries, documentaries, films, photographs, poems, and fiction by non-Spaniards who fought in opposing camps of the conflict. Alongside prominent names (Pablo Neruda, César Vallejo, Ernest Hemingway, George Orwell, André Malraux, or Robert Capa), lesser-known figures merit equal recognition, including army captain Mika Etchebéhère, photojournalist Gerda Taro, nurses Nan Green and Salaria Kea, and war correspondent Pablo de la Torriente Brau. Their conflicting testimonies highlight the sacrifices they made in pursuit of their ideals while reminding us of the complexity of the human condition in times of war. Readings in Spanish and English. Taught in Spanish. This course satisfies the area 2 requirement of the Spanish major and also counts as a 354 and above elective for the major or the minor. Prerequisites: SPAN 307 or permission of the instructor",
       "distribution_requirements": "Humanities",
