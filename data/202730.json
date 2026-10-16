@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-15T03:42:33.438189+00:00",
-  "course_count": 714,
+  "scraped_at": "2026-10-16T03:38:37.879938+00:00",
+  "course_count": 718,
   "courses": [
     {
       "crn": "30678",
@@ -516,8 +516,8 @@
       "title": "Cultural Anthropology",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -532,38 +532,20 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30014",
-      "subject": "ANTH",
-      "subject_name": "Anthropology",
-      "course_number": "115",
-      "section": "01",
-      "title": "Biological Anthropology",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "10:50 - 11:50 am",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This class is a broad survey covering topics such as genetics, evolutionary mechanisms, adaptation, primate studies, the human fossil record, and human variation. All of these areas will be placed within the framework of the interaction of humans within their environment. The course is divided into three sections: human genetics, human ecology and primatology, human evolution and adaptation.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "Quantitative Thinking Q1",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27115%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30720",
       "subject": "ANTH",
       "subject_name": "Anthropology",
       "course_number": "223",
       "section": "01",
       "title": "Introduction to Archaeology",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Andrew Overman",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -585,7 +567,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "2:20 - 3:20 pm",
           "room": ""
         }
       ],
@@ -609,11 +591,11 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Samantha Blatt",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -690,10 +672,34 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course introduces students to critical perspectives in museum studies. We will begin by examining the historical setting within which these institutions evolved, considering the relationship with anthropology and how the discipline contributed to the construction of the “exotic” objects contained within the “cabinets of curiosities” that filled museums. In this course, we will engage in both theoretical and practical terms with museums as a public culture. Thus, we will pay close attention to the processes of collection, archives, and exhibits to examine how curatorial practices and the gazes of visitors also contribute to making museum sites for contestation, reconciliation, dialogue, fragmentation, and community. The critical aspect of this course also includes perspectives of groups that are critical of museums but propose alternative “post-museum” and “anti-museum” experiences that enable multi-vocality and defy the monumentality of Western museum practices.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30735",
+      "subject": "ANTH",
+      "subject_name": "Anthropology",
+      "course_number": "294",
+      "section": "02",
+      "title": "Serpent Mounds and Sun Daggers: Archaeologists of Native North America",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Robert Weiner",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "The history of North America before European invasion is one of political upheavals, sophisticated environmental knowledge, monumental architecture, and relationships with other-than-human beings and forces. But rarely do we learn about complex Indigenous histories and the lives of real people and societies in popular accounts of the Native American past. This course provides an introduction to the history, material culture, architecture, and worldviews of Indigenous peoples in North America from ca. 25,000 years ago through the arrival of Europeans. We will draw on knowledge from both archaeology and Native oral histories to gain a more holistic understanding. Subjects explored include: case studies of Indigenous archaeological sites and cultural groups across North America; archaeological methods; problematic stereotypes of Native Americans; ideas of complexity in archaeology; Native oral histories; religion and ontology; power and inequality; monumentality; traditional ecological knowledge (TEK); NAGPRA and museums; and Indigenous / collaborative archaeologies. No prerequisites.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30605",
@@ -727,7 +733,7 @@
       "subject_name": "Anthropology",
       "course_number": "394",
       "section": "01",
-      "title": "World Healing Traditions",
+      "title": "Human Ecology of Infectious Diseases",
       "meetings": [
         {
           "days": "T R",
@@ -740,10 +746,60 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "This course explores the human determinants of infectious diseases ranging from Paleolithic parasites to 21st Century pathogens. Yet even as we examine the latest disease threats, we will find that their evolution and emergence in human populations are largely based on ancient and recurring themes – i.e. the ways that people have interacted with, and disrupted, their natural and social environments. These lessons will help us gain further understanding into current issues such as animal- human spillover events, the evolution of virulence, and the inevitable rise of antibiotic resistance. This course is especially geared for students who enjoy making connections between the social and natural sciences. Previous courses in biology and anthropology are recommended but not required.",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30734",
+      "subject": "ANTH",
+      "subject_name": "Anthropology",
+      "course_number": "394",
+      "section": "02",
+      "title": "The Dead Do Tell Tales: Forensic Cold Case Investigation",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Samantha Blatt",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course exposes the complex realities of investigating and resolving forensic cold cases. When the traditional justice system stalls, forensic anthropologists are the vital link called upon by law enforcement to recover and identify human remains left unidentified for years and advocate for missing persons long sought. Here, you will look past the lab bench to interrogate the contributions of anthropology to long-term unresolved cases and the ethics, challenges, and limitations of modern investigations. We will dive deep into the concept of the \"missing missing,\" expose the dangers of cognitive bias, and critique the intersection of media and law enforcement work. With an uncompromising focus on social justice, you will engage with advocacy organizations and novel approaches which are rewriting the rules of activism and identification sciences. By the end of the semester, you won’t just understand the barriers to solving cold cases, you will break them down by conducting an active investigation into a real cold case and promoting public awareness. Pre-requisites: None, but ANTH 115, ANTH 240, ANTH 294 (Maggots, Murder and Media) recommended. Consult instructor.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30736",
+      "subject": "ANTH",
+      "subject_name": "Anthropology",
+      "course_number": "394",
+      "section": "03",
+      "title": "Anthropology of the Odyssey",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Robert Weiner",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "CLAS 394-01 (30737)"
+      ],
+      "seat_reservations": "",
+      "description": "The recent global success of The Odyssey film has reignited fascination with this 2,700-year-old Greek epic poem. Frequently, The Odyssey is framed as a classic work of “Western civilization,” a characterization that can decontextualize the poem from its historical and cultural context as an Archaic Period Greek narrative describing events set 500 years prior. This course asks: what if we were to read The Odyssey through an anthropological lens, as an ethnographic text through which to understand a different society and thereby reflect on our own? In this class, one day a week will be dedicated to in-depth discussion of The Odyssey, and the other will explore topics including: Late Bronze Age archaeology and the historicity of the Trojan War; the nature of oral literature; Archaic Greek concepts of hospitality, divinity, warriorship, and gender; critiques of the “Western civilization” idea; and reinterpretations and appropriations of The Odyssey including cinema. Prerequisites: A prior class in anthropology or in CMME or permission of the instructor.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30021",
@@ -3927,9 +3983,15 @@
       "subject_name": "Classical Mediterranean and Middle East",
       "course_number": "122",
       "section": "01",
-      "title": "Introduction to Investments and Portfolio Theory",
-      "meetings": [],
-      "instructor": "",
+      "title": "The Roman World",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Andrew Overman",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -4236,8 +4298,14 @@
       "course_number": "223",
       "section": "01",
       "title": "Introduction to Archaeology",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Andrew Overman",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -4255,7 +4323,7 @@
       "subject_name": "Classical Mediterranean and Middle East",
       "course_number": "294",
       "section": "01",
-      "title": "Odysseys",
+      "title": "Odysseys--Odyssean By-Ways in Myth and Storytelling",
       "meetings": [
         {
           "days": "M W F",
@@ -4268,8 +4336,8 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "In the wily traveler and resourceful trickster Odysseus, Homer communicates to us a powerful archetype of intelligence, deception, resilience and survival. As one of our primary goals in this course, we will attend to the ebbs and flows of Homer’s epic of unquenchable nostalgia and unbounded restlessness, closely reading and exploring the entirety of Homer’s Odyssey, with particular attention paid to context, poetic style, central themes and unresolved mysteries. However, our journey will also wander well beyond the bounds of Homer’s sprawling epic, bringing us into contact with Mesopotamian epic, Greek tragedy, medieval Arabic travel narrative, spatial ambiguity in the modern novel, and films that explore Odyssean themes, among other fruitful areas of inquiry.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CLAS%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -4420,6 +4488,56 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CLAS%27%20num=%27362%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30737",
+      "subject": "CLAS",
+      "subject_name": "Classical Mediterranean and Middle East",
+      "course_number": "394",
+      "section": "01",
+      "title": "Anthropology of the Odyssey",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Robert Weiner",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "ANTH 394-01 (30736)"
+      ],
+      "seat_reservations": "",
+      "description": "The recent global success of The Odyssey film has reignited fascination with this 2,700-year-old Greek epic poem. Frequently, The Odyssey is framed as a classic work of “Western civilization,” a characterization that can decontextualize the poem from its historical and cultural context as an Archaic Period Greek narrative describing events set 500 years prior. This course asks: what if we were to read The Odyssey through an anthropological lens, as an ethnographic text through which to understand a different society and thereby reflect on our own? In this class, one day a week will be dedicated to in-depth discussion of The Odyssey, and the other will explore topics including: Late Bronze Age archaeology and the historicity of the Trojan War; the nature of oral literature; Archaic Greek concepts of hospitality, divinity, warriorship, and gender; critiques of the “Western civilization” idea; and reinterpretations and appropriations of The Odyssey including cinema. Prerequisites: A prior class in anthropology or in CMME or permission of the instructor.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CLAS%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30738",
+      "subject": "CLAS",
+      "subject_name": "Classical Mediterranean and Middle East",
+      "course_number": "482",
+      "section": "01",
+      "title": "Advanced Archaeology Seminar",
+      "meetings": [
+        {
+          "days": "W",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Andrew Overman",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Archaeology, CRM, courses focusing on material culture, or through conservation or preservation work, or excavations. And for those who sense they may be inclining toward work in or exploring archaeology, conservation work, or museum related studies. Prerequisite(s): CLAS 223",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CLAS%27%20num=%27482%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30167",
@@ -8479,7 +8597,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8503,7 +8621,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8551,7 +8669,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8575,7 +8693,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8623,7 +8741,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8647,7 +8765,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8695,7 +8813,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8719,7 +8837,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8796,8 +8914,8 @@
         }
       ],
       "instructor": "Ross Shields",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "10",
+      "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "The big city is a relatively new phenomenon. Made possible by electricity, the automobile, and rapid industrialization, it introduced a shock into modern life that continues to resonate through literature, painting, dance, music, architecture, art, and film. This course invites students with intermediate German-language skills to examine two major capitals and the culture they engender. On the one hand Vienna, the epicenter of not one but two former empires, steeped in decadence and decay. On the other hand Berlin, a city that has always been defined by division: between socialists and fascists, between the Soviet east and American west, and now between the bike-riding center and car-centric periphery. The course is designed to prepare students for advanced German study, by focusing on original German-language documents written in and about these twin metropoles. Themes will range from the coffee house to the cabaret, from urban anonymity to the ’new woman,’ from the shock of city dwelling to DADA. Three hours per week plus one hour of intensive language practice. The course is conducted in German; all readings, writing, presentations, etc. are in German. Prerequisite(s): GERM 204 or permission of instructor.",
@@ -8819,7 +8937,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8843,7 +8961,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Francesca Caligiuri Shields",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -8868,8 +8986,8 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "MCST 266-01 (30367)"
       ],
@@ -8910,8 +9028,14 @@
       "course_number": "122",
       "section": "01",
       "title": "The Roman World",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Andrew Overman",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -11392,8 +11516,8 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "GERM 366-01 (30366)"
       ],
@@ -12452,7 +12576,7 @@
           "room": ""
         }
       ],
-      "instructor": "Priscilla Momah",
+      "instructor": "Sara Augustin",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12472,7 +12596,7 @@
       "meetings": [
         {
           "days": "M W",
-          "time": "5:00 - 6:00 pm",
+          "time": "2:20 - 3:20 pm",
           "room": ""
         }
       ],
@@ -12496,7 +12620,7 @@
       "meetings": [
         {
           "days": "M",
-          "time": "8:30 - 10:30 am",
+          "time": "8:30 - 10:00 pm",
           "room": ""
         }
       ],
@@ -12544,7 +12668,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "3:00 - 4:00 pm",
+          "time": "2:00 - 3:00 pm",
           "room": ""
         }
       ],
