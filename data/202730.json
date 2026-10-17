@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-16T03:38:37.879938+00:00",
-  "course_count": 718,
+  "scraped_at": "2026-10-17T03:28:43.921375+00:00",
+  "course_count": 714,
   "courses": [
     {
       "crn": "30678",
@@ -1672,7 +1672,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "12:00 - 1:00 pm",
           "room": ""
         }
       ],
@@ -1800,7 +1800,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "12:00 - 1:00 pm",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
@@ -2045,8 +2045,8 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "32",
-      "max_enrollment": "32",
+      "open_seats": "22",
+      "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Cells are the foundational organizing units of all life on our planet. In this course, we study the ways in which these nanomachines use the shapes and interactions of molecules to store and convert information, energy, and mass, and to communicate with their environments. The workings of single-celled bacteria to multicellular organisms, and the complex behaviors of multi-species ecosystems all depend on the working of these miniscule molecular gears packed inside cells. This course covers the structures and behavior of biological molecules, the metabolic reactions that power life, the properties of the fluid, complex membranes that organize biological molecules in space and time, the ways in which information is sent and received within and between cells, and molecular-scale understandings of health and disease processes. Three lecture hours each week. Prerequisite(s): BIOL 190; and CHEM 112 or CHEM 115",
@@ -2069,14 +2069,38 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "32",
-      "max_enrollment": "32",
+      "open_seats": "22",
+      "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Cells are the foundational organizing units of all life on our planet. In this course, we study the ways in which these nanomachines use the shapes and interactions of molecules to store and convert information, energy, and mass, and to communicate with their environments. The workings of single-celled bacteria to multicellular organisms, and the complex behaviors of multi-species ecosystems all depend on the working of these miniscule molecular gears packed inside cells. This course covers the structures and behavior of biological molecules, the metabolic reactions that power life, the properties of the fluid, complex membranes that organize biological molecules in space and time, the ways in which information is sent and received within and between cells, and molecular-scale understandings of health and disease processes. Three lecture hours each week. Prerequisite(s): BIOL 190; and CHEM 112 or CHEM 115",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27200%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30742",
+      "subject": "BIOL",
+      "subject_name": "Biology",
+      "course_number": "200",
+      "section": "03",
+      "title": "Cell Biology",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Linda Jeanguenin",
+      "open_seats": "22",
+      "max_enrollment": "22",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Cells are the foundational organizing units of all life on our planet. In this course, we study the ways in which these nanomachines use the shapes and interactions of molecules to store and convert information, energy, and mass, and to communicate with their environments. The workings of single-celled bacteria to multicellular organisms, and the complex behaviors of multi-species ecosystems all depend on the working of these miniscule molecular gears packed inside cells. This course covers the structures and behavior of biological molecules, the metabolic reactions that power life, the properties of the fluid, complex membranes that organize biological molecules in space and time, the ways in which information is sent and received within and between cells, and molecular-scale understandings of health and disease processes. Three lecture hours each week. Prerequisite(s): BIOL 190; and CHEM 112 or CHEM 115",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "Quantitative Thinking Q1",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27200%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30268",
@@ -2092,7 +2116,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Sebastiano De Bona",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
@@ -2151,6 +2175,54 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27304%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30740",
+      "subject": "BIOL",
+      "subject_name": "Biology",
+      "course_number": "312",
+      "section": "01",
+      "title": "Microbiology",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ruth Isenberg",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course is an introduction to the diverse field of microbiology, including prokaryotes, archaea, viruses, and eukaryotic microorganisms. We will explore the ways microbes interact with their environments, in particular their diverse and complex relationships with humans. The course includes regular discussion of primary literature and an emphasis on written and oral communication. In the laboratory, students will practice fundamental microbiology techniques and data analysis, and lead hypotheses-driven independent investigations. Three lecture hours and one three-hour laboratory each week. Prerequisite(s): BIOL 170, BIOL 190 and BIOL 200; CHEM 211 recommended.",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "Quantitative Thinking Q1, Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27312%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30741",
+      "subject": "BIOL",
+      "subject_name": "Biology",
+      "course_number": "312",
+      "section": "L1",
+      "title": "Microbiology Lab",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "1:20 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ruth Isenberg",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course is an introduction to the diverse field of microbiology, including prokaryotes, archaea, viruses, and eukaryotic microorganisms. We will explore the ways microbes interact with their environments, in particular their diverse and complex relationships with humans. The course includes regular discussion of primary literature and an emphasis on written and oral communication. In the laboratory, students will practice fundamental microbiology techniques and data analysis, and lead hypotheses-driven independent investigations. Three lecture hours and one three-hour laboratory each week. Prerequisite(s): BIOL 170, BIOL 190 and BIOL 200; CHEM 211 recommended.",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "Quantitative Thinking Q1, Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27312%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30069",
@@ -2468,9 +2540,9 @@
           "room": ""
         }
       ],
-      "instructor": "",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "ENVI 380-01 (30275)"
       ],
@@ -2494,9 +2566,9 @@
           "room": ""
         }
       ],
-      "instructor": "",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "ENVI 380-L1 (30277)"
       ],
@@ -2513,10 +2585,16 @@
       "course_number": "385",
       "section": "01",
       "title": "Wildlife Monitoring Techniques",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Stotra Chakrabarti",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [
         "ENVI 385-01 (30075)"
       ],
@@ -2533,10 +2611,16 @@
       "course_number": "385",
       "section": "L1",
       "title": "Wildlife Monitoring Techniques Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "1:20 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Stotra Chakrabarti",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [
         "ENVI 385-L1 (30077)"
       ],
@@ -2561,14 +2645,38 @@
         }
       ],
       "instructor": "Michael Anderson",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course will cover research design and data analysis across biological sub-disciplines, with a focus on practical issues. Research design topics will include pseudoreplication, autocorrelation, and specialized experimental designs. Data analysis topics will cover univariate statistics – from simple tests to modeling with multiple explanatory variables – non-parametric statistics, and multivariate methods such as Principal Component Analysis. The major aim of the course is to have students gain competence and confidence in the analysis of biological data - selecting appropriate statistical tests for particular questions, avoiding pitfalls, and generating a useful ’dialog’ with their data. Prerequisite(s): STAT 155",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30743",
+      "subject": "BIOL",
+      "subject_name": "Biology",
+      "course_number": "394",
+      "section": "02",
+      "title": "The Human Microbiome: An Investigative Seminar",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Robin Shields-Cutler",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "The human microbiome is a fascinating and diverse community of microorganisms residing in and on our bodies, with proposed roles in countless aspects of our health including basic metabolism, athletic endurance, cancer, infections, and mental health. However, the field is still rapidly developing and claims about the microbiome are not always well-supported by the available evidence. This advanced seminar will combine weekly study of the primary literature with a hands-on investigation of students’ own microbiomes. Students will have the opportunity to generate microbiome sequencing data and use bioinformatic approaches to analyze their own microbiome community. As we read about and discuss the biological roles of the microbiome, we will consider the strength of the evidence and the methods and study designs, to distinguish appropriate conclusions from speculation and hype. Through this approach, students will demystify how microbiome studies go from specimens to data, analysis, and conclusion. Prerequisite(s): BIOL 200",
+      "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30079",
@@ -2649,8 +2757,14 @@
       "course_number": "485",
       "section": "01",
       "title": "Wildlife Conservation in the Anthropocene: An International Perspective",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Stotra Chakrabarti",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [
@@ -2668,20 +2782,20 @@
       "subject_name": "Biology",
       "course_number": "494",
       "section": "01",
-      "title": "Microbiology",
+      "title": "Research in Plant Biology",
       "meetings": [
         {
           "days": "M W F",
-          "time": "3:30 - 4:30 pm",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
-      "instructor": "Ruth Isenberg",
-      "open_seats": "16",
-      "max_enrollment": "16",
+      "instructor": "Linda Jeanguenin",
+      "open_seats": "6",
+      "max_enrollment": "6",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Plants are fascinating organisms. Unable to flee environmental threats, they have instead evolved as sophisticated metabolic factories, producing complex chemical compounds to deter herbivores; compounds that humans now harness as vital pharmaceuticals, natural remedies, and recreational products. From the oxygen we breathe and the food we eat to the medicines that sustain us, human life relies fundamentally on plants. In this course, students will explore the multifaceted layers of plant biology research, ranging from whole-plant field studies to microscopic molecular systems involving genes and proteins. This hands-on course integrates plant physiology, experimental design, molecular biology and biochemistry. Through field trips, laboratory investigations, and journal clubs, students gain direct research experience in plant science while mastering how to communicate scientific findings to general audiences. Beyond lab and field work, the course highlights the diverse and expanding career opportunities available in plant science. Prerequisite(s): BIOL 190 and permission of instructor.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27494%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -2692,20 +2806,20 @@
       "subject_name": "Biology",
       "course_number": "494",
       "section": "L1",
-      "title": "Microbiology Lab",
+      "title": "Research in Plant Biology Lab",
       "meetings": [
         {
-          "days": "R",
-          "time": "1:20 - 4:30 pm",
+          "days": "M W F",
+          "time": "2:20 - 3:20 pm",
           "room": ""
         }
       ],
-      "instructor": "Ruth Isenberg",
-      "open_seats": "16",
-      "max_enrollment": "16",
+      "instructor": "Linda Jeanguenin",
+      "open_seats": "6",
+      "max_enrollment": "6",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Plants are fascinating organisms. Unable to flee environmental threats, they have instead evolved as sophisticated metabolic factories, producing complex chemical compounds to deter herbivores; compounds that humans now harness as vital pharmaceuticals, natural remedies, and recreational products. From the oxygen we breathe and the food we eat to the medicines that sustain us, human life relies fundamentally on plants. In this course, students will explore the multifaceted layers of plant biology research, ranging from whole-plant field studies to microscopic molecular systems involving genes and proteins. This hands-on course integrates plant physiology, experimental design, molecular biology and biochemistry. Through field trips, laboratory investigations, and journal clubs, students gain direct research experience in plant science while mastering how to communicate scientific findings to general audiences. Beyond lab and field work, the course highlights the diverse and expanding career opportunities available in plant science. Prerequisite(s): BIOL 190 and permission of instructor.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27494%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -4601,7 +4715,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -4618,32 +4732,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27112%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30173",
-      "subject": "COMP",
-      "subject_name": "Computer Science",
-      "course_number": "112",
-      "section": "04",
-      "title": "Introduction to Data Science",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Lauren Milne",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [
-        "STAT 112-04 (30174)"
-      ],
-      "seat_reservations": "",
-      "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "Quantitative Thinking Q2",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27112%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30175",
       "subject": "COMP",
       "subject_name": "Computer Science",
@@ -4657,7 +4745,7 @@
           "room": ""
         }
       ],
-      "instructor": "Shilad Sen",
+      "instructor": "Amin Alhashim",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -4701,7 +4789,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "12:00 - 1:00 pm",
+          "time": "8:30 - 9:30 am",
           "room": ""
         }
       ],
@@ -4716,30 +4804,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27123%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30178",
-      "subject": "COMP",
-      "subject_name": "Computer Science",
-      "course_number": "123",
-      "section": "04",
-      "title": "Core Concepts in Computer Science",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Lauren Milne",
-      "open_seats": "25",
-      "max_enrollment": "25",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course introduces the field of computer science, including central concepts such as the design and implementation of algorithms and programs, testing and analyzing programs, the representation of information within the computer, and the role of abstraction and metaphor in computer science. The exploration of these central ideas will draw examples from a range of application areas including multimedia processing, turtle graphics, and text processing. Course work will use the Python programming language.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27123%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30179",
       "subject": "COMP",
       "subject_name": "Computer Science",
@@ -4749,11 +4813,11 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "8:30 - 9:30 am",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
-      "instructor": "Bret Jackson",
+      "instructor": "Lauren Milne",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [],
@@ -4773,11 +4837,11 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
-      "instructor": "Bret Jackson",
+      "instructor": "Lauren Milne",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [],
@@ -4786,30 +4850,6 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27127%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30181",
-      "subject": "COMP",
-      "subject_name": "Computer Science",
-      "course_number": "127",
-      "section": "03",
-      "title": "Object-Oriented Programming and Abstraction",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Joslenne Peña",
-      "open_seats": "16",
-      "max_enrollment": "16",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "What happens as software grows in complexity? How do we break a program into manageable pieces? How do we write readable, maintainable code? This course is an introduction to the building blocks of software design: abstraction, decomposition, and encapsulation. Using object-oriented programming in Java, we will create graphics, games, and simulations, and explore natural language processing. Topics may include: classes, objects, polymorphism, inheritance, testing, refactoring, events, closures, streams, immutability, parallel programming, and version control. The course culminates in a student-designed project. Prerequisite(s): COMP 123 or permission of instructor.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27127%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30182",
@@ -4825,7 +4865,7 @@
           "room": ""
         }
       ],
-      "instructor": "Amin Alhashim",
+      "instructor": "Bret Jackson",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -4834,6 +4874,30 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27128%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30746",
+      "subject": "COMP",
+      "subject_name": "Computer Science",
+      "course_number": "194",
+      "section": "01",
+      "title": "AI Foundations",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Shilad Sen",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30183",
@@ -4971,7 +5035,7 @@
           "room": ""
         }
       ],
-      "instructor": "Getiria Onsongo",
+      "instructor": "Joslenne Peña",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -5082,6 +5146,30 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27365%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30747",
+      "subject": "COMP",
+      "subject_name": "Computer Science",
+      "course_number": "382",
+      "section": "01",
+      "title": "Computing Futures",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "9:40 - 10:40 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Joslenne Peña",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Those who pursue technology-based education like Computer Science learn a multitude of technical practices, techniques, logic, and languages to build and design future technologies. These technologies are solutions to world problems or may be hobbyist in nature. Regardless, artifacts produced by Computer Scientists, Engineers, Programmers, and other similar stakeholders have suffered immeasurably through lack of training and awareness on social issues. As a result, we observe in society the numerous technologies that currently exist to perpetuate harmful ideologies (-isms), oppressive power structures, and injustices on vulnerable and minority populations. Should these technologies be redesigned or thrown out all together? How can we connect the design and development of technologies to the behaviors of minoritized identities? This course introduces students to critical thinking through design frameworks and social constructs, while also developing their ability to analyze how software, tools, and associated processes and practices can reinforce and exacerbate inequality in society. Once we confront the ways in which technologies contribute to systems of inequality, we will begin to identify relevant problems and solutions to contribute to a more equal, just society. (Formerly known as Computer Science and Social Justice) Prerequisite(s): COMP 123 or COMP 127",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "Writing WP",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27382%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30197",
@@ -5939,7 +6027,7 @@
         "WGSS 294-02 (30230)"
       ],
       "seat_reservations": "",
-      "description": "This course focuses on traditionally underrepresented or marginalized American literatures. Readings may cover a wide range of genres, such as novels, poetry, creative nonfiction, plays, and graphic narratives, in order to explore various identities and differences within a national context. The course will also provide an introduction to the methods of literary study, including close reading and literary analysis, both oral and written. Authors and texts assigned will vary by section and instructor. May be repeated once, with different subtitle.",
+      "description": "This introductory English course covers lesbian, gay, bisexual, transgender, queer, and Two Spirit literature in America—with a focus on resistance and resilience. We will examine how American culture and politics have shaped and been shaped by LGBTQ2S+ writing and art. We’ll appreciate intersections of race, ethnicity, and class in historical and current work. And we’ll explore what it means to queer a text, a life, and a culture. Requirements include written responses to reading, a creative project, a 5-7 page essay, and an optional escape room scenario. Authors we’ll read include: Jewelle Gomez, James Baldwin, Audre Lorde, Gloria Anzaldúa, Allison Bechdel, Kai Cheng Thom, Tommy Pico, Malinda Lo, Mariko Tamaki, and Junauda Petrus.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27105%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5989,34 +6077,10 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "A writing-intensive course in traditional and non-traditional literatures, each section of which will have a different focus, topic, or approach; recent offerings have examined the short story, major women writers, new international writing, and the literary Gothic.",
+      "description": "Marie de France. Ulayya bint al-Mahdi. Murasaki Shikibu. Li Qingzhao. Margery Kempe. In almost every literary culture throughout the premodern world, women used the power of writing to reflect and shape their worlds. Yet these women writers have often been forgotten, especially in the Anglo-American world. In International Women’s Writing 500-1500, we undertake a whirlwind journey throughout the medieval world in a survey of woman writers who laid the foundation for women’s writing today. We will study the words of poets, novelists, diarists, and saints in places stretching from Japan to Mexico. We will also explore their historical contexts, examining how woman writers interacted with the book arts of their cultures. Along the way, we will interrogate the very idea of a “woman” writer, the power hierarchies embedded in the written word, and the premise of internationalism itself.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27125%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30232",
-      "subject": "ENGL",
-      "subject_name": "English and Creative Writing",
-      "course_number": "137",
-      "section": "01",
-      "title": "Novel",
-      "meetings": [
-        {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "James Dawes",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This introduction to the study of the novel pays special attention to the genre’s history and to the cultural and political significance of individual texts. Authors and texts will vary according to instructor, but all sections will consider the development of the novel across time, include a range of author identities and styles, and provide instruction in intensive close reading and literary analysis. Consult the detailed course description in the English department or on its web page for the content of individual courses and sections.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Writing WP",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27137%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30233",
@@ -6037,7 +6101,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "Ray Bradbury wrote “toward something honest, hidden under the trapdoor on the top of my skull.” Emily Dickinson described poetry as “feel[ing] physically as if the top of my head were taken off.” In this introductory creative writing course, we will explore different kinds of writing that might shake loose our brains and hone an orientation toward curiosity and wonder. When we read or write, we are both in and out of ourselves—where does a poem or story take us without physically moving us? Where else can our minds go? What inspires us, moves us, makes us daydream? Together, we will work to find our own personal answers to these questions by experimenting with form, content, and style. In this cross-genre class, you will write and workshop several creative pieces. Classes will consist of readings, discussions, writing exercises, and responses to each other’s work, and culminate in a final portfolio of original creative pieces across genres.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6061,7 +6125,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "Ray Bradbury wrote “toward something honest, hidden under the trapdoor on the top of my skull.” Emily Dickinson described poetry as “feel[ing] physically as if the top of my head were taken off.” In this introductory creative writing course, we will explore different kinds of writing that might shake loose our brains and hone an orientation toward curiosity and wonder. When we read or write, we are both in and out of ourselves—where does a poem or story take us without physically moving us? Where else can our minds go? What inspires us, moves us, makes us daydream? Together, we will work to find our own personal answers to these questions by experimenting with form, content, and style. In this cross-genre class, you will write and workshop several creative pieces. Classes will consist of readings, discussions, writing exercises, and responses to each other’s work, and culminate in a final portfolio of original creative pieces across genres.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6085,7 +6149,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "In this course, we will explore and develop the foundational skills of creative writing. We will hone our craft and build a respectful, collaborative writing community through a series of creative exercises, close reading assignments, and workshops.. Over the semester, we will read and discuss poems and stories from a diverse group of published authors, focusing on what we might learn from their approaches to the page, while asking how, among so many unique voices, we might cultivate our own. This course requires students to devote a significant amount of time outside of class to reading the course texts and writing our own work: creative writing is a way to discover more about ourselves and the world, but such discovery requires attention, contemplation, and practice. Readings will include writing by Jhumpa Lahiri, Ocean Vuong, Jamaica Kincaid, Haruki Murakami, Elizabeth Bishop, Yanyi, and others.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6109,7 +6173,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "In this course, you’ll explore the art of storytelling in all its forms — fiction, nonfiction, and poetry. Through playful exercises, focused assignments, and inspiring readings, you’ll experiment with short stories, personal essays, memoir, and poetry, finding your own voice along the way. We’ll spend time workshopping each other’s writing in a supportive, thoughtful environment designed to help you take creative risks and grow as a writer. Whether you’re drafting your first poem or refining a story, you’ll learn to read closely, revise purposefully, and discover the joy of shaping language that moves others and forges connection.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6133,7 +6197,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "This introductory course will focus on the basic elements of creative writing. Students will be asked to read and discuss published work by writers across a wide range of cultures, to support one another through peer workshops, and to write multiple drafts of short fiction, poetry, and creative nonfiction. Throughout the semester our focus will be on creating an artistic community that encourages everyone to discover and nurture their own individual creative voice, and then to express that voice with force and conviction.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2705%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6157,7 +6221,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "Writing, whether in the form of a story, a poem, or a late-night email begging your professor for an extension, is always a creative act. Words arranged on a page create meaning, and in this class we will examine and practice certain authorial choices that go into creative meaning-making. We will do this through the lenses of poetry and fiction, reading widely and carefully with an eye to explore what choices the authors make, and to what end. Essentially, we will be asking over and over what makes a reader feel, experience, and understand. By the end of the semester I hope you’ll feel confident with your new toolbox of tricks and skills, and empowered in your creative work to a) Say what you mean to say, b) How you mean to say it, c) With the desired emotional impact.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2706%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6181,10 +6245,34 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This workshop-based course focuses on the development of skills for writing poetry, short fiction, and/or creative nonfiction through a close study of the techniques involved in these forms, analysis of model literary works, and frequent writing exercises. This course must be completed at Macalester as a PREREQUISITE for the further study of creative writing at Macalester.",
+      "description": "Writing, whether in the form of a story, a poem, or a late-night email begging your professor for an extension, is always a creative act. Words arranged on a page create meaning, and in this class we will examine and practice certain authorial choices that go into creative meaning-making. We will do this through the lenses of poetry and fiction, reading widely and carefully with an eye to explore what choices the authors make, and to what end. Essentially, we will be asking over and over what makes a reader feel, experience, and understand. By the end of the semester I hope you’ll feel confident with your new toolbox of tricks and skills, and empowered in your creative work to a) Say what you mean to say, b) How you mean to say it, c) With the desired emotional impact.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27150%27%20sect=%2707%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30748",
+      "subject": "ENGL",
+      "subject_name": "English and Creative Writing",
+      "course_number": "194",
+      "section": "01",
+      "title": "The End of the World and What You Can Do about It.",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "James Dawes",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "You grew up being told the world is ending. The adults in charge told you we were driving straight off a cliff, but they couldn’t agree on how to stop. Still, they had hope for the future. Because of you. You didn’t choose to grow up with this dread, and you certainly didn’t ask to be made responsible for fixing the world. But you do have choices about what happens next. This course is about those choices. Artificial intelligence. Authoritarianism and the fall of democracy. Bioweapons and pandemics. Climate catastrophe. Billionaire bunkers. Where do you even start? Every crisis seems to demand a different solution. But what if they’re all connected? And what if our growing sense of powerlessness is part of the problem? We’ll draw on literature, economics, journalism, and political philosophy to understand how we got here. Then we’ll study people who have successfully challenged seemingly insurmountable structures of power. How did they do it? What worked? What failed? And what can we learn from them about changing the world?",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30240",
@@ -6216,20 +6304,20 @@
       "subject_name": "English and Creative Writing",
       "course_number": "210",
       "section": "01",
-      "title": "Literary Adaptations",
+      "title": "Film Studies: Literary Adaptations",
       "meetings": [
         {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
       "instructor": "Matt Burgess",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "16",
+      "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course will focus on different topics from year to year. Possible topics include Great Directors, Russian Film, French Film, Film and Ideology, Literature and Film, and Images of Black Women in Hollywood Films. Please consult the specific course description in the English department.",
+      "description": "In this course, students will analyze the delights and difficulties of adapting literary texts into film. We will read Emily Wilson’s translation of Homer’s The Odyssey, William Shakespeare’s Macbeth, Jane Austen’s Pride and Prejudice, and Ted Chiang’s “Story of Your Life,” alongside viewings of their cinematic counterparts: Christopher Nolan’s The Odyssey, Akira Kurosawa’s Throne of Blood, Dolly Alderton’s Pride and Prejudice, and Denis Villeanueve’s Arrival. Additional screenings may include Spike Jonze’s Adaptation, Georges Méliès’s A Trip to the Moon, Buster Keaton’s Sherlock Jr., John Ford’s The Searchers, Stanley Kubrick’s 2001: A Space Odyssey, Billy Wilder’s Double Indemnity, Frank Capra’s It Happened One Night, Wong Kar-wai’s In the Mood for Love, Amy Heckerling’s Clueless, and Jordan Peele’s Nope. Students will write reflection papers, film criticism, and short screenplay adaptations of their own.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27210%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6277,7 +6365,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course will focus in a variety of ways on the development of skills for writing poetry, building on the work done in ENGL 150. Depending on the instructor, it may approach the creative process through, for example, writing from models (traditional and contemporary), formal exercises (using both traditional and contemporary forms), or working with the poetry sequence (or other methodology selected by the instructor: see department postings for details). It will involve extensive readings and discussion of poetry in addition to regular poetry writing assignments. The course may be conducted to some extent in workshop format; the emphasis will be on continuing to develop writing skills. Course may be taken twice for credit, so long as it is with a different instructor or subtitle. Prerequisite(s): ENGL 150 taken at Macalester.",
+      "description": "We often hear the cliche of all that is “lost” in translation, but what if we oriented ourselves instead to what marvels are found? Language is porous and borderless, and translation is a door through the nation and into the world. In this course, we will study poets in translation (and translators!) from across the globe, dip our toes into translation theory, and dwell in the infinite gaps and threads that exist between languages. Poets we will encounter include Kim Hyesoon, Mahmoud Darwish, Rainer Maria Rilke, Forugh Farrokhzad, and Aimé Césaire. You’ll be asked to compare translations, consider what makes a poem “work,” and experiment in writing/translating within English and beyond it. No translation experience required.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27280%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6301,7 +6389,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This advanced workshop course focuses in a variety of ways on the development of skills for writing fiction, building on the work done in ENGL 150. Depending on the instructor, it may approach the creative process through, for example, writing from models of the short story (both classic and contemporary), working with the technical components of fiction (e.g., plot, setting, structure, characterization), or developing linked stories or longer fictions (or other methodology selected by the instructor: see department postings for details). It will involve extensive readings and discussion of fiction in addition to regular fiction writing assignments. Course may be taken twice for credit, so long as it is with a different instructor, with the approval of the Chair. Prerequisite(s): ENGL 150 taken at Macalester.",
+      "description": "In a recent interview, the writer Salmon Rusdie said, “Comedy is the most powerful tool with which to fight tyranny. The moment you laugh at something, it loses its power.” In this class we’ll talk about the many ways humor writing can be used to fight oppression, bring us to new understandings through the absurd, and help us liberate ourselves through self-irony. We’ll study the greatest hits of resistance humor from parody and satire to literary fakes and biting comic fiction. Along the way, we’ll try our hand at these defiant forms ourselves. We’ll talk through the nuts and bolts of wordplay, hyperbole, subtext, and meta humor. Don’t worry if you don’t think of yourself as a professional comedy writer in the making. We’ll all be exploring these powerful tools together with an eye toward enlivening our writing, finding new ways to address difficult subjects, “comfort the afflicted,” and laugh at our own deepest fears. Come for the jokes. Stay for the rebellion against our repressed language!",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27281%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6325,7 +6413,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This advanced workshop course focuses in a variety of ways on the development of skills for writing creative nonfiction, building on the work done in ENGL 150. Depending on the instructor, it may approach the creative process through, for example, translating lived experience into the personal essay, or developing narrative journalism, the lyric essay, or a variety of other forms. It will involve extensive readings and discussion of nonfiction in addition to regular nonfiction writing assignments. Course may be taken twice for credit, so long as it is with a different instructor or subtitle. Prerequisite(s): ENGL 150 taken at Macalester.",
+      "description": "Whether “family” for you means relatives you were born to or humans who chose you or whom you chose, everyone has their people. And where you have people, you have stories. They may exist in hilarious, oft-told anecdotes, whispered innuendos, determined silences, or diaries or letters in an attic. Whether you have memories or documents, this course explores what it takes to make meaning from the raw materials of family lore. Course readings include a diversity of published family memoirs. Students will produce two writing projects through a series of drafts and workshops: one story that begins in your own family tales or documents or silences; and one story that begins in interviews with members of a nearby St. Paul senior living facility. As we collect information, reflect on its significance, research, write, and revise, we will ask: How does one write with integrity about the truths of people’s lives when there are significant information gaps? What are the larger contexts in which a story fits, and how do we incorporate them without losing the narrative thread? Students will hone research, interview, and storytelling skills and work towards producing polished nonfiction writing that adeptly infuses narrative with research. This course requires sustained engagement with community members beyond the Mac campus through a series of required field trips (during class time) to the Lyngblomsten senior living facility, as well as potential follow-up conversations over email or zoom. Prerequisite(s): ENGL 150 or ENGL 286.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27282%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6391,8 +6479,8 @@
       "title": "Narrative Journalism",
       "meetings": [
         {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -6425,8 +6513,8 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "In this course, we will explore how literature represents extreme human experiences. We now encounter the extreme in our everyday lives: climate change, pandemic, the rise of AI, the ascendancy of authoritarianism and fascism, and a resurgence of religious, racial, ethnic and racial bigotry and violence. We will investigate how a wide range of texts have represented not just such apocalyptic extremes but also the ecstatic as a means to live joyfully now and into the future. We will ask aesthetic, political, and ethical questions: Must literary form stretch to represent the extreme, whether ecstasy or apocalypse, joy or misery? What role might art play in forestalling dystopian futures? What are our obligations, as readers and as citizens, as we study ecstasy and apocalypse? We will read fiction, poetry, and nonfiction to investigate how various genres work differently at, and with, the extreme. Authors will include Cormac McCarthy, Art Spiegelman, Octavia Butler, and Louise Glück, among others. We will also view films, including The Matrix, and listen to music, including Steve Reich’s Different Trains, to discover whether other media may offer alternative, and possibly better, ways to represent ecstasy and apocalypse. Course requirements include brief reading response papers, a presentation on a text of your choice, a short essay and a revision of it, and a final project.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -6449,8 +6537,8 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "In this course, we will explore Afrofuturism, a flourishing and exciting contemporary movement of writers, artists, musicians, and scholars who imagine, represent, and theorize alternative times (often, but not always, the future) and forms of the human, along with outer spaces and other places wherein Black people are centered. We will explore the artistic, social, and political power of the movement as we closely read, listen to, and view key Afrofuturist texts. Those texts will include, among others: short stories by Samuel Delany, a novel by Octavia Butler, Janelle Monáe’s Dirty Computer “emotion picture,” and Wangechi Mutu’s visual art. Course requirements include: brief reading response papers, one short essay and a revision of it, a presentation on a text of your choice, and a final project. This course fulfills the English major requirement of a course focused on literature by U.S. writers of color.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -6473,8 +6561,8 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "Based on a real Roman-Celtic tribal warlord of the 400s CE, King Arthur has grown into one of the most recognizable characters of modern literature and film. His name is synonymous with adventure, sword fighting, and chivalry. Arthur is just as well known for his associates, like the beautiful Queen Guinevere, the valiant Sir Lancelot, and the magical Merlin. In this class, we also study less popular characters like the disgruntled Sir Kay, the neurotically righteous Sir Bors, and the mysterious Morgan le Fay. We begin by tracing the earliest, faint glimmers of the Arthurian legend, and watch the stories burst into an international phenomenon by 1138 CE. This medieval-focused course also incorporates modern Arthurian texts and film, allowing us to trace more than a thousand years of literary development that swirl around the enigmatic King Arthur. This class fulfills the medieval period requirement for the English major.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -6497,8 +6585,8 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "Doctor, occultist, magician. The great healers of the Renaissance fashioned themselves not as surgeons (how barbarous), but magi. They sought to cure ailing patients through a combination of drugs, bloodletting (with a knife or leeches), and magical remedies (amulets, casting, exorcism). What might it have been like to be a doctor or a patient in an age of enchantment? What did “holistic” medicine look like during the Renaissance and after the Reformation? How did literature shape cultural understanding of the doctor-patient relationship, nursing as gendered labor, and disease as a blight or a curse? In addition to reading plays, poems, and short prose romances, we will examine the writings of notable Renaissance doctors and healers, chart the rise of royal and civic hospitals, and learn about the transmission of scientific and medical knowledge from the East to the West. Students will have the chance to conduct independent and original archival research and hone their writing skills in community. This course counts for the Renaissance period requirement for the English major and the Community and Public Health Concentration. No prerequisites, but familiarity with early modern English is an asset.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -6521,7 +6609,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course serves as an introduction to critical disability studies and disability theory. Special attention is paid to the power of literature and life writing in shaping the cultural understanding of mental and physical impairments, illness, pain, healing, bodymind difference, and disability as a political identity. Prerequisite(s): A 100-level course in English.",
+      "description": "This course explores representations of disability and ability in late medieval and early modern England (c. 1500-1700). How was bodymind normativity, ability, and disability defined in the Renaissance? Why did writers turn to literature to explore illness and disability? And where might we discover evidence of disability gain or disability pride in the early modern archive? How do we explore the intersection of race, dis/ability, and citizenship? We’ll be reading a variety of genres: folk and fairy tales, medical treatises, recipe books and herbals (self-help remedy books written for laypeople), law books (which contain some of the earliest definitions of \"nonability\" and \"disability\"), jest books, ballads, broadsides, poetry, and dramatic writing. Throughout the semester, we will be reading recent scholarship in disability theory and early modern disability studies. No prior knowledge of the topic or of Renaissance literature is expected. This course counts for the Renaissance period requirement for the English major.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27319%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6545,7 +6633,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This advanced course explores the literature and culture of Victorian Britain through complex questions such as: What does it mean to think about the British Empire from the perspectives of the colonized and not just the colonizers? and How did novelists write back against gendered norms of day? Course readings emphasize breadth of perspective, bringing together novels, journalistic prose, poetry, visual images, short fiction, political treatises, and personal documents-deliberately placing underrepresented voices together with more canonical ones. Authors and topics vary by semester; recent offerings have included: Ladies and Monsters; Race and the Victorians; and 1859: Science, Sensation, and Society. This course satisfies the 18th/19th century British literature requirement on the major; some sections satisfy the Writers of Color requirement on the major. See specific descriptions each semester for more details.",
+      "description": "This class explores some of the contours of colonialism, class, and technology in the British nineteenth century. Its title foregrounds objects rather than these concepts, however, because this is fundamentally a course about how we can better understand a moment in time through its material culture. In considering what the Victorians ate and wore and how they chose to document their lives, we will study novels, nonfiction prose, short stories, poetry, and physical objects. Close-readings and historical/theoretical framings will be grounded in writing and hands-on projects (one per unit) that emphasize the interactive experiences of producing and consuming objects as a way of understanding one’s place within a culture’s systems of power. No particular proficiency in cooking, sewing, or film is a prerequisite for the class, though please bring enthusiasm for experimentation! This course satisfies the 18th/19th c British lit requirement on the major.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27335%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6569,7 +6657,7 @@
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This capstone course for the Literature Path is the culminating academic experience of the major. The course consists of three interlocking objectives. The first goal is to provide students with the opportunity to develop an original research project that reflects their deepest aesthetic interests and ethical commitments. Working closely with a faculty member and a small group of peers, students will develop projects that display rigorous literary scholarship and methodological inventiveness. The second goal is to provide instruction in advanced methods of research by studying influential critical approaches from the early twentieth century to the present. Specific theories and methods will be determined in consultation with the instructor. Past courses have emphasized psychoanalysis, post-Marxist criticism, gender, queer, and feminist theory, phenomenology, critical race theory, black feminist theory, post-colonial criticism, poetics, law and human rights, and aesthetics. The final goal is to train students to become advocates of their research agenda. Students will learn to lecture and lead discussion on relevant readings and to share their research with the wider intellectual community in a form that reflects the spirit of the project. Prerequisite(s): One prior English course numbered in the 100s (excluding 101 or 150), plus one literature course at the 200- or 300- level. Capstone courses are intended to be a culminating experience for the major. Students without Senior status will need instructor permission to enroll.",
+      "description": "In this literature capstone course, each student will choose and develop a project that best reflects their individual interests in literary studies and that represents a culmination of their work in the English major. The choice of topic and method is up to each student, with guidance from the professor. All projects will be developed in intellectual community with others in the class. Course requirements include a research proposal for the project, the capstone project itself, and presentation of that project at the English department capstone events at the end of the semester. All projects must include close engagement with at least one literary text.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27401%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6593,7 +6681,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This capstone seminar will provide a workshop environment for advanced students with clearly defined projects in poetry, fiction, creative nonfiction, drama or a combination of genres. The seminar will center initially on a group of shared readings about the creative process and then turn to the work produced by class members. Through the presentation of new and revised work, and the critiquing of work-in-progress, each student will develop a significant body of writing as well as the critical skills necessary to analyze the work of others. Course may be repeated for credit if the topic is different. Prerequisite(s): ENGL 150, plus one creative writing Crafts class at the 200- or 300- level. Capstone courses are intended to be a culminating experience for the major. Students without Senior status will need instructor permission to enroll.",
+      "description": "This seminar is for senior creative writers who are ready for an ambitious semester-long project. The genre is up to you. It might be a novella, a chapbook of poems, a collection of stories or personal essays, or a feature screenplay. Throughout the semester, you will put up sections of your project for workshop while evaluating the work of your peers. We will also read published works and craft essays to help guide our efforts along the way. After you register for the class, I will ask you to tell me a little about your project via email. Then I will assign texts tailored to your work and the work of others. The class will culminate in a presentation and a revised and finished project.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27406%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6608,7 +6696,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "12:00 - 1:00 pm",
           "room": ""
         }
       ],
@@ -6913,7 +7001,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Sebastiano De Bona",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
@@ -7094,9 +7182,9 @@
           "room": ""
         }
       ],
-      "instructor": "",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "BIOL 380-01 (30276)"
       ],
@@ -7120,9 +7208,9 @@
           "room": ""
         }
       ],
-      "instructor": "",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [
         "BIOL 380-L1 (30278)"
       ],
@@ -7139,10 +7227,16 @@
       "course_number": "385",
       "section": "01",
       "title": "Wildlife Monitoring Techniques",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Stotra Chakrabarti",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [
         "BIOL 385-01 (30074)"
       ],
@@ -7159,10 +7253,16 @@
       "course_number": "385",
       "section": "L1",
       "title": "Wildlife Monitoring Techniques Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "1:20 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Stotra Chakrabarti",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [
         "BIOL 385-L1 (30076)"
       ],
@@ -7203,8 +7303,14 @@
       "course_number": "485",
       "section": "01",
       "title": "Wildlife Conservation in the Anthropocene: An International Perspective",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "12:00 - 1:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Stotra Chakrabarti",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [
@@ -10897,11 +11003,11 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
-      "instructor": "Dave Ehren",
+      "instructor": "William Grodzicki",
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
@@ -10921,30 +11027,6 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
-          "room": ""
-        }
-      ],
-      "instructor": "William Grodzicki",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "A second course in calculus that focuses on theoretical and applied calculus in the mathematical, natural, and social sciences. Topics include: partial derivatives, gradients, contour plots, constrained and unconstrained optimization, Taylor polynomials, interpretations of integrals via finite sums, the fundamental theorem of calculus, double integrals over a rectangle,and differential equations. Attention is given to both symbolic and numerical computing. Prerequisite(s): MATH 135, or AP Calculus AB (with a score of 4 or 5), or IB HL Mathematics: Analysis & Approaches (with a score of 5), or IB HL Mathematics: Applications & Interpretations (with a score of 6 or 7), or a comparable year of high school calculus.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "Quantitative Thinking Q1",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27137%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30441",
-      "subject": "MATH",
-      "subject_name": "Mathematics",
-      "course_number": "137",
-      "section": "03",
-      "title": "Applied Multivariable Calculus II",
-      "meetings": [
-        {
-          "days": "M W F",
           "time": "10:50 - 11:50 am",
           "room": ""
         }
@@ -10957,7 +11039,7 @@
       "description": "A second course in calculus that focuses on theoretical and applied calculus in the mathematical, natural, and social sciences. Topics include: partial derivatives, gradients, contour plots, constrained and unconstrained optimization, Taylor polynomials, interpretations of integrals via finite sums, the fundamental theorem of calculus, double integrals over a rectangle,and differential equations. Attention is given to both symbolic and numerical computing. Prerequisite(s): MATH 135, or AP Calculus AB (with a score of 4 or 5), or IB HL Mathematics: Analysis & Approaches (with a score of 5), or IB HL Mathematics: Applications & Interpretations (with a score of 6 or 7), or a comparable year of high school calculus.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27137%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27137%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30442",
@@ -10973,7 +11055,7 @@
           "room": ""
         }
       ],
-      "instructor": "Lori Ziegelmeier",
+      "instructor": "Yariana Diaz",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -11093,7 +11175,7 @@
           "room": ""
         }
       ],
-      "instructor": "Yariana Diaz",
+      "instructor": "Dave Ehren",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -11112,8 +11194,8 @@
       "title": "Differential Equations",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "10:50 - 11:50 am",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -11136,48 +11218,20 @@
       "title": "Probability",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "days": "T R",
+          "time": "8:00 - 9:30 am",
           "room": ""
         }
       ],
       "instructor": "Alexander Hanhart",
       "open_seats": "20",
       "max_enrollment": "20",
-      "crosslistings": [
-        "STAT 354-01 (30668)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to probability theory and application. Fundamental probability concepts include: sample spaces, combinatorics, conditional probability, independence, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems. Special course topics vary and may include: computer simulation, stochastic processes, and statistical inference. Prerequisite(s): MATH 137 or MATH 237",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27354%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30671",
-      "subject": "MATH",
-      "subject_name": "Mathematics",
-      "course_number": "354",
-      "section": "02",
-      "title": "Probability",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Alexander Hanhart",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [
-        "STAT 354-02 (30670)"
-      ],
-      "seat_reservations": "",
-      "description": "An introduction to probability theory and application. Fundamental probability concepts include: sample spaces, combinatorics, conditional probability, independence, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems. Special course topics vary and may include: computer simulation, stochastic processes, and statistical inference. Prerequisite(s): MATH 137 or MATH 237",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27354%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30673",
@@ -11189,47 +11243,19 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Abby Loe",
       "open_seats": "16",
       "max_enrollment": "16",
-      "crosslistings": [
-        "STAT 355-01 (30672)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "An important course for students considering graduate work in statistics or biostatistics, this course explores the mathematical theory underlying modern statistical techniques. Topics include the theory behind: parameter estimation, evaluation of estimator properties, hypothesis testing, confidence intervals, and linear regression. Special topics vary and may include: tests of independence, resampling techniques, introductory Bayesian concepts, and non­parametric methods. Prerequisite(s): STAT 155, MATH 236, MATH 354/STAT 354.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27355%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30675",
-      "subject": "MATH",
-      "subject_name": "Mathematics",
-      "course_number": "355",
-      "section": "02",
-      "title": "Statistical Theory",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "16",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "STAT 355-02 (30674)"
-      ],
-      "seat_reservations": "",
-      "description": "An important course for students considering graduate work in statistics or biostatistics, this course explores the mathematical theory underlying modern statistical techniques. Topics include the theory behind: parameter estimation, evaluation of estimator properties, hypothesis testing, confidence intervals, and linear regression. Special topics vary and may include: tests of independence, resampling techniques, introductory Bayesian concepts, and non­parametric methods. Prerequisite(s): STAT 155, MATH 236, MATH 354/STAT 354.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27355%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30192",
@@ -11391,7 +11417,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "10:50 - 11:50 am",
+          "time": "2:20 - 3:20 pm",
           "room": ""
         }
       ],
@@ -11697,30 +11723,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%27113%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30462",
-      "subject": "MUSI",
-      "subject_name": "Music",
-      "course_number": "153",
-      "section": "01",
-      "title": "Electronic Music",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Reid Kruger",
-      "open_seats": "12",
-      "max_enrollment": "12",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Electronic music composition explores the art of creating experimental sound compositions using analog and digital technology. Although we will survey the historical development of electronic music, the emphasis of the class is on composition, including multi-media and experimental work. The class format includes listening, discussion, lab sessions and a final concert showcasing works created throughout the semester.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%27153%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30463",
       "subject": "MUSI",
       "subject_name": "Music",
@@ -11743,6 +11745,30 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%27155%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30744",
+      "subject": "MUSI",
+      "subject_name": "Music",
+      "course_number": "194",
+      "section": "01",
+      "title": "Electronic Music in Performance",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Reid Kruger",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This topics course explores the creation of original electronic music and its translation from the studio to the stage. Students will compose and produce their own works using hardware and software tools of their choosing, with access to the Electronic Music Studio throughout the production process. Alongside composition, the course examines strategies for bringing electronic music to life in performance, including live manipulation of sound, controllers and instruments, improvisation, and the balance between fixed and real-time elements. Through listening, critique, and hands-on studio work, students will develop both a finished composition and a performance approach. The semester culminates in a concert in which each student performs one or more elements of their piece live.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30464",
@@ -11830,7 +11856,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "2:20 - 3:20 pm",
+          "time": "12:00 - 1:00 pm",
           "room": ""
         }
       ],
@@ -11850,7 +11876,7 @@
       "subject_name": "Music",
       "course_number": "394",
       "section": "01",
-      "title": "MUSI Topics Course",
+      "title": "Popular Music Analysis",
       "meetings": [
         {
           "days": "M W F",
@@ -11863,8 +11889,8 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "In this seminar, students will learn theories engaging analysis of North American and European popular music. To achieve this learning outcome, students will read current music-theoretic popular music scholarship on rhythm and meter, sound, form, harmony, and melody, and they will apply the theories in original analyses of recordings in this wide-ranging repertory. Students will develop written and verbal presentation skills to demonstrate their analytic findings. Prerequisite: MUSI 113 or permission of the instructor",
+      "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -11976,8 +12002,14 @@
       "course_number": "79",
       "section": "01",
       "title": "Asian Music Ensemble",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "TBA",
+          "time": "",
+          "room": ""
+        }
+      ],
+      "instructor": "Chuen-Fung Wong",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12187,7 +12219,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Amanda Evans",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12211,7 +12243,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Amanda Evans",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12283,7 +12315,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Amy Ihlan",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12307,7 +12339,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Amy Ihlan",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12400,7 +12432,7 @@
       "subject_name": "Philosophy",
       "course_number": "294",
       "section": "01",
-      "title": "The Direction of Time",
+      "title": "Time, Reality, and Science Fiction",
       "meetings": [
         {
           "days": "W",
@@ -12413,7 +12445,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Consider classic philosophical questions such as: Can we have knowledge of the external world? How do persons persist through time? What is the nature of time? Approaching these questions through the lens of science fiction can be illuminating. Philosophical arguments become sharper and our intuitions about philosophical problems change when confronted with stories. In this course, we will explore these philosophical questions using science fiction as a conceptual aid. A significant portion of the course will focus on issues related to the direction of time. Why are we able to affect the future but not the past? Why are we able to remember the past but not the future? Why do we always see eggs breaking, but never see broken eggs spontaneously coalesce, even though both are equally allowed by the fundamental laws of physics? Is time something that emerges at higher levels or is it mere illusion? Is time-travel prohibited by the laws of logic? By the laws of physics? In addition to these, we will also discuss questions about time travel, causation, personal identity, artificial intelligence, and parallel universes in quantum mechanics. Any relevant physics will be covered in class.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -12448,7 +12480,7 @@
       "subject_name": "Philosophy",
       "course_number": "394",
       "section": "01",
-      "title": "Hume, Kant and Scottish Philosophy",
+      "title": "Hume and his Frenemies",
       "meetings": [
         {
           "days": "M",
@@ -12461,7 +12493,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Surprisingly, the small country of Scotland became a hotbed of European Philosophy in the Eighteenth Century, fueling the broader Scottish Enlightenment. The major philosophical figure of this period was undoubtedly David Hume (1711-1776). A major philosophical force to this day, Hume was influenced by earlier Scottish thinkers like Frances Hutcheson. His best friend, the famous economist and moral philosopher Adam Smith, was at Hume’s bedside when he died. Subsequent Scottish philosophers, in the so-called \"common sense\" school, such as Thomas Reid, reacted against Hume’s extreme skepticism. Theologians like Joseph Butler and Philosophers of Science like Mary Shepherd further questioned the Humean paradigm. But along with his famous antagonist Jean-Jacques Rousseau, perhaps the greatest frenemy of Hume was Immanuel Kant, who wrote in his Prolegomena that Hume \"awoke me from my dogmatic slumber.\" Yet, in the same text Kant chastised Hume: \"deposited his ship on the beach (of skepticism) for safekeeping, where it could then lie and rot.\" We will also explore some of the significant influences of Scottish philosophy in Early America, especially physicist and politician Cadwallader Colden and his botanist daughter Jane. Among the philosophical topics to be considered: epistemology, metaphysics, ethics, skepticism, philosophy of religion, philosophy of science, economics, political philosophy, race, and aesthetics.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -12472,7 +12504,7 @@
       "subject_name": "Philosophy",
       "course_number": "394",
       "section": "02",
-      "title": "PHIL Topics Course",
+      "title": "Law and Morality: Landback, Prisons, and AI",
       "meetings": [
         {
           "days": "M W F",
@@ -12480,12 +12512,12 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Aila O'Loughlin",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "What are laws and (why) do we need them? Do laws codify morals or are they something different entirely? What do laws do for us? When is it right to break the law? This course enlists classic questions in the philosophy of law to trouble three contemporary ethical dilemmas: landback reparations, prison reform or abolition, and our moral responsibilities surrounding artificial intelligence.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13659,6 +13691,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27269%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30745",
+      "subject": "POLI",
+      "subject_name": "Political Science",
+      "course_number": "275",
+      "section": "01",
+      "title": "Interpretive Research Methods",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Sheharyar Imran",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course examines interpretation as a method of political analysis. We will explore the intellectual, political, and practical dimensions of interpretive methods, including historical and genealogical research, discourse analysis and ordinary language philosophy, and ethnography. We will examine the history and philosophy of interpretation as method of scientific and intellectual inquiry; explore how interpretive approaches can be deployed to design and conduct qualitative research projects structured around critical and normative questions; engage with scholarly works that have deployed them; and attempt to apply select methods to our own unique research questions. Throughout the course, we will reflect on the ethics and politics of using particular methods of data collection and analysis.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27275%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30360",
       "subject": "POLI",
       "subject_name": "Political Science",
@@ -13735,30 +13791,6 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27290%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30543",
-      "subject": "POLI",
-      "subject_name": "Political Science",
-      "course_number": "294",
-      "section": "01",
-      "title": "Interpretive Research Methods",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Sheharyar Imran",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30545",
@@ -14134,7 +14166,7 @@
       "meetings": [
         {
           "days": "R",
-          "time": "3:00 - 4:30 pm",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -14162,7 +14194,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Violet Brown",
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
@@ -14186,7 +14218,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Violet Brown",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -14210,7 +14242,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Violet Brown",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -14445,8 +14477,14 @@
       "course_number": "294",
       "section": "01",
       "title": "Sports Psychology",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "M",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Mackenzie Griffin",
       "open_seats": "32",
       "max_enrollment": "32",
       "crosslistings": [],
@@ -14621,7 +14659,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "What does neuroscience reveal about free will, responsibility, and identity – and how do those insights challenge the ways we think about law, medicine, and society? This discussion-based seminar examines the ethical, legal, and societal questions raised by contemporary neuroscience. Topics include moral decision-making, brain-based lie detection, cognitive enhancement, psychiatric neurotechnologies, and the use of neural data in courts, clinics, and consumer settings. The course also considers how neuroethics intersects with broader questions of equity, disability, identity, and systemic bias. Course work involves reading and analyzing work from neuroscience, psychology, philosophy, and law. It also includes leading and contributing to inclusive discussions and applying ethical reasoning to real-world scenarios. A final project provides the opportunity to investigate a neuroethical issue in a format that fits individual interests, such as a research proposal, policy brief, public-facing resource, or legal case analysis.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PSYC%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14669,7 +14707,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Once considered marginal or devalued, qualitative methods have become increasingly common in psychological research. This course offers a broad survey in approaches to qualitative research design, data collection, and data analysis. During the semester, you will examine how your beliefs shape your understanding of the research process and explore the deeper philosophical assumptions that justify our claims to knowledge. We then review qualitative methodologies and methods that have become common in psychology, including ethnographic observations, interviewing and focus groups, participatory action research, content analysis, thematic analysis, grounded theory, narrative analysis, phenomenology, and discourse analysis. We conclude with a discussion of the future of qualitative inquiry, ethical concerns, and disciplinary guidelines for the reporting and reviewing of qualitative research. The course culminates in a qualitative research proposal on a topic of your choosing.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PSYC%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14688,12 +14726,12 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Violet Brown",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "We tend to think of pain as an alarm that sounds when the body is hurt, but the relationship between tissue damage and our perception of pain is far less direct than it may seem. Soldiers and athletes may not notice serious injuries in the heat of the moment, while some people live with intense pain that has no visible cause, and a rare few are born unable to feel pain at all. In this course, we’ll explore pain as an experience the nervous system constructs from biological, psychological, and social influences. We’ll start with how specialized nerve endings detect potential harm and how that signal travels to the brain. Then we’ll look at the many points along the way where the “Pain Gain” knob can be turned up or down: why rubbing a stubbed toe helps, why being distracted dulls pain, how pain medications work (and why they may not work for everyone), and how placebos turn that same knob. Finally, we’ll examine why the sting of rejection or heartbreak can feel physically painful, how social support can ease pain, and how social factors like gender and race shape whose pain gets recognized and treated.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PSYC%27%20num=%27394%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -16235,7 +16273,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -16250,32 +16288,6 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27112%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30174",
-      "subject": "STAT",
-      "subject_name": "Statistics",
-      "course_number": "112",
-      "section": "04",
-      "title": "Introduction to Data Science",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Lauren Milne",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [
-        "COMP 112-04 (30173)"
-      ],
-      "seat_reservations": "",
-      "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "Quantitative Thinking Q2",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27112%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30660",
@@ -16358,12 +16370,12 @@
       "title": "Introduction to Statistical Modeling",
       "meetings": [
         {
-          "days": "T R",
-          "time": "8:00 - 9:30 am",
+          "days": "M W F",
+          "time": "8:30 - 9:30 am",
           "room": ""
         }
       ],
-      "instructor": "Md Mutasim Billah",
+      "instructor": "Abby Loe",
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
@@ -16383,11 +16395,11 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "3:00 - 4:30 pm",
           "room": ""
         }
       ],
-      "instructor": "Md Mutasim Billah",
+      "instructor": "Alex Knutson",
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
@@ -16472,30 +16484,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27253%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30667",
-      "subject": "STAT",
-      "subject_name": "Statistics",
-      "course_number": "253",
-      "section": "03",
-      "title": "Statistical Machine Learning",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Md Mutasim Billah",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "The linear and logistic modeling techniques from STAT 155 are augmented with the three foundational machine learning tasks: regression, classification, and clustering. The course explores techniques central to these tasks, including methods of data exploration, supervised and unsupervised learning, parametric and nonparametric modeling, and model training and evaluation. As required by the application of these sophisticated techniques, the course also introduces foundational statistical computer programming concepts. Prerequisite(s): STAT 155.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27253%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30668",
       "subject": "STAT",
       "subject_name": "Statistics",
@@ -16504,48 +16492,20 @@
       "title": "Probability",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "days": "T R",
+          "time": "8:00 - 9:30 am",
           "room": ""
         }
       ],
       "instructor": "Alexander Hanhart",
       "open_seats": "20",
       "max_enrollment": "20",
-      "crosslistings": [
-        "MATH 354-01 (30669)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to probability theory and application. Fundamental probability concepts include: sample spaces, combinatorics, conditional probability, independence, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems. Special course topics vary and may include: computer simulation, stochastic processes, and statistical inference. Prerequisite(s): MATH 137 or MATH 237",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27354%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30670",
-      "subject": "STAT",
-      "subject_name": "Statistics",
-      "course_number": "354",
-      "section": "02",
-      "title": "Probability",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Alexander Hanhart",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [
-        "MATH 354-02 (30671)"
-      ],
-      "seat_reservations": "",
-      "description": "An introduction to probability theory and application. Fundamental probability concepts include: sample spaces, combinatorics, conditional probability, independence, random variables, probability distributions, expectation, variance, moment-generating functions, and limit theorems. Special course topics vary and may include: computer simulation, stochastic processes, and statistical inference. Prerequisite(s): MATH 137 or MATH 237",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27354%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30672",
@@ -16557,47 +16517,19 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Abby Loe",
       "open_seats": "16",
       "max_enrollment": "16",
-      "crosslistings": [
-        "MATH 355-01 (30673)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "An important course for students considering graduate work in statistics or biostatistics, this course explores the mathematical theory underlying modern statistical techniques. Topics include the theory behind: parameter estimation, evaluation of estimator properties, hypothesis testing, confidence intervals, and linear regression. Special topics vary and may include: tests of independence, resampling techniques, introductory Bayesian concepts, and non­parametric methods. Prerequisite(s): STAT 155, MATH 236, MATH 354/STAT 354.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27355%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30674",
-      "subject": "STAT",
-      "subject_name": "Statistics",
-      "course_number": "355",
-      "section": "02",
-      "title": "Statistical Theory",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "16",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "MATH 355-02 (30675)"
-      ],
-      "seat_reservations": "",
-      "description": "An important course for students considering graduate work in statistics or biostatistics, this course explores the mathematical theory underlying modern statistical techniques. Topics include the theory behind: parameter estimation, evaluation of estimator properties, hypothesis testing, confidence intervals, and linear regression. Special topics vary and may include: tests of independence, resampling techniques, introductory Bayesian concepts, and non­parametric methods. Prerequisite(s): STAT 155, MATH 236, MATH 354/STAT 354.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27STAT%27%20num=%27355%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30676",
@@ -17384,7 +17316,7 @@
         "ENGL 105-01 (30229)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This introductory English course covers lesbian, gay, bisexual, transgender, queer, and Two Spirit literature in America—with a focus on resistance and resilience. We will examine how American culture and politics have shaped and been shaped by LGBTQ2S+ writing and art. We’ll appreciate intersections of race, ethnicity, and class in historical and current work. And we’ll explore what it means to queer a text, a life, and a culture. Requirements include written responses to reading, a creative project, a 5-7 page essay, and an optional escape room scenario. Authors we’ll read include: Jewelle Gomez, James Baldwin, Audre Lorde, Gloria Anzaldúa, Allison Bechdel, Kai Cheng Thom, Tommy Pico, Malinda Lo, Mariko Tamaki, and Junauda Petrus.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
