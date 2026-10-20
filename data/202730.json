@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-19T03:45:24.735651+00:00",
-  "course_count": 714,
+  "scraped_at": "2026-10-20T03:56:34.734990+00:00",
+  "course_count": 717,
   "courses": [
     {
       "crn": "30678",
@@ -572,8 +572,8 @@
         }
       ],
       "instructor": "Arjun Guneratne",
-      "open_seats": "24",
-      "max_enrollment": "24",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to ethnographic field interviewing learned in the context of individually run student field projects. Focuses on the anthropologist-informant field relationship and the discovery of cultural knowledge through participant observation and ethnosemantic interviewing techniques. Prerequisite(s): ANTH 101 or ANTH 111 or permission of instructor.",
@@ -624,7 +624,7 @@
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course examines the dying process and the ways that humans beings come to terms with their mortality in different societies. We will learn how people die in major illnesses and critically analyze controversial issues regarding brain death, suicide, and euthanasia. We will survey funerary traditions from a variety of cultures and compare the social, spiritual, and psychological roles that these rituals play for both the living and the dying. We will examine cultural attitudes towards death; and how the denial and awareness of human mortality can shape social practices and institutions. Finally, we will consider issues regarding the quality of life, the opportunities and challenges of caregiving, and hospice traditions around the world.",
+      "description": "This course examines the dying process and the ways that humans beings come to terms with their mortality in different societies. We will learn how people die in major illnesses and critically analyze controversial issues regarding brain death, suicide, and euthanasia. We will survey funerary traditions from a variety of cultures and compare the social, spiritual, and psychological roles that these rituals play for both the living and the dying. We will examine cultural attitudes towards death; and how the denial and awareness of human mortality can shape social practices and institutions. Finally, we will consider issues regarding the quality of life, the opportunities and challenges of caregiving, and hospice traditions around the world. Please note that this is a civic engagement course in which all students will train and work as hospice volunteers. All students must be interviewed before they can register for the course.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27241%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -683,7 +683,7 @@
       "subject_name": "Anthropology",
       "course_number": "294",
       "section": "02",
-      "title": "Serpent Mounds and Sun Daggers: Archaeologists of Native North America",
+      "title": "Serpent Mounds and Sun Daggers: Archaeologies of Native North America",
       "meetings": [
         {
           "days": "M W F",
@@ -697,7 +697,7 @@
       "crosslistings": [],
       "seat_reservations": "",
       "description": "The history of North America before European invasion is one of political upheavals, sophisticated environmental knowledge, monumental architecture, and relationships with other-than-human beings and forces. But rarely do we learn about complex Indigenous histories and the lives of real people and societies in popular accounts of the Native American past. This course provides an introduction to the history, material culture, architecture, and worldviews of Indigenous peoples in North America from ca. 25,000 years ago through the arrival of Europeans. We will draw on knowledge from both archaeology and Native oral histories to gain a more holistic understanding. Subjects explored include: case studies of Indigenous archaeological sites and cultural groups across North America; archaeological methods; problematic stereotypes of Native Americans; ideas of complexity in archaeology; Native oral histories; religion and ontology; power and inequality; monumentality; traditional ecological knowledge (TEK); NAGPRA and museums; and Indigenous / collaborative archaeologies. No prerequisites.",
-      "distribution_requirements": "",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -771,7 +771,7 @@
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course exposes the complex realities of investigating and resolving forensic cold cases. When the traditional justice system stalls, forensic anthropologists are the vital link called upon by law enforcement to recover and identify human remains left unidentified for years and advocate for missing persons long sought. Here, you will look past the lab bench to interrogate the contributions of anthropology to long-term unresolved cases and the ethics, challenges, and limitations of modern investigations. We will dive deep into the concept of the \"missing missing,\" expose the dangers of cognitive bias, and critique the intersection of media and law enforcement work. With an uncompromising focus on social justice, you will engage with advocacy organizations and novel approaches which are rewriting the rules of activism and identification sciences. By the end of the semester, you won’t just understand the barriers to solving cold cases, you will break them down by conducting an active investigation into a real cold case and promoting public awareness. Pre-requisites: None, but ANTH 115, ANTH 240, ANTH 294 (Maggots, Murder and Media) recommended. Consult instructor.",
-      "distribution_requirements": "",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -796,8 +796,8 @@
         "CLAS 394-01 (30737)"
       ],
       "seat_reservations": "",
-      "description": "The recent global success of The Odyssey film has reignited fascination with this 2,700-year-old Greek epic poem. Frequently, The Odyssey is framed as a classic work of “Western civilization,” a characterization that can decontextualize the poem from its historical and cultural context as an Archaic Period Greek narrative describing events set 500 years prior. This course asks: what if we were to read The Odyssey through an anthropological lens, as an ethnographic text through which to understand a different society and thereby reflect on our own? In this class, one day a week will be dedicated to in-depth discussion of The Odyssey, and the other will explore topics including: Late Bronze Age archaeology and the historicity of the Trojan War; the nature of oral literature; Archaic Greek concepts of hospitality, divinity, warriorship, and gender; critiques of the “Western civilization” idea; and reinterpretations and appropriations of The Odyssey including cinema. Prerequisites: A prior class in anthropology or in CMME or permission of the instructor.",
-      "distribution_requirements": "",
+      "description": "The recent global success of The Odyssey film has reignited fascination with this 2,700-year-old Greek epic poem. Frequently, The Odyssey is framed as a classic work of “Western civilization,” a characterization that can decontextualize the poem from its historical and cultural context as an Archaic Period Greek narrative describing events set 500 years prior. This course asks: what if we were to read The Odyssey through an anthropological lens, as an ethnographic text through which to understand a different society and thereby reflect on our own? In this class, one day a week will be dedicated to in-depth discussion of The Odyssey, and the other will explore topics including: Late Bronze Age archaeology and the historicity of the Trojan War; the nature of oral literature; Archaic Greek concepts of hospitality, divinity, warriorship, and gender; colonialism in The Odyssey and Archaic Greek society; critiques of the “Western civilization” idea; and reinterpretations and appropriations of The Odyssey including cinema. Prerequisites: A prior class in anthropology or in CMME is recommended, or permission of the instructor.",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -983,7 +983,7 @@
           "room": ""
         }
       ],
-      "instructor": "Samantha Leopold-Sullivan",
+      "instructor": "Samael Leopold Sullivan",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -1079,7 +1079,7 @@
           "room": ""
         }
       ],
-      "instructor": "Samantha Leopold-Sullivan",
+      "instructor": "Samael Leopold Sullivan",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -2410,7 +2410,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Kelsey Boyle",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [
@@ -2437,8 +2437,8 @@
         }
       ],
       "instructor": "Kelsey Boyle",
-      "open_seats": "24",
-      "max_enrollment": "24",
+      "open_seats": "36",
+      "max_enrollment": "36",
       "crosslistings": [
         "CHEM 352-01 (30116)"
       ],
@@ -2463,8 +2463,8 @@
         }
       ],
       "instructor": "Kelsey Boyle",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "18",
+      "max_enrollment": "18",
       "crosslistings": [
         "CHEM 352-L1 (30118)"
       ],
@@ -2489,8 +2489,8 @@
         }
       ],
       "instructor": "Kelsey Boyle",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "18",
+      "max_enrollment": "18",
       "crosslistings": [
         "CHEM 352-L2 (30120)"
       ],
@@ -2499,32 +2499,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27352%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30123",
-      "subject": "BIOL",
-      "subject_name": "Biology",
-      "course_number": "354",
-      "section": "01",
-      "title": "Chemical Biology",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Leah Witus",
-      "open_seats": "16",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "CHEM 354-01 (30122)"
-      ],
-      "seat_reservations": "",
-      "description": "Chemical biology is a field of study that applies chemistry to advanced problems in biology and medicine. This course will cover the fundamentals of the field, starting with a review of relevant biology, as well as advanced topics and state-of-the-art research. Through lectures, critical reading of recent literature, student presentations, and proposals, students will learn about the development of chemical tools to study and manipulate biological systems in novel ways. Topics may include: protein engineering and unnatural amino acid incorporation, targeted drug delivery, small molecule and protein-based imaging tools, bio-orthogonal reactions, synthetic biology, and combinatorial chemistry. Three lecture hours each week. Prerequisite(s): CHEM 212 .",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27354%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30276",
@@ -2838,7 +2812,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Kathryn Splan",
       "open_seats": "36",
       "max_enrollment": "36",
       "crosslistings": [],
@@ -2886,7 +2860,7 @@
           "room": ""
         }
       ],
-      "instructor": "Kathryn Splan",
+      "instructor": "",
       "open_seats": "36",
       "max_enrollment": "36",
       "crosslistings": [],
@@ -2934,7 +2908,7 @@
           "room": ""
         }
       ],
-      "instructor": "Amy Rice",
+      "instructor": "Isabella Nimm",
       "open_seats": "18",
       "max_enrollment": "18",
       "crosslistings": [],
@@ -2958,7 +2932,7 @@
           "room": ""
         }
       ],
-      "instructor": "Amy Rice",
+      "instructor": "Isabella Nimm, Marc Rodwogin",
       "open_seats": "36",
       "max_enrollment": "36",
       "crosslistings": [],
@@ -2982,7 +2956,7 @@
           "room": ""
         }
       ],
-      "instructor": "Amy Rice",
+      "instructor": "Isabella Nimm, Sophia Lemonholm",
       "open_seats": "36",
       "max_enrollment": "36",
       "crosslistings": [],
@@ -3006,7 +2980,7 @@
           "room": ""
         }
       ],
-      "instructor": "Amy Rice",
+      "instructor": "Isabella Nimm, Sophia Lemonholm",
       "open_seats": "36",
       "max_enrollment": "36",
       "crosslistings": [],
@@ -3030,7 +3004,7 @@
           "room": ""
         }
       ],
-      "instructor": "Amy Rice",
+      "instructor": "Isabella Nimm",
       "open_seats": "18",
       "max_enrollment": "18",
       "crosslistings": [],
@@ -3490,7 +3464,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Kelsey Boyle",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [
@@ -3517,8 +3491,8 @@
         }
       ],
       "instructor": "Kelsey Boyle",
-      "open_seats": "24",
-      "max_enrollment": "24",
+      "open_seats": "36",
+      "max_enrollment": "36",
       "crosslistings": [
         "BIOL 352-01 (30117)"
       ],
@@ -3543,8 +3517,8 @@
         }
       ],
       "instructor": "Kelsey Boyle",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "18",
+      "max_enrollment": "18",
       "crosslistings": [
         "BIOL 352-L1 (30119)"
       ],
@@ -3569,8 +3543,8 @@
         }
       ],
       "instructor": "Kelsey Boyle",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "18",
+      "max_enrollment": "18",
       "crosslistings": [
         "BIOL 352-L2 (30121)"
       ],
@@ -3579,32 +3553,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27352%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30122",
-      "subject": "CHEM",
-      "subject_name": "Chemistry",
-      "course_number": "354",
-      "section": "01",
-      "title": "Chemical Biology",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Leah Witus",
-      "open_seats": "16",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "BIOL 354-01 (30123)"
-      ],
-      "seat_reservations": "",
-      "description": "Chemical biology is a field of study that applies chemistry to advanced problems in biology and medicine. This course will cover the fundamentals of the field, starting with a review of relevant biology, as well as advanced topics and state-of-the-art research. Through lectures, critical reading of recent literature, student presentations, and proposals, students will learn about the development of chemical tools to study and manipulate biological systems in novel ways. Topics may include: protein engineering and unnatural amino acid incorporation, targeted drug delivery, small molecule and protein-based imaging tools, bio-orthogonal reactions, synthetic biology, and combinatorial chemistry. Three lecture hours each week. Prerequisite(s): CHEM 212",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27354%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30124",
@@ -4624,7 +4572,7 @@
         "ANTH 394-01 (30736)"
       ],
       "seat_reservations": "",
-      "description": "The recent global success of The Odyssey film has reignited fascination with this 2,700-year-old Greek epic poem. Frequently, The Odyssey is framed as a classic work of “Western civilization,” a characterization that can decontextualize the poem from its historical and cultural context as an Archaic Period Greek narrative describing events set 500 years prior. This course asks: what if we were to read The Odyssey through an anthropological lens, as an ethnographic text through which to understand a different society and thereby reflect on our own? In this class, one day a week will be dedicated to in-depth discussion of The Odyssey, and the other will explore topics including: Late Bronze Age archaeology and the historicity of the Trojan War; the nature of oral literature; Archaic Greek concepts of hospitality, divinity, warriorship, and gender; critiques of the “Western civilization” idea; and reinterpretations and appropriations of The Odyssey including cinema. Prerequisites: A prior class in anthropology or in CMME or permission of the instructor.",
+      "description": "The recent global success of The Odyssey film has reignited fascination with this 2,700-year-old Greek epic poem. Frequently, The Odyssey is framed as a classic work of “Western civilization,” a characterization that can decontextualize the poem from its historical and cultural context as an Archaic Period Greek narrative describing events set 500 years prior. This course asks: what if we were to read The Odyssey through an anthropological lens, as an ethnographic text through which to understand a different society and thereby reflect on our own? In this class, one day a week will be dedicated to in-depth discussion of The Odyssey, and the other will explore topics including: Late Bronze Age archaeology and the historicity of the Trojan War; the nature of oral literature; Archaic Greek concepts of hospitality, divinity, warriorship, and gender; colonialism in The Odyssey and Archaic Greek society; critiques of the “Western civilization” idea; and reinterpretations and appropriations of The Odyssey including cinema. Prerequisites: A prior class in anthropology or in CMME is recommended, or permission of the instructor.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CLAS%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -4644,8 +4592,8 @@
         }
       ],
       "instructor": "Andrew Overman",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Archaeology, CRM, courses focusing on material culture, or through conservation or preservation work, or excavations. And for those who sense they may be inclining toward work in or exploring archaeology, conservation work, or museum related studies. Prerequisite(s): CLAS 223",
@@ -5386,6 +5334,54 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27231%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30750",
+      "subject": "ECON",
+      "subject_name": "Economics",
+      "course_number": "233",
+      "section": "01",
+      "title": "Health Economics",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "8:00 - 9:30 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Jessica Kiser",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27233%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30751",
+      "subject": "ECON",
+      "subject_name": "Economics",
+      "course_number": "233",
+      "section": "02",
+      "title": "Health Economics",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Jessica Kiser",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27233%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30205",
@@ -6609,7 +6605,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course explores representations of disability and ability in late medieval and early modern England (c. 1500-1700). How was bodymind normativity, ability, and disability defined in the Renaissance? Why did writers turn to literature to explore illness and disability? And where might we discover evidence of disability gain or disability pride in the early modern archive? How do we explore the intersection of race, dis/ability, and citizenship? We’ll be reading a variety of genres: folk and fairy tales, medical treatises, recipe books and herbals (self-help remedy books written for laypeople), law books (which contain some of the earliest definitions of \"nonability\" and \"disability\"), jest books, ballads, broadsides, poetry, and dramatic writing. Throughout the semester, we will be reading recent scholarship in disability theory and early modern disability studies. No prior knowledge of the topic or of Renaissance literature is expected. This course counts for the Renaissance period requirement for the English major.",
+      "description": "This course explores representations of disability and ability in late medieval and early modern England (c. 1500-1700). How was bodymind normativity, ability, and disability defined in the Renaissance? Why did writers turn to literature to explore illness and disability? And where might we discover evidence of disability gain or disability pride in the early modern archive? How do we explore the intersection of race, dis/ability, and citizenship? We’ll be reading a variety of genres: folk and fairy tales, medical treatises, recipe books and herbals (self-help remedy books written for laypeople), law books (which contain some of the earliest definitions of \"nonability\" and \"disability\"), jest books, ballads, broadsides, poetry, and dramatic writing. Throughout the semester, we will be reading recent scholarship in disability theory and early modern disability studies. No prior knowledge of the topic or of Renaissance literature is expected. This course counts for the Renaissance period requirement for the English major. Prerequisite(s): one 100-level ENGL course",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27319%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6633,7 +6629,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This class explores some of the contours of colonialism, class, and technology in the British nineteenth century. Its title foregrounds objects rather than these concepts, however, because this is fundamentally a course about how we can better understand a moment in time through its material culture. In considering what the Victorians ate and wore and how they chose to document their lives, we will study novels, nonfiction prose, short stories, poetry, and physical objects. Close-readings and historical/theoretical framings will be grounded in writing and hands-on projects (one per unit) that emphasize the interactive experiences of producing and consuming objects as a way of understanding one’s place within a culture’s systems of power. No particular proficiency in cooking, sewing, or film is a prerequisite for the class, though please bring enthusiasm for experimentation! This course satisfies the 18th/19th c British lit requirement on the major.",
+      "description": "This class explores some of the contours of colonialism, class, and technology in the British nineteenth century. Its title foregrounds objects rather than these concepts, however, because this is fundamentally a course about how we can better understand a moment in time through its material culture. In considering what the Victorians ate and wore and how they chose to document their lives, we will study novels, nonfiction prose, short stories, poetry, and physical objects. Close-readings and historical/theoretical framings will be grounded in writing and hands-on projects (one per unit) that emphasize the interactive experiences of producing and consuming objects as a way of understanding one’s place within a culture’s systems of power. No particular proficiency in cooking, sewing, or film is a prerequisite for the class, though please bring enthusiasm for experimentation! This course satisfies the 18th/19th c British lit requirement on the major. Prerequisite(s): one 100-level ENGL course",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27335%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -8354,30 +8350,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOL%27%20num=%27105%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30333",
-      "subject": "GEOL",
-      "subject_name": "Geology",
-      "course_number": "106",
-      "section": "01",
-      "title": "Volcanoes",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "9:40 - 10:40 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Emily First",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Volcanic eruptions are the awe-inspiring expression of a planet’s internal dynamics. They supply the source materials for scientific studies of rocky planets, inspire works of art and literature, feature prominently in sacred traditions, and provide some of the most fertile ground on Earth. They are also destructive and agonizingly uncertain in duration, wreaking havoc on local to global scales via clouds of ash, lava flows, and secondary hazards (e.g., mudflows, famine). This course will cover volcanoes broadly: where and why they occur; what drives eruptions; monitoring; impacts; hazard mitigation; \"reading the rocks\"; volcanoes in art and culture; and perspectives from local populations. Three 1-hour lectures per week, including in-class demos and labs.",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "Quantitative Thinking Q3",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOL%27%20num=%27106%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30334",
       "subject": "GEOL",
       "subject_name": "Geology",
@@ -8640,6 +8612,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOL%27%20num=%27303%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30758",
+      "subject": "GEOL",
+      "subject_name": "Geology",
+      "course_number": "394",
+      "section": "01",
+      "title": "Advanced Topics in Volcanology, Petrology, and Planetary Science",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Emily First",
+      "open_seats": "24",
+      "max_enrollment": "24",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOL%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30345",
@@ -8980,30 +8976,6 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GERM%27%20num=%27278%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30362",
-      "subject": "GERM",
-      "subject_name": "German Studies",
-      "course_number": "294",
-      "section": "01",
-      "title": "GERM Topics Course",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "3:30 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Ross Shields",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GERM%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30363",
@@ -9720,14 +9692,64 @@
         }
       ],
       "instructor": "David Moore",
-      "open_seats": "22",
-      "max_enrollment": "22",
+      "open_seats": "24",
+      "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "One of the most significant trends of the current era has been globalization: the shrinking of distances, the greater interpenetration of the world’s peoples, and the rise, perhaps, of a so-called global culture. Yet it is too simple to say, \"it’s all a big mix,\" for the questions of how the mixing is done, and who mixes, are complex. The study of literature illuminates these questions. By reading important recent texts, this course tackles \"world\" questions: what does it mean to be from a certain place? what is a culture? and who are we in it? We’ll work to link our own personal readings with the texts in dialogue with the world. Texts will be drawn from U.S. multicultural, \"world,\" and travel literature, and rich theoretical readings. Open to first- and second-year students, or permission of the instructor.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30757",
+      "subject": "INTL",
+      "subject_name": "International Studies",
+      "course_number": "114",
+      "section": "01",
+      "title": "Intro to International Studies: International Codes of Conduct",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "James von Geldern",
+      "open_seats": "24",
+      "max_enrollment": "24",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Can we all live by one set of rules? This course investigates the broad field of global studies by addressing fresh and age-old issues in international law from the personal to the global, including borders, sources and enforcement of international law, law of the sea, immigration and asylum, post-national federation, colonization, world order, and global citizenship. Readings include case studies, memoirs, fiction, and other texts focusing on individuals, cultures, and states. Open to first- and second-year students, or permission of the instructor.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "Internationalism, Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27114%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30754",
+      "subject": "INTL",
+      "subject_name": "International Studies",
+      "course_number": "202",
+      "section": "01",
+      "title": "Global Media Industries",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Michael Griffin",
+      "open_seats": "22",
+      "max_enrollment": "22",
+      "crosslistings": [
+        "MCST 202-01 (30753)"
+      ],
+      "seat_reservations": "",
+      "description": "Global media collectively have tremendous influence in how many see and comprehend the world and therefore on the information and beliefs upon which they feel or act. While media are central to the continued production of a sense of \"the world\" at large or the \"global\" scale, media industries are situated geographically, culturally and institutionally. Even if they promise worldwide coverage or are multinational companies, there is much to be gained from studying how media are produced and distributed differently according to specific social, political, economic and historical conditions. This course considers media industries around the world with a focus on the relationships between the labor and infrastructures behind representations in a broad range of media (television, radio, cinema, news, telecommunications, internet). The course will survey these relationships as they have evolved from communication systems in the Industrial Revolution, to industries of mass media in the 20th Century, to the current digital information age and its ongoing transition to an era of automation and AI.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27202%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30396",
@@ -9857,30 +9879,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27288%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30400",
-      "subject": "INTL",
-      "subject_name": "International Studies",
-      "course_number": "294",
-      "section": "01",
-      "title": "INTL Topics Course",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Alix Johnson",
-      "open_seats": "22",
-      "max_enrollment": "22",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30401",
       "subject": "INTL",
       "subject_name": "International Studies",
@@ -9931,6 +9929,32 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27316%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30749",
+      "subject": "INTL",
+      "subject_name": "International Studies",
+      "course_number": "320",
+      "section": "01",
+      "title": "Global Political Economy",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Sheharyar Imran",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "POLI 320-01 (30727)"
+      ],
+      "seat_reservations": "",
+      "description": "Traces the evolution of (global) political economy as a peculiarly modern way of understanding and organizing (global) social life. Particular attention will be paid to how the distinction between the political and the economic is drawn and implemented in interconnected ways within nation-states and in international society. Course includes a detailed study of one of the key components of the international political economy: international trade, international finance, technological processes, etc. Prerequisite(s): Sophomore standing or permission of instructor.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27320%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30403",
@@ -9995,8 +10019,8 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "7",
-      "max_enrollment": "7",
+      "open_seats": "14",
+      "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Drawing on several disciplines, this course confronts global hatred from three angles. The first is the hater’s internal world and looks at how human nature, genetic structure/instincts, and individual psychology may foster hatred. The second is external, exploring the role history, culture, ideology, social structure, religion, and mass psychology play. The third seeks to apply the insights gained from the first two, asking: how might we break the devastating cycles of hatred so present in our world? Prerequisite(s): Senior standing or permission of instructor.",
@@ -11432,30 +11456,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27471%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30453",
-      "subject": "MCST",
-      "subject_name": "Media and Cultural Studies",
-      "course_number": "110",
-      "section": "01",
-      "title": "Texts and Power: Foundations of Media and Cultural Studies",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "16",
-      "max_enrollment": "16",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course introduces students to the intellectual roots and contemporary applications of cultural studies, including critical media studies, focusing on the theoretical bases for analyses of power and meaning in production, texts, and reception. It includes primary readings in anti-racist, feminist, modern, postmodern, and queer cultural and social theory, and compares them to traditional approaches to the humanities. Designed as preparation for intermediate and advanced work grounded in cultural studies, the course is writing intensive, with special emphasis on developing skills in critical thinking and scholarly argumentation and documentation. Completion of or enrollment in MCST 110 is the prerequisite for majoring in media and cultural studies.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Writing WA",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27110%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30454",
       "subject": "MCST",
       "subject_name": "Media and Cultural Studies",
@@ -11502,6 +11502,56 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27128%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30755",
+      "subject": "MCST",
+      "subject_name": "Media and Cultural Studies",
+      "course_number": "194",
+      "section": "01",
+      "title": "Media Technology: From Oral to Digital",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Rory Solomon",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "How is culture determined by the material conditions of its production and circulation? In what ways do communication technologies shape the expressive possibilities of the \"content\" they contain? How is what we say a product of how we choose to say it? These questions, often described as inquiry into relationships between form and content, are central to the field of media studies. This class will provide an introduction to this field through critical analysis of two thousand years of communication technology, examining media forms including: oral culture, the written and printed word, photography, cinema, wireless signals, broadcasting, and digital networks. We will examine how analysis of media intersects with questions of race, class, indigeneity, gender, sexual orientation, and colonialism; and we will study concepts such as technopolitics, the public sphere, cybernetics, semiotics, technological determinism, affect, and aura. Readings will include texts by key figures in the field such as Walter Benjamin, Marshall McLuhan, Stuart Hall, Raymond Williams, Laura Mulvey, Susan Leigh-Star, Wendy Chun, and Armond Towns. Students will dilate their understanding of this field beyond \"the media\" which often simply signifies media industries, to include the broader concept of mediation itself. In so doing, we will consider media theory itself as a medium, and will speculate about how form/content framings shape our understanding of society and culture.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30753",
+      "subject": "MCST",
+      "subject_name": "Media and Cultural Studies",
+      "course_number": "202",
+      "section": "01",
+      "title": "Global Media Industries",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Michael Griffin",
+      "open_seats": "22",
+      "max_enrollment": "22",
+      "crosslistings": [
+        "INTL 202-01 (30754)"
+      ],
+      "seat_reservations": "",
+      "description": "Global media collectively have tremendous influence in how many see and comprehend the world and therefore on the information and beliefs upon which they feel or act. While media are central to the continued production of a sense of \"the world\" at large or the \"global\" scale, media industries are situated geographically, culturally and institutionally. Even if they promise worldwide coverage or are multinational companies, there is much to be gained from studying how media are produced and distributed differently according to specific social, political, economic and historical conditions. This course considers media industries around the world with a focus on the relationships between the labor and infrastructures behind representations in a broad range of media (television, radio, cinema, news, telecommunications, internet). The course will survey these relationships as they have evolved from communication systems in the Industrial Revolution, to industries of mass media in the 20th Century, to the current digital information age and its ongoing transition to an era of automation and AI.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27202%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30456",
@@ -11627,6 +11677,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30756",
+      "subject": "MCST",
+      "subject_name": "Media and Cultural Studies",
+      "course_number": "294",
+      "section": "03",
+      "title": "Digital Media Off-the-Grid",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Rory Solomon",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Off-the-grid usually connotes freedom and autonomy, as well as withdrawal from infrastructural dependency and the strictures governing modern life. But the status of being off-the-grid is experienced differently depending on one’s subject position. For some, being off-the-grid is typically framed as technological liberation: mobility, ecological self-sufficiency, shedding social obligation, and sovereignty over one’s private property. For various marginalized populations however, being off-the-grid can mean being on the wrong side of various so-called “digital divides”: lacking connectivity or access to necessary tools. In all cases, the digital often figures prominently, and in this class we will examine how digitality mediates off-the-grid narratives, with fantasies around off-grid infrastructure often seen as central to our understanding of digital technology. We will read texts in media studies, urban studies, and critical theory among other fields – to explore how the grid hails different subjects differently and to consider techniques for getting off grids in the contexts of surveillance, race, ecological living, gender, and communication networks. We will see how the digital and the off-the-grid are often presented as oppositional, yet function as co-constitutive socio-cultural ideas. Even though we often understand the digital as a highly gridded mode, we will see that it nonetheless frequently enables off-grid or post-grid ways of being. The class will include hands-on coursework, including experiments with circuit building, critical making, non-screen interfaces, alternative power sources, and wireless communications.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30458",
       "subject": "MCST",
       "subject_name": "Media and Cultural Studies",
@@ -11635,8 +11709,8 @@
       "title": "Advanced Research Topics",
       "meetings": [
         {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "days": "M W",
+          "time": "2:20 - 4:30 pm",
           "room": ""
         }
       ],
@@ -11645,7 +11719,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Advanced Research Methods prepares students to conduct independent research projects in Media and Cultural Studies. Beginning with the question, \"What is research?\" students will deepen their engagement with visual and textual analysis. Through an in-depth exploration of an advanced topic designated by the instructor, the course will examine a range of approaches to the ways knowledge is produced and disseminated within the field. Students will strengthen their critical reading and writing skills while developing a research project that reflects the interdisciplinary methodologies explored in the course. Prerequisite(s): MCST 110",
+      "description": "Advanced Research Methods introduces MCST majors and minors to independent research in areas of Media and Cultural Studies, in preparation for later senior capstone projects. Beginning with discussions of the nature of research and why it matters, class members will gain experience with formulating research questions and designing research constructs and procedures to address them. The class will explore different approaches to the ways knowledge is produced and disseminated, and attempt to identify topics and questions of particular importance in media and cultural studies. This might involve textual analysis, visual analysis, the history of media practices (media aesthetics), the study of media institutions and industries, the study of audiences and interpretive communities, or the social, psychological, and political implications of media production and consumption. Class members will strengthen their critical reading and writing skills while developing individual research projects that reflect the interdisciplinary approaches explored in the course. The Spring 2027 offering of the course will emphasize community fieldwork projects supported by the Macalester Community Engagement Activation Fund. For this purpose, the class will meet M,W 2:20-4:30 pm to allow time for occasional travel off-campus. Prerequisite(s): MCST 110",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27388%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13643,6 +13717,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27237%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30752",
+      "subject": "POLI",
+      "subject_name": "Political Science",
+      "course_number": "264",
+      "section": "01",
+      "title": "Interpretive Research Methods",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Sheharyar Imran",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course examines interpretation as a method of political analysis. We will explore the intellectual, political, and practical dimensions of interpretive methods, including historical and genealogical research, discourse analysis and ordinary language philosophy, and ethnography. We will examine the history and philosophy of interpretation as method of scientific and intellectual inquiry; explore how interpretive approaches can be deployed to design and conduct qualitative research projects structured around critical and normative questions; engage with scholarly works that have deployed them; and attempt to apply select methods to our own unique research questions. Throughout the course, we will reflect on the ethics and politics of using particular methods of data collection and analysis.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27264%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30540",
       "subject": "POLI",
       "subject_name": "Political Science",
@@ -13689,30 +13787,6 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Quantitative Thinking Q3",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27269%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30745",
-      "subject": "POLI",
-      "subject_name": "Political Science",
-      "course_number": "275",
-      "section": "01",
-      "title": "Interpretive Research Methods",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Sheharyar Imran",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course examines interpretation as a method of political analysis. We will explore the intellectual, political, and practical dimensions of interpretive methods, including historical and genealogical research, discourse analysis and ordinary language philosophy, and ethnography. We will examine the history and philosophy of interpretation as method of scientific and intellectual inquiry; explore how interpretive approaches can be deployed to design and conduct qualitative research projects structured around critical and normative questions; engage with scholarly works that have deployed them; and attempt to apply select methods to our own unique research questions. Throughout the course, we will reflect on the ethics and politics of using particular methods of data collection and analysis.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27275%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30360",
@@ -13859,7 +13933,9 @@
       "instructor": "Sheharyar Imran",
       "open_seats": "20",
       "max_enrollment": "20",
-      "crosslistings": [],
+      "crosslistings": [
+        "INTL 320-01 (30749)"
+      ],
       "seat_reservations": "",
       "description": "Traces the evolution of (global) political economy as a peculiarly modern way of understanding and organizing (global) social life. Particular attention will be paid to how the distinction between the political and the economic is drawn and implemented in interconnected ways within nation-states and in international society. Course includes a detailed study of one of the key components of the international political economy: international trade, international finance, technological processes, etc. Prerequisite(s): Sophomore-standing or permission of instructor.",
       "distribution_requirements": "Social science",

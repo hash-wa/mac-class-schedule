@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-19T03:44:50.660220+00:00",
+  "scraped_at": "2026-10-20T03:56:02.522184+00:00",
   "course_count": 772,
   "courses": [
     {
@@ -1048,7 +1048,7 @@
           "room": "ART 118"
         }
       ],
-      "instructor": "Lela Pierce",
+      "instructor": "Samael Leopold Sullivan",
       "open_seats": "0",
       "max_enrollment": "15",
       "crosslistings": [],
@@ -1196,7 +1196,7 @@
           "room": "ART 118"
         }
       ],
-      "instructor": "Lela Pierce",
+      "instructor": "Samael Leopold Sullivan",
       "open_seats": "3",
       "max_enrollment": "10",
       "crosslistings": [],
