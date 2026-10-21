@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-20T03:56:34.734990+00:00",
+  "scraped_at": "2026-10-21T03:46:33.186069+00:00",
   "course_count": 717,
   "courses": [
     {
@@ -287,8 +287,8 @@
       "title": "Uses and Abuses: Drugs, Addiction and Recovery",
       "meetings": [
         {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -1390,8 +1390,8 @@
       "title": "How to Get to Nirvana",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "3:30 - 4:30 pm",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -1403,7 +1403,7 @@
         "PHIL 194-01 (30592)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores the historical development of Buddhist thought and practice across Asia by tracing how communities of monks, scholars, and philosophers sought to understand and embody the path to liberation. Including studies of major schools and figures in Buddhism, including Nāgārjuna, Vasubandhu, and Buddhaghosa, students examine how diverse Buddhist traditions emerged from shared questions about mind, self, causality, and the nature of awakening. Along the way, the course cultivates key academic skills in textual interpretation, argumentation, and historical contextualization. Students learn to analyze philosophical ideas within their religious and cultural settings, compare perspectives across regions and time periods, and engage critically with both primary sources and modern scholarship. By combining close reading with cross-cultural inquiry and philosophical reasoning, students gain insight not only into the development of Buddhism but also into the broader processes by which ideas travel, transform, and shape worlds. The course provides both newcomers and those with prior background a rigorous and rewarding foundation for further study in religion, philosophy, or intellectual history.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -1441,7 +1441,13 @@
       "course_number": "236",
       "section": "01",
       "title": "Sanskrit and Classical Religion in India",
-      "meetings": [],
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
       "instructor": "",
       "open_seats": "12",
       "max_enrollment": "12",
@@ -1535,32 +1541,6 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27273%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30382",
-      "subject": "ASIA",
-      "subject_name": "Asian Studies",
-      "course_number": "275",
-      "section": "01",
-      "title": "The Rise of Modern China",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "3:30 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "25",
-      "max_enrollment": "25",
-      "crosslistings": [
-        "HIST 275-01 (30381)"
-      ],
-      "seat_reservations": "",
-      "description": "A study of leading institutions and movements of nineteenth- and twentieth-century China. Major emphases include the impact of Western imperialism, the transformation of peasant society through revolution, the rise of Mao Tse-Tung, and the Great Proletarian Cultural Revolution. Special attention will be given to U.S.-China relations.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27275%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30008",
@@ -4122,7 +4102,13 @@
       "course_number": "202",
       "section": "01",
       "title": "Sanskrit and Classical Religion in India",
-      "meetings": [],
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
       "instructor": "",
       "open_seats": "12",
       "max_enrollment": "12",
@@ -4439,7 +4425,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
@@ -4450,7 +4436,7 @@
         "RELI 294-01 (30601)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores the pleasures and pains of love (divine and human) as imagined by authors writing within the Persianate tradition. We will examine diverse sources, including autobiographies, letters, poems, and novels, produced from the tenth century to the present day. Readings (in English translation) will center on themes such as forbidden love, the celebration of carnal pleasure and lust, homoeroticism, mystical love, and love for God, religious figures, and the nation. Primary texts will be paired with secondary readings that develop key literary and philosophical questions about love.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CLAS%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6885,6 +6871,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27229%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30760",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "230",
+      "section": "01",
+      "title": "Green Germany: Ecology, Esotericism, Conspiracy",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ross Shields",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "GERM 230-01 (30759)"
+      ],
+      "seat_reservations": "",
+      "description": "Germany has played a leading role in Europe’s transition to renewable energy. It also has a long history of organized opposition to vaccination. What connects these seemingly divergent attitudes toward science, technology, and the natural world? This course explores the intersections of ecology, esotericism, and conspiracy in German-speaking Europe, from Romantic nature philosophy to contemporary environmental activism and alternative health movements. Topics include Germany’s rejection of nuclear power, the institutional acceptance of homeopathy, and the political uses of ideals of natural purity. Through literature, visual art, film, board games, and scientific and philosophical writings, we will examine how appeals to nature have inspired projects of personal transformation, social emancipation, and racial exclusion. What does it mean to live naturally? Who can claim to speak for nature? And how do we distinguish the ecological insight that everything is connected from the suspicion that nothing happens by chance? Taught in English. No previous knowledge required.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27230%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30263",
       "subject": "ENVI",
       "subject_name": "Environmental Studies",
@@ -8950,6 +8962,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GERM%27%20num=%27204%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30759",
+      "subject": "GERM",
+      "subject_name": "German Studies",
+      "course_number": "230",
+      "section": "01",
+      "title": "Green Germany: Ecology, Esotericism, Conspiracy",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ross Shields",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "ENVI 230-01 (30760)"
+      ],
+      "seat_reservations": "",
+      "description": "Germany has played a leading role in Europe’s transition to renewable energy. It also has a long history of organized opposition to vaccination. What connects these seemingly divergent attitudes toward science, technology, and the natural world? This course explores the intersections of ecology, esotericism, and conspiracy in German-speaking Europe, from Romantic nature philosophy to contemporary environmental activism and alternative health movements. Topics include Germany’s rejection of nuclear power, the institutional acceptance of homeopathy, and the political uses of ideals of natural purity. Through literature, visual art, film, board games, and scientific and philosophical writings, we will examine how appeals to nature have inspired projects of personal transformation, social emancipation, and racial exclusion. What does it mean to live naturally? Who can claim to speak for nature? And how do we distinguish the ecological insight that everything is connected from the suspicion that nothing happens by chance? Taught in English. No previous knowledge required.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GERM%27%20num=%27230%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30358",
       "subject": "GERM",
       "subject_name": "German Studies",
@@ -9150,6 +9188,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30761",
+      "subject": "HIST",
+      "subject_name": "History",
+      "course_number": "194",
+      "section": "02",
+      "title": "Tiny Histories: Childhood in China",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Children occupy a distinct place in history, one often overlooked in adult-centered narratives. This course examines how societies in premodern and early modern China perceived, valued, and treated children across the full arc of childhood. Topics include rituals of birth and infancy, cultural understandings of childhood illness and corresponding medical care, gendered patterns of education and socialization, conceptions of adolescence and coming-of-age ceremonies, and attitudes toward child mortality. To explore these themes, we will engage with various sources, including legal texts, medical treatises, ritual manuals, educational primers, paintings, toys, and epitaphs. The course also addresses core historiographical issues: how age and gender function as analytical categories in historical inquiry, and how centering childhood as a subject offers methodological perspectives on the study of China’s history.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30370",
       "subject": "HIST",
       "subject_name": "History",
@@ -9337,8 +9399,8 @@
       "title": "Uses and Abuses: Drugs, Addiction and Recovery",
       "meetings": [
         {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -9353,58 +9415,6 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27271%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30381",
-      "subject": "HIST",
-      "subject_name": "History",
-      "course_number": "275",
-      "section": "01",
-      "title": "The Rise of Modern China",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "3:30 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "25",
-      "max_enrollment": "25",
-      "crosslistings": [
-        "ASIA 275-01 (30382)"
-      ],
-      "seat_reservations": "",
-      "description": "A study of leading institutions and movements of nineteenth- and twentieth-century China. Major emphases include the impact of Western imperialism, intellectual and cultural changes, the transformation of peasant society through revolution, the rise of Mao Tse-Tung, and the Great Proletarian Cultural Revolution, and the rise of China as a world power. Special attention will be given to China’s international relations. Meets the post-1800 requirement, and can count towards \"Colonization and Empire,\" or \"Race and Indigeneity,\" or \"Law and Social Justice,\" or \"Asia\" fields.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27275%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30383",
-      "subject": "HIST",
-      "subject_name": "History",
-      "course_number": "285",
-      "section": "01",
-      "title": "Cold War Latin America",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "25",
-      "max_enrollment": "25",
-      "crosslistings": [
-        "LATI 285-01 (30384)"
-      ],
-      "seat_reservations": "",
-      "description": "During the Cold War, Latin America was a decidedly \"hot zone.\" This course considers this phenomenon as a result of internal and external pressures, including political and socioeconomic instability, a deep tradition of revolutionary and socialist activism, and the region’s conflictive relationship with the United States. The class examines dramatic moments of the Latin American Cold War, such as the overthrow of Jacobo Arbenz in Guatemala, the Cuban and Nicaraguan revolutions, and the Dirty Wars in Chile and Argentina. It also examines less heralded aspects of the Latin American Cold War, such as its important role in fostering transhemispheric solidarities, the creative possibilities of Cold War cultural production, the emergence of a youth counterculture, and the many attempts by Latin Americans across the political spectrum to reject the premise of the Cold War altogether. Meets the post-1800 requirement, and can count towards \"Latin American/Caribbean\" field.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism, Writing WP",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27285%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30385",
@@ -9482,6 +9492,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30762",
+      "subject": "HIST",
+      "subject_name": "History",
+      "course_number": "294",
+      "section": "03",
+      "title": "Authority in Maya History",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "2:20 - 3:20 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course will survey the history of the Maya peoples from the mythic past to the present and will center the problem of authority in two senses of the term. First, which peoples and institutions have held authority over Maya peoples in different historical periods, and how has that authority been contested and been co-opted? We will pay special attention to the particular sorts of authority held by missionaries in Maya communities. Second, who has the authority to tell Maya history? What sources and archives inform historical research into this history, and how have these knowledge bases been constructed? How have Maya organic intellectuals and scholars shaped historical narratives about the Maya people? To answer these many questions, we will closely read Maya texts from the Popol Vuh to modern day testimonios and conversion accounts.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30387",
       "subject": "HIST",
       "subject_name": "History",
@@ -9515,7 +9549,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "3:00 - 4:30 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -10472,32 +10506,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LATI%27%20num=%27248%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30384",
-      "subject": "LATI",
-      "subject_name": "Latin American Studies",
-      "course_number": "285",
-      "section": "01",
-      "title": "Cold War Latin America",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "25",
-      "max_enrollment": "25",
-      "crosslistings": [
-        "HIST 285-01 (30383)"
-      ],
-      "seat_reservations": "",
-      "description": "During the Cold War, Latin America was a decidedly \"hot zone.\" This course considers this phenomenon as a result of internal and external pressures, including political and socioeconomic instability, a deep tradition of revolutionary and socialist activism, and the region’s conflictive relationship with the United States. The class examines dramatic moments of the Latin American Cold War, such as the overthrow of Jacobo Arbenz in Guatemala, the Cuban and Nicaraguan revolutions, and the Dirty Wars in Chile and Argentina. It also examines less heralded aspects of the Latin American Cold War, such as its important role in fostering transhemispheric solidarities, the creative possibilities of Cold War cultural production, the emergence of a youth counterculture, and the many attempts by Latin Americans across the political spectrum to reject the premise of the Cold War altogether.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism, Writing WP",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LATI%27%20num=%27285%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30726",
       "subject": "LATI",
       "subject_name": "Latin American Studies",
@@ -10757,7 +10765,13 @@
       "course_number": "236",
       "section": "01",
       "title": "Sanskrit and Classical Religion in India",
-      "meetings": [],
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
       "instructor": "",
       "open_seats": "12",
       "max_enrollment": "12",
@@ -12432,8 +12446,8 @@
       "title": "How to Get to Nirvana",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "3:30 - 4:30 pm",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -12445,7 +12459,7 @@
         "ASIA 194-01 (30591)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores the historical development of Buddhist thought and practice across Asia by tracing how communities of monks, scholars, and philosophers sought to understand and embody the path to liberation. Including studies of major schools and figures in Buddhism, including Nāgārjuna, Vasubandhu, and Buddhaghosa, students examine how diverse Buddhist traditions emerged from shared questions about mind, self, causality, and the nature of awakening. Along the way, the course cultivates key academic skills in textual interpretation, argumentation, and historical contextualization. Students learn to analyze philosophical ideas within their religious and cultural settings, compare perspectives across regions and time periods, and engage critically with both primary sources and modern scholarship. By combining close reading with cross-cultural inquiry and philosophical reasoning, students gain insight not only into the development of Buddhism but also into the broader processes by which ideas travel, transform, and shape worlds. The course provides both newcomers and those with prior background a rigorous and rewarding foundation for further study in religion, philosophy, or intellectual history.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14918,7 +14932,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "12:00 - 1:00 pm",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -14941,8 +14955,8 @@
       "title": "How to Get to Nirvana",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "3:30 - 4:30 pm",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -14954,7 +14968,7 @@
         "PHIL 194-01 (30592)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores the historical development of Buddhist thought and practice across Asia by tracing how communities of monks, scholars, and philosophers sought to understand and embody the path to liberation. Including studies of major schools and figures in Buddhism, including Nāgārjuna, Vasubandhu, and Buddhaghosa, students examine how diverse Buddhist traditions emerged from shared questions about mind, self, causality, and the nature of awakening. Along the way, the course cultivates key academic skills in textual interpretation, argumentation, and historical contextualization. Students learn to analyze philosophical ideas within their religious and cultural settings, compare perspectives across regions and time periods, and engage critically with both primary sources and modern scholarship. By combining close reading with cross-cultural inquiry and philosophical reasoning, students gain insight not only into the development of Buddhism but also into the broader processes by which ideas travel, transform, and shape worlds. The course provides both newcomers and those with prior background a rigorous and rewarding foundation for further study in religion, philosophy, or intellectual history.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14968,7 +14982,7 @@
       "title": "Cinema and the Sacred: The Bible in Film",
       "meetings": [
         {
-          "days": "W",
+          "days": "M",
           "time": "7:00 - 10:00 pm",
           "room": ""
         }
@@ -14978,7 +14992,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "For thousands of years, the Bible has been the subject of some of the most enduring pieces of art. From the ancient synagogue mosaics of Dura-Europos to the paintings of Rembrandt and Caravaggio, Jewish and Christian Scripture has animated the artistic imagination. Today, the medium of film is among the most prominent vehicles for presenting biblical ideas and reimagining the narrative of the Bible in contemporary contexts. This course explores the various ways that modern filmmakers draw on the Bible for their messaging and infuse their cinematic art with ancient theology, ethics, and ideology. Students will analyze films alongside biblical texts, and supplement their analyses with interdisciplinary materials (e.g., readings, videos, and podcasts)from the fields of critical theory, gender and queer theory, feminist interpretation, the philosophy of religion, popular criticism, classical literature, and more.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15018,8 +15032,8 @@
       "title": "Women and the Bible",
       "meetings": [
         {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
@@ -15042,7 +15056,13 @@
       "course_number": "236",
       "section": "01",
       "title": "Sanskrit and Classical Religion in India",
-      "meetings": [],
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
       "instructor": "",
       "open_seats": "12",
       "max_enrollment": "12",
@@ -15064,7 +15084,13 @@
       "course_number": "238",
       "section": "01",
       "title": "Catholics: Culture, Identity, Politics",
-      "meetings": [],
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "2:20 - 3:20 pm",
+          "room": ""
+        }
+      ],
       "instructor": "",
       "open_seats": "12",
       "max_enrollment": "12",
@@ -15140,7 +15166,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
@@ -15151,7 +15177,7 @@
         "CLAS 294-03 (30602)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores the pleasures and pains of love (divine and human) as imagined by authors writing within the Persianate tradition. We will examine diverse sources, including autobiographies, letters, poems, and novels, produced from the tenth century to the present day. Readings (in English translation) will center on themes such as forbidden love, the celebration of carnal pleasure and lust, homoeroticism, mystical love, and love for God, religious figures, and the nation. Primary texts will be paired with secondary readings that develop key literary and philosophical questions about love.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17248,8 +17274,8 @@
       "title": "Women and the Bible",
       "meetings": [
         {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
@@ -17329,7 +17355,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "3:00 - 4:30 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
