@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-21T03:46:33.186069+00:00",
-  "course_count": 717,
+  "scraped_at": "2026-10-22T03:46:21.193840+00:00",
+  "course_count": 715,
   "courses": [
     {
       "crn": "30678",
@@ -10,7 +10,7 @@
       "subject_name": "American Studies",
       "course_number": "102",
       "section": "01",
-      "title": "Reading Plays",
+      "title": "Reading Plays: Towards an Internationalist Theatre",
       "meetings": [
         {
           "days": "T R",
@@ -18,16 +18,16 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Jarek Pastor",
       "open_seats": "14",
       "max_enrollment": "14",
       "crosslistings": [
         "THDA 112-01 (30677)"
       ],
       "seat_reservations": "",
-      "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. Students will learn about the socio-historical context of each play, and in-class exercises will introduce them to the foundation of script analysis: they will examine the play’s given circumstances, dialogue, dramatic action, characters, and style. Students will read a new play every week; assignments include weekly in-class writing exercises and short critical papers.",
+      "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. This section’s focus turns toward varied approaches from contemporary Global Majority works in the Americas, Muromachi period Japan, Yoruba conceptions of tragedy, and European Modernists to consider the special utility of dramatic literature to serve as poetic polemic and cultural ambassador. Students will learn about the socio-historical context of these works, holding space for differing views in the arena of intercultural imagination while tracing common conceptions of justice, desire, and universal human worth. In familiarizing ourselves with these dramatists’ distinct methods and the cultural contexts that led them there, we will meditate on one basic question: what does it mean to live fully alongside others unlike ourselves? Students will read and discuss a new play every week; assignments will introduce them to the foundation of script analysis, including creative responses, group presentations, and short critical papers.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27102%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -63,8 +63,14 @@
       "course_number": "200",
       "section": "01",
       "title": "Critical Methods for American Studies Research",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Karin Aguilar-San Juan",
       "open_seats": "10",
       "max_enrollment": "10",
       "crosslistings": [],
@@ -265,15 +271,21 @@
       "course_number": "268",
       "section": "01",
       "title": "American Culture in the Atomic Age",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Kirisitina Sailiata",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [
         "ENVI 268-01 (30006)"
       ],
       "seat_reservations": "",
-      "description": "Since the development of the first atomic weapon, nuclear power has come to define the American and global political and cultural landscape. Fantasies of annihilation and ruin not only define the contemporary political imaginary but also obscure the past and delimit notions of time, space, and futurity Join us as we trace contemporary U.S. history and environmental policy and the stakes of \"wastelanding\" through art, culture and activism.",
+      "description": "Welcome to American Culture in the Atomic Age! In this course, we will explore nuclear politics, culture and infrastructure. Since the development of the first atomic weapon, nuclear power, time and space has come to define the American political landscape and cultural sensibilities. Fantasies of annihilation and apocalypse not only define the contemporary popular imagination but, also, disciplinary bounds of time, space, and futurity. In this exploration, we will center race, indigeneity and sexuality and gender to push back against these forms of enclosure. During our final section, “The Wasteland Writes Back”, students will produce a creative final multimedia project. No special background is needed. All students are welcome.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27268%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -311,8 +323,14 @@
       "course_number": "281",
       "section": "01",
       "title": "Bruce Lee, His Life and Legacy",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "M",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Karin Aguilar-San Juan",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -373,7 +391,7 @@
         "RELI 294-03 (30011)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course will explore white Christian nationalism, the confluence of white supremacy and the idea that the US is a Christian nation whose laws should conform to Christian values and principles. Although public consciousness of white Christian nationalism has increased since the attack on the US Capitol on January 6, 2021, it has a centuries-long history and continues to influence US politics, culture and religious life. Topics in this course include nationalism, racial liberalism, whiteness, and civil religion.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -710,8 +728,8 @@
       "title": "Ritual",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -723,8 +741,8 @@
       ],
       "seat_reservations": "",
       "description": "The word \"ritual\" is used in many contexts to refer to types of practice that are considered centrally important, as well as formalistic and repetitive. This seminar-style course concentrates on the concept of ritual as a central component of social practice, within and without religious groupings. Focusing on developing the concept of ritual, we will focus on ritual across traditions. This requires students to ’work with’ concepts - forming a conception of what they mean by ritual, and be willing to change that conception when faced with contradictory evidence.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -1448,7 +1466,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "James Laine",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [
@@ -1549,8 +1567,14 @@
       "course_number": "283",
       "section": "01",
       "title": "Bruce Lee, His Life and Legacy",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "M",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Karin Aguilar-San Juan",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -2189,7 +2213,7 @@
       "title": "Microbiology Lab",
       "meetings": [
         {
-          "days": "R",
+          "days": "T",
           "time": "1:20 - 4:30 pm",
           "room": ""
         }
@@ -4109,7 +4133,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "James Laine",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [
@@ -5104,6 +5128,32 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27382%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30765",
+      "subject": "COMP",
+      "subject_name": "Computer Science",
+      "course_number": "394",
+      "section": "01",
+      "title": "Language in Social Media",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Zuoyu Tian",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "LING 305-01 (30433)"
+      ],
+      "seat_reservations": "",
+      "description": "In a world driven by digital communication, how do scholars in linguistics and computer science analyze language data from social media? This course provides you with the opportunity to learn how to apply recent Natural Language Processing (NLP) techniques to understand the dynamics of online discourse. We will cover the following topics in this course: topic modeling and text classification to uncover trends and patterns in large-scale social data, automated detection of harmful content and evaluation of such systems, techniques for identifying and tracking misinformation across platforms, assessment of large language models for bias and fairness, and approaches to building equitable and trustworthy AI systems. We will engage with recent academic papers, critically discussing their methods and findings. Hands-on sessions will provide experience replicating these studies and extending them using different NLP tools. By the end of the course, students will be expected to develop their own research project focused on studying social media language. Proficiency in Python programming is required for this course. Prerequisite(s): COMP 123 or permission of the instructor.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30197",
@@ -6414,7 +6464,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Jarek Pastor",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [
@@ -6425,32 +6475,6 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27285%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30689",
-      "subject": "ENGL",
-      "subject_name": "English and Creative Writing",
-      "course_number": "285",
-      "section": "02",
-      "title": "Playwriting",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "12",
-      "max_enrollment": "12",
-      "crosslistings": [
-        "THDA 242-02 (30688)"
-      ],
-      "seat_reservations": "",
-      "description": "In this course, students engage in a series of playwriting exercises and read a wide variety of plays. They will read new and contemporary plays that employ different storytelling techniques (i.e., structure, character arcs, staging elements, etc.), in order to embrace the unlimited possibilities of theatricality, exemplifying why we write for the stage. Students will develop a \"playwriting toolkit\" as they explore their artistic interests. In-class exercises, prompts, small-group workshopping, and related readings will challenge each writer’s individual development. A mid-term check-in and in-class readings of final plays will allow students to hear their work out loud in a supportive public setting. Course may be taken twice for credit.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Writing WC",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27285%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30248",
@@ -6982,15 +7006,21 @@
       "course_number": "268",
       "section": "01",
       "title": "American Culture in the Atomic Age",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Kirisitina Sailiata",
       "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [
         "AMST 268-01 (30005)"
       ],
       "seat_reservations": "",
-      "description": "Since the development of the first atomic weapon, nuclear power has come to define the American and global political and cultural landscape. Fantasies of annihilation and ruin not only define the contemporary political imaginary but also obscure the past and delimit notions of time, space, and futurity Join us as we trace contemporary U.S. history and environmental policy and the stakes of \"wastelanding\" through art, culture and activism.",
+      "description": "Welcome to American Culture in the Atomic Age! In this course, we will explore nuclear politics, culture and infrastructure. Since the development of the first atomic weapon, nuclear power, time and space has come to define the American political landscape and cultural sensibilities. Fantasies of annihilation and apocalypse not only define the contemporary popular imagination but, also, disciplinary bounds of time, space, and futurity. In this exploration, we will center race, indigeneity and sexuality and gender to push back against these forms of enclosure. During our final section, “The Wasteland Writes Back”, students will produce a creative final multimedia project. No special background is needed. All students are welcome.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27268%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -7433,10 +7463,16 @@
       "course_number": "102",
       "section": "L1",
       "title": "French II Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "10:20 - 11:20 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course continues the development of the skills of listening, speaking, reading, and writing, with increasing emphasis on the practice of reading and writing. It includes introduction to the cultural background of France and the Francophone world. Class sessions are supplemented by weekly small group meetings with a French graduate assistant. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 101 with a grade of C- or better, placement test or permission of instructor.",
@@ -7451,10 +7487,16 @@
       "course_number": "102",
       "section": "L2",
       "title": "French II Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "2:30 - 3:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course continues the development of the skills of listening, speaking, reading, and writing, with increasing emphasis on the practice of reading and writing. It includes introduction to the cultural background of France and the Francophone world. Class sessions are supplemented by weekly small group meetings with a French graduate assistant. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 101 with a grade of C- or better, placement test or permission of instructor.",
@@ -7469,10 +7511,16 @@
       "course_number": "102",
       "section": "L3",
       "title": "French II Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "9:10 - 10:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course continues the development of the skills of listening, speaking, reading, and writing, with increasing emphasis on the practice of reading and writing. It includes introduction to the cultural background of France and the Francophone world. Class sessions are supplemented by weekly small group meetings with a French graduate assistant. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 101 with a grade of C- or better, placement test or permission of instructor.",
@@ -7487,10 +7535,16 @@
       "course_number": "102",
       "section": "L4",
       "title": "French II Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "1:20 - 2:20 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course continues the development of the skills of listening, speaking, reading, and writing, with increasing emphasis on the practice of reading and writing. It includes introduction to the cultural background of France and the Francophone world. Class sessions are supplemented by weekly small group meetings with a French graduate assistant. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 101 with a grade of C- or better, placement test or permission of instructor.",
@@ -7529,10 +7583,16 @@
       "course_number": "111",
       "section": "L1",
       "title": "Accelerated French I-II Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "10:20 - 11:20 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Aida Lewis",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course develops fundamental skills of listening, speaking, reading, and writing. It includes introduction to the cultural background of France and the francophone world. It is designed for students who have had some French prior to enrolling at Macalester or who want to review basic structures. The course prepares students for French III and includes two lab. Sessions. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED.",
@@ -7547,10 +7607,16 @@
       "course_number": "111",
       "section": "L2",
       "title": "Accelerated French I-II Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:20 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Aida Lewis",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course develops fundamental skills of listening, speaking, reading, and writing. It includes introduction to the cultural background of France and the francophone world. It is designed for students who have had some French prior to enrolling at Macalester or who want to review basic structures. The course prepares students for French III and includes two lab. Sessions. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED.",
@@ -7589,10 +7655,16 @@
       "course_number": "203",
       "section": "L1",
       "title": "French III Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "9:10 - 10:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Aida Lewis",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "The aim of this course is to bring students to a point where they can use French for communication, both oral and written. At the end of this course students should be able to read appropriate authentic materials, write short papers in French and communicate with a native speaker. It consolidates and builds competencies in listening, speaking, reading and writing and includes study of the cultural background of France and the Francophone world. Class sessions are supplemented by weekly small group meetings with a French graduate assistant. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 102 or FREN 111 with a grade of C- or better, placement test or permission of instructor.",
@@ -7607,10 +7679,16 @@
       "course_number": "203",
       "section": "L2",
       "title": "French III Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "8:00 - 9:00 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Aida Lewis",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "The aim of this course is to bring students to a point where they can use French for communication, both oral and written. At the end of this course students should be able to read appropriate authentic materials, write short papers in French and communicate with a native speaker. It consolidates and builds competencies in listening, speaking, reading and writing and includes study of the cultural background of France and the Francophone world. Class sessions are supplemented by weekly small group meetings with a French graduate assistant. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 102 or FREN 111 with a grade of C- or better, placement test or permission of instructor.",
@@ -7673,10 +7751,16 @@
       "course_number": "204",
       "section": "L1",
       "title": "Text, Film and Media Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "9:10 - 10:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is a content course that presents a study of the language, history, and culture of France and the francophone world through authentic materials including the press, the internet, television, literature and film. The themes of the course will depend on the instructor. At the end of the course students should have attained a sophisticated level of communication in French, the ability to use their skills in French for a variety of purposes including research in other disciplines, and a full appreciation of the intellectual challenge of learning a foreign language and its cultures. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 203 with a grade of C- or better, placement test or permission of instructor.",
@@ -7691,10 +7775,16 @@
       "course_number": "204",
       "section": "L2",
       "title": "Text, Film and Media Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "1:20 - 2:20 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is a content course that presents a study of the language, history, and culture of France and the francophone world through authentic materials including the press, the internet, television, literature and film. The themes of the course will depend on the instructor. At the end of the course students should have attained a sophisticated level of communication in French, the ability to use their skills in French for a variety of purposes including research in other disciplines, and a full appreciation of the intellectual challenge of learning a foreign language and its cultures. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 203 with a grade of C- or better, placement test or permission of instructor.",
@@ -7709,10 +7799,16 @@
       "course_number": "204",
       "section": "L3",
       "title": "Text, Film and Media Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "10:20 - 11:20 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is a content course that presents a study of the language, history, and culture of France and the francophone world through authentic materials including the press, the internet, television, literature and film. The themes of the course will depend on the instructor. At the end of the course students should have attained a sophisticated level of communication in French, the ability to use their skills in French for a variety of purposes including research in other disciplines, and a full appreciation of the intellectual challenge of learning a foreign language and its cultures. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 203 with a grade of C- or better, placement test or permission of instructor.",
@@ -7727,10 +7823,16 @@
       "course_number": "204",
       "section": "L4",
       "title": "Text, Film and Media Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "10",
-      "max_enrollment": "10",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "2:30 - 3:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Erica Petersen",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is a content course that presents a study of the language, history, and culture of France and the francophone world through authentic materials including the press, the internet, television, literature and film. The themes of the course will depend on the instructor. At the end of the course students should have attained a sophisticated level of communication in French, the ability to use their skills in French for a variety of purposes including research in other disciplines, and a full appreciation of the intellectual challenge of learning a foreign language and its cultures. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 203 with a grade of C- or better, placement test or permission of instructor.",
@@ -7748,7 +7850,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "12:00 - 1:00 pm",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -7769,8 +7871,14 @@
       "course_number": "305",
       "section": "L1",
       "title": "Advanced Expression: Communication Tools",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "2:30 - 3:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Aida Lewis",
       "open_seats": "8",
       "max_enrollment": "8",
       "crosslistings": [],
@@ -7787,8 +7895,14 @@
       "course_number": "305",
       "section": "L2",
       "title": "Advanced Expression: Communication Tools",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "9:10 - 10:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Aida Lewis",
       "open_seats": "8",
       "max_enrollment": "8",
       "crosslistings": [],
@@ -8779,7 +8893,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "2:55 - 3:55 pm",
+          "time": "8:10 - 9:10 am",
           "room": ""
         }
       ],
@@ -8850,8 +8964,8 @@
       "title": "Intermediate German I Lab",
       "meetings": [
         {
-          "days": "T",
-          "time": "1:45 - 2:45 pm",
+          "days": "W",
+          "time": "9:40 - 10:40 am",
           "room": ""
         }
       ],
@@ -8923,7 +9037,7 @@
       "meetings": [
         {
           "days": "T",
-          "time": "10:10 - 11:10 am",
+          "time": "10:20 - 11:20 am",
           "room": ""
         }
       ],
@@ -9049,7 +9163,7 @@
       "meetings": [
         {
           "days": "T",
-          "time": "9:00 - 10:00 am",
+          "time": "9:15 - 10:15 am",
           "room": ""
         }
       ],
@@ -9201,7 +9315,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Chun Chen",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -9217,7 +9331,7 @@
       "subject_name": "History",
       "course_number": "212",
       "section": "01",
-      "title": "West Africa: Colonialism, Commerce, and Culture",
+      "title": "Africa Since 1800",
       "meetings": [
         {
           "days": "M W F",
@@ -9505,7 +9619,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Ethan Fredrick",
       "open_seats": "25",
       "max_enrollment": "25",
       "crosslistings": [],
@@ -9571,20 +9685,20 @@
       "subject_name": "History",
       "course_number": "376",
       "section": "01",
-      "title": "Public History",
+      "title": "Doing History in Public",
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "3:00 - 4:30 pm",
           "room": ""
         }
       ],
-      "instructor": "Amy Sullivan",
+      "instructor": "Amy Sullivan, Aisling Quigley",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course introduces students to the ways history is being practiced in the public sphere. We will examine a wide array of topics that fall under the rubric of public history including the study of archives, museums, and oral histories. The course may also consider historical reenactment, commemoration, digital history, and the preservation of historical sites. As we explore these topics we will be asking larger questions about who practices history, the role of audience, and the relationship between history and memory. Can count towards \"Public History\" field.",
+      "description": "This course introduces students to the ways history is being practiced in the public sphere through a chronology of how archives museums and the digital humanities developed between the 19th to the 21st century. We will examine a wide array of topics that fall under the rubric of public history, such as historical reenactment practices, commemoration, digital history, and the preservation of historical sites. Students will meet and engage with local, regional, and national professionals from the museums and archives community and have opportunities to work on a variety of public history-facing projects, including a nation-wide oral history project focused on the careers of federal workers who were terminated in 2025. As we explore these topics, we will ask larger questions about who practices history, the role of the audience, and the relationship between history and memory. Counts towards the \"Public History\" field.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27376%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -10772,7 +10886,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "James Laine",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [
@@ -10826,7 +10940,9 @@
       "instructor": "Zuoyu Tian",
       "open_seats": "15",
       "max_enrollment": "15",
-      "crosslistings": [],
+      "crosslistings": [
+        "COMP 394-01 (30765)"
+      ],
       "seat_reservations": "",
       "description": "In a world driven by digital communication, how do scholars in linguistics and computer science analyze language data from social media? This course provides you with the opportunity to learn how to apply recent Natural Language Processing (NLP) techniques to understand the dynamics of online discourse. We will cover the following topics in this course: topic modeling and text classification to uncover trends and patterns in large-scale social data, automated detection of harmful content and evaluation of such systems, techniques for identifying and tracking misinformation across platforms, assessment of large language models for bias and fairness, and approaches to building equitable and trustworthy AI systems. We will engage with recent academic papers, critically discussing their methods and findings. Hands-on sessions will provide experience replicating these studies and extending them using different NLP tools. By the end of the course, students will be expected to develop their own research project focused on studying social media language. Proficiency in Python programming is required for this course. Prerequisite(s): COMP 123 or permission of the instructor.",
       "distribution_requirements": "Social science",
@@ -11652,8 +11768,14 @@
       "course_number": "281",
       "section": "01",
       "title": "Bruce Lee, His Life and Legacy",
-      "meetings": [],
-      "instructor": "",
+      "meetings": [
+        {
+          "days": "M",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Karin Aguilar-San Juan",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [
@@ -14998,6 +15120,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30763",
+      "subject": "RELI",
+      "subject_name": "Religious Studies",
+      "course_number": "194",
+      "section": "03",
+      "title": "American Religions and Popular Culture",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Lucia Hulsether",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30372",
       "subject": "RELI",
       "subject_name": "Religious Studies",
@@ -15063,7 +15209,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "James Laine",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [
@@ -15091,7 +15237,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "James Laine",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -15183,30 +15329,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30603",
-      "subject": "RELI",
-      "subject_name": "Religious Studies",
-      "course_number": "294",
-      "section": "02",
-      "title": "Love in the Ancient World",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Susanna Drake",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30011",
       "subject": "RELI",
       "subject_name": "Religious Studies",
@@ -15227,10 +15349,34 @@
         "AMST 294-01 (30010)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course will explore white Christian nationalism, the confluence of white supremacy and the idea that the US is a Christian nation whose laws should conform to Christian values and principles. Although public consciousness of white Christian nationalism has increased since the attack on the US Capitol on January 6, 2021, it has a centuries-long history and continues to influence US politics, culture and religious life. Topics in this course include nationalism, racial liberalism, whiteness, and civil religion.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30764",
+      "subject": "RELI",
+      "subject_name": "Religious Studies",
+      "course_number": "294",
+      "section": "04",
+      "title": "Critiques of Religion and Capitalism",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "1:20 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Lucia Hulsether",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30604",
@@ -15241,8 +15387,8 @@
       "title": "Ritual",
       "meetings": [
         {
-          "days": "M W F",
-          "time": "2:20 - 3:20 pm",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -15255,7 +15401,7 @@
       "seat_reservations": "",
       "description": "The word \"ritual\" is used in many contexts to refer to types of practice that are considered centrally important, as well as formalistic and repetitive. This seminar-style course concentrates on the concept of ritual as a central component of social practice, within and without religious groupings. Focusing on developing the concept of ritual, we will focus on ritual across traditions. This requires students to ’work with’ concepts - forming a conception of what they mean by ritual, and be willing to change that conception when faced with contradictory evidence.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -16663,7 +16809,7 @@
       "subject_name": "Theater and Dance",
       "course_number": "112",
       "section": "01",
-      "title": "Reading Plays",
+      "title": "Reading Plays: Towards an Internationalist Theatre",
       "meetings": [
         {
           "days": "T R",
@@ -16671,14 +16817,14 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Jarek Pastor",
       "open_seats": "14",
       "max_enrollment": "14",
       "crosslistings": [
         "AMST 102-01 (30678)"
       ],
       "seat_reservations": "",
-      "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. Each semester offers a different focus of study-we have offered courses examining the writings of Asian/Asian American; Black, Latin American/Latiné; Queer; and Award Winning playwrights. Students will learn about the socio-historical context of each play, and in-class exercises will introduce them to the foundation of script analysis: they will examine the play’s given circumstances, dialogue, dramatic action, characters, and style. Students will read a new play every week; assignments include weekly in-class writing exercises and short critical papers.",
+      "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. This section’s focus turns toward varied approaches from contemporary Global Majority works in the Americas, Muromachi period Japan, Yoruba conceptions of tragedy, and European Modernists to consider the special utility of dramatic literature to serve as poetic polemic and cultural ambassador. Students will learn about the socio-historical context of these works, holding space for differing views in the arena of intercultural imagination while tracing common conceptions of justice, desire, and universal human worth. In familiarizing ourselves with these dramatists’ distinct methods and the cultural contexts that led them there, we will meditate on one basic question: what does it mean to live fully alongside others unlike ourselves? Students will read and discuss a new play every week; assignments will introduce them to the foundation of script analysis, including creative responses, group presentations, and short critical papers.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27112%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -16769,7 +16915,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Malia Craft",
       "open_seats": "14",
       "max_enrollment": "14",
       "crosslistings": [],
@@ -16778,30 +16924,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2722%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30682",
-      "subject": "THDA",
-      "subject_name": "Theater and Dance",
-      "course_number": "220",
-      "section": "01",
-      "title": "Voice in Performance",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Barbra Berlovitz",
-      "open_seats": "12",
-      "max_enrollment": "12",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Students will work to discover their own voice in this class. Habits that have formed in the body will be worked on to free the voice and allow for its true potential to exist. Breathing and relaxation exercises, and developing a sense of body awareness and presence will all be a part of the journey of the class. Improvisation and games will be used as tools to help define openness, balance and creativity, strength and vulnerability. Students will consult various books and memorize a number of texts. Students are asked to write responses to readings, a report on a book of the instructor’s choice, a report on a Macalester theater production, and a review of one professional play. A large part of a student’s grade depends on the thoroughness and rigor of their work, as well as how much they develop and improve their skills throughout the semester. Students are expected to attend and participate in all classes and to complete all assignments. There is one required book for the class, The Actor Speaks, by Patsy Rodenburg.​",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Writing WP",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27220%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30683",
@@ -16822,7 +16944,7 @@
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is the study and discipline of dance-making. Students learn the tools of the choreographer - time, space, energy - and how they can be shaped to give the body expressive power. The course focuses on the relationships between form, content, and technique. Students choreograph short studies, improvise, discuss, and view dance on film and in live performance. The course values risk-taking and collaboration in a supportive, shared space. May be repeated for credit. Every spring. Prerequisite(s): Coursework in a dance technique; or permission of instructor. Students with dance experience prior to Macalester are encouraged to contact the instructor for permission to enroll. Prerequisite(s): Coursework in a dance technique; or permission of instructor.",
+      "description": "This course is the study and discipline of dance-making. Students learn the tools of the choreographer - time, space, energy - and how they can be shaped to give the body expressive power. The course focuses on the relationships between form, content, and technique. Students choreograph short studies, improvise, discuss, and view dance on film and in live performance. The course values risk-taking and collaboration in a supportive, shared space. May be repeated for credit. Prerequisite(s): Coursework in a dance technique; or permission of instructor. Students with dance experience prior to Macalester are encouraged to contact the instructor for permission to enroll.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27221%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -16881,17 +17003,17 @@
       "subject_name": "Theater and Dance",
       "course_number": "240",
       "section": "01",
-      "title": "Brain to Bone: Aliveness, from Rehearsal through Performance",
+      "title": "Scene Painting",
       "meetings": [
         {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "days": "W",
+          "time": "7:00 - 10:00 pm",
           "room": ""
         }
       ],
-      "instructor": "Mina Kinukawa",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "instructor": "",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is an introduction to the techniques and tools of scene painting. Students will be introduced to terminology and a variety of tools to explore faux finishes, abstract techniques, and realistic reproductions. Students will also have a chance to participate in painting the Theater department Spring productions to test their skills. Prior experience with painting is helpful, but not required. All materials will be provided.",
@@ -16913,7 +17035,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Jarek Pastor",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [
@@ -16924,32 +17046,6 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Writing WC",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27242%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30688",
-      "subject": "THDA",
-      "subject_name": "Theater and Dance",
-      "course_number": "242",
-      "section": "02",
-      "title": "Playwriting",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "12",
-      "max_enrollment": "12",
-      "crosslistings": [
-        "ENGL 285-02 (30689)"
-      ],
-      "seat_reservations": "",
-      "description": "In this course, students engage in a series of playwriting exercises and read a wide variety of plays. They will read new and contemporary plays that employ different storytelling techniques (i.e., structure, character arcs, staging elements, etc.), in order to embrace the unlimited possibilities of theatricality, exemplifying why we write for the stage. Students will develop a \"playwriting toolkit\" as they explore their artistic interests. In-class exercises, prompts, small-group workshopping, and related readings will challenge each writer’s individual development. A mid-term check-in and in-class readings of final plays will allow students to hear their work out loud in a supportive public setting. Course may be taken twice for credit.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Writing WC",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27242%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30690",
@@ -16965,7 +17061,7 @@
           "room": ""
         }
       ],
-      "instructor": "Wu Chen Khoo",
+      "instructor": "",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
@@ -16974,30 +17070,6 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27255%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30691",
-      "subject": "THDA",
-      "subject_name": "Theater and Dance",
-      "course_number": "292",
-      "section": "01",
-      "title": "Stage Management",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Wu Chen Khoo",
-      "open_seats": "12",
-      "max_enrollment": "12",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27292%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30696",
@@ -17042,7 +17114,7 @@
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course builds on skills introduced in Modern Dance I. Students engage fully with their bodies and minds as they deepen their strength, flexibility, and felt sense of alignment and flow. Emphasis is placed on deepening precision, sense of rhythm, and anatomical awareness of the body in motion. Class consists of in-place warm-ups, traveling across the floor, and final combinations. May be repeated for credit. Letter grading.",
+      "description": "This course builds on skills introduced in Beginning Contemporary. Students engage fully with their bodies and minds as they deepen their strength, flexibility, and feel a sense of alignment and flow. Emphasis is placed on deepening precision, sense of rhythm, and anatomical awareness of the body in motion. Class consists of in-place warm-ups, traveling across the floor, and final combinations. May be repeated for credit.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2734%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17081,11 +17153,11 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "12:00 - 1:00 pm",
+          "time": "1:10 - 2:10 pm",
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Cheng Xiong",
       "open_seats": "14",
       "max_enrollment": "14",
       "crosslistings": [],
@@ -17129,11 +17201,11 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "3:30 - 4:45 pm",
+          "time": "9:10 - 10:40 am",
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Abdo Sayegh Rodríguez",
       "open_seats": "14",
       "max_enrollment": "14",
       "crosslistings": [],
