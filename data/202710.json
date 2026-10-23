@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-22T03:45:44.724150+00:00",
+  "scraped_at": "2026-10-23T03:53:17.647018+00:00",
   "course_count": 772,
   "courses": [
     {
@@ -8223,7 +8223,7 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8319,7 +8319,7 @@
         }
       ],
       "instructor": "Aida Lewis",
-      "open_seats": "9",
+      "open_seats": "10",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8463,7 +8463,7 @@
         }
       ],
       "instructor": "El Hadji Diop",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8535,7 +8535,7 @@
         }
       ],
       "instructor": "Aida Lewis",
-      "open_seats": "0",
+      "open_seats": "-1",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",

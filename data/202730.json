@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-22T03:46:21.193840+00:00",
-  "course_count": 715,
+  "scraped_at": "2026-10-23T03:53:54.895501+00:00",
+  "course_count": 718,
   "courses": [
     {
       "crn": "30678",
@@ -4980,6 +4980,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27240%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30768",
+      "subject": "COMP",
+      "subject_name": "Computer Science",
+      "course_number": "294",
+      "section": "01",
+      "title": "Language in Social Media",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Zuoyu Tian",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "LING 305-01 (30433)"
+      ],
+      "seat_reservations": "",
+      "description": "In a world driven by digital communication, how do scholars in linguistics and computer science analyze language data from social media? This course provides you with the opportunity to learn how to apply recent Natural Language Processing (NLP) techniques to understand the dynamics of online discourse. We will cover the following topics in this course: topic modeling and text classification to uncover trends and patterns in large-scale social data, automated detection of harmful content and evaluation of such systems, techniques for identifying and tracking misinformation across platforms, assessment of large language models for bias and fairness, and approaches to building equitable and trustworthy AI systems. We will engage with recent academic papers, critically discussing their methods and findings. Hands-on sessions will provide experience replicating these studies and extending them using different NLP tools. By the end of the course, students will be expected to develop their own research project focused on studying social media language. Proficiency in Python programming is required for this course. Prerequisite(s): COMP 123 or permission of the instructor.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30189",
       "subject": "COMP",
       "subject_name": "Computer Science",
@@ -5130,12 +5156,12 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27382%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30765",
+      "crn": "30767",
       "subject": "COMP",
       "subject_name": "Computer Science",
       "course_number": "394",
-      "section": "01",
-      "title": "Language in Social Media",
+      "section": "02",
+      "title": "Systems Programming for Nintendo Gameboy",
       "meetings": [
         {
           "days": "M W F",
@@ -5143,17 +5169,15 @@
           "room": ""
         }
       ],
-      "instructor": "Zuoyu Tian",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [
-        "LING 305-01 (30433)"
-      ],
+      "instructor": "Abby Marsh",
+      "open_seats": "18",
+      "max_enrollment": "18",
+      "crosslistings": [],
       "seat_reservations": "",
-      "description": "In a world driven by digital communication, how do scholars in linguistics and computer science analyze language data from social media? This course provides you with the opportunity to learn how to apply recent Natural Language Processing (NLP) techniques to understand the dynamics of online discourse. We will cover the following topics in this course: topic modeling and text classification to uncover trends and patterns in large-scale social data, automated detection of harmful content and evaluation of such systems, techniques for identifying and tracking misinformation across platforms, assessment of large language models for bias and fairness, and approaches to building equitable and trustworthy AI systems. We will engage with recent academic papers, critically discussing their methods and findings. Hands-on sessions will provide experience replicating these studies and extending them using different NLP tools. By the end of the course, students will be expected to develop their own research project focused on studying social media language. Proficiency in Python programming is required for this course. Prerequisite(s): COMP 123 or permission of the instructor.",
-      "distribution_requirements": "Social science",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "",
       "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30197",
@@ -6693,6 +6717,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27406%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30769",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "150",
+      "section": "01",
+      "title": "Climate and Society",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Christa Anderson",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Seasonal and annual patterns of temperature and precipitation influence the development, success and collapse of civilizations. Regional climate determines numerous things about how humans adapt to survive there, including the type of shelter needed, the length of the growing season, and the availability/scarcity of freshwater. Using a combination of scientific and historical records, this course will provide a brief introduction to the climate system and will then focus on how changes in climate affected several societies throughout history. In the latter part of the course we will discuss observed global warming in the modern world, what the potential benefits and consequences of it may be, and whether or not there are lessons to be learned from our ancestors.",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27150%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30047",
       "subject": "ENVI",
       "subject_name": "Environmental Studies",
@@ -6830,7 +6878,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -6856,7 +6904,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "3:00 - 4:30 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -6869,30 +6917,6 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27219%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30262",
-      "subject": "ENVI",
-      "subject_name": "Environmental Studies",
-      "course_number": "229",
-      "section": "01",
-      "title": "Environmental Problem Solving: Negotiation and Leadership",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Takeo Kuwabara",
-      "open_seats": "18",
-      "max_enrollment": "18",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course introduces students to the science and the art of negotiation to address environmental problem-solving opportunities. Through the lens of negotiations and organizational behavior we will examine challenges that arise in environmental policy-making, natural resource management, and community decision-making. Students will develop a personal set of negotiation skills through participation in weekly simulations while simultaneously building and defining a portfolio of effective communication and leadership capabilities.",
-      "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27229%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30760",
@@ -6971,6 +6995,30 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27237%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30770",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "238",
+      "section": "01",
+      "title": "Food Justice and Sustainability",
+      "meetings": [
+        {
+          "days": "TBA",
+          "time": "",
+          "room": ""
+        }
+      ],
+      "instructor": "Mindy Price",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course takes an interdisciplinary approach to the study of food, agriculture, society, and the environment. Two overarching questions guide us: first, how are inequalities in race, class, and gender created and reproduced within food systems? Second, how might societies create environmentally sustainable food and agricultural systems that also foster justice, equity, and respect for diverse cultures and practices? In the first half of the semester, we will investigate injustices within and by the dominant food and agriculture system, including issues related to pesticide exposure, farm labor, global food insecurity, land access, and livelihoods. In the second half of the semester, we will consider various agricultural systems and grassroots movements that may support food justice including, food sovereignty, Black food movements, queer food collectives, agroecology, local food, and others.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27238%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30313",
@@ -7138,7 +7186,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -7309,30 +7357,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27385%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30279",
-      "subject": "ENVI",
-      "subject_name": "Environmental Studies",
-      "course_number": "394",
-      "section": "01",
-      "title": "Seminar: More than Human Ruralities",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Mindy Price",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30081",
@@ -8754,11 +8778,11 @@
         }
       ],
       "instructor": "Emily First",
-      "open_seats": "24",
-      "max_enrollment": "24",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This upper-level seminar course focuses on basaltic volcanism on Earth and other planetary bodies, with emphasis on Hawai`i and the Moon. We will spend most of our time on petrology papers and problems, with some physical volcanology along the way. You can expect to read, present, and discuss the primary scientific literature, practice aspects of data analysis (likely in Python), complete a course project, and visit one or two labs in our region. Three 1-hour lectures per week. Prerequisite(s): GEOL 250. Permission of instructor required.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GEOL%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -9728,6 +9752,30 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30766",
+      "subject": "INTD",
+      "subject_name": "Interdisciplinary Courses",
+      "course_number": "101",
+      "section": "01",
+      "title": "Theory and Practice of Academic Writing",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Em Buchanan",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "What is college writing? How do different academic disciplines create, perform, and share knowledge through writing? What is considered \"good\" writing in the academy, and who gets to decide? In this course, students will develop a theory and practice of writing that can assist them in their academic careers and beyond. To do so, we will study how writing functions and is evaluated in various contexts. Particular focus will be placed on analyzing rhetorical situations and genre conventions of academic writing from various disciplines to demystify and open the troublesome evaluation of \"good\" vs. \"bad\" writing/writers. Reading, writing, and in-class discussion will be the primary work of the course, and emphasis will be placed on writing as a process: students will engage in regular informal writing exercises, practice drafting and revising for major writing assignments, and receive consistent feedback on their writing from the instructor and their peers. By the end of the course, students will complete at least 20 pages of formal academic writing.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "Writing WA",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTD%27%20num=%27101%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30723",
@@ -10941,7 +10989,7 @@
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
-        "COMP 394-01 (30765)"
+        "COMP 394-01 (30768)"
       ],
       "seat_reservations": "",
       "description": "In a world driven by digital communication, how do scholars in linguistics and computer science analyze language data from social media? This course provides you with the opportunity to learn how to apply recent Natural Language Processing (NLP) techniques to understand the dynamics of online discourse. We will cover the following topics in this course: topic modeling and text classification to uncover trends and patterns in large-scale social data, automated detection of harmful content and evaluation of such systems, techniques for identifying and tracking misinformation across platforms, assessment of large language models for bias and fairness, and approaches to building equitable and trustworthy AI systems. We will engage with recent academic papers, critically discussing their methods and findings. Hands-on sessions will provide experience replicating these studies and extending them using different NLP tools. By the end of the course, students will be expected to develop their own research project focused on studying social media language. Proficiency in Python programming is required for this course. Prerequisite(s): COMP 123 or permission of the instructor.",
@@ -11556,7 +11604,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Number Theory is one of the oldest branches in mathematics, exploring the natural numbers and their properties. In this class, we will explore topics such as divisibility, quadratic reciprocity, Diophantine equations, continued fractions, and the distribution of prime numbers. We will study the natural numbers from both an algebraic and analytic viewpoint, borrowing proof techniques and ideas from many different areas of math. This class will be heavily proof based, but the only mathematical prerequisites are Math 237 and Math 279.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MATH%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13764,7 +13812,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -13836,7 +13884,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
@@ -15327,6 +15375,30 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30603",
+      "subject": "RELI",
+      "subject_name": "Religious Studies",
+      "course_number": "294",
+      "section": "02",
+      "title": "Antisemitism Before Modernity",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Susanna Drake, Nicholas Schaser",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30011",
