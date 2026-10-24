@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-23T03:53:54.895501+00:00",
-  "course_count": 718,
+  "scraped_at": "2026-10-24T03:45:16.355213+00:00",
+  "course_count": 719,
   "courses": [
     {
       "crn": "30678",
@@ -910,7 +910,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course introduces students to the history of art from Renaissance to Modern Art. The course focuses on the developments in art in Europe and the United States but within a larger global context in order to de-center privileges of Western artistic traditions. The course will introduce students to art periods such as Renaissance, Baroque, Rococo, Neoclassicism, Romanticism, Realism, Impressionism, Post-Impressionism and a wide spectrum of modern art movements, including Fauvism, Expressionism, Cubism, Dada, Surrealism, Abstract Expressionism, Pop Art, and Post-Modern Art but always with a critical interpretive lens that reveals deeply entrenched cultural, social, and political hierarchies in the art word and complex relationships between diverse cultures and artistic traditions. This course will provide students with tools how to look at art and interpret meaning in individual works of art.",
+      "description": "This introductory course traces art from the Renaissance through twentieth-century modernism, situating Europe and the United States within global networks of exchange. Organized chronologically around major periods and movements, it examines artistic genius, patronage, religion, colonialism, and the art market while questioning how gender, sexuality, race, and class shape artistic production and the canon. Through close analysis across media, visits to the Minneapolis Institute of Art, and collection-based projects, students develop the vocabulary and skills to interpret art critically.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27161%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -949,7 +949,7 @@
       "meetings": [
         {
           "days": "M W",
-          "time": "8:10 - 11:20 am",
+          "time": "8:30 - 11:40 am",
           "room": ""
         }
       ],
@@ -1190,18 +1190,18 @@
       "title": "Decolonizing American Art: Artists, Museums, and Power",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
           "room": ""
         }
       ],
       "instructor": "Joanna Inglot",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "15",
+      "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "Who gets to define American art, and whose histories do its museums preserve or erase? Moving from nineteenth-century foundations to contemporary practice, this course centers Indigenous, Black, and other historically marginalized artists to examine how art challenges settler colonialism, racial hierarchies, and dominant constructions of gender, sexuality, and national belonging. Through critical readings, visual analysis, and museum visits, students investigate collecting, ownership, exhibition, and repatriation as sites of struggle over cultural authority. Conversations with artists, curators, and art activists bring these debates into the present, asking what decolonizing American art and its institutions requires—and where its limits lie.",
+      "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -1336,14 +1336,14 @@
       "title": "Art History Methodology Seminar",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "W",
+          "time": "7:00 - 10:00 pm",
           "room": ""
         }
       ],
       "instructor": "Joanna Inglot",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "open_seats": "6",
+      "max_enrollment": "6",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is designed for graduating art history majors and it exposes them to methods and theories of art history, with a particular focus on the transformation of the discipline that began in the 1970s and continues to the present. The course will expose the students to both conventional methods of art historical analysis (style, form, iconography) and to the so called \"revisionist\" perspectives of \"new\" art history. The course surveys a wide range of approaches used in the discipline, beginning with writers such as Vasari, Riegl, Panofsky, Gombrich, and ending with the more recent art historical studies informed by Marxism, feminism, and postmodern and postcolonial theories. Prerequisite(s): Art History seniors only.",
@@ -4852,7 +4852,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Artificial intelligence now shapes how we learn, work, create, and make decisions. This course introduces AI to students in any major through three lenses. First, students learn how AI works. Through hands-on activities, students build working models of AI and, through them, an understanding of what AI can do, where it fails, and where human choices shape it. Second, students learn to use AI well. They put AI tools to work on real tasks, learn when to trust them and when not to, and practice directing, checking, and improving what AI produces. Third, students examine the impact AI has on society. They audit real systems for bias, weigh the effects of AI on work, privacy, and the environment, and debate how AI should be governed. A final team project brings the three lenses together. No prerequisites or programming experience are required.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6933,8 +6933,8 @@
         }
       ],
       "instructor": "Ross Shields",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "open_seats": "20",
+      "max_enrollment": "20",
       "crosslistings": [
         "GERM 230-01 (30759)"
       ],
@@ -9114,8 +9114,8 @@
         }
       ],
       "instructor": "Ross Shields",
-      "open_seats": "15",
-      "max_enrollment": "15",
+      "open_seats": "20",
+      "max_enrollment": "20",
       "crosslistings": [
         "ENVI 230-01 (30760)"
       ],
@@ -9802,6 +9802,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTD%27%20num=%27225%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30773",
+      "subject": "INTD",
+      "subject_name": "Interdisciplinary Courses",
+      "course_number": "291",
+      "section": "01",
+      "title": "Legal Studies Seminar: Enforcement, Inequality, and Morality",
+      "meetings": [
+        {
+          "days": "T",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Erik Larson, Patrick Schmidt",
+      "open_seats": "19",
+      "max_enrollment": "19",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Substantial social science research confirms many individuals’ common sense: law enforcement activities play a role in social inequalities. How do agents of law deal with this reality? In this seminar, we focus on a recent multiple-award winning book: Irene Vega’s Bordering on Indifference: Immigration Agents Negotiating Race and Morality (2025, Princeton University Press). For the book, Vega interviewed Border Patrol and ICE agents (most of whom were Mexican-American in the region she studied). She examines what led people to become enforcement agents and how their training and other activities lead them to understand the moral issues involved with their work. We will use our reading of this work to think more broadly about questions of how morality is organized into or out of legal work. The one-credit course will meet once per week for the first half of spring semester.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTD%27%20num=%27291%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30391",
       "subject": "INTD",
       "subject_name": "Interdisciplinary Courses",
@@ -10182,7 +10206,7 @@
       "subject_name": "International Studies",
       "course_number": "380",
       "section": "01",
-      "title": "Global Leadership",
+      "title": "Leadership in a Global Context",
       "meetings": [
         {
           "days": "T R",
@@ -11018,7 +11042,7 @@
         "SPAN 309-01 (30651)"
       ],
       "seat_reservations": "",
-      "description": "A linguistic survey of the Spanish language aimed at improving pronunciation and increasing comprehension of the structure of the language, deepening students’ understanding of the sound system, word formation, grammar and meaning. Study will emphasize phonetics and provide an introduction to transcription, phonology, morphology and syntax, as well as provide an overview of linguistic change and geographic variation. This course satisfies the Area 3 requirement for the Hispanic and Latin American Studies major. Prerequisite(s): SPAN 305 or SPAN 306 or consent of instructor.",
+      "description": "A linguistic survey of the Spanish language aimed at improving pronunciation and increasing comprehension of the structure of the language, deepening students’ understanding of the sound system, word formation, grammar and meaning. Study will emphasize phonetics and provide an introduction to transcription, phonology, morphology and syntax, as well as provide an overview of linguistic change and geographic variation. This course satisfies the Language and Linguistics (LL) requirement for the Spanish major. Prerequisite(s): SPAN 305 or SPAN 306, or consent of instructor",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LING%27%20num=%27309%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -11029,7 +11053,7 @@
       "subject_name": "Linguistics",
       "course_number": "375",
       "section": "01",
-      "title": "History of the Spanish Language",
+      "title": "The Secret Life of Words: Tracing Spanish through Time",
       "meetings": [
         {
           "days": "M W F",
@@ -11044,7 +11068,7 @@
         "SPAN 375-01 (30656)"
       ],
       "seat_reservations": "",
-      "description": "An overview of Modern Spanish as it has developed over time. Course will trace the historical evolution of the most salient phonological, morpho-syntactic and lexical traits of Modern Spanish and will introduce some of the principle theories of language change. Concepts will be reinforced through work with authentic historical texts. This course satisfies the Area 3 requirement for the Spanish major. Prerequisite(s): SPAN 309 or consent of the instructor.",
+      "description": "Emerging from a variety of Late Latin spoken on the Iberian Peninsula and evolving into a global language with over 500 million speakers today, Spanish reflects centuries of complex linguistic, cultural, and political transformation. This course explores this trajectory, examining the historical events and social contexts that provided the backdrop for the language’s evolution. To that end, students will collaborate on a hands-on group project focused on a previously unedited early Spanish text. This collective effort will provide a practical introduction to paleography and manuscript studies, training students to decipher, transcribe, and analyze early modern documents while observing and learning to understand historical shifts in phonology, morphology, and syntax. Alongside traditional textual analysis, the project incorporates training on swiftly evolving artificial intelligence tools that assist with handwritten and early printed text recognition and transcription. By bridging historical linguistics, manuscript studies, and innovative digital humanities methodologies, students will gain a comprehensive understanding of how the Spanish language developed across time. This course satisfies the Language and Linguistics (LL) requirement for the Spanish major. Prerequisite(s): SPAN 309 or consent of the instructor.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LING%27%20num=%27375%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13154,7 +13178,7 @@
           "room": ""
         }
       ],
-      "instructor": "Madeline Buckley, Gregg Olson",
+      "instructor": "Gregg Olson, Marissa Olson-Guillou",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -13429,6 +13453,42 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27348%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30771",
+      "subject": "PHYS",
+      "subject_name": "Physics and Astronomy",
+      "course_number": "370",
+      "section": "01",
+      "title": "Computational Physics",
+      "meetings": [],
+      "instructor": "",
+      "open_seats": "24",
+      "max_enrollment": "24",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course introduces students to coding and computational methods, focusing on developing computation-based skills that are critical for practicing physicists. Students process experimental data using statistical tools, study the implications of realistic physical models using a toolbox of numerical methods, and visualize information in meaningful formats. The course starts with an introduction to coding (in Python) and a survey of data manipulation tools (e.g., reading, writing, analyzing statistically, etc.). The focus is on skills that help students in labs, research, and anywhere else they need to extract physical insight from data. After the introduction to data analysis, the course transitions into a survey of numerical techniques which facilitate quantitative analysis of theoretical models describing complex physical phenomena, thereby creating a bridge between experimental/observational and theoretical physics. The lab provides hands-on experience in the application of computational skills discussed in lecture to realistic physical models drawn from a wide range of physics subdisciplines. Projects in the lab are implemented using Jupyter notebooks, via the Google Colaboratory environment. Students write documentation in Latex and Markdown. No previous experience with any of these is assumed. MATH 236 Strongly Recommended. Prerequisite(s): PHYS 227",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27370%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30772",
+      "subject": "PHYS",
+      "subject_name": "Physics and Astronomy",
+      "course_number": "370",
+      "section": "L1",
+      "title": "Computational Physics Lab",
+      "meetings": [],
+      "instructor": "",
+      "open_seats": "24",
+      "max_enrollment": "24",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course introduces students to coding and computational methods, focusing on developing computation-based skills that are critical for practicing physicists. Students process experimental data using statistical tools, study the implications of realistic physical models using a toolbox of numerical methods, and visualize information in meaningful formats. The course starts with an introduction to coding (in Python) and a survey of data manipulation tools (e.g., reading, writing, analyzing statistically, etc.). The focus is on skills that help students in labs, research, and anywhere else they need to extract physical insight from data. After the introduction to data analysis, the course transitions into a survey of numerical techniques which facilitate quantitative analysis of theoretical models describing complex physical phenomena, thereby creating a bridge between experimental/observational and theoretical physics. The lab provides hands-on experience in the application of computational skills discussed in lecture to realistic physical models drawn from a wide range of physics subdisciplines. Projects in the lab are implemented using Jupyter notebooks, via the Google Colaboratory environment. Students write documentation in Latex and Markdown. No previous experience with any of these is assumed. MATH 236 Strongly Recommended. Prerequisite(s): PHYS 227",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27370%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30522",
       "subject": "PHYS",
       "subject_name": "Physics and Astronomy",
@@ -13523,42 +13583,6 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27489%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30525",
-      "subject": "PHYS",
-      "subject_name": "Physics and Astronomy",
-      "course_number": "494",
-      "section": "01",
-      "title": "PHYS Topics Course",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27494%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30526",
-      "subject": "PHYS",
-      "subject_name": "Physics and Astronomy",
-      "course_number": "494",
-      "section": "L1",
-      "title": "PHYS Topics Course",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "24",
-      "max_enrollment": "24",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27494%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30528",
@@ -16423,7 +16447,7 @@
         "LING 309-01 (30652)"
       ],
       "seat_reservations": "",
-      "description": "A linguistic survey of the Spanish language aimed at improving pronunciation and increasing comprehension of the structure of the language, deepening students’ understanding of the sound system, word formation, grammar and meaning. Study will emphasize phonetics and provide an introduction to transcription, phonology, morphology and syntax, as well as provide an overview of linguistic change and geographic variation. This course satisfies the Area 3 requirement for the Spanish major. Prerequisite(s): SPAN 305, SPAN 306 or consent of instructor.",
+      "description": "A linguistic survey of the Spanish language aimed at improving pronunciation and increasing comprehension of the structure of the language, deepening students’ understanding of the sound system, word formation, grammar and meaning. Study will emphasize phonetics and provide an introduction to transcription, phonology, morphology and syntax, as well as provide an overview of linguistic change and geographic variation. This course satisfies the Language and Linguistics (LL) requirement for the Spanish major. Prerequisite(s): SPAN 305 or SPAN 306, or consent of instructor",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SPAN%27%20num=%27309%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -16461,7 +16485,7 @@
       "subject_name": "Spanish",
       "course_number": "375",
       "section": "01",
-      "title": "History of the Spanish Language",
+      "title": "The Secret Life of Words: Tracing Spanish through Time",
       "meetings": [
         {
           "days": "M W F",
@@ -16476,7 +16500,7 @@
         "LING 375-01 (30657)"
       ],
       "seat_reservations": "",
-      "description": "An overview of Modern Spanish as it has developed over time. Course will trace the historical evolution of the most salient phonological, morpho-syntactic and lexical traits of Modern Spanish and will introduce some of the principle theories of language change. Concepts will be reinforced through work with authentic historical texts. This course satisfies the Area 3 requirement for the Spanish major. Prerequisite(s): SPAN 309 or consent of the instructor.",
+      "description": "Emerging from a variety of Late Latin spoken on the Iberian Peninsula and evolving into a global language with over 500 million speakers today, Spanish reflects centuries of complex linguistic, cultural, and political transformation. This course explores this trajectory, examining the historical events and social contexts that provided the backdrop for the language’s evolution. To that end, students will collaborate on a hands-on group project focused on a previously unedited early Spanish text. This collective effort will provide a practical introduction to paleography and manuscript studies, training students to decipher, transcribe, and analyze early modern documents while observing and learning to understand historical shifts in phonology, morphology, and syntax. Alongside traditional textual analysis, the project incorporates training on swiftly evolving artificial intelligence tools that assist with handwritten and early printed text recognition and transcription. By bridging historical linguistics, manuscript studies, and innovative digital humanities methodologies, students will gain a comprehensive understanding of how the Spanish language developed across time. This course satisfies the Language and Linguistics (LL) requirement for the Spanish major. Prerequisite(s): SPAN 309 or consent of the instructor.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SPAN%27%20num=%27375%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
