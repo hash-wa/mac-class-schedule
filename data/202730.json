@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-26T03:46:51.222868+00:00",
-  "course_count": 719,
+  "scraped_at": "2026-10-27T04:09:42.181277+00:00",
+  "course_count": 720,
   "courses": [
     {
       "crn": "30678",
@@ -247,7 +247,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -1198,7 +1198,9 @@
       "instructor": "Joanna Inglot",
       "open_seats": "15",
       "max_enrollment": "15",
-      "crosslistings": [],
+      "crosslistings": [
+        "WGSS 294-04 (30774)"
+      ],
       "seat_reservations": "",
       "description": "Who gets to define American art, and whose histories do its museums preserve or erase? Moving from nineteenth-century foundations to contemporary practice, this course centers Indigenous, Black, and other historically marginalized artists to examine how art challenges settler colonialism, racial hierarchies, and dominant constructions of gender, sexuality, and national belonging. Through critical readings, visual analysis, and museum visits, students investigate collecting, ownership, exhibition, and repatriation as sites of struggle over cultural authority. Conversations with artists, curators, and art activists bring these debates into the present, asking what decolonizing American art and its institutions requires—and where its limits lie.",
       "distribution_requirements": "Fine arts",
@@ -1427,6 +1429,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30776",
+      "subject": "ASIA",
+      "subject_name": "Asian Studies",
+      "course_number": "194",
+      "section": "02",
+      "title": "Tiny Histories: Childhood in China",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Chun Chen",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [
+        "HIST 194-02 (30761)"
+      ],
+      "seat_reservations": "",
+      "description": "Children occupy a distinct place in history, one often overlooked in adult-centered narratives. This course examines how societies in premodern and early modern China perceived, valued, and treated children across the full arc of childhood. Topics include rituals of birth and infancy, cultural understandings of childhood illness and corresponding medical care, gendered patterns of education and socialization, conceptions of adolescence and coming-of-age ceremonies, and attitudes toward child mortality. To explore these themes, we will engage with various sources, including legal texts, medical treatises, ritual manuals, educational primers, paintings, toys, and epitaphs. The course also addresses core historiographical issues: how age and gender function as analytical categories in historical inquiry, and how centering childhood as a subject offers methodological perspectives on the study of China’s history.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30465",
       "subject": "ASIA",
       "subject_name": "Asian Studies",
@@ -1490,7 +1518,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -1597,7 +1625,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -2505,58 +2533,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27352%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30276",
-      "subject": "BIOL",
-      "subject_name": "Biology",
-      "course_number": "380",
-      "section": "01",
-      "title": "Animal Behavior: Fundamentals and Applications",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "10:50 - 11:50 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Sebastiano De Bona",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [
-        "ENVI 380-01 (30275)"
-      ],
-      "seat_reservations": "",
-      "description": "Why do animals behave the way they do? Why do lions have manes while leopards don’t? Why do elephants and bees live in groups but many other species do not? Why does your friendly neighborhood squirrel get so busy late in the fall and again in the spring? Why do certain wolves ’fish’ but others never learn the technique? In this course we will explore the fundamentals of animal behavior and use that foundation to understand how we can better manage and conserve biodiversity. Outdoor and analytical labs will allow us to quantify animal behavior, develop ethograms, and understand species’ behavioral repertoires based on observation and manipulation of wolves, deer, bears, mountain lions and other species. Three hours of lecture plus three hours of lab each week. Prerequisite(s): BIOL 170. Recommended: STAT 155",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27380%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30278",
-      "subject": "BIOL",
-      "subject_name": "Biology",
-      "course_number": "380",
-      "section": "L1",
-      "title": "Animal Behavior: Fundamentals and Applications",
-      "meetings": [
-        {
-          "days": "R",
-          "time": "8:00 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Sebastiano De Bona",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [
-        "ENVI 380-L1 (30277)"
-      ],
-      "seat_reservations": "",
-      "description": "Why do animals behave the way they do? Why do lions have manes while leopards don’t? Why do elephants and bees live in groups but many other species do not? Why does your friendly neighborhood squirrel get so busy late in the fall and again in the spring? Why do certain wolves ’fish’ but others never learn the technique? In this course we will explore the fundamentals of animal behavior and use that foundation to understand how we can better manage and conserve biodiversity. Outdoor and analytical labs will allow us to quantify animal behavior, develop ethograms, and understand species’ behavioral repertoires based on observation and manipulation of wolves, deer, bears, mountain lions and other species. Three hours of lecture plus three hours of lab each week. Prerequisite(s): BIOL 170. Recommended: STAT 155",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27380%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30074",
       "subject": "BIOL",
       "subject_name": "Biology",
@@ -2655,6 +2631,58 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30778",
+      "subject": "BIOL",
+      "subject_name": "Biology",
+      "course_number": "394",
+      "section": "03",
+      "title": "Behavioral Ecology",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "9:40 - 10:40 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "ENVI 394-02 (30777)"
+      ],
+      "seat_reservations": "",
+      "description": "During this course, we will explore the evolution of animal behavior in an ecological context. We will study how animals forage for food, attract mates, avoid predators, select suitable environments, and ensure the survival of their offspring. We will examine how particular behaviors give individuals an evolutionary advantage, and how, often, multiple strategies coexist within a population, showcasing the diversity of behavioral adaptations. During the lab portion of this course, you will become experimental behavioral ecologists by designing, conducting, and analyzing the behavior of a variety of animals, including birds, crickets, pill bugs, and squirrels. Students who have taken or plan to take “BIOL/ENVI 380 – Animal Behavior: Fundamentals and Applications” are not eligible to enroll. Prerequisite(s): BIOL 170 or BIOL 180. Recommended: STAT 155",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30780",
+      "subject": "BIOL",
+      "subject_name": "Biology",
+      "course_number": "394",
+      "section": "L1",
+      "title": "Behavioral Ecology Lab",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "8:00 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "ENVI 394-L1 (30779)"
+      ],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27BIOL%27%20num=%27394%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30079",
@@ -5416,7 +5444,7 @@
       "seat_reservations": "",
       "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27233%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -5440,7 +5468,7 @@
       "seat_reservations": "",
       "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27233%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -5754,7 +5782,7 @@
         "ECON 421-01 (30214)"
       ],
       "seat_reservations": "",
-      "description": "How do multinational corporations (Trade & FDI) shape globalization? We explore this question through two lenses: 1) a firm-centered theoretical component that introduces the more advanced theories of international trade and foreign direct investment (FDI). These derivations will help us evaluate the causes and consequences of international trade and FDI; and 2) an applied component where we evaluate and apply econometric research to examine the interactions between trade, FDI and a variety of issues including productivity, the labor market effects in home and host countries, economic development and inequality, convergence or polarization of global cultures, and natural disasters. The course grade will be based on group presentations, reading responses, two exams, and either a capstone or a non-capstone project. The capstone a capstone-level research project. The project consists of an econometric or theoretical analysis of a topic in the realm of trade and FDI chosen by the student. The non-capstone project is a group project that involves market research on potential foreign investment strategies of a multinational corporation. This course counts as a Group E elective. It is a capstone course. It meets concurrently with ECON 421. Prerequisite(s): ECON 361, ECON 371, and ECON 381, all earned with a minimum grade of C-.",
+      "description": "How do multinational corporations (Trade & FDI) shape globalization? We explore this question through two lenses: 1) a firm-centered theoretical component that introduces the more advanced theories of international trade and foreign direct investment (FDI). These derivations will help us evaluate the causes and consequences of international trade and FDI; and 2) an applied component where we evaluate and apply econometric research to examine the interactions between trade, FDI and a variety of issues including productivity, the labor market effects in home and host countries, economic development and inequality, convergence or polarization of global cultures, and natural disasters. The course grade will be based on group presentations, reading responses, two exams, and either a capstone or a non-capstone project. The capstone a capstone-level research project. The project consists of an econometric or theoretical analysis of a topic in the realm of trade and FDI chosen by the student. The non-capstone project is a group project that involves market research on potential foreign investment strategies of a multinational corporation. It is a capstone course. It meets concurrently with ECON 421. Prerequisite(s): ECON 361, ECON 371, and ECON 381, all earned with a minimum grade of C-.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Quantitative Thinking Q3, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27422%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5806,7 +5834,7 @@
         "ECON 431-01 (30216)"
       ],
       "seat_reservations": "",
-      "description": "By taking this course, students will learn to interpret and conduct technical economic analysis of public policies. Students will apply their knowledge of micro- and macroeconomic theory and econometrics to study the economics of controversial and important policies. Sample policy areas might include climate change, health care, anti-poverty programs, income inequality and redistribution, public transit, urban redevelopment, immigration, education, and minimum or living-wage laws. While the course usually focuses on examples from the United States, it presents tools and frameworks that are applicable in any context. The course grade will be based on group and individual presentations and policy briefs relating to specific policies, homework (including coding, data manipulation, and statistical estimation), and a capstone-level research project. The project consists of an original econometric or theoretical analysis of a public policy chosen by the student. This course counts as a Group E elective. It is a capstone course. Meets concurrently with ECON 421. Prerequisite(s): ECON 361, ECON 371, and ECON 381, all earned with a minimum grade of C-.",
+      "description": "By taking this course, students will learn to interpret and conduct technical economic analysis of public policies. Students will apply their knowledge of micro- and macroeconomic theory and econometrics to study the economics of controversial and important policies. Sample policy areas might include climate change, health care, anti-poverty programs, income inequality and redistribution, public transit, urban redevelopment, immigration, education, and minimum or living-wage laws. While the course usually focuses on examples from the United States, it presents tools and frameworks that are applicable in any context. The course grade will be based on group and individual presentations and policy briefs relating to specific policies, homework (including coding, data manipulation, and statistical estimation), and a capstone-level research project. The project consists of an original econometric or theoretical analysis of a public policy chosen by the student. It is a capstone course. Meets concurrently with ECON 421. Prerequisite(s): ECON 361, ECON 371, and ECON 381, all earned with a minimum grade of C-.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27432%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5858,7 +5886,7 @@
         "ECON 494-01 (30218)"
       ],
       "seat_reservations": "",
-      "description": "This course explores concepts related to federal policy, split into fiscal policy (government spending, taxes, transfers, debt) and monetary policy (nominal interest rates, money supply), and their interaction within aggregate economies. Combining macroeconomic theory with empirical evidence, students will analyze inflation dynamics, political frictions, and central bank independence. Is inflation \"always and everywhere a monetary phenomenon,\" as Milton Friedman declared? What constraints does an independent central bank impose on its government? How do political and economic incentives shift when national debt reaches historical highs? What fiscal-monetary arrangement ultimately maximizes household welfare? This course counts as a Group E elective. It is a capstone course. Meets concurrently with ECON 494-02. Prerequisite(s): ECON 371 and ECON 381, with grades of C- or higher.",
+      "description": "This course explores concepts related to federal policy, split into fiscal policy (government spending, taxes, transfers, debt) and monetary policy (nominal interest rates, money supply), and their interaction within aggregate economies. Combining macroeconomic theory with empirical evidence, students will analyze inflation dynamics, political frictions, and central bank independence. Is inflation \"always and everywhere a monetary phenomenon,\" as Milton Friedman declared? What constraints does an independent central bank impose on its government? How do political and economic incentives shift when national debt reaches historical highs? What fiscal-monetary arrangement ultimately maximizes household welfare? It is a capstone course. Meets concurrently with ECON 494-02. Prerequisite(s): ECON 371 and ECON 381, with grades of C- or higher.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27494%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -7005,14 +7033,14 @@
       "title": "Food Justice and Sustainability",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
           "room": ""
         }
       ],
       "instructor": "Mindy Price",
-      "open_seats": "20",
-      "max_enrollment": "20",
+      "open_seats": "18",
+      "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course takes an interdisciplinary approach to the study of food, agriculture, society, and the environment. Two overarching questions guide us: first, how are inequalities in race, class, and gender created and reproduced within food systems? Second, how might societies create environmentally sustainable food and agricultural systems that also foster justice, equity, and respect for diverse cultures and practices? In the first half of the semester, we will investigate injustices within and by the dominant food and agriculture system, including issues related to pesticide exposure, farm labor, global food insecurity, land access, and livelihoods. In the second half of the semester, we will consider various agricultural systems and grassroots movements that may support food justice including, food sovereignty, Black food movements, queer food collectives, agroecology, local food, and others.",
@@ -7133,7 +7161,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -7255,58 +7283,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27375%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30275",
-      "subject": "ENVI",
-      "subject_name": "Environmental Studies",
-      "course_number": "380",
-      "section": "01",
-      "title": "Animal Behavior: Fundamentals and Applications",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "10:50 - 11:50 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Sebastiano De Bona",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [
-        "BIOL 380-01 (30276)"
-      ],
-      "seat_reservations": "",
-      "description": "Why do animals behave the way they do? Why do lions have manes while leopards don’t? Why do elephants and bees live in groups but many other species do not? Why does your friendly neighborhood squirrel get so busy late in the fall and again in the spring? Why do certain wolves ’fish’ but others never learn the technique? In this course we will explore the fundamentals of animal behavior and use that foundation to understand how we can better manage and conserve biodiversity. Outdoor and analytical labs will allow us to quantify animal behavior, develop ethograms, and understand species’ behavioral repertoires based on observation and manipulation of wolves, deer, bears, mountain lions and other species. Three hours of lecture plus three hours of lab each week. Prerequisite(s): ENVI 170. Recommended: STAT 155",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27380%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30277",
-      "subject": "ENVI",
-      "subject_name": "Environmental Studies",
-      "course_number": "380",
-      "section": "L1",
-      "title": "Animal Behavior: Fundamentals and Applications",
-      "meetings": [
-        {
-          "days": "R",
-          "time": "8:00 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Sebastiano De Bona",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [
-        "BIOL 380-L1 (30278)"
-      ],
-      "seat_reservations": "",
-      "description": "Why do animals behave the way they do? Why do lions have manes while leopards don’t? Why do elephants and bees live in groups but many other species do not? Why does your friendly neighborhood squirrel get so busy late in the fall and again in the spring? Why do certain wolves ’fish’ but others never learn the technique? In this course we will explore the fundamentals of animal behavior and use that foundation to understand how we can better manage and conserve biodiversity. Outdoor and analytical labs will allow us to quantify animal behavior, develop ethograms, and understand species’ behavioral repertoires based on observation and manipulation of wolves, deer, bears, mountain lions and other species. Three hours of lecture plus three hours of lab each week. Prerequisite(s): ENVI 170. Recommended: STAT 155",
-      "distribution_requirements": "Natural science and mathematics",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27380%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30075",
       "subject": "ENVI",
       "subject_name": "Environmental Studies",
@@ -7357,6 +7333,58 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27385%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30777",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "394",
+      "section": "02",
+      "title": "Behavioral Ecology",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "9:40 - 10:40 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "BIOL 394-03 (30778)"
+      ],
+      "seat_reservations": "",
+      "description": "During this course, we will explore the evolution of animal behavior in an ecological context. We will study how animals forage for food, attract mates, avoid predators, select suitable environments, and ensure the survival of their offspring. We will examine how particular behaviors give individuals an evolutionary advantage, and how, often, multiple strategies coexist within a population, showcasing the diversity of behavioral adaptations. During the lab portion of this course, you will become experimental behavioral ecologists by designing, conducting, and analyzing the behavior of a variety of animals, including birds, crickets, pill bugs, and squirrels. Students who have taken or plan to take “BIOL/ENVI 380 – Animal Behavior: Fundamentals and Applications” are not eligible to enroll. Prerequisite(s): BIOL 170 or BIOL 180. Recommended: STAT 155",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30779",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "394",
+      "section": "L1",
+      "title": "Behavioral Ecology Lab",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "8:00 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Sebastiano De Bona",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "BIOL 394-L1 (30780)"
+      ],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30081",
@@ -7942,7 +7970,7 @@
       "subject_name": "French and Francophone Studies",
       "course_number": "306",
       "section": "01",
-      "title": "Introduction to Literary Analysis",
+      "title": "Introduction to Literary Analysis: Outsiders in French and Francophone Literature",
       "meetings": [
         {
           "days": "M W F",
@@ -7955,7 +7983,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is designed to develop the necessary skills for interpreting literature and for writing effectively in French. Students learn to do close reading and analysis of a variety of literary works and to compose critical essays. The course also includes a study of selected grammatical patterns and stylistic techniques. ALL COURSES ARE TAUGHT IN FRENCH UNLESS OTHERWISE INDICATED. Prerequisite(s): FREN 204 or placement test or permission of instructor.",
+      "description": "This course is designed to help you develop skills for analyzing texts and for writing effectively in French. This semester, we will study francophone works that explore \"outsiders.\" Course questions will include: who gets to decide who is an outsider, and when is being an outsider an identity that can be freely chosen, rather than something imposed by others? What do outsiders see that insiders can’t or won’t? What is the relationship between outsiders, migration, and French colonial histories, and how do geographic boundaries create \"internal outsiders\"? Can someone be a citizen legally but an outsider culturally? We will explore outsiders in a selection of films, plays, short stories, novels, essays, and poetry from throughout the Francophone world (Polynesia and the Indo-Pacific; West Africa; and France) and across different historical periods. The course is taught in French. It satisfies the Internationalism and the Writing Argumentative (WA) requirements. It is required for the French major and minor and for all 400-level courses in French. Prerequisite(s): FREN 204 or equivalent",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27FREN%27%20num=%27306%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -9342,7 +9370,9 @@
       "instructor": "Chun Chen",
       "open_seats": "25",
       "max_enrollment": "25",
-      "crosslistings": [],
+      "crosslistings": [
+        "ASIA 194-02 (30776)"
+      ],
       "seat_reservations": "",
       "description": "Children occupy a distinct place in history, one often overlooked in adult-centered narratives. This course examines how societies in premodern and early modern China perceived, valued, and treated children across the full arc of childhood. Topics include rituals of birth and infancy, cultural understandings of childhood illness and corresponding medical care, gendered patterns of education and socialization, conceptions of adolescence and coming-of-age ceremonies, and attitudes toward child mortality. To explore these themes, we will engage with various sources, including legal texts, medical treatises, ritual manuals, educational primers, paintings, toys, and epitaphs. The course also addresses core historiographical issues: how age and gender function as analytical categories in historical inquiry, and how centering childhood as a subject offers methodological perspectives on the study of China’s history.",
       "distribution_requirements": "Humanities",
@@ -9612,7 +9642,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "9:40 - 10:40 am",
+          "time": "10:50 - 11:50 am",
           "room": ""
         }
       ],
@@ -12422,30 +12452,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%2789%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30479",
-      "subject": "MUSI",
-      "subject_name": "Music",
-      "course_number": "91",
-      "section": "01",
-      "title": "Mac Early Music Ensemble",
-      "meetings": [
-        {
-          "days": "W",
-          "time": "5:45 - 7:15 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Clea Galhano",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Historical performance has changed the aesthetic and musical experiences of audiences all over the world. The new ways to interpret music before 1750 has changed the way the audiences listen to this kind of music. Macalester Early Music Ensemble approaches instrumental and vocal music from Medieval, Renaissance and Baroque period. No audition needed.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MUSI%27%20num=%2791%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30480",
       "subject": "MUSI",
       "subject_name": "Music",
@@ -13675,7 +13681,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "An examination of the evolution of influential political concepts and theories from ancient cultures to the present day, by those writing in/from/to the West. Introduction through textual analysis to historical and contemporary understandings of key terms such as authority, legitimacy, liberty, republicanism, democracy, revolution and \"the good.\" Additionally, the course provides an introduction to political theory methods of analysis and critique, through the development of skills in reading, critical thinking, and writing.",
+      "description": "What does it mean to theorize “the political”? How does one undertake such an inquiry? This course is designed to help students answer this question and introduce them to the field of political theory. We will explore the work of some of the most influential thinkers in the history of political thought – such as Plato, Hobbes, Locke, Rousseau, Marx, and Arendt. We will also read contemporary scholarship in the discipline and try to understand where political theory is headed today. This course will move beyond the scope of a traditional introductory survey and consider the ways in which political theory has historically ignored questions of race, gender, sexuality, and colonialism. In an attempt to decolonize the canon, we will consider how and why these issues have been ignored despite the fact that they have lurked in the background of some of the most important texts in the history of political thought.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27160%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13699,7 +13705,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "An examination of the evolution of influential political concepts and theories from ancient cultures to the present day, by those writing in/from/to the West. Introduction through textual analysis to historical and contemporary understandings of key terms such as authority, legitimacy, liberty, republicanism, democracy, revolution and \"the good.\" Additionally, the course provides an introduction to political theory methods of analysis and critique, through the development of skills in reading, critical thinking, and writing.",
+      "description": "What does it mean to theorize “the political”? How does one undertake such an inquiry? This course is designed to help students answer this question and introduce them to the field of political theory. We will explore the work of some of the most influential thinkers in the history of political thought – such as Plato, Hobbes, Locke, Rousseau, Marx, and Arendt. We will also read contemporary scholarship in the discipline and try to understand where political theory is headed today. This course will move beyond the scope of a traditional introductory survey and consider the ways in which political theory has historically ignored questions of race, gender, sexuality, and colonialism. In an attempt to decolonize the canon, we will consider how and why these issues have been ignored despite the fact that they have lurked in the background of some of the most important texts in the history of political thought.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27160%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15197,7 +15203,7 @@
       "subject_name": "Religious Studies",
       "course_number": "194",
       "section": "03",
-      "title": "American Religions and Popular Culture",
+      "title": "Religion, Sex, Power",
       "meetings": [
         {
           "days": "T R",
@@ -15210,7 +15216,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "An exploration of the relationship between religion, sex, and power in the United States. What has been the role of religion in the creation of sexual norms in U.S. history? How has this relationship changed over time, in relation to intersecting systems of power? What are “family values,” and where did they come from? Does secularism promote sexual freedom? This seminar course takes up questions like these, anchoring our inquiry in interdisciplinary feminist theories of gender and sexuality. Looking at range of contexts and media phenomena —from Supreme Court rulings on religious freedom, to fights over sex education in schools, to feminist and queer-centered religious collectives, to the affinities between sexual violence and empire, to capitalism’s regimes of gendered labor—students will develop critical vocabularies for analyzing intimacies between religion and sexuality.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15329,7 +15335,7 @@
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -15809,7 +15815,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Differently positioned groups and individuals in society experience and understand historical occurrences from distinct standpoints. What becomes the accepted account of what has transpired in our collective lives? How do we as a society remember and make sense of the past? What types of knowledge get produced when only certain accounts of history make their way into official repositories? How is the past ordered and tamed? These questions orient us toward the study of “collective memory,” a concept coined by early sociologist Maurice Halbwachs in 1925 to refer to how memory becomes significant once taken up in a social context. With a focus on placing the United States in global perspective, we will cover a wide range of theoretical readings from Jacques Derrida to Avery Gordon to Lisa Yoneyama and will examine material such as video testimonies, museum displays, archival collections, public monuments, and news coverage to consider the relationship between power and knowledge, the place of history in contemporary political struggles, and the role of technology in historical preservation. Putting into practice what C. Wright Mills defined as the “sociological imagination’s ability to see “the interplay of…biography and history, of self and world,” the course centers around students completing a critical-creative project reflecting on their own lives in relation to the course material. Every year. (4 Credits)",
+      "description": "Differently positioned groups and individuals in society experience and understand historical occurrences from distinct standpoints. What becomes the accepted account of what has transpired in our collective lives? How do we as a society remember and make sense of the past? What types of knowledge get produced when only certain accounts of history make their way into official repositories? How is the past ordered and tamed? These questions orient us toward the study of “collective memory,” a concept coined by early sociologist Maurice Halbwachs in 1925 to refer to how memory becomes significant once taken up in a social context. With a focus on placing the United States in global perspective, we will cover a wide range of theoretical readings from Jacques Derrida to Avery Gordon to Lisa Yoneyama and will examine material such as video testimonies, museum displays, archival collections, public monuments, and news coverage to consider the relationship between power and knowledge, the place of history in contemporary political struggles, and the role of technology in historical preservation. Putting into practice what C. Wright Mills defined as the \"sociological imagination’s ability to see “the interplay of…biography and history, of self and world,” the course centers around students completing a critical-creative project reflecting on their own lives in relation to the course material.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27215%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15886,7 +15892,7 @@
       "max_enrollment": "23",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Social scientists have many methodological approaches to choose from in their research toolkit ranging from qualitative to quantitative to comparative historical. Each of these approaches allows us to see and understand society from different perspectives, sometimes offering us complementary snapshots and other times presenting us with contradictory information. How, then, can we engage evidence to make claims about the social world? What even counts as evidence and who gets to speak for whom? Social Science Inquiry is part of a methods training sequence that emphasizes quantitative social science inquiry-that is, the approach to social science research that entails statistically analyzing relatively large datasets and emphasizes concerns such as measurement, replicability, objectivity, generalizability, and causal inference. However, this methodological approach is not without its critics. Therefore, this course begins by being in conversation with quantitative social science’s critics, examining the abuse of quantitative knowledge in social science research and how quantitative social scientists have themselves been complicit in building many of the tools now at the center of contemporary ethical debates over online privacy, digitization, facial recognition, AI, and their use in policing, surveillance, and border enforcement. Taking the stance that quantitative methods are tools with the capacity to either build up or break down social structures, we will work with municipal data from the City of Minneapolis to explore how quantitative methods may be, in sociologist Ruha Benjamin’s words, \"retooled\" to serve emancipatory and abolitionist purposes. Readings will focus on case studies from social science research and critical texts from science and technology studies. Methods-training content will specifically entail the use of R and will cover inferring population characteristics from survey samples, estimating causality and predicting outcomes using linear regression, the principles of probability and estimating statistical uncertainty, and how to critically read quantitative information presented via figures and tables.",
+      "description": "Social scientists have many methodological approaches to choose from in their research toolkit ranging from qualitative to quantitative to comparative historical. Each of these approaches allows us to see and understand society from different perspectives, sometimes offering us complementary snapshots and other times presenting us with contradictory information. How, then, can we engage evidence to make claims about the social world? What even counts as evidence and who gets to speak for whom? Social Science Inquiry is part of a methods training sequence that emphasizes quantitative social science inquiry. The course covers quantitative social science as an epistemology compared to other ways of knowing, engages with published quantitative work in the field as well as its critics, teaches the basics of quantitative analysis for the social sciences, and largely emphasizes a hands-on approach to conceptualizing and implementing a research project. Also covering themes related to research ethics, these topics will be approached from a non-extractive lens, emphasizing the need to situate our research in the needs, obligations, and relations asked of us by the broader community. Note: The course uses R and counts as a Q3 and WA requirement.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Quantitative Thinking Q3, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27269%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15960,7 +15966,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Exploring a wide range of issues that have converged in the suburbs as arguably the most important spatial form of the 20th century, this course takes an urban sociological approach to understanding the social life and political economy of the areas that sit at the fringe of metro centers. Topics covered include: the history of the city vis-à-vis the suburb, the allure and deceit of media representations of the American Dream, the spatial and possessive logics of whiteness, the political sway of the suburban homeowner, the social control features of suburban architecture and the surrounding built environment, and suburbs in global/transnational perspective. With thematic units emphasizing the role of the streetcar and department store and later the highway and shopping mall in facilitating settlement and expansion, the course takes a community-engaged approach by inviting students to visit locations across the Twin Cities that illustrate the story of the area’s own suburbanization, including Dayton’s department store, Southdale Center, and the Mall of America. Theorizing together about the significance of rejecting the “cruel optimism” of the suburbs amidst the recapture of city centers by the forces of financial capital, the course broadly asks what it means to be in place and in community in a world where space has become increasingly territorialized, privatized, and hoarded. Every year. (4 Credits)",
+      "description": "Exploring a wide range of issues that have converged in the suburbs as arguably the most important spatial form of the 20th century, this course takes an urban sociological approach to understanding the social life and political economy of the areas that sit at the fringe of metro centers. Topics covered include: the history of the city vis-à-vis the suburb, the allure and deceit of media representations of the American Dream, the spatial and possessive logics of whiteness, the political sway of the suburban homeowner, the social control features of suburban architecture and the surrounding built environment, and suburbs in global/transnational perspective. With thematic units emphasizing the role of the streetcar and department store and later the highway and shopping mall in facilitating settlement and expansion, the course takes a community-engaged approach by inviting students to visit locations across the Twin Cities that illustrate the story of the area’s own suburbanization, including Dayton’s department store, Southdale Center, and the Mall of America. Theorizing together about the significance of rejecting the “cruel optimism” of the suburbs amidst the recapture of city centers by the forces of financialized capital, the course broadly asks what it means to be in place and in community in a world where space has become increasingly territorialized, privatized, and hoarded.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27284%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -16922,7 +16928,7 @@
       "seat_reservations": "",
       "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. This section’s focus turns toward varied approaches from contemporary Global Majority works in the Americas, Muromachi period Japan, Yoruba conceptions of tragedy, and European Modernists to consider the special utility of dramatic literature to serve as poetic polemic and cultural ambassador. Students will learn about the socio-historical context of these works, holding space for differing views in the arena of intercultural imagination while tracing common conceptions of justice, desire, and universal human worth. In familiarizing ourselves with these dramatists’ distinct methods and the cultural contexts that led them there, we will meditate on one basic question: what does it mean to live fully alongside others unlike ourselves? Students will read and discuss a new play every week; assignments will introduce them to the foundation of script analysis, including creative responses, group presentations, and short critical papers.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Writing WA",
+      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27112%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -16972,30 +16978,6 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27125%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30681",
-      "subject": "THDA",
-      "subject_name": "Theater and Dance",
-      "course_number": "194",
-      "section": "01",
-      "title": "Jazz",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "14",
-      "max_enrollment": "14",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30694",
@@ -17373,7 +17355,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Tree O'Halloran",
       "open_seats": "50",
       "max_enrollment": "50",
       "crosslistings": [],
@@ -17382,6 +17364,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2781%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30775",
+      "subject": "THDA",
+      "subject_name": "Theater and Dance",
+      "course_number": "81",
+      "section": "02",
+      "title": "Technical Practice",
+      "meetings": [
+        {
+          "days": "MTWR",
+          "time": "5:30 - 9:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Mina Kinukawa, Thomas Barrett",
+      "open_seats": "50",
+      "max_enrollment": "50",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Students are involved in set, costume, lighting and sound engineering and construction, and running crew. Two credits awarded at the end of the semester. May be repeated for credit. Prerequisite(s): Permission of instructor required; please see instructor to be added to registration roster",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2781%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30703",
@@ -17614,6 +17620,32 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30774",
+      "subject": "WGSS",
+      "subject_name": "Women's, Gender, and Sexuality Studies",
+      "course_number": "294",
+      "section": "04",
+      "title": "Decolonizing American Art: Artists, Museums, and Power",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Joanna Inglot",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "ART 294-01 (30038)"
+      ],
+      "seat_reservations": "",
+      "description": "Who gets to define American art, and whose histories do its museums preserve or erase? Moving from nineteenth-century foundations to contemporary practice, this course centers Indigenous, Black, and other historically marginalized artists to examine how art challenges settler colonialism, racial hierarchies, and dominant constructions of gender, sexuality, and national belonging. Through critical readings, visual analysis, and museum visits, students investigate collecting, ownership, exhibition, and repatriation as sites of struggle over cultural authority. Conversations with artists, curators, and art activists bring these debates into the present, asking what decolonizing American art and its institutions requires—and where its limits lie.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30582",
