@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-27T04:09:42.181277+00:00",
-  "course_count": 720,
+  "scraped_at": "2026-10-28T04:37:49.911463+00:00",
+  "course_count": 722,
   "courses": [
     {
       "crn": "30678",
@@ -421,6 +421,33 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30815",
+      "subject": "AMST",
+      "subject_name": "American Studies",
+      "course_number": "294",
+      "section": "03",
+      "title": "Decolonizing American Art: Artists, Museums, and Power",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Joanna Inglot",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "ART 294-01 (30038)",
+        "WGSS 294-04 (30774)"
+      ],
+      "seat_reservations": "",
+      "description": "Who gets to define American art, and whose histories do its museums preserve or erase? Moving from nineteenth-century foundations to contemporary practice, this course centers Indigenous, Black, and other historically marginalized artists to examine how art challenges settler colonialism, racial hierarchies, and dominant constructions of gender, sexuality, and national belonging. Through critical readings, visual analysis, and museum visits, students investigate collecting, ownership, exhibition, and repatriation as sites of struggle over cultural authority. Conversations with artists, curators, and art activists bring these debates into the present, asking what decolonizing American art and its institutions requires—and where its limits lie.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "U.S Identities and Differences",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30649",
@@ -1199,12 +1226,13 @@
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
+        "AMST 294-03 (30815)",
         "WGSS 294-04 (30774)"
       ],
       "seat_reservations": "",
       "description": "Who gets to define American art, and whose histories do its museums preserve or erase? Moving from nineteenth-century foundations to contemporary practice, this course centers Indigenous, Black, and other historically marginalized artists to examine how art challenges settler colonialism, racial hierarchies, and dominant constructions of gender, sexuality, and national belonging. Through critical readings, visual analysis, and museum visits, students investigate collecting, ownership, exhibition, and repatriation as sites of struggle over cultural authority. Conversations with artists, curators, and art activists bring these debates into the present, asking what decolonizing American art and its institutions requires—and where its limits lie.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -2903,16 +2931,16 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27112%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30088",
+      "crn": "30087",
       "subject": "CHEM",
       "subject_name": "Chemistry",
       "course_number": "112",
-      "section": "05",
+      "section": "04",
       "title": "General Chemistry II: Energetics and Reactivity",
       "meetings": [
         {
           "days": "M W F",
-          "time": "1:10 - 2:10 pm",
+          "time": "12:00 - 1:00 pm",
           "room": ""
         }
       ],
@@ -2924,7 +2952,7 @@
       "description": "This course provides an intuitive, yet rigorous, understanding of how energy is stored and transferred in chemical systems. We start with the behavior of individual atoms and molecules (using the foundation of atomic and molecular structure laid in CHEM 111 , and then build up to the macroscopic concepts of thermodynamics. We focus on free energy as a powerful tool for predicting physical and chemical behavior. We then apply our understanding of energetics to electrochemical systems and the rates of chemical reactions. Three lectures and one three-hour laboratory per week. Lab fee of $7 required. Prerequisite(s): CHEM 111 with a grade of C- or better, or satisfactory performance on a placement examination, or a score of 4 or 5 on the AP Chemistry test, or a score of 5, 6, or 7 on the IB Chemistry test. One may take the placement exam or use an AP/IB test score only if you have not previously enrolled in CHEM 111.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27112%27%20sect=%2705%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27112%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30089",
@@ -3605,8 +3633,8 @@
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "Selected topics to introduce green chemistry and core polymer chemistry concepts. Depending on availability and timing, there will be some lab components exploring the application of green chemistry and polymers into one experiment. Green Chemistry: Survey key aspects of green chemistry in modern research and development both in academia and industry, as well as relevant implications for the environment, technology, and public policy. Polymers: Emphasis on polymerization mechanisms, properties, and kinetics. Molecular characterization techniques to analyze molecular weight and uniformity will be covered. Examples of reactions: Condensation, radical, ionic, emulsion, ring-opening, metal-catalyzed polymerizations. Prerequisite(s): CHEM 212 with a grade of C- or better.",
+      "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -4886,6 +4914,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30814",
+      "subject": "COMP",
+      "subject_name": "Computer Science",
+      "course_number": "194",
+      "section": "02",
+      "title": "Digital Media Off-the-Grid",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Rory Solomon",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [
+        "MCST 294-03 (30756)"
+      ],
+      "seat_reservations": "",
+      "description": "Off-the-grid usually connotes freedom and autonomy, as well as withdrawal from infrastructural dependency and the strictures governing modern life. But the status of being off-the-grid is experienced differently depending on one’s subject position. For some, being off-the-grid is typically framed as technological liberation: mobility, ecological self-sufficiency, shedding social obligation, and sovereignty over one’s private property. For various marginalized populations however, being off-the-grid can mean being on the wrong side of various so-called “digital divides”: lacking connectivity or access to necessary tools. In all cases, the digital often figures prominently, and in this class we will examine how digitality mediates off-the-grid narratives, with fantasies around off-grid infrastructure often seen as central to our understanding of digital technology. We will read texts in media studies, urban studies, and critical theory among other fields – to explore how the grid hails different subjects differently and to consider techniques for getting off grids in the contexts of surveillance, race, ecological living, gender, and communication networks. We will see how the digital and the off-the-grid are often presented as oppositional, yet function as co-constitutive socio-cultural ideas. Even though we often understand the digital as a highly gridded mode, we will see that it nonetheless frequently enables off-grid or post-grid ways of being. The class will include hands-on coursework, including experiments with circuit building, critical making, non-screen interfaces, alternative power sources, and wireless communications.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27194%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30183",
       "subject": "COMP",
       "subject_name": "Computer Science",
@@ -5910,7 +5964,7 @@
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "",
+      "description": "This is an introductory survey course that explores the discipline of Educational Studies as a humanistic endeavor across time and geography. In this course you will engage with multiple, and sometimes contradictory, philosophical perspectives about the purpose of education in a given society. You will have the opportunity to learn from all of the Educational Studies faculty members who each approach the discipline through distinct, yet overlapping, traditions. By the end of the course you should have a strong foundation through which to engage with Educational Studies as an academic discipline and an applied field of study and practice. The course will engage with formal, non-formal, and informal educational contexts through historical, sociological, and psychological lenses.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27180%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6037,8 +6091,8 @@
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "Drawing from activist-scholar Teresia Teaiwa’s concept of s/pacific to honor the specificities of Pacific Islander experiences, this course will explore various social movements across the Pacific region. Students will examine how Pacific Indigenous movements challenge colonialism, militarism, and environmental degradation through texts including scholarly work, oral histories, documentary films, and creative expressions. Focusing on the Nuclear Free and Independent Pacific, Mau Movement, Polynesian Panthers movement, and the 350 Pacific, the course will analyze the role of community education, language revitalization efforts, and activist pedagogies in shaping political and cultural change. An emphasis will be placed on Indigenous epistemologies, land-based learning, and the mobilization of education in pursuit of sovereignty.",
+      "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -6597,7 +6651,7 @@
       "seat_reservations": "",
       "description": "In this course, we will explore Afrofuturism, a flourishing and exciting contemporary movement of writers, artists, musicians, and scholars who imagine, represent, and theorize alternative times (often, but not always, the future) and forms of the human, along with outer spaces and other places wherein Black people are centered. We will explore the artistic, social, and political power of the movement as we closely read, listen to, and view key Afrofuturist texts. Those texts will include, among others: short stories by Samuel Delany, a novel by Octavia Butler, Janelle Monáe’s Dirty Computer “emotion picture,” and Wangechi Mutu’s visual art. Course requirements include: brief reading response papers, one short essay and a revision of it, a presentation on a text of your choice, and a final project. This course fulfills the English major requirement of a course focused on literature by U.S. writers of color.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -9348,9 +9402,9 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "What constitutes a disaster in human history, and who decides this? How have explanations for and responses to calamity changed over time and place? What does it mean to describe a disaster as natural, social, or political? How have disasters intersected with racial and socioeconomic inequalities, colonialism and capitalism? In this course, we will consider what historians bring to the table in the growing, interdisciplinary field of disaster studies, surveying select case studies of disaster from across time and around the world that include plague, fire, earthquakes, hurricanes, revolutions, warfare and pollution. We will also consider how writing and disaster converge: Can trauma be captured in prose, and can it be useful to approach our own writing as catastrophic?",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -11020,7 +11074,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "Language is all around us – not only spoken or signed, but embedded into the landscape itself, as placenames, posters, murals, and more. In this class, we’ll consider the linguistic landscape from every angle – from the signs on our streets to the tattoos on our skin – to explore hands-on how language shapes, reflects, and connects the spaces we inhabit. Topics covered include linguistic conceptualizations of land and space; language in maps, mapmaking, and wayfinding; the language of museums, transit systems, and tourism; script choice, typography, and the visual design of language; graffiti and the linguistic contestation of space; language and place in music; language as art and sculpture; and the virtual linguistic landscapes of videogames and digital space. Throughout the class students will read widely, explore the Twin Cities, and conduct original research on a linguistic landscape of their choosing.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LING%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -11931,7 +11985,9 @@
       "instructor": "Rory Solomon",
       "open_seats": "16",
       "max_enrollment": "16",
-      "crosslistings": [],
+      "crosslistings": [
+        "COMP 194-02 (30814)"
+      ],
       "seat_reservations": "",
       "description": "Off-the-grid usually connotes freedom and autonomy, as well as withdrawal from infrastructural dependency and the strictures governing modern life. But the status of being off-the-grid is experienced differently depending on one’s subject position. For some, being off-the-grid is typically framed as technological liberation: mobility, ecological self-sufficiency, shedding social obligation, and sovereignty over one’s private property. For various marginalized populations however, being off-the-grid can mean being on the wrong side of various so-called “digital divides”: lacking connectivity or access to necessary tools. In all cases, the digital often figures prominently, and in this class we will examine how digitality mediates off-the-grid narratives, with fantasies around off-grid infrastructure often seen as central to our understanding of digital technology. We will read texts in media studies, urban studies, and critical theory among other fields – to explore how the grid hails different subjects differently and to consider techniques for getting off grids in the contexts of surveillance, race, ecological living, gender, and communication networks. We will see how the digital and the off-the-grid are often presented as oppositional, yet function as co-constitutive socio-cultural ideas. Even though we often understand the digital as a highly gridded mode, we will see that it nonetheless frequently enables off-grid or post-grid ways of being. The class will include hands-on coursework, including experiments with circuit building, critical making, non-screen interfaces, alternative power sources, and wireless communications.",
       "distribution_requirements": "",
@@ -17639,12 +17695,13 @@
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
-        "ART 294-01 (30038)"
+        "ART 294-01 (30038)",
+        "AMST 294-03 (30815)"
       ],
       "seat_reservations": "",
       "description": "Who gets to define American art, and whose histories do its museums preserve or erase? Moving from nineteenth-century foundations to contemporary practice, this course centers Indigenous, Black, and other historically marginalized artists to examine how art challenges settler colonialism, racial hierarchies, and dominant constructions of gender, sexuality, and national belonging. Through critical readings, visual analysis, and museum visits, students investigate collecting, ownership, exhibition, and repatriation as sites of struggle over cultural authority. Conversations with artists, curators, and art activists bring these debates into the present, asking what decolonizing American art and its institutions requires—and where its limits lie.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
