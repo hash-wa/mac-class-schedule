@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-28T04:37:49.911463+00:00",
+  "scraped_at": "2026-10-29T04:52:01.044653+00:00",
   "course_count": 722,
   "courses": [
     {
@@ -1390,7 +1390,7 @@
       "title": "Senior Studio Seminar",
       "meetings": [
         {
-          "days": "W",
+          "days": "M W",
           "time": "7:00 - 10:00 pm",
           "room": ""
         }
@@ -2499,9 +2499,7 @@
       "instructor": "Kelsey Boyle",
       "open_seats": "36",
       "max_enrollment": "36",
-      "crosslistings": [
-        "CHEM 352-01 (30116)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "A continuation of BIOL 351. A study of biological processes at the molecular level with an emphasis on the metabolism of amino acids, nucleotides, the regulation of biochemical pathways, and topics in molecular biology such as gene replication, the synthesis of proteins and nucleic acids, and recent advances in genomics and proteomics. Three lecture hours each week. Prerequisite(s): BIOL 190, BIOL 200, and BIOL 351, or permission of instructor.",
       "distribution_requirements": "Natural science and mathematics",
@@ -2525,9 +2523,7 @@
       "instructor": "Kelsey Boyle",
       "open_seats": "18",
       "max_enrollment": "18",
-      "crosslistings": [
-        "CHEM 352-L1 (30118)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "A continuation of BIOL 351. A study of biological processes at the molecular level with an emphasis on the metabolism of amino acids, nucleotides, the regulation of biochemical pathways, and topics in molecular biology such as gene replication, the synthesis of proteins and nucleic acids, and recent advances in genomics and proteomics. Three lecture hours each week. Prerequisite(s): BIOL 190, BIOL 200, and BIOL 351, or permission of instructor.",
       "distribution_requirements": "",
@@ -2551,9 +2547,7 @@
       "instructor": "Kelsey Boyle",
       "open_seats": "18",
       "max_enrollment": "18",
-      "crosslistings": [
-        "CHEM 352-L2 (30120)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "A continuation of BIOL 351. A study of biological processes at the molecular level with an emphasis on the metabolism of amino acids, nucleotides, the regulation of biochemical pathways, and topics in molecular biology such as gene replication, the synthesis of proteins and nucleic acids, and recent advances in genomics and proteomics. Three lecture hours each week. Prerequisite(s): BIOL 190, BIOL 200, and BIOL 351, or permission of instructor.",
       "distribution_requirements": "",
@@ -3553,9 +3547,7 @@
       "instructor": "Kelsey Boyle",
       "open_seats": "36",
       "max_enrollment": "36",
-      "crosslistings": [
-        "BIOL 352-01 (30117)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "A continuation of CHEM 351. A study of biological processes at the molecular level with an emphasis on the metabolism of amino acids, nucleotides, the regulation of biochemical pathways, and topics in molecular biology such as gene replication, the synthesis of proteins and nucleic acids, and recent advances in genomics and proteomics. Prerequisite(s): BIOL 190, BIOL 200, and BIOL 351, or permission of instructor.",
       "distribution_requirements": "Natural science and mathematics",
@@ -3579,9 +3571,7 @@
       "instructor": "Kelsey Boyle",
       "open_seats": "18",
       "max_enrollment": "18",
-      "crosslistings": [
-        "BIOL 352-L1 (30119)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "A continuation of CHEM 351. A study of biological processes at the molecular level with an emphasis on the metabolism of amino acids, nucleotides, the regulation of biochemical pathways, and topics in molecular biology such as gene replication, the synthesis of proteins and nucleic acids, and recent advances in genomics and proteomics. Prerequisite(s): BIOL 190, BIOL 200, and BIOL 351, or permission of instructor.",
       "distribution_requirements": "",
@@ -3605,9 +3595,7 @@
       "instructor": "Kelsey Boyle",
       "open_seats": "18",
       "max_enrollment": "18",
-      "crosslistings": [
-        "BIOL 352-L2 (30121)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "A continuation of CHEM 351. A study of biological processes at the molecular level with an emphasis on the metabolism of amino acids, nucleotides, the regulation of biochemical pathways, and topics in molecular biology such as gene replication, the synthesis of proteins and nucleic acids, and recent advances in genomics and proteomics. Prerequisite(s): BIOL 190, BIOL 200, and BIOL 351, or permission of instructor.",
       "distribution_requirements": "",
@@ -9681,7 +9669,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores how digital tools transform the recovery, analysis, and public presentation of historical narratives. Drawing on critical active-learning frameworks, students interrogate how power, race, and colonial legacies shape digital archives and historical databases, engaging deeply with the foundational methods of Black digital humanities. Moving beyond passive consumption, students apply elements of critical thought—questioning metadata bias, archival silence, and algorithmic authority—to reconstruct hidden pasts. The course emphasizes public heritage, spatial humanities, and community-engaged digital scholarship. Students synthesize historical evidence with creative design elements, learning to apply principles of user experience (UX), user interface (UI), and interactive design to build accessible, ethically grounded digital history projects, 3D spatial reconstructions, and interactive public exhibits. Fields: Race and Indigeneity, Digital and Public, US/North America, Post-1800",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14691,7 +14679,7 @@
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Cognitive neuroscience is a relatively recent discipline that combines cognitive science and cognitive psychology with biology and neuroscience to investigate how the brain enables the myriad of complex functions we know as the mind. This course will explore basic concepts and contemporary topics in the field, focusing in particular on the methods used in cognitive neuroscience research. Through lecture and lab sessions, students will learn to read and interpret primary source material, design and implement cognitive neuroscience studies, and present research in verbal and written forms. Overall, students will gain an appreciation for the amazing intricacy of the brain-mind relationship, as well as a sense of how this relationship may be understood eventually using cognitive neuroscience techniques. Group A course. Prerequisite(s): PSYC 100.",
+      "description": "Cognitive neuroscience combines cognitive science and cognitive psychology with biology and neuroscience to investigate how the brain enables the myriad of complex functions we know as the mind. This course will explore basic concepts and contemporary topics in the field, focusing in particular on the methods used in cognitive neuroscience research. Through lecture and lab sessions, students will learn to read and interpret primary source material, design and implement cognitive neuroscience studies, and present research in verbal and written forms. Overall, students will gain an appreciation for the amazing intricacy of the brain-mind relationship, as well as a sense of how this relationship may be understood eventually using cognitive neuroscience techniques. Prerequisite(s): PSYC 100.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PSYC%27%20num=%27244%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -14715,7 +14703,7 @@
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Cognitive neuroscience is a relatively recent discipline that combines cognitive science and cognitive psychology with biology and neuroscience to investigate how the brain enables the myriad of complex functions we know as the mind. This course will explore basic concepts and contemporary topics in the field, focusing in particular on the methods used in cognitive neuroscience research. Through lecture and lab sessions, students will learn to read and interpret primary source material, design and implement cognitive neuroscience studies, and present research in verbal and written forms. Overall, students will gain an appreciation for the amazing intricacy of the brain-mind relationship, as well as a sense of how this relationship may be understood eventually using cognitive neuroscience techniques. Group A course. Prerequisite(s): PSYC 100.",
+      "description": "Cognitive neuroscience combines cognitive science and cognitive psychology with biology and neuroscience to investigate how the brain enables the myriad of complex functions we know as the mind. This course will explore basic concepts and contemporary topics in the field, focusing in particular on the methods used in cognitive neuroscience research. Through lecture and lab sessions, students will learn to read and interpret primary source material, design and implement cognitive neuroscience studies, and present research in verbal and written forms. Overall, students will gain an appreciation for the amazing intricacy of the brain-mind relationship, as well as a sense of how this relationship may be understood eventually using cognitive neuroscience techniques. Prerequisite(s): PSYC 100.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PSYC%27%20num=%27244%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15847,7 +15835,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course, which has no prerequisites, examines the deep structural crisis of the entire edifice of our political and economic system that some call progressive neoliberalism, characterized by a market-based economy wrapped in progressive sounding diversity politics. The course title reflects a predicament described by Antonio Gramsci in the 1930s, but that may be more salient today: \"’the crisis consists precisely in the fact that the old order is dying and the new cannot be born; in this interregnum a great variety of morbid symptoms appear.\" The morbid symptoms of our own old order can be seen in the severe and increasing inequality. The two beneficiaries of this system are (1) those who are at the apex of the system, the so-called 1% and (2) the highly-educated elite professionals, intellectuals, and managerial class, the next 9% and sometimes called the clergy or the secular high priests of the system. The remaining population, largely composed of less educated whites, minorities, blacks, and women are being further and further removed from the rewards of the system. This hyper-inegalitarian system of rule is now experiencing a legitimacy crisis by both the far right and the left, but no true alternatives have yet been proposed to reform or replace it. The far right wants to take us on a path of racial white supremacist rule and further escalate inequalities and prepare us for possibly even a more sinister form of a postcapitalist society. The far left, on the other hand, wants to create a system of radical democracy and respect for nature that has the potential for replacing capitalism with a new historical system based on a more just foundation. This course will identify what was historically in place, capitalism’s distinctive dynamics so that we may better determine what is needed to resolve it. With that in mind, as Nancy Fraser has argued, we need to seek a path forward that leads beyond the current impasse -- through political realignments to societal transformation. We will explore what this capitalist system is, how it functioned historically, where it is now, and what systems may replace it in the future. To cover all that in one course is exciting and may help us think about some possible futures we can begin to imagine and work toward.",
+      "description": "This course, which has no prerequisites, examines the deep structural crisis of the entire edifice of a historical system that we have lived under for multiple centuries. The course title reflects a predicament described by Antonio Gramsci in the 1930s, but that may be more salient today: \"’the crisis consists precisely in the fact that the old order is dying and the new cannot be born; in this interregnum a great variety of morbid symptoms appear.\" The morbid symptoms of our own old order can be seen in the severe and increasing inequality. The two beneficiaries of this system are (1) those who are at the apex of the system, the so-called 1% and (2) the highly-educated elite professionals, intellectuals, and managerial class, the next 9% and sometimes called the clergy or the secular high priests of the system. The remaining population, largely composed of less educated whites, minorities, blacks, and women are being further and further removed from the rewards of the system. This hyper-inegalitarian system of rule is now experiencing a legitimacy crisis by both the far right and the left, but no true alternatives have yet been proposed to reform or replace it. The far right wants to take us on a path of racial white supremacist rule and further escalate inequalities and prepare us for possibly even a more sinister form of a postcapitalist society. The far left, on the other hand, wants to create a system of radical democracy and respect for nature that has the potential for replacing capitalism with a new historical system based on a more just foundation. This course will identify what was historically in place, capitalism’s distinctive dynamics so that we may better determine what is needed to resolve it. With that in mind, we need to seek a path forward that leads beyond the current impasse -- through political realignments to societal transformation. We will explore what this capitalist system is, how it functioned historically, where it is now, and what systems may replace it in the future. To cover all that in one course is exciting and may help us think about some possible futures we can begin to imagine and work toward.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SOCI%27%20num=%27200%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17200,7 +17188,7 @@
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is an introduction to performance lighting design. While emphasis is on performance, the principles can be applied to film, television, and environmental settings. The course focus will be on the design process, but there will be some attention to lighting hardware and technologies as well. A primary goal of the course is to make the student more aware of color and light around them every day. Department provides course materials. Prerequisite(s): THDA 125 or THDA 235 or permission of instructor.",
+      "description": "This course is an introduction to event lighting design. While emphasis is on performance, the principles can be applied to film, television, streaming and installation (museum/storefront) settings. Through hands-on activities, group projects and the use of industry standard software. Students will learn about the process of conceptualization and design, and the technology and practical skills of realizing a design. Students will learn to think critically about aesthetics and function, and critique and communicate artistic and technical ideas. Department provides course materials. Prerequisite(s): THDA 125 or THDA 235 or permission of instructor.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "Quantitative Thinking Q1",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27255%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
