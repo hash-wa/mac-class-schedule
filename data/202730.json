@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-29T04:52:01.044653+00:00",
-  "course_count": 722,
+  "scraped_at": "2026-10-30T04:51:30.701175+00:00",
+  "course_count": 724,
   "courses": [
     {
       "crn": "30678",
@@ -448,6 +448,32 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30855",
+      "subject": "AMST",
+      "subject_name": "American Studies",
+      "course_number": "294",
+      "section": "04",
+      "title": "Black Women’s Civic Leadership and Community Archive",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ebony Aya, Duchess Harris",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "WGSS 294-05 (30856)"
+      ],
+      "seat_reservations": "",
+      "description": "In 1972, sixteen Black women gathered in a St. Paul living room to charter the Minneapolis/St.Paul chapter of The Links, Incorporated — one of the nation’s oldest and most consequential volunteer service organizations of Black professional women. Fifty years later, their chapter has accumulated boxes of meeting minutes, photographs, correspondence, and event programs, a celebrated exhibit at the Ramsey County Historical Society, and an archive at the Minnesota Historical Society. Yet no undergraduate course has ever studied them. This course changes that. Working in equal parts as historians, oral historians, and digital archivists, students will interview current Links members, conduct archival research at two Twin Cities institutions, and build a permanent digital archive on Macalester’s Omeka platform — the same platform used for the Human Computers at NASA project, a prior Macalester student-faculty collaboration that documented the buried histories of Black women mathematicians at NASA. In doing so, students will ask fundamental questions: How do Black women organize for community change? What does it mean to document a history that has deliberately kept itself private? Whose voices belong in an archive, and who gets to build one? The final deliverable is not a paper. It is a curated digital collection — built from primary documents in two institutional archives, interviews with living members, and student curatorial judgment — that will remain publicly accessible long after the course ends. No prerequisites. Open to all students.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30649",
@@ -1719,7 +1745,7 @@
       "seat_reservations": "",
       "description": "What aspects of texts are selected and translated? How is translation conducted, contained, and transformed in larger cultural, social, and historical contexts? What kinds of power dynamics and ideology are involved in the process of translation? This course is to develop a critical awareness of the practice of Chinese-English translation as a cross-cultural dialogue. It will critically examine major concepts and issues such as equivalence, faithfulness, invisibility, etc. Along with different translation theories, the course will follow the chronological order of Chinese literature being translated at different historical periods. Students will learn theories of translation and do hands-on practice in translation. Prerequisite(s): CHIN 305 or its equivalent.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism",
+      "gen_ed_requirements": "Internationalism, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27352%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -4036,7 +4062,7 @@
       "seat_reservations": "",
       "description": "What aspects of texts are selected and translated? How is translation conducted, contained, and transformed in larger cultural, social, and historical contexts? What kinds of power dynamics and ideology are involved in the process of translation? This course is to develop a critical awareness of the practice of Chinese-English translation as a cross-cultural dialogue. It will critically examine major concepts and issues such as equivalence, faithfulness, invisibility, etc. Along with different translation theories, the course will follow the chronological order of Chinese literature being translated at different historical periods. Students will learn theories of translation and do hands-on practice in translation. Prerequisite(s): CHIN 305 or its equivalent.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism",
+      "gen_ed_requirements": "Internationalism, Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHIN%27%20num=%27352%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -4060,7 +4086,7 @@
       "seat_reservations": "",
       "description": "What is Chinese in news reporting? How is Chinese used differently in TV reality shows and sitcoms? How is Chinese employed and manipulated online and in virtual reality? The aim of this course, which is equivalent to Fifth Year Chinese, is to learn about Chinese society and culture in different contexts: students will watch Chinese sitcoms and reality shows, read original Chinese novels, and communicate through Chinese Weibo. Prerequisite(s): CHIN 407 or equivalent.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Writing WP",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHIN%27%20num=%27409%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -5484,7 +5510,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27233%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -5508,7 +5534,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "description": "This course provides an overview of health economics and is designed to introduce you to the issues, theory, and practice of health economics. We will discuss the various market participants, including patients, provider firms, the healthcare labor force, hospitals, and insurance providers in the United States. We will explore recent research in peer-reviewed health economics journals to learn about the causal effect of various policies, incentives, and interventions. The topics include the demand/production of health (and the importance of health endowments, pollution, education, etc.), the market for health insurance (with a focus on asymmetric information, adverse selection, moral hazard etc.), supply side incentives (including physician incentives, induced demand, and medical malpractice). This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ECON%27%20num=%27233%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17691,6 +17717,32 @@
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30856",
+      "subject": "WGSS",
+      "subject_name": "Women's, Gender, and Sexuality Studies",
+      "course_number": "294",
+      "section": "05",
+      "title": "Black Women’s Civic Leadership and Community Archive",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ebony Aya, Duchess Harris",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "AMST 294-04 (30855)"
+      ],
+      "seat_reservations": "",
+      "description": "In 1972, sixteen Black women gathered in a St. Paul living room to charter the Minneapolis/St.Paul chapter of The Links, Incorporated — one of the nation’s oldest and most consequential volunteer service organizations of Black professional women. Fifty years later, their chapter has accumulated boxes of meeting minutes, photographs, correspondence, and event programs, a celebrated exhibit at the Ramsey County Historical Society, and an archive at the Minnesota Historical Society. Yet no undergraduate course has ever studied them. This course changes that. Working in equal parts as historians, oral historians, and digital archivists, students will interview current Links members, conduct archival research at two Twin Cities institutions, and build a permanent digital archive on Macalester’s Omeka platform — the same platform used for the Human Computers at NASA project, a prior Macalester student-faculty collaboration that documented the buried histories of Black women mathematicians at NASA. In doing so, students will ask fundamental questions: How do Black women organize for community change? What does it mean to document a history that has deliberately kept itself private? Whose voices belong in an archive, and who gets to build one? The final deliverable is not a paper. It is a curated digital collection — built from primary documents in two institutional archives, interviews with living members, and student curatorial judgment — that will remain publicly accessible long after the course ends. No prerequisites. Open to all students.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2705%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30582",
