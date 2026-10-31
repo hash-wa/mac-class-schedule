@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-10-30T04:50:53.874200+00:00",
+  "scraped_at": "2026-10-31T04:36:25.382026+00:00",
   "course_count": 772,
   "courses": [
     {
@@ -10547,7 +10547,7 @@
         }
       ],
       "instructor": "Maria Fedorova",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "RUSS 294-01 (10661)",
@@ -16747,7 +16747,7 @@
         }
       ],
       "instructor": "Maria Fedorova",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 294-03 (10662)",
@@ -18833,7 +18833,7 @@
         }
       ],
       "instructor": "Maria Fedorova",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "RUSS 294-01 (10661)",

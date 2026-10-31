@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-10-30T04:51:30.701175+00:00",
-  "course_count": 724,
+  "scraped_at": "2026-10-31T04:37:02.035782+00:00",
+  "course_count": 731,
   "courses": [
     {
       "crn": "30678",
@@ -75,7 +75,7 @@
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course will introduce students to interdisciplinary research approaches to the study of race, ethnicity, and other categories of difference. Students will learn to conceptualize and design research projects, and will obtain hands-on experience in executing different methods. The course will also consider the critiques of systems of knowledge production and research approaches that have been informed by scholars from fields such as African American history, gender studies, and critical race studies, as well as from the disciplines. The goal is to develop an understanding of the assumptions embedded in many fields of inquiry, and to learn to apply critical approaches to important research questions. Prerequisite(s): AMST 101 or another AMST course.",
+      "description": "This course will introduce students to interdisciplinary research approaches to the study of race, ethnicity, and other categories of difference. Students will learn to conceptualize and design research projects, and will obtain hands-on experience in executing different methods. The course will also consider the critiques of systems of knowledge production and research approaches that have been informed by scholars from fields such as African American history, gender studies, and critical race studies, as well as from the disciplines. The goal is to develop an understanding of the assumptions embedded in many fields of inquiry, and to learn to apply critical approaches to important research questions. No prerequisites, but AMST 101 or another AMST course is recommended.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "U.S Identities and Differences, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27200%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -555,6 +555,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27341%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30863",
+      "subject": "AMST",
+      "subject_name": "American Studies",
+      "course_number": "394",
+      "section": "01",
+      "title": "Audiovisual Research in American Culture",
+      "meetings": [
+        {
+          "days": "TBA",
+          "time": "",
+          "room": ""
+        }
+      ],
+      "instructor": "Kirisitina Sailiata",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [
+        "MCST 394-01 (30864)"
+      ],
+      "seat_reservations": "",
+      "description": "This advanced research course explores the form and function of video essays as a mode of scholarly inquiry beyond conventional academic circulation. Part of the course will focus on audiovisual research and argumentation and the other half of the course will survey recent theories and methods in American cultural studies on race and empire. Students in this course will experiment with and apply interdisciplinary visual cultural studies methods with a range of multimedia texts and archives in order to craft original audiovisual essays about the history of race, visuality, and American imperialism. Audiovisual Research is an interactive, collaborative course in which students will regularly workshop their video essays in progress throughout the semester.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30012",
       "subject": "ANTH",
       "subject_name": "Anthropology",
@@ -871,6 +897,32 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30861",
+      "subject": "ANTH",
+      "subject_name": "Anthropology",
+      "course_number": "394",
+      "section": "04",
+      "title": "Religion and Ethnography",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Lucia Hulsether",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [
+        "RELI 394-01 (30860)"
+      ],
+      "seat_reservations": "",
+      "description": "This reading-intensive seminar examines the range of methodological orientations and representational techniques in ethnographic writing. It takes a critical approach to this topic, recognizing that there is always a politics and an ethics to the ways that scholars approach their subjects. We engage a set of theoretical concepts that inform recent ethnographic work, organizing our inquiry around works that engage religion as a concept and questions concerning scholars of religion more broadly. What strategies have ethnographers used to represent religion as concept, as practice, as subject? What, if anything, differentiates “ethnography of religion” from an ethnography that does not take religion as a discrete object of concern—but that focuses on issues like conversion, translation, transformation, and narrative? These questions are used as our collective portal into a more general engagement with issues of ethics, representation, and epistemology in ethnographic works. As we read and discuss, we will pay close attention to the research methods that the authors employ and the genre choices that they make in representing their material and defining their subjects.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27394%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30021",
@@ -1378,7 +1430,7 @@
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is for students with a passion for clay! Designed to engage and build on students’ previous ceramic experiences, advancing their knowledge, techniques and concepts of contemporary ceramic art. Course content will be both assignment based and self-directed whether created on the wheel or through handbuilding. Through thoughtful discussion, critical examination and evaluation of concepts and ideas the class encourages students to develop a better understanding of their relationship to the rich tradition of ceramics and ceramic sculpture. Students will develop an understanding of glaze and clay materials while also taking on responsibilities for electric, gas and raku kiln firings. Lectures, demonstrations, critiques and gallery/museum visits will supplement studio work. Learning will be assessed primarily through portfolio production and review, along with class participation. May be taken without an introductory class with instructor’s review and approval. Can be taken for credit multiple times. Three two-hour periods per week. Prerequisite(s): ART 131, ART 237 or approval of instructor.",
+      "description": "This course is for students with a passion for clay! Designed to engage and build on students’ previous ceramic experiences, advancing their knowledge, techniques and concepts of contemporary ceramic art. Course content will be both assignment based and self-directed whether created on the wheel or through handbuilding. Through thoughtful discussion, critical examination and evaluation of concepts and ideas the class encourages students to develop a better understanding of their relationship to the rich tradition of ceramics and ceramic sculpture. Students will develop an understanding of glaze and clay materials while also taking on responsibilities for electric, gas and raku kiln firings. Lectures, demonstrations, critiques and gallery/museum visits will supplement studio work. Learning will be assessed primarily through portfolio production and review, along with class participation. May be taken without an introductory class with instructor’s review and approval. Can be taken for credit multiple times. Three two-hour periods per week. Prerequisite(s): ART 131, ART 237, 238 or approval of instructor.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ART%27%20num=%27374%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -4323,7 +4375,7 @@
       "meetings": [
         {
           "days": "T",
-          "time": "9:00 - 10:00 am",
+          "time": "3:30 - 4:30 pm",
           "room": ""
         }
       ],
@@ -4346,8 +4398,8 @@
       "title": "Elementary Arabic II Lab",
       "meetings": [
         {
-          "days": "T",
-          "time": "10:10 - 11:10 am",
+          "days": "TBA",
+          "time": "",
           "room": ""
         }
       ],
@@ -5484,7 +5536,9 @@
       "instructor": "Sarah West",
       "open_seats": "25",
       "max_enrollment": "25",
-      "crosslistings": [],
+      "crosslistings": [
+        "INTL 294-02 (30857)"
+      ],
       "seat_reservations": "",
       "description": "This course studies the economics of public policy toward the environment. We begin by examining the problem of market failure in the presence of externalities and public goods. Then, we consider public policy responses to these market failures, including command-and-control regulations, tax and subsidy incentives, marketable pollution permits, voluntary programs, and information as regulation. We consider these policies in contexts such as local pollution, climate change, threats to biodiversity, environmental justice, international trade, and development. In addition, we learn how to measure the costs and benefits of pollution control. By the end of the semester, you will learn how economists think about environmental problems, understand the advantages and disadvantages of a range of environmental policies, be able to conduct a cost-benefit analysis, and have a complete economic analysis of an environmental problem. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
       "distribution_requirements": "Social science",
@@ -9843,7 +9897,8 @@
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
-        "SPAN 394-01 (30658)"
+        "SPAN 394-01 (30658)",
+        "INTL 394-01 (30858)"
       ],
       "seat_reservations": "",
       "description": "Approximately 40,000 foreign volunteers traveled to Spain during the Spanish Civil War (1936-1939) to fight against fascism, show their support for the democratically elected Republican government, and usher in a workers’ revolution. The majority of these volunteers joined the International Brigade as soldiers, but many others served as healthcare professionals, engineers, and journalists. On the other side of the political spectrum, roughly 70,000 Italian troops, 60,000 Moroccan troops, and 16,000 German troops provided vital support for the so-called Nationalists who, on July 18, 1936, had staged a military coup against the Republicans in the name of God, against communism, or both. Most notorious among them is the Condor Legion, the Nazi air force unit responsible for the bombing of the Basque city of Gernika that inspired Pablo Picasso’s eponymous painting. Against this historical backdrop, “For God or Revolution” focuses on the rich mosaic of experiences recorded in letters, diaries, documentaries, films, photographs, poems, and fiction by non-Spaniards who fought in opposing camps of the conflict. Alongside prominent names (Pablo Neruda, César Vallejo, Ernest Hemingway, George Orwell, André Malraux, or Robert Capa), lesser-known figures merit equal recognition, including army captain Mika Etchebéhère, photojournalist Gerda Taro, nurses Nan Green and Salaria Kea, and war correspondent Pablo de la Torriente Brau. Their conflicting testimonies highlight the sacrifices they made in pursuit of their ideals while reminding us of the complexity of the human condition in times of war. Readings in Spanish and English. Taught in Spanish. This course satisfies the area 2 requirement of the Spanish major and also counts as a 354 and above elective for the major or the minor. Prerequisites: SPAN 307 or permission of the instructor",
@@ -10197,6 +10252,58 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27288%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30857",
+      "subject": "INTL",
+      "subject_name": "International Studies",
+      "course_number": "294",
+      "section": "02",
+      "title": "Environmental Economics and Policy",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Sarah West",
+      "open_seats": "25",
+      "max_enrollment": "25",
+      "crosslistings": [
+        "ECON 231-01 (30730)"
+      ],
+      "seat_reservations": "",
+      "description": "This course studies the economics of public policy toward the environment. We begin by examining the problem of market failure in the presence of externalities and public goods. Then, we consider public policy responses to these market failures, including command-and-control regulations, tax and subsidy incentives, marketable pollution permits, voluntary programs, and information as regulation. We consider these policies in contexts such as local pollution, climate change, threats to biodiversity, environmental justice, international trade, and development. In addition, we learn how to measure the costs and benefits of pollution control. By the end of the semester, you will learn how economists think about environmental problems, understand the advantages and disadvantages of a range of environmental policies, be able to conduct a cost-benefit analysis, and have a complete economic analysis of an environmental problem. This course counts as a Group E elective. Prerequisite(s): ECON 119 or ECON 129. C- or higher required for all prerequisites.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30859",
+      "subject": "INTL",
+      "subject_name": "International Studies",
+      "course_number": "294",
+      "section": "03",
+      "title": "Portugal Meets \"the Other,\" Overseas: Portuguese Navigators from the 15th to 17th Century",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "J. Ernesto Ortiz Díaz",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "PORT 381-01 (30555)"
+      ],
+      "seat_reservations": "",
+      "description": "In this course we will read travel accounts, official historiography, and literature from the period in which Portugal became the first European overseas empire. The Portuguese linked continents and cultures as never before traveling by sea; indeed this process can be understood as the first globalization because of the cultural cross-pollination that Portugal’s voyages stirred up. We will focus on analyzing the way in which the Portuguese managed to portray ’the Other’ by two contrary discourses: Portugal’s providential mission, and the race for economical profit through trade and war in Africa and the Middle and Far East. We will also study the appropriation and resignification of these matters on works of literature and visual arts produced in the contemporary era. This course satisfies the Area 1 requirement for the Spanish major. Prerequisite(s): PORT 331",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30401",
       "subject": "INTL",
       "subject_name": "International Studies",
@@ -10321,6 +10428,33 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27380%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30858",
+      "subject": "INTL",
+      "subject_name": "International Studies",
+      "course_number": "394",
+      "section": "01",
+      "title": "For God or Revolution: Foreign Fighters in the Spanish Civil War",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "1:10 - 2:10 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Toni Dorca",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [
+        "SPAN 394-01 (30658)",
+        "HIST 394-01 (30732)"
+      ],
+      "seat_reservations": "",
+      "description": "Approximately 40,000 foreign volunteers traveled to Spain during the Spanish Civil War (1936-1939) to fight against fascism, show their support for the democratically elected Republican government, and usher in a workers’ revolution. The majority of these volunteers joined the International Brigade as soldiers, but many others served as healthcare professionals, engineers, and journalists. On the other side of the political spectrum, roughly 70,000 Italian troops, 60,000 Moroccan troops, and 16,000 German troops provided vital support for the so-called Nationalists who, on July 18, 1936, had staged a military coup against the Republicans in the name of God, against communism, or both. Most notorious among them is the Condor Legion, the Nazi air force unit responsible for the bombing of the Basque city of Gernika that inspired Pablo Picasso’s eponymous painting. Against this historical backdrop, “For God or Revolution” focuses on the rich mosaic of experiences recorded in letters, diaries, documentaries, films, photographs, poems, and fiction by non-Spaniards who fought in opposing camps of the conflict. Alongside prominent names (Pablo Neruda, César Vallejo, Ernest Hemingway, George Orwell, André Malraux, or Robert Capa), lesser-known figures merit equal recognition, including army captain Mika Etchebéhère, photojournalist Gerda Taro, nurses Nan Green and Salaria Kea, and war correspondent Pablo de la Torriente Brau. Their conflicting testimonies highlight the sacrifices they made in pursuit of their ideals while reminding us of the complexity of the human condition in times of war. Readings in Spanish and English. Taught in Spanish. This course satisfies the area 2 requirement of the Spanish major and also counts as a 354 and above elective for the major or the minor. Prerequisites: SPAN 307 or permission of the instructor",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTL%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30406",
@@ -12031,6 +12165,32 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27388%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30864",
+      "subject": "MCST",
+      "subject_name": "Media and Cultural Studies",
+      "course_number": "394",
+      "section": "01",
+      "title": "Audiovisual Research",
+      "meetings": [
+        {
+          "days": "TBA",
+          "time": "",
+          "room": ""
+        }
+      ],
+      "instructor": "Kirisitina Sailiata",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [
+        "AMST 394-01 (30863)"
+      ],
+      "seat_reservations": "",
+      "description": "This advanced research course explores the form and function of video essays as a mode of scholarly inquiry beyond conventional academic circulation. Part of the course will focus on audiovisual research and argumentation and the other half of the course will survey recent theories and methods in American cultural studies on race and empire. Students in this course will experiment with and apply interdisciplinary visual cultural studies methods with a range of multimedia texts and archives in order to craft original audiovisual essays about the history of race, visuality, and American imperialism. Audiovisual Research is an interactive, collaborative course in which students will regularly workshop their video essays in progress throughout the semester.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30459",
@@ -14389,7 +14549,9 @@
       "instructor": "J. Ernesto Ortiz Díaz",
       "open_seats": "15",
       "max_enrollment": "15",
-      "crosslistings": [],
+      "crosslistings": [
+        "INTL 294-03 (30859)"
+      ],
       "seat_reservations": "",
       "description": "In this course we will read travel accounts, official historiography, and literature from the period in which Portugal became the first European overseas empire. The Portuguese linked continents and cultures as never before traveling by sea; indeed this process can be understood as the first globalization because of the cultural cross-pollination that Portugal’s voyages stirred up. We will focus on analyzing the way in which the Portuguese managed to portray ’the Other’ by two contrary discourses: Portugal’s providential mission, and the race for economical profit through trade and war in Africa and the Middle and Far East. We will also study the appropriation and resignification of these matters on works of literature and visual arts produced in the contemporary era. This course satisfies the Area 1 requirement for the Spanish major. Prerequisite(s): PORT 331 .",
       "distribution_requirements": "Humanities",
@@ -15284,7 +15446,9 @@
       "instructor": "Lucia Hulsether",
       "open_seats": "20",
       "max_enrollment": "20",
-      "crosslistings": [],
+      "crosslistings": [
+        "WGSS 194-01 (30862)"
+      ],
       "seat_reservations": "",
       "description": "An exploration of the relationship between religion, sex, and power in the United States. What has been the role of religion in the creation of sexual norms in U.S. history? How has this relationship changed over time, in relation to intersecting systems of power? What are “family values,” and where did they come from? Does secularism promote sexual freedom? This seminar course takes up questions like these, anchoring our inquiry in interdisciplinary feminist theories of gender and sexuality. Looking at range of contexts and media phenomena —from Supreme Court rulings on religious freedom, to fights over sex education in schools, to feminist and queer-centered religious collectives, to the affinities between sexual violence and empire, to capitalism’s regimes of gendered labor—students will develop critical vocabularies for analyzing intimacies between religion and sexuality.",
       "distribution_requirements": "Humanities",
@@ -15527,30 +15691,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30764",
-      "subject": "RELI",
-      "subject_name": "Religious Studies",
-      "course_number": "294",
-      "section": "04",
-      "title": "Critiques of Religion and Capitalism",
-      "meetings": [
-        {
-          "days": "T",
-          "time": "1:20 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Lucia Hulsether",
-      "open_seats": "20",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30604",
       "subject": "RELI",
       "subject_name": "Religious Studies",
@@ -15575,6 +15715,32 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30860",
+      "subject": "RELI",
+      "subject_name": "Religious Studies",
+      "course_number": "394",
+      "section": "01",
+      "title": "Religion and Ethnography",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Lucia Hulsether",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [
+        "ANTH 394-04 (30861)"
+      ],
+      "seat_reservations": "",
+      "description": "This reading-intensive seminar examines the range of methodological orientations and representational techniques in ethnographic writing. It takes a critical approach to this topic, recognizing that there is always a politics and an ethics to the ways that scholars approach their subjects. We engage a set of theoretical concepts that inform recent ethnographic work, organizing our inquiry around works that engage religion as a concept and questions concerning scholars of religion more broadly. What strategies have ethnographers used to represent religion as concept, as practice, as subject? What, if anything, differentiates “ethnography of religion” from an ethnography that does not take religion as a discrete object of concern—but that focuses on issues like conversion, translation, transformation, and narrative? These questions are used as our collective portal into a more general engagement with issues of ethics, representation, and epistemology in ethnographic works. As we read and discuss, we will pay close attention to the research methods that the authors employ and the genre choices that they make in representing their material and defining their subjects.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30606",
@@ -16599,7 +16765,8 @@
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [
-        "HIST 394-01 (30732)"
+        "HIST 394-01 (30732)",
+        "INTL 394-01 (30858)"
       ],
       "seat_reservations": "",
       "description": "Approximately 40,000 foreign volunteers traveled to Spain during the Spanish Civil War (1936-1939) to fight against fascism, show their support for the democratically elected Republican government, and usher in a workers’ revolution. The majority of these volunteers joined the International Brigade as soldiers, but many others served as healthcare professionals, engineers, and journalists. On the other side of the political spectrum, roughly 70,000 Italian troops, 60,000 Moroccan troops, and 16,000 German troops provided vital support for the so-called Nationalists who, on July 18, 1936, had staged a military coup against the Republicans in the name of God, against communism, or both. Most notorious among them is the Condor Legion, the Nazi air force unit responsible for the bombing of the Basque city of Gernika that inspired Pablo Picasso’s eponymous painting. Against this historical backdrop, “For God or Revolution” focuses on the rich mosaic of experiences recorded in letters, diaries, documentaries, films, photographs, poems, and fiction by non-Spaniards who fought in opposing camps of the conflict. Alongside prominent names (Pablo Neruda, César Vallejo, Ernest Hemingway, George Orwell, André Malraux, or Robert Capa), lesser-known figures merit equal recognition, including army captain Mika Etchebéhère, photojournalist Gerda Taro, nurses Nan Green and Salaria Kea, and war correspondent Pablo de la Torriente Brau. Their conflicting testimonies highlight the sacrifices they made in pursuit of their ideals while reminding us of the complexity of the human condition in times of war. Readings in Spanish and English. Taught in Spanish. This course satisfies the area 2 requirement of the Spanish major and also counts as a 354 and above elective for the major or the minor. Prerequisites: SPAN 307 or permission of the instructor",
@@ -17229,7 +17396,7 @@
       "meetings": [
         {
           "days": "M W F",
-          "time": "3:30 - 4:30 pm",
+          "time": "3:30 - 4:45 pm",
           "room": ""
         }
       ],
@@ -17458,6 +17625,32 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2781%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30862",
+      "subject": "WGSS",
+      "subject_name": "Women's, Gender, and Sexuality Studies",
+      "course_number": "194",
+      "section": "01",
+      "title": "Religion, Sex, Power",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Lucia Hulsether",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "RELI 194-03 (30763)"
+      ],
+      "seat_reservations": "",
+      "description": "An exploration of the relationship between religion, sex, and power in the United States. What has been the role of religion in the creation of sexual norms in U.S. history? How has this relationship changed over time, in relation to intersecting systems of power? What are “family values,” and where did they come from? Does secularism promote sexual freedom? This seminar course takes up questions like these, anchoring our inquiry in interdisciplinary feminist theories of gender and sexuality. Looking at range of contexts and media phenomena —from Supreme Court rulings on religious freedom, to fights over sex education in schools, to feminist and queer-centered religious collectives, to the affinities between sexual violence and empire, to capitalism’s regimes of gendered labor—students will develop critical vocabularies for analyzing intimacies between religion and sexuality.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30703",
