@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-03T00:42:40.750482+00:00",
+  "scraped_at": "2026-11-04T05:20:48.092633+00:00",
   "course_count": 731,
   "courses": [
     {
@@ -1665,7 +1665,7 @@
       "seat_reservations": "",
       "description": "China is known for its grueling examination culture. How did this culture evolve? This course examines the imperial civil service examination system, the benchmark of social and political success in imperial China. We will read the core texts of the Confucian curriculum - the Four Books and the Five Classics - to examine the values these texts promoted. We will also study frustrated scholars’ fictional accounts of the unfairness of the exam system, Europeans’ praise of it as a model meritocracy, and women’s struggles to participate in a system that explicitly excluded them. The course invites reflection on contemporary educational practices, and culminates in a recreation of the civil service exam.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27251%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -4016,7 +4016,7 @@
       "seat_reservations": "",
       "description": "China is known for its grueling examination culture. How did this culture evolve? This course examines the imperial civil service examination system, the benchmark of social and political success in imperial China. We will read the core texts of the Confucian curriculum - the Four Books and the Five Classics - to examine the values these texts promoted. We will also study frustrated scholars’ fictional accounts of the unfairness of the exam system, Europeans’ praise of it as a model meritocracy, and women’s struggles to participate in a system that explicitly excluded them. The course invites reflection on contemporary educational practices, and culminates in a recreation of the civil service exam.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHIN%27%20num=%27251%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -6113,7 +6113,7 @@
       "seat_reservations": "",
       "description": "China is known for its grueling examination culture. How did this culture evolve? This course examines the imperial civil service examination system, the benchmark of social and political success in imperial China. We will read the core texts of the Confucian curriculum - the Four Books and the Five Classics - to examine the values these texts promoted. We will also study frustrated scholars’ fictional accounts of the unfairness of the exam system, Europeans’ praise of it as a model meritocracy, and women’s struggles to participate in a system that explicitly excluded them. The course invites reflection on contemporary educational practices, and culminates in a recreation of the civil service exam.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27251%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -12708,7 +12708,7 @@
       "title": "Neuroscience Capstone",
       "meetings": [
         {
-          "days": "M W F",
+          "days": "M",
           "time": "12:00 - 1:00 pm",
           "room": ""
         }
@@ -12934,7 +12934,7 @@
           "room": ""
         }
       ],
-      "instructor": "Samuel Asarnow",
+      "instructor": "GILLIAN GRAY",
       "open_seats": "20",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -12982,7 +12982,7 @@
           "room": ""
         }
       ],
-      "instructor": "Samuel Asarnow",
+      "instructor": "GILLIAN GRAY",
       "open_seats": "15",
       "max_enrollment": "15",
       "crosslistings": [],
