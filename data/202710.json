@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-11-04T05:20:12.473086+00:00",
+  "scraped_at": "2026-11-05T05:39:57.065420+00:00",
   "course_count": 772,
   "courses": [
     {
@@ -13411,7 +13411,7 @@
         }
       ],
       "instructor": "Chi-Chi Bestmann",
-      "open_seats": "33",
+      "open_seats": "32",
       "max_enrollment": "70",
       "crosslistings": [],
       "seat_reservations": "",
