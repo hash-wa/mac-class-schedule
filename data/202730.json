@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-05T05:40:33.062678+00:00",
-  "course_count": 731,
+  "scraped_at": "2026-11-06T05:38:25.874586+00:00",
+  "course_count": 733,
   "courses": [
     {
       "crn": "30678",
@@ -563,8 +563,8 @@
       "title": "Audiovisual Research in American Culture",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -576,7 +576,7 @@
       ],
       "seat_reservations": "",
       "description": "This advanced research course explores the form and function of video essays as a mode of scholarly inquiry beyond conventional academic circulation. Part of the course will focus on audiovisual research and argumentation and the other half of the course will survey recent theories and methods in American cultural studies on race and empire. Students in this course will experiment with and apply interdisciplinary visual cultural studies methods with a range of multimedia texts and archives in order to craft original audiovisual essays about the history of race, visuality, and American imperialism. Audiovisual Research is an interactive, collaborative course in which students will regularly workshop their video essays in progress throughout the semester.",
-      "distribution_requirements": "",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -669,11 +669,11 @@
         }
       ],
       "instructor": "Arjun Guneratne",
-      "open_seats": "12",
-      "max_enrollment": "12",
+      "open_seats": "14",
+      "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "An introduction to ethnographic field interviewing learned in the context of individually run student field projects. Focuses on the anthropologist-informant field relationship and the discovery of cultural knowledge through participant observation and ethnosemantic interviewing techniques. Prerequisite(s): ANTH 101 or ANTH 111 or permission of instructor.",
+      "description": "An introduction to ethnographic field interviewing learned in the context of individually run student field projects. Focuses on the anthropologist-informant field relationship and the discovery of cultural knowledge through participant observation and ethnosemantic interviewing techniques. Prerequisite(s): open to Anthropology Majors and Minors only; or by permission of instructor",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27230%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -7928,7 +7928,7 @@
       "meetings": [
         {
           "days": "T",
-          "time": "9:10 - 10:10 am",
+          "time": "3:30 - 4:30 pm",
           "room": ""
         }
       ],
@@ -12175,8 +12175,8 @@
       "title": "Audiovisual Research",
       "meetings": [
         {
-          "days": "TBA",
-          "time": "",
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
@@ -12188,7 +12188,7 @@
       ],
       "seat_reservations": "",
       "description": "This advanced research course explores the form and function of video essays as a mode of scholarly inquiry beyond conventional academic circulation. Part of the course will focus on audiovisual research and argumentation and the other half of the course will survey recent theories and methods in American cultural studies on race and empire. Students in this course will experiment with and apply interdisciplinary visual cultural studies methods with a range of multimedia texts and archives in order to craft original audiovisual essays about the history of race, visuality, and American imperialism. Audiovisual Research is an interactive, collaborative course in which students will regularly workshop their video essays in progress throughout the semester.",
-      "distribution_requirements": "",
+      "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27MCST%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -12742,7 +12742,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "An introduction to philosophy through topics found in classical and contemporary philosophical writings, such as the nature of truth and knowledge, mind and body, freedom and determinism, right and wrong, and the existence of God. Course content varies from instructor to instructor. Specific course descriptions will be available in the department prior to registration.",
+      "description": "This course will cover a variety of topics with an emphasis on issues that bear on everyday life, including (but not limited to) the free will debate, abortion, the problem of evil, and antinatalism. Students will develop the ability to engage with philosophical arguments and will hone their analytical and reasoning skills.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27100%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -12766,7 +12766,7 @@
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "An introduction to philosophy through topics found in classical and contemporary philosophical writings, such as the nature of truth and knowledge, mind and body, freedom and determinism, right and wrong, and the existence of God. Course content varies from instructor to instructor. Specific course descriptions will be available in the department prior to registration.",
+      "description": "This course will cover a variety of topics with an emphasis on issues that bear on everyday life, including (but not limited to) the free will debate, abortion, the problem of evil, and antinatalism. Students will develop the ability to engage with philosophical arguments and will hone their analytical and reasoning skills.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27100%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17387,6 +17387,54 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27255%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30866",
+      "subject": "THDA",
+      "subject_name": "Theater and Dance",
+      "course_number": "294",
+      "section": "01",
+      "title": "Writing for Television: The Spec Plot",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Timothy Lord",
+      "open_seats": "14",
+      "max_enrollment": "14",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Once upon a time, in order to break into TV, you had to write a speculative script for an existing show. These days, show runners want to see that you have an exciting and (most importantly) original voice. In this class we explore what it takes to create that. Together we’ll watch pilot episodes of TV shows, read original pitches and show bibles, and dig into structures of both hourlong dramas and half hour sitcoms. Over the course of the semester, students will create a pitch for their own original show, begin to create a show bible, and complete a draft of their spec pilot.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30867",
+      "subject": "THDA",
+      "subject_name": "Theater and Dance",
+      "course_number": "294",
+      "section": "02",
+      "title": "History of Adornment",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Trevor Bowen",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Have you ever wondered where certain articles of clothing and decorative elements originated? How did they become items that we may conveniently purchase today? This course is a step through the history of some particular items and shapes of clothing and accessories seen and utilized today. Bows, peplums, t-shirts, and more are discussed through imagery, social history, and project work to better interpret, and understand some contemporary clothing items and decoration. This course will also step through a costume designer’s process through research, analysis, deconstruction, and recombination of several of these clothing styles and decorative elements for the costume design of the THDA Spring Musical Cabaret.",
+      "distribution_requirements": "Fine arts",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30696",
       "subject": "THDA",
       "subject_name": "Theater and Dance",
@@ -17405,7 +17453,7 @@
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This dynamic course invites students to dive into the vibrant world of dances of the African Diaspora, where movement, music, rhythm, and history come together. In 2025-26, students will explore the rich cultural heritage of the African Diaspora in Brazil, especially the forms Capoeira, Samba, and Maculelê. The course begins with energizing warm-up exercises designed to prepare the body for the flow and intensity of these dance forms. Through embodied practice, students will develop foundational skills, strengthen the connection between dance and music, learn about diasporic history, and engage in community building. Readings include \"Cultivating capoeira: tensions in an Afro-Brazilian art ’gone global,\" \"Evolution of Samba: How Samba has evolved in the last 50 years,\" and \"Maculele: Origins and Modern Interpretation.\" May be repeated for credit. No experience necessary, though THDA 21 (fall semester) is recommended. Letter grading.",
+      "description": "This dynamic course invites students to dive into the vibrant world of dances of the African Diaspora, where movement, music, rhythm, and history come together. The course begins with energizing warm-up exercises designed to prepare the body for the flow and intensity of these dance forms. Through embodied practice, students will develop foundational skills, strengthen the connection between dance and music, learn about diasporic history, and engage in community building. Readings include \"Cultivating capoeira: tensions in an Afro-Brazilian art ’gone global,\" \"Evolution of Samba: How Samba has evolved in the last 50 years,\" and \"Maculele: Origins and Modern Interpretation.\" May be repeated for credit. No experience necessary, though THDA 21 (fall semester) is recommended. Letter grading.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2731%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17477,7 +17525,7 @@
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "",
+      "description": "Students learn the fundamental characteristics, techniques, and principles of Breaking/Breakdance. The class will dive into the typical movements, histories and origins of this urban dance style. We are going to deep detail using theories and concepts that can help our minds, bodies and spirit connect further and deeper to the styles themselves. This class will allow your own identity and way of motion to be in the forefront. The course is physicallyrigorous, and emphasizes community building. We will utilize class time to learn and discuss the history of Breaking and its evolution through a course reading called, \"The Birth of Breaking\" by Serouj \"Midus\" Aprahamian. No experience required. All are welcome. May be repeated for credit. Letter grading.",
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2735%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -17501,7 +17549,7 @@
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This class offers students the opportunity to engage in the creation of a theatrical performance—either from an existing script or a newly devised piece – with an emphasis on exploring and learning the craft of theatremaking. Students may be involved as performers, designers, assistant designers, writers, and dramaturgs. The work will conclude with public performances in the James A. Williams Theater. Rehearsals will take place during class hours, but final technical rehearsals and performances will involve some evenings at the end of the semester. This class may be repeated for credit. Prerequisite: Permission of instructor, an audition and/or interview with the instructor is required.",
       "distribution_requirements": "Fine arts",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
