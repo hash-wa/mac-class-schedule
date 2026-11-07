@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-11-06T05:37:49.357396+00:00",
+  "scraped_at": "2026-11-07T05:06:06.408628+00:00",
   "course_count": 772,
   "courses": [
     {
@@ -6030,7 +6030,7 @@
       "seat_reservations": "",
       "description": "This course is designed to illustrate how economists analyze topics related to demand for health care, health disparities, and US health policy. The goal of the course is for students to be more knowledgeable consumers and producers of empirical health economics research. Topics include: substance use, public policy, insurance, reproductive health, risky behaviors, and environmental economics. While the course will typically focus on a US context, it presents tools that are applicable in many contexts. We will read, discuss, and critically evaluate key research papers in health economics with particular focus on research design and data. This course counts as a Group E elective. It is a non-capstone course. It meets concurrently with ECON 494-02. Prerequisite(s): ECON 361, 371, and 381, completed with a grade of C- or higher.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ECON%27%20num=%27494%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -6056,7 +6056,7 @@
       "seat_reservations": "",
       "description": "This course is designed to illustrate how economists analyze topics related to demand for health care, health disparities, and US health policy. The goal of the course is for students to be more knowledgeable consumers and producers of empirical health economics research. Topics include: substance use, public policy, insurance, reproductive health, risky behaviors, and environmental economics. While the course will typically focus on a US context, it presents tools that are applicable in many contexts. We will read, discuss, and critically evaluate key research papers in health economics with particular focus on research design and data. This course counts as a Group E elective. It is a capstone course. It meets concurrently with ECON 494-01. Prerequisite(s): ECON 361, 371, and 381, completed with a grade of C- or higher.",
       "distribution_requirements": "Social science",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202710%27%20dept=%20%27ECON%27%20num=%27494%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {

@@ -1,35 +1,9 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-06T05:38:25.874586+00:00",
-  "course_count": 733,
+  "scraped_at": "2026-11-07T05:06:40.779969+00:00",
+  "course_count": 737,
   "courses": [
-    {
-      "crn": "30678",
-      "subject": "AMST",
-      "subject_name": "American Studies",
-      "course_number": "102",
-      "section": "01",
-      "title": "Reading Plays: Towards an Internationalist Theatre",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Jarek Pastor",
-      "open_seats": "14",
-      "max_enrollment": "14",
-      "crosslistings": [
-        "THDA 112-01 (30677)"
-      ],
-      "seat_reservations": "",
-      "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. This section’s focus turns toward varied approaches from contemporary Global Majority works in the Americas, Muromachi period Japan, Yoruba conceptions of tragedy, and European Modernists to consider the special utility of dramatic literature to serve as poetic polemic and cultural ambassador. Students will learn about the socio-historical context of these works, holding space for differing views in the arena of intercultural imagination while tracing common conceptions of justice, desire, and universal human worth. In familiarizing ourselves with these dramatists’ distinct methods and the cultural contexts that led them there, we will meditate on one basic question: what does it mean to live fully alongside others unlike ourselves? Students will read and discuss a new play every week; assignments will introduce them to the foundation of script analysis, including creative responses, group presentations, and short critical papers.",
-      "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Writing WA",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27102%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
     {
       "crn": "30712",
       "subject": "AMST",
@@ -516,14 +490,12 @@
           "room": ""
         }
       ],
-      "instructor": "Juliette Rogers",
+      "instructor": "Juliette Rogers, Duchess Harris",
       "open_seats": "6",
       "max_enrollment": "6",
-      "crosslistings": [
-        "FREN 336-01 (30305)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
-      "description": "In his unpublished essay, \"I choose exile,\" Richard Wright declared, \"To live in Paris is to allow one’s sensibilities to be moved by physical beauty. I love my adopted city. Its sunsets, its teeming boulevards, its slow and humane tempo of life have entered deeply into my heart.\" Paulette Nardal wrote in her essay \"Awakening of Racial Consciousness\" that living in Paris in the 1920s had created for Black women the \"need of racial solidarity that would not be merely material\" and an \"awakening to race consciousness\" that they had not experienced or understood fully before leaving home and meeting Blacks from other countries in Paris. This course will look at the relationship that Blacks have had to France in the nineteenth and twentieth centuries. We will explore the art, literature, music and political protest that were generated in the \"City of Lights.\" The presence of African Americans has usually been seen, by both themselves and others, as a commentary on race. We will examine the lives of Blacks who left the United States expressly to escape the burdens of discrimination and came to Paris as self-conscious refugees from racism. We will also examine the lives of Blacks who left the French colonies to pursue a western education in France, but who developed broader philosophical ideologies, including the cultural, artistic and literary movements of la Négritude. We will examine their experiences and critique the myth of a color-blind France. Prerequisite(s): FREN 204 or higher",
+      "description": "In his unpublished essay, “I choose exile,” Richard Wright declared, “To live in Paris is to allow one’s sensibilities to be moved by physical beauty. I love my adopted city. Its sunsets, its teeming boulevards, its slow and humane tempo of life have entered deeply into my heart.” Paulette Nardal wrote in her essay “Awakening of Racial Consciousness” that living in Paris in the 1920s had created for Black women the “need of racial solidarity that would not be merely material” and an “awakening to race consciousness” that they had not experienced or understood fully before leaving home and meeting Blacks from other countries in Paris. This course will look at the relationship that Blacks have had to France in the nineteenth and twentieth centuries. We will explore the art, literature, music and political protest that were generated in the “City of Lights.” The presence of African Americans has usually been seen, by both themselves and others, as a commentary on race. We will examine the lives of Blacks who left the United States expressly to escape the burdens of discrimination and came to Paris as self-conscious refugees from racism. We will also examine the lives of Blacks who left the French colonies to pursue a western education in France, but who developed broader philosophical ideologies, including the cultural, artistic and literary movements of la Négritude. We will examine their experiences and critique the myth of a color-blind France. *This course will include a 10-day study away component in France during Spring Break in March 2027 Prerequisite(s): FREN 204",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27336%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -1504,7 +1476,7 @@
       "seat_reservations": "",
       "description": "This course introduces students to foundational legends, epics, novels, and poetry from across Asia. Studying core texts from India, China, Vietnam, Korea, and Japan provides windows into the ancient cultures that produced these works. We will also examine these tales’ enduring power today. We will analyze the many changes these tales underwent as they spread across Asia and appeared in diverse media including visual arts and film. Texts include: The Journey to the West, The Tale of Genji, The Tale of Kieu, and The Ramayana.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -1743,9 +1715,9 @@
         "HIST 294-02 (30271)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
+      "description": "America’s most long-lasting impact overseas has often come through environmental manipulations. This course will start in the early 20th century examining U.S. consumption of bananas, coffee, and oil and centering the people and landscapes that produced those commodities. Next, we will examine how Americans have shaped landscapes and communities overseas through warfare: we will visit battlefields and “militarized landscapes” in Normandy, Hiroshima, Korea, and Vietnam -- but also, surprisingly, in Hanford, Washington, Love Canal, New York, and hundreds of PFAS sites around the U.S. To tell global stories of American empire, we will zoom in on interwoven local ecosystems and communities, mostly overseas, often in Asia, but some within U.S. borders. We will also examine how nature shaped and often limited or foiled the U.S. “superpower.” Nature was often exploited and reconfigured, bombed and bulldozed, but it was no passive actor.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -6165,6 +6137,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30870",
+      "subject": "EDUC",
+      "subject_name": "Educational Studies",
+      "course_number": "294",
+      "section": "02",
+      "title": "Francophone Cultures of/in America",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Joëlle Vitiello",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. Prerequisite(s): FREN 204",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30227",
       "subject": "EDUC",
       "subject_name": "Educational Studies",
@@ -6285,7 +6281,7 @@
       "seat_reservations": "",
       "description": "Marie de France. Ulayya bint al-Mahdi. Murasaki Shikibu. Li Qingzhao. Margery Kempe. In almost every literary culture throughout the premodern world, women used the power of writing to reflect and shape their worlds. Yet these women writers have often been forgotten, especially in the Anglo-American world. In International Women’s Writing 500-1500, we undertake a whirlwind journey throughout the medieval world in a survey of woman writers who laid the foundation for women’s writing today. We will study the words of poets, novelists, diarists, and saints in places stretching from Japan to Mexico. We will also explore their historical contexts, examining how woman writers interacted with the book arts of their cultures. Along the way, we will interrogate the very idea of a “woman” writer, the power hierarchies embedded in the written word, and the premise of internationalism itself.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Writing WA",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27125%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -6489,7 +6485,7 @@
       "title": "Literary Publishing",
       "meetings": [
         {
-          "days": "M",
+          "days": "W",
           "time": "7:00 - 10:00 pm",
           "room": ""
         }
@@ -7295,9 +7291,9 @@
         "ASIA 294-01 (30272)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
+      "description": "America’s most long-lasting impact overseas has often come through environmental manipulations. This course will start in the early 20th century examining U.S. consumption of bananas, coffee, and oil and centering the people and landscapes that produced those commodities. Next, we will examine how Americans have shaped landscapes and communities overseas through warfare: we will visit battlefields and “militarized landscapes” in Normandy, Hiroshima, Korea, and Vietnam -- but also, surprisingly, in Hanford, Washington, Love Canal, New York, and hundreds of PFAS sites around the U.S. To tell global stories of American empire, we will zoom in on interwoven local ecosystems and communities, mostly overseas, often in Asia, but some within U.S. borders. We will also examine how nature shaped and often limited or foiled the U.S. “superpower.” Nature was often exploited and reconfigured, bombed and bulldozed, but it was no passive actor.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27294%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -7481,6 +7477,30 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30872",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "394",
+      "section": "03",
+      "title": "Monuments & Memorials: Purpose, Meaning & Design",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "3:00 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Tony Siebenaler-Ransom",
+      "open_seats": "15",
+      "max_enrollment": "15",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "What does it mean to set aside and develop a space for a memorial or monument? What are the purposes and goals of those objects and places? How are these employed and reflected in the design? Legacy, memory, honor, education, influence: which is primary? How does the order of these change the spatial design? What are the necessary components and spatial requirements for a place to honor George Floyd, or Renee Goode and Alex Pretti? We begin with a brief historical overview of elevated meaning in place making. We will explore historic and contemporary examples by reading and discussing analyses of international and local monuments and memorials, their context, the relation to power, and if we think these spaces achieve their goals. The course will also focus on the tools designers use to achieve these experiences in place. We will explore preservation and ecological restoration as a form of memorial, and how this type of framework may or may not be useful. Coursework will focus on research, reading and discussion, and the majority of the assignment work will be writing. Students will explore writing in different formats: case study, proposal, reflective writing, and will be challenged to use both narrative and professional voices to communicate design ideas. Students will develop guidelines for memorials as part of the final project. This course is recommended for Juniors or Seniors as it is a deeper engagement with specialized subject matter. Students will be expected to be more self-directed. Basic coursework skills and an ability to do analysis/research independently is highly recommended.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30779",
@@ -8129,7 +8149,7 @@
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. Prerequisite(s): FREN 204",
+      "description": "",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27FREN%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -8148,14 +8168,12 @@
           "room": ""
         }
       ],
-      "instructor": "Juliette Rogers",
+      "instructor": "Juliette Rogers, Duchess Harris",
       "open_seats": "6",
       "max_enrollment": "6",
-      "crosslistings": [
-        "AMST 336-01 (30306)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
-      "description": "In his unpublished essay, \"I choose exile,\" Richard Wright declared, \"To live in Paris is to allow one’s sensibilities to be moved by physical beauty. I love my adopted city. Its sunsets, its teeming boulevards, its slow and humane tempo of life have entered deeply into my heart.\" Paulette Nardal wrote in her essay \"Awakening of Racial Consciousness\" that living in Paris in the 1920s had created for Black women the \"need of racial solidarity that would not be merely material\" and an \"awakening to race consciousness\" that they had not experienced or understood fully before leaving home and meeting Blacks from other countries in Paris. This course will look at the relationship that Blacks have had to France in the nineteenth and twentieth centuries. We will explore the art, literature, music and political protest that were generated in the \"City of Lights.\" The presence of African Americans has usually been seen, by both themselves and others, as a commentary on race. We will examine the lives of Blacks who left the United States expressly to escape the burdens of discrimination and came to Paris as self-conscious refugees from racism. We will also examine the lives of Blacks who left the French colonies to pursue a western education in France, but who developed broader philosophical ideologies, including the cultural, artistic and literary movements of la Négritude. We will examine their experiences and critique the myth of a color-blind France. Corequisite(s): FREN 204 or higher",
+      "description": "In his unpublished essay, “I choose exile,” Richard Wright declared, “To live in Paris is to allow one’s sensibilities to be moved by physical beauty. I love my adopted city. Its sunsets, its teeming boulevards, its slow and humane tempo of life have entered deeply into my heart.” Paulette Nardal wrote in her essay “Awakening of Racial Consciousness” that living in Paris in the 1920s had created for Black women the “need of racial solidarity that would not be merely material” and an “awakening to race consciousness” that they had not experienced or understood fully before leaving home and meeting Blacks from other countries in Paris. This course will look at the relationship that Blacks have had to France in the nineteenth and twentieth centuries. We will explore the art, literature, music and political protest that were generated in the “City of Lights.” The presence of African Americans has usually been seen, by both themselves and others, as a commentary on race. We will examine the lives of Blacks who left the United States expressly to escape the burdens of discrimination and came to Paris as self-conscious refugees from racism. We will also examine the lives of Blacks who left the French colonies to pursue a western education in France, but who developed broader philosophical ideologies, including the cultural, artistic and literary movements of la Négritude. We will examine their experiences and critique the myth of a color-blind France. *This course will include a 10-day study away component in France during Spring Break in March 2027 Prerequisite(s): FREN 204",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27FREN%27%20num=%27336%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -8616,8 +8634,8 @@
         }
       ],
       "instructor": "Kristina Curry Rogers",
-      "open_seats": "48",
-      "max_enrollment": "48",
+      "open_seats": "36",
+      "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Dinosaurs dominated Earth’s landscapes for nearly 200 million years, and then seemingly vanished in one of the \"big-five\" mass extinctions that punctuate the history of life. In this course we’ll \"dig in\" to explore dinosaurs in their world and examine their evolution, biology, and behavior. Along the way we’ll meet the supporting cast of non-dino neighbors that live alongside dinosaurs within their Mesozoic ecosystems. We’ll examine the dramatic diversification and astounding ecological success of dinosaurs, and investigate theories for their sudden disappearance 66 million years ago. Far from being dimwitted icons of extinction, they are the ultimate survivors -- dinosaurs still populate your backyard bird feeder! Three 1-hour lectures per week.",
@@ -9776,9 +9794,9 @@
         "ASIA 294-01 (30272)"
       ],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "America’s most long-lasting impact overseas has often come through environmental manipulations. This course will start in the early 20th century examining U.S. consumption of bananas, coffee, and oil and centering the people and landscapes that produced those commodities. Next, we will examine how Americans have shaped landscapes and communities overseas through warfare: we will visit battlefields and “militarized landscapes” in Normandy, Hiroshima, Korea, and Vietnam -- but also, surprisingly, in Hanford, Washington, Love Canal, New York, and hundreds of PFAS sites around the U.S. To tell global stories of American empire, we will zoom in on interwoven local ecosystems and communities, mostly overseas, often in Asia, but some within U.S. borders. We will also examine how nature shaped and often limited or foiled the U.S. “superpower.” Nature was often exploited and reconfigured, bombed and bulldozed, but it was no passive actor.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -9929,6 +9947,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTD%27%20num=%27101%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30868",
+      "subject": "INTD",
+      "subject_name": "Interdisciplinary Courses",
+      "course_number": "130",
+      "section": "01",
+      "title": "Critical Librarianship and Archival Practices",
+      "meetings": [
+        {
+          "days": "W",
+          "time": "7:00 - 8:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Ginny Moran",
+      "open_seats": "20",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Zines are a highly democratic form of publication that explore issues in a low-tech format. Desktop printers, photocopy machines, as well as a range of hand-craft methods are used to create publications that can be widely shared. From exploring moments in daily life, or documenting issues shaping the social, cultural, or political realms, the zine is a medium for the message. Using zines and alternative press materials from Macalester’s College Archives and Special Collections as inspiration and reflection of the historical record, we will trace the medium’s roots from late 19th century amateur press, to 20th century fanzines and counterculture press, to politics and art in student publications. The course will conclude with making zine editions of our own.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27INTD%27%20num=%27130%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30723",
@@ -11073,7 +11115,7 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course explores the linked themes of sustainability, decolonization, environmental justice, and cultural production and discourse. Students will focus on decolonizing methodologies, particularly in the context of indigenous communities. Indigenous and rural communities in Latin America have long been at the forefront of territorial struggles against extractivist projects. As a window into these movements, this place-based course offers students a unique opportunity to explore both theory and practice related to community land management in Ecuador. In partnership with the Pachaysana Foundation, students will work directly with Indigenous leaders and knowledge holders in the Amazon and the Andes to unlearn harmful systems and reimagine approaches to land management and community wellbeing. Throughout the semester, students will learn from an interdisciplinary team of faculty and staff across the college through guest lectures, as well as community partners in Ecuador who will participate via Zoom in preparation for the short-term study away. Following the end of the academic semester, students will travel to Ecuador for an experiential workshop led by Indigenous leaders, educators, and families in both the Amazon and the Andes. Includes Study Away component; permission of instructor required.",
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LATI%27%20num=%27394%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -13558,7 +13600,7 @@
           "room": ""
         }
       ],
-      "instructor": "Brian Adams",
+      "instructor": "James Heyman, Brian Adams",
       "open_seats": "18",
       "max_enrollment": "18",
       "crosslistings": [],
@@ -13582,7 +13624,7 @@
           "room": ""
         }
       ],
-      "instructor": "Brian Adams",
+      "instructor": "James Heyman, Brian Adams",
       "open_seats": "18",
       "max_enrollment": "18",
       "crosslistings": [],
@@ -13606,7 +13648,7 @@
           "room": ""
         }
       ],
-      "instructor": "Brian Adams",
+      "instructor": "James Heyman, Brian Adams",
       "open_seats": "18",
       "max_enrollment": "18",
       "crosslistings": [],
@@ -13695,10 +13737,16 @@
       "course_number": "370",
       "section": "01",
       "title": "Computational Physics",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "24",
-      "max_enrollment": "24",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "10:50 - 11:50 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Tonnis ter Veldhuis",
+      "open_seats": "16",
+      "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course introduces students to coding and computational methods, focusing on developing computation-based skills that are critical for practicing physicists. Students process experimental data using statistical tools, study the implications of realistic physical models using a toolbox of numerical methods, and visualize information in meaningful formats. The course starts with an introduction to coding (in Python) and a survey of data manipulation tools (e.g., reading, writing, analyzing statistically, etc.). The focus is on skills that help students in labs, research, and anywhere else they need to extract physical insight from data. After the introduction to data analysis, the course transitions into a survey of numerical techniques which facilitate quantitative analysis of theoretical models describing complex physical phenomena, thereby creating a bridge between experimental/observational and theoretical physics. The lab provides hands-on experience in the application of computational skills discussed in lecture to realistic physical models drawn from a wide range of physics subdisciplines. Projects in the lab are implemented using Jupyter notebooks, via the Google Colaboratory environment. Students write documentation in Latex and Markdown. No previous experience with any of these is assumed. MATH 236 Strongly Recommended. Prerequisite(s): PHYS 227",
@@ -13713,16 +13761,46 @@
       "course_number": "370",
       "section": "L1",
       "title": "Computational Physics Lab",
-      "meetings": [],
-      "instructor": "",
-      "open_seats": "24",
-      "max_enrollment": "24",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "8:00 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Tonnis ter Veldhuis",
+      "open_seats": "8",
+      "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course introduces students to coding and computational methods, focusing on developing computation-based skills that are critical for practicing physicists. Students process experimental data using statistical tools, study the implications of realistic physical models using a toolbox of numerical methods, and visualize information in meaningful formats. The course starts with an introduction to coding (in Python) and a survey of data manipulation tools (e.g., reading, writing, analyzing statistically, etc.). The focus is on skills that help students in labs, research, and anywhere else they need to extract physical insight from data. After the introduction to data analysis, the course transitions into a survey of numerical techniques which facilitate quantitative analysis of theoretical models describing complex physical phenomena, thereby creating a bridge between experimental/observational and theoretical physics. The lab provides hands-on experience in the application of computational skills discussed in lecture to realistic physical models drawn from a wide range of physics subdisciplines. Projects in the lab are implemented using Jupyter notebooks, via the Google Colaboratory environment. Students write documentation in Latex and Markdown. No previous experience with any of these is assumed. MATH 236 Strongly Recommended. Prerequisite(s): PHYS 227",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27370%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30869",
+      "subject": "PHYS",
+      "subject_name": "Physics and Astronomy",
+      "course_number": "370",
+      "section": "L2",
+      "title": "Computational Physics Lab",
+      "meetings": [
+        {
+          "days": "R",
+          "time": "1:20 - 4:20 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Tonnis ter Veldhuis",
+      "open_seats": "8",
+      "max_enrollment": "8",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course introduces students to coding and computational methods, focusing on developing computation-based skills that are critical for practicing physicists. Students process experimental data using statistical tools, study the implications of realistic physical models using a toolbox of numerical methods, and visualize information in meaningful formats. The course starts with an introduction to coding (in Python) and a survey of data manipulation tools (e.g., reading, writing, analyzing statistically, etc.). The focus is on skills that help students in labs, research, and anywhere else they need to extract physical insight from data. After the introduction to data analysis, the course transitions into a survey of numerical techniques which facilitate quantitative analysis of theoretical models describing complex physical phenomena, thereby creating a bridge between experimental/observational and theoretical physics. The lab provides hands-on experience in the application of computational skills discussed in lecture to realistic physical models drawn from a wide range of physics subdisciplines. Projects in the lab are implemented using Jupyter notebooks, via the Google Colaboratory environment. Students write documentation in Latex and Markdown. No previous experience with any of these is assumed. MATH 236 Strongly Recommended. Prerequisite(s): PHYS 227",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHYS%27%20num=%27370%27%20sect=%27L2%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30522",
@@ -15272,7 +15350,7 @@
           "room": ""
         }
       ],
-      "instructor": "Joan Ostrove",
+      "instructor": "Joan Ostrove, Steve Guglielmo, Keira Leneman, Grace Vieth",
       "open_seats": "8",
       "max_enrollment": "8",
       "crosslistings": [],
@@ -15296,7 +15374,7 @@
           "room": ""
         }
       ],
-      "instructor": "Grace Vieth",
+      "instructor": "Joan Ostrove, Steve Guglielmo, Keira Leneman, Grace Vieth",
       "open_seats": "8",
       "max_enrollment": "8",
       "crosslistings": [],
@@ -15320,7 +15398,7 @@
           "room": ""
         }
       ],
-      "instructor": "Keira Leneman",
+      "instructor": "Joan Ostrove, Steve Guglielmo, Keira Leneman, Grace Vieth",
       "open_seats": "4",
       "max_enrollment": "4",
       "crosslistings": [],
@@ -15344,7 +15422,7 @@
           "room": ""
         }
       ],
-      "instructor": "Steve Guglielmo",
+      "instructor": "Joan Ostrove, Steve Guglielmo, Keira Leneman, Grace Vieth",
       "open_seats": "4",
       "max_enrollment": "4",
       "crosslistings": [],
@@ -17159,13 +17237,11 @@
       "instructor": "Jarek Pastor",
       "open_seats": "14",
       "max_enrollment": "14",
-      "crosslistings": [
-        "AMST 102-01 (30678)"
-      ],
+      "crosslistings": [],
       "seat_reservations": "",
       "description": "Reading Plays guides students in close readings of dramatic literature, in particular of plays that are typically left out of the traditional theatrical canon. This section’s focus turns toward varied approaches from contemporary Global Majority works in the Americas, Muromachi period Japan, Yoruba conceptions of tragedy, and European Modernists to consider the special utility of dramatic literature to serve as poetic polemic and cultural ambassador. Students will learn about the socio-historical context of these works, holding space for differing views in the arena of intercultural imagination while tracing common conceptions of justice, desire, and universal human worth. In familiarizing ourselves with these dramatists’ distinct methods and the cultural contexts that led them there, we will meditate on one basic question: what does it mean to live fully alongside others unlike ourselves? Students will read and discuss a new play every week; assignments will introduce them to the foundation of script analysis, including creative responses, group presentations, and short critical papers.",
       "distribution_requirements": "Fine arts",
-      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences, Writing WA",
+      "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27112%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -17215,6 +17291,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%27125%27%20sect=%27L1%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30871",
+      "subject": "THDA",
+      "subject_name": "Theater and Dance",
+      "course_number": "20",
+      "section": "01",
+      "title": "Jazz and Musical Theater",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "8:00 - 9:30 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Rae Fox-Charles",
+      "open_seats": "12",
+      "max_enrollment": "12",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course will provide students with the technical foundations and cultural context to confidently perform jazz and related theatrical dance forms. The course will focus on musicality, dynamic movement, improvisation, memorization of choreography, and performance quality. From its Irish, Scottish, and Afro-diasporic roots to more commercial present-day manifestations, jazz dance is a vernacular form through which students can find a sense of belonging as well as self-expression. No prior dance experience is required, but students should be prepared to obtain jazz shoes, appropriate attire, and must be able to participate in at least 60 minutes of active dancing twice a week.",
+      "distribution_requirements": "",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27THDA%27%20num=%2720%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30694",
@@ -17376,7 +17476,7 @@
           "room": ""
         }
       ],
-      "instructor": "",
+      "instructor": "Kathy Maxwell",
       "open_seats": "12",
       "max_enrollment": "12",
       "crosslistings": [],
