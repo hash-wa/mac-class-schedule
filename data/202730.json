@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-07T05:06:40.779969+00:00",
+  "scraped_at": "2026-11-08T05:00:24.272102+00:00",
   "course_count": 737,
   "courses": [
     {
@@ -541,8 +541,8 @@
         }
       ],
       "instructor": "Kirisitina Sailiata",
-      "open_seats": "16",
-      "max_enrollment": "16",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [
         "MCST 394-01 (30864)"
       ],
@@ -4725,7 +4725,7 @@
       "crosslistings": [
         "STAT 112-01 (30168)"
       ],
-      "seat_reservations": "",
+      "seat_reservations": "seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
@@ -4751,7 +4751,7 @@
       "crosslistings": [
         "STAT 112-02 (30170)"
       ],
-      "seat_reservations": "",
+      "seat_reservations": "seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
@@ -4777,7 +4777,7 @@
       "crosslistings": [
         "STAT 112-03 (30172)"
       ],
-      "seat_reservations": "",
+      "seat_reservations": "seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
@@ -12214,7 +12214,7 @@
       "subject_name": "Media and Cultural Studies",
       "course_number": "394",
       "section": "01",
-      "title": "Audiovisual Research",
+      "title": "Audiovisual Research in American Culture",
       "meetings": [
         {
           "days": "T R",
@@ -12223,8 +12223,8 @@
         }
       ],
       "instructor": "Kirisitina Sailiata",
-      "open_seats": "16",
-      "max_enrollment": "16",
+      "open_seats": "12",
+      "max_enrollment": "12",
       "crosslistings": [
         "AMST 394-01 (30863)"
       ],
@@ -16896,7 +16896,7 @@
       "crosslistings": [
         "COMP 112-01 (30167)"
       ],
-      "seat_reservations": "",
+      "seat_reservations": "seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
@@ -16922,7 +16922,7 @@
       "crosslistings": [
         "COMP 112-02 (30169)"
       ],
-      "seat_reservations": "",
+      "seat_reservations": "seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
@@ -16948,7 +16948,7 @@
       "crosslistings": [
         "COMP 112-03 (30171)"
       ],
-      "seat_reservations": "",
+      "seat_reservations": "seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "This course provides an introduction to the handling, analysis, and interpretation of the big datasets now routinely being collected in science, commerce, and government. Students achieve facility with a sophisticated, technical computing environment. The course aligns with techniques being used in several courses in the natural and social sciences, statistics, and mathematics. The course is intended to be accessible to all students, regardless of background.",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q2",
@@ -16972,7 +16972,7 @@
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
-      "seat_reservations": "",
+      "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "An introductory statistics course with an emphasis on multivariate modeling. Topics include descriptive statistics, data visualizations, multivariate linear regression, logistic regression, probability, model building and interpretation (i.e., confounding variables, causal diagrams, data context), and statistical inference (i.e., confidence intervals and hypothesis testing).",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q3",
@@ -16996,7 +16996,7 @@
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
-      "seat_reservations": "",
+      "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "An introductory statistics course with an emphasis on multivariate modeling. Topics include descriptive statistics, data visualizations, multivariate linear regression, logistic regression, probability, model building and interpretation (i.e., confounding variables, causal diagrams, data context), and statistical inference (i.e., confidence intervals and hypothesis testing).",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q3",
@@ -17020,7 +17020,7 @@
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
-      "seat_reservations": "",
+      "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "An introductory statistics course with an emphasis on multivariate modeling. Topics include descriptive statistics, data visualizations, multivariate linear regression, logistic regression, probability, model building and interpretation (i.e., confounding variables, causal diagrams, data context), and statistical inference (i.e., confidence intervals and hypothesis testing).",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q3",
@@ -17044,7 +17044,7 @@
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
-      "seat_reservations": "",
+      "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "An introductory statistics course with an emphasis on multivariate modeling. Topics include descriptive statistics, data visualizations, multivariate linear regression, logistic regression, probability, model building and interpretation (i.e., confounding variables, causal diagrams, data context), and statistical inference (i.e., confidence intervals and hypothesis testing).",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q3",
@@ -17068,7 +17068,7 @@
       "open_seats": "24",
       "max_enrollment": "24",
       "crosslistings": [],
-      "seat_reservations": "",
+      "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
       "description": "An introductory statistics course with an emphasis on multivariate modeling. Topics include descriptive statistics, data visualizations, multivariate linear regression, logistic regression, probability, model building and interpretation (i.e., confounding variables, causal diagrams, data context), and statistical inference (i.e., confidence intervals and hypothesis testing).",
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "Quantitative Thinking Q3",
