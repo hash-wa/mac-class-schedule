@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-10T22:58:22.645540+00:00",
-  "course_count": 738,
+  "scraped_at": "2026-11-11T05:11:40.668584+00:00",
+  "course_count": 739,
   "courses": [
     {
       "crn": "30712",
@@ -305,7 +305,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 283-01 (30008)",
@@ -332,7 +332,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "JAPA 288-01 (30417)",
@@ -835,7 +835,7 @@
         }
       ],
       "instructor": "Samantha Blatt",
-      "open_seats": "11",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1127,7 +1127,7 @@
         }
       ],
       "instructor": "Summer Hills-Bonczyk",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1199,7 +1199,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 273-01 (30035)"
@@ -1547,7 +1547,7 @@
         }
       ],
       "instructor": "Chuen-Fung Wong",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [
         "MUSI 205-01 (30464)"
@@ -1655,7 +1655,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [
         "ART 273-01 (30034)"
@@ -1681,7 +1681,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 281-01 (30007)",
@@ -1787,7 +1787,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-01 (30047)"
@@ -1813,7 +1813,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-02 (30049)"
@@ -1865,7 +1865,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "17",
+      "open_seats": "15",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-L2 (30053)"
@@ -2203,7 +2203,7 @@
         }
       ],
       "instructor": "Linda Jeanguenin",
-      "open_seats": "20",
+      "open_seats": "19",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2253,7 +2253,7 @@
         }
       ],
       "instructor": "Emily Twedell",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2277,7 +2277,7 @@
         }
       ],
       "instructor": "Emily Twedell",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3181,7 +3181,7 @@
         }
       ],
       "instructor": "Jeffrey Buenaflor",
-      "open_seats": "25",
+      "open_seats": "24",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3301,7 +3301,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3349,7 +3349,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3421,7 +3421,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3907,7 +3907,7 @@
         }
       ],
       "instructor": "Patricia Anderson",
-      "open_seats": "10",
+      "open_seats": "8",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3931,7 +3931,7 @@
         }
       ],
       "instructor": "Ruoxi Song",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3979,7 +3979,7 @@
         }
       ],
       "instructor": "Ruoxi Song",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4176,7 +4176,7 @@
         }
       ],
       "instructor": "Andrew Overman",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 122-01 (30150)"
@@ -4226,7 +4226,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "PHIL 200-01 (30504)"
@@ -4546,7 +4546,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 294-03 (30545)"
@@ -4894,7 +4894,7 @@
         }
       ],
       "instructor": "Lauren Milne",
-      "open_seats": "15",
+      "open_seats": "16",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4918,7 +4918,7 @@
         }
       ],
       "instructor": "Lauren Milne",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4990,7 +4990,7 @@
         }
       ],
       "instructor": "Rory Solomon",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "16",
       "crosslistings": [
         "MCST 294-03 (30756)"
@@ -5318,8 +5318,8 @@
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
+      "description": "This course explores the subject of systems programming using the medium of the Nintendo Game Boy, a handheld gaming console released in the 1990s. The format resembles a studio art class, with in-class discussion guided by sharing and critiquing classmates’ ongoing work. Topics will build on those introduced in Computer Systems (COMP 240) and Software Design and Development (COMP 225), including teamwork dynamics, user experience, iterative development, memory management, system calls, and the C programming language. Students will work in teams to build software for the Nintendo Game Boy, exploring the constraints of working with real hardware. Teams give a public demonstration of their working projects at the end of the semester. Prerequisites: COMP 225, COMP 240",
+      "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27COMP%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
@@ -5362,7 +5362,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "21",
+      "open_seats": "20",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5386,7 +5386,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5604,7 +5604,7 @@
         }
       ],
       "instructor": "Alexander Von Hafften",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5724,7 +5724,7 @@
         }
       ],
       "instructor": "Joe Anderson",
-      "open_seats": "21",
+      "open_seats": "20",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5748,7 +5748,7 @@
         }
       ],
       "instructor": "Joe Anderson",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6048,7 +6048,7 @@
         }
       ],
       "instructor": "Cristina Silva Gleason",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "24",
       "crosslistings": [
         "PSYC 220-01 (30222)"
@@ -6323,7 +6323,7 @@
         }
       ],
       "instructor": "Sarah Ghazal Ali",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6467,7 +6467,7 @@
         }
       ],
       "instructor": "Aurora Masum-Javed",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6539,7 +6539,7 @@
         }
       ],
       "instructor": "Matt Burgess",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6563,7 +6563,7 @@
         }
       ],
       "instructor": "James Dawes",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6925,7 +6925,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-01 (30046)"
@@ -6951,7 +6951,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-02 (30048)"
@@ -7003,7 +7003,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "17",
+      "open_seats": "15",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-L2 (30052)"
@@ -7053,7 +7053,7 @@
         }
       ],
       "instructor": "Roopali Phadke",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 215-01 (30260)"
@@ -7129,7 +7129,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "12",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 234-01 (30264)"
@@ -7284,7 +7284,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7345,6 +7345,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30900",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "294",
+      "section": "03",
+      "title": "Unlearning from the Andes to the Amazon: Community Based Power, Culture, and Sustainability",
+      "meetings": [
+        {
+          "days": "M W F",
+          "time": "3:30 - 4:30 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Megan Butler",
+      "open_seats": "16",
+      "max_enrollment": "16",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course explores the linked themes of sustainability, decolonization, environmental justice, and cultural production and discourse. Students will focus on decolonizing methodologies, particularly in the context of indigenous communities. Indigenous and rural communities in Latin America have long been at the forefront of territorial struggles against extractivist projects. As a window into these movements, this place-based course offers students a unique opportunity to explore both theory and practice related to community land management in Ecuador. In partnership with the Pachaysana Foundation, students will work directly with Indigenous leaders and knowledge holders in the Amazon and the Andes to unlearn harmful systems and reimagine approaches to land management and community wellbeing. Throughout the semester, students will learn from an interdisciplinary team of faculty and staff across the college through guest lectures, as well as community partners in Ecuador who will participate via Zoom in preparation for the short-term study away. Following the end of the academic semester, students will travel to Ecuador for an experiential workshop led by Indigenous leaders, educators, and families in both the Amazon and the Andes. Includes Study Away component; permission of instructor required.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "Internationalism",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30273",
@@ -8874,7 +8898,7 @@
         }
       ],
       "instructor": "Emily First",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8898,7 +8922,7 @@
         }
       ],
       "instructor": "Emily First",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9482,7 +9506,7 @@
         }
       ],
       "instructor": "Andrew Overman",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 122-01 (30149)"
@@ -9558,7 +9582,7 @@
         }
       ],
       "instructor": "Tara Hollies",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9582,7 +9606,7 @@
         }
       ],
       "instructor": "Tara Hollies",
-      "open_seats": "13",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [
         "RELI 215-01 (30372)"
@@ -9687,7 +9711,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "12",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 234-01 (30263)"
@@ -10011,7 +10035,7 @@
         }
       ],
       "instructor": "Elisabeth Figueroa",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10155,7 +10179,7 @@
         }
       ],
       "instructor": "James von Geldern",
-      "open_seats": "24",
+      "open_seats": "23",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10305,7 +10329,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "JAPA 288-01 (30417)",
@@ -10801,7 +10825,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 288-01 (30418)",
@@ -10924,7 +10948,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [
         "LING 488-01 (30425)"
@@ -11034,9 +11058,9 @@
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
+      "description": "This course explores the linked themes of sustainability, decolonization, environmental justice, and cultural production and discourse. Students will focus on decolonizing methodologies, particularly in the context of indigenous communities. Indigenous and rural communities in Latin America have long been at the forefront of territorial struggles against extractivist projects. As a window into these movements, this place-based course offers students a unique opportunity to explore both theory and practice related to community land management in Ecuador. In partnership with the Pachaysana Foundation, students will work directly with Indigenous leaders and knowledge holders in the Amazon and the Andes to unlearn harmful systems and reimagine approaches to land management and community wellbeing. Throughout the semester, students will learn from an interdisciplinary team of faculty and staff across the college through guest lectures, as well as community partners in Ecuador who will participate via Zoom in preparation for the short-term study away. Following the end of the academic semester, students will travel to Ecuador for an experiential workshop led by Indigenous leaders, educators, and families in both the Amazon and the Andes. Includes Study Away component; permission of instructor required.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27LATI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -11284,7 +11308,7 @@
         }
       ],
       "instructor": "Morgan Sleeper",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11360,7 +11384,7 @@
         }
       ],
       "instructor": "Cynthia Kauffeld",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "15",
       "crosslistings": [
         "SPAN 375-01 (30656)"
@@ -11434,7 +11458,7 @@
         }
       ],
       "instructor": "Arthur Mitchell",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [
         "JAPA 488-01 (30424)"
@@ -11946,7 +11970,7 @@
         }
       ],
       "instructor": "Lori Ziegelmeier",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11994,7 +12018,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "19",
+      "open_seats": "18",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12146,7 +12170,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 281-01 (30007)",
@@ -12197,7 +12221,7 @@
         }
       ],
       "instructor": "Rory Solomon",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "16",
       "crosslistings": [
         "COMP 194-02 (30814)"
@@ -12393,7 +12417,7 @@
         }
       ],
       "instructor": "Chuen-Fung Wong",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [
         "ASIA 205-01 (30465)"
@@ -12493,7 +12517,7 @@
         }
       ],
       "instructor": "Victoria Malawey",
-      "open_seats": "14",
+      "open_seats": "12",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12804,7 +12828,7 @@
         }
       ],
       "instructor": "Amanda Evans",
-      "open_seats": "20",
+      "open_seats": "19",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12975,7 +12999,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 200-01 (30505)"
@@ -13601,7 +13625,7 @@
         }
       ],
       "instructor": "James Heyman",
-      "open_seats": "25",
+      "open_seats": "24",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13625,7 +13649,7 @@
         }
       ],
       "instructor": "James Heyman, Brian Adams",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13889,7 +13913,7 @@
         }
       ],
       "instructor": "James Heyman",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13937,7 +13961,7 @@
         }
       ],
       "instructor": "Patrick Schmidt",
-      "open_seats": "23",
+      "open_seats": "24",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14179,7 +14203,7 @@
         }
       ],
       "instructor": "Roopali Phadke",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14427,7 +14451,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 294-02 (30546)"
@@ -14453,7 +14477,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14601,7 +14625,7 @@
         }
       ],
       "instructor": "Fernanda Bartolomei-Merlin",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14891,7 +14915,7 @@
         }
       ],
       "instructor": "Cristina Silva Gleason",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "24",
       "crosslistings": [
         "EDUC 220-01 (30221)"
@@ -15085,7 +15109,7 @@
         }
       ],
       "instructor": "Grace Vieth",
-      "open_seats": "26",
+      "open_seats": "25",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15522,7 +15546,7 @@
         }
       ],
       "instructor": "Nicholas Schaser",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15572,7 +15596,7 @@
         }
       ],
       "instructor": "Tara Hollies",
-      "open_seats": "13",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 215-01 (30371)"
@@ -15652,7 +15676,7 @@
         }
       ],
       "instructor": "James Laine",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16101,7 +16125,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "18",
+      "open_seats": "19",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16226,7 +16250,7 @@
         }
       ],
       "instructor": "Christina Hughes",
-      "open_seats": "17",
+      "open_seats": "16",
       "max_enrollment": "23",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16250,7 +16274,7 @@
         }
       ],
       "instructor": "Khaldoun Samman",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "23",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16444,7 +16468,7 @@
         }
       ],
       "instructor": "Claire Lozano",
-      "open_seats": "20",
+      "open_seats": "19",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16838,7 +16862,7 @@
         }
       ],
       "instructor": "Cynthia Kauffeld",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "15",
       "crosslistings": [
         "LING 375-01 (30657)"
@@ -17017,7 +17041,7 @@
         }
       ],
       "instructor": "Brianna Heggeseth",
-      "open_seats": "15",
+      "open_seats": "16",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
@@ -17041,7 +17065,7 @@
         }
       ],
       "instructor": "Brianna Heggeseth",
-      "open_seats": "17",
+      "open_seats": "16",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
@@ -17065,7 +17089,7 @@
         }
       ],
       "instructor": "Abby Loe",
-      "open_seats": "20",
+      "open_seats": "19",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "Seats saved for: 4 seniors, 6 juniors, 8 sophomores, 6 First-Years",
