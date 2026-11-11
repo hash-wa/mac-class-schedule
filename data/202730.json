@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-11T05:11:40.668584+00:00",
+  "scraped_at": "2026-11-11T13:45:44.241075+00:00",
   "course_count": 739,
   "courses": [
     {
@@ -95,7 +95,7 @@
         }
       ],
       "instructor": "Katrina Phillips",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 222-01 (30373)"
@@ -1521,7 +1521,7 @@
         }
       ],
       "instructor": "Chun Chen",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "25",
       "crosslistings": [
         "HIST 194-02 (30761)"
@@ -2227,7 +2227,7 @@
         }
       ],
       "instructor": "Sebastiano De Bona",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [
         "ENVI 277-01 (30267)"
@@ -2469,7 +2469,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "32",
       "crosslistings": [
         "CHEM 351-01 (30110)"
@@ -2495,7 +2495,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "CHEM 351-L1 (30112)"
@@ -3541,7 +3541,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "32",
       "crosslistings": [
         "BIOL 351-01 (30111)"
@@ -3567,7 +3567,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "BIOL 351-L1 (30113)"
@@ -5410,7 +5410,7 @@
         }
       ],
       "instructor": "Joyce Minor",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5530,7 +5530,7 @@
         }
       ],
       "instructor": "Sarah West",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "25",
       "crosslistings": [
         "INTL 294-02 (30857)"
@@ -5796,7 +5796,7 @@
         }
       ],
       "instructor": "Amy Damon",
-      "open_seats": "4",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5844,7 +5844,7 @@
         }
       ],
       "instructor": "Amy Damon",
-      "open_seats": "4",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6371,7 +6371,7 @@
         }
       ],
       "instructor": "Michael Prior",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6443,7 +6443,7 @@
         }
       ],
       "instructor": "Aurora Masum-Javed",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7258,7 +7258,7 @@
         }
       ],
       "instructor": "Sebastiano De Bona",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [
         "BIOL 277-01 (30268)"
@@ -8706,7 +8706,7 @@
         }
       ],
       "instructor": "Alan Chapman",
-      "open_seats": "27",
+      "open_seats": "26",
       "max_enrollment": "48",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9556,7 +9556,7 @@
         }
       ],
       "instructor": "Chun Chen",
-      "open_seats": "18",
+      "open_seats": "17",
       "max_enrollment": "25",
       "crosslistings": [
         "ASIA 194-02 (30776)"
@@ -9632,7 +9632,7 @@
         }
       ],
       "instructor": "Katrina Phillips",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 222-01 (30374)"
@@ -9737,7 +9737,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "15",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9787,7 +9787,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9886,7 +9886,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10303,7 +10303,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "19",
+      "open_seats": "18",
       "max_enrollment": "22",
       "crosslistings": [
         "POLI 285-01 (30399)"
@@ -10356,7 +10356,7 @@
         }
       ],
       "instructor": "Sarah West",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "25",
       "crosslistings": [
         "ECON 231-01 (30730)"
@@ -12092,7 +12092,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12247,7 +12247,7 @@
         }
       ],
       "instructor": "Michael Griffin",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14401,7 +14401,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "19",
+      "open_seats": "18",
       "max_enrollment": "22",
       "crosslistings": [
         "INTL 285-01 (30398)"
