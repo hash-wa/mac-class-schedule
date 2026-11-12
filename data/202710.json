@@ -1,7 +1,7 @@
 {
   "term_code": "202710",
   "term_label": "Fall 2026",
-  "scraped_at": "2026-11-11T13:45:11.159625+00:00",
+  "scraped_at": "2026-11-12T00:12:23.420720+00:00",
   "course_count": 772,
   "courses": [
     {
@@ -3111,7 +3111,7 @@
         }
       ],
       "instructor": "Leah Witus, Isabella Nimm",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "18 seats saved for incoming First-Years",
@@ -3135,7 +3135,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm, Isabella Nimm",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "18 seats saved for incoming First-Years",
@@ -3977,7 +3977,7 @@
         }
       ],
       "instructor": "Ruoxi Song",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15381,7 +15381,7 @@
         }
       ],
       "instructor": "Jamie Atkins",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
