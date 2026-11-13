@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-13T05:37:12.242830+00:00",
+  "scraped_at": "2026-11-13T14:08:09.631588+00:00",
   "course_count": 741,
   "courses": [
     {
@@ -7336,7 +7336,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11605,7 +11605,7 @@
         }
       ],
       "instructor": "William Grodzicki",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12067,7 +12067,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12901,7 +12901,7 @@
         }
       ],
       "instructor": "Amanda Evans",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13650,7 +13650,7 @@
         }
       ],
       "instructor": "Michelle Milne",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13674,7 +13674,7 @@
         }
       ],
       "instructor": "James Heyman",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14350,7 +14350,7 @@
         }
       ],
       "instructor": "Sheharyar Imran",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16661,7 +16661,7 @@
         }
       ],
       "instructor": "Blanca Gimeno Escudero",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16733,7 +16733,7 @@
         }
       ],
       "instructor": "Claudia Giannini",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
