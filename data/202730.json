@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-13T14:08:09.631588+00:00",
+  "scraped_at": "2026-11-13T23:22:18.053323+00:00",
   "course_count": 741,
   "courses": [
     {
@@ -385,7 +385,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [
         "RUSS 294-01 (30614)"
@@ -446,7 +446,7 @@
       "seat_reservations": "",
       "description": "In 1972, sixteen Black women gathered in a St. Paul living room to charter the Minneapolis/St.Paul chapter of The Links, Incorporated — one of the nation’s oldest and most consequential volunteer service organizations of Black professional women. Fifty years later, their chapter has accumulated boxes of meeting minutes, photographs, correspondence, and event programs, a celebrated exhibit at the Ramsey County Historical Society, and an archive at the Minnesota Historical Society. Yet no undergraduate course has ever studied them. This course changes that. Working in equal parts as historians, oral historians, and digital archivists, students will interview current Links members, conduct archival research at two Twin Cities institutions, and build a permanent digital archive on Macalester’s Omeka platform — the same platform used for the Human Computers at NASA project, a prior Macalester student-faculty collaboration that documented the buried histories of Black women mathematicians at NASA. In doing so, students will ask fundamental questions: How do Black women organize for community change? What does it mean to document a history that has deliberately kept itself private? Whose voices belong in an archive, and who gets to build one? The final deliverable is not a paper. It is a curated digital collection — built from primary documents in two institutional archives, interviews with living members, and student curatorial judgment — that will remain publicly accessible long after the course ends. No prerequisites. Open to all students.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27AMST%27%20num=%27294%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -491,8 +491,8 @@
         }
       ],
       "instructor": "Juliette Rogers, Duchess Harris",
-      "open_seats": "0",
-      "max_enrollment": "6",
+      "open_seats": "4",
+      "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "In his unpublished essay, “I choose exile,” Richard Wright declared, “To live in Paris is to allow one’s sensibilities to be moved by physical beauty. I love my adopted city. Its sunsets, its teeming boulevards, its slow and humane tempo of life have entered deeply into my heart.” Paulette Nardal wrote in her essay “Awakening of Racial Consciousness” that living in Paris in the 1920s had created for Black women the “need of racial solidarity that would not be merely material” and an “awakening to race consciousness” that they had not experienced or understood fully before leaving home and meeting Blacks from other countries in Paris. This course will look at the relationship that Blacks have had to France in the nineteenth and twentieth centuries. We will explore the art, literature, music and political protest that were generated in the “City of Lights.” The presence of African Americans has usually been seen, by both themselves and others, as a commentary on race. We will examine the lives of Blacks who left the United States expressly to escape the burdens of discrimination and came to Paris as self-conscious refugees from racism. We will also examine the lives of Blacks who left the French colonies to pursue a western education in France, but who developed broader philosophical ideologies, including the cultural, artistic and literary movements of la Négritude. We will examine their experiences and critique the myth of a color-blind France. *This course will include a 10-day study away component in France during Spring Break in March 2027 Prerequisite(s): FREN 204",
@@ -535,8 +535,8 @@
       "title": "Audiovisual Research in American Culture",
       "meetings": [
         {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "days": "TBA",
+          "time": "",
           "room": ""
         }
       ],
@@ -567,7 +567,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -591,7 +591,7 @@
         }
       ],
       "instructor": "Hilary Chart",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -615,7 +615,7 @@
         }
       ],
       "instructor": "Andrew Overman",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 223-01 (30161)"
@@ -641,7 +641,7 @@
         }
       ],
       "instructor": "Arjun Guneratne",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -689,7 +689,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -911,7 +911,7 @@
         }
       ],
       "instructor": "Olga González",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1055,7 +1055,7 @@
         }
       ],
       "instructor": "Chris Willcox",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1127,8 +1127,8 @@
         }
       ],
       "instructor": "Summer Hills-Bonczyk",
-      "open_seats": "2",
-      "max_enrollment": "12",
+      "open_seats": "0",
+      "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Contemporary Ceramics is an expansive art form. This hands-on studio course will reach beyond functional pottery and examine experimental approaches to working with clay that prioritize content, emotional impact and aesthetic experience. Slab building and solid building techniques will be introduced to provide a deeper understanding of the physical properties of earthenware clay. Students will study the work of key innovators in the field of ceramic sculpture including Peter Voulkos, Jun Kaneko and Arlene Shechet. Slide presentations, group discussions and a field trip will supplement studio work and provide context for deeper understanding of the diverse and expanding field of contemporary Ceramic Art.",
@@ -1151,7 +1151,7 @@
         }
       ],
       "instructor": "Mara Duvra",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1175,7 +1175,7 @@
         }
       ],
       "instructor": "Samael Leopold Sullivan",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1225,7 +1225,7 @@
         }
       ],
       "instructor": "Serdar Yalçin",
-      "open_seats": "13",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1628,7 +1628,7 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "15",
       "crosslistings": [
         "CHIN 251-01 (30139)",
@@ -1787,7 +1787,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-01 (30047)"
@@ -1813,7 +1813,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-02 (30049)"
@@ -1839,7 +1839,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-L1 (30051)"
@@ -1865,7 +1865,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-L2 (30053)"
@@ -2155,7 +2155,7 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2179,7 +2179,7 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2203,7 +2203,7 @@
         }
       ],
       "instructor": "Linda Jeanguenin",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2619,7 +2619,7 @@
         }
       ],
       "instructor": "Stotra Chakrabarti",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "12",
       "crosslistings": [
         "ENVI 385-01 (30075)"
@@ -2645,7 +2645,7 @@
         }
       ],
       "instructor": "Stotra Chakrabarti",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "12",
       "crosslistings": [
         "ENVI 385-L1 (30077)"
@@ -3715,7 +3715,7 @@
         }
       ],
       "instructor": "Jeffrey Buenaflor",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4027,7 +4027,7 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "15",
       "crosslistings": [
         "ASIA 251-01 (30140)",
@@ -4250,7 +4250,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "PHIL 200-01 (30504)"
@@ -4520,7 +4520,7 @@
         }
       ],
       "instructor": "Andrew Overman",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "ANTH 223-01 (30720)"
@@ -4768,7 +4768,7 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [
         "STAT 112-01 (30168)"
@@ -4794,7 +4794,7 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [
         "STAT 112-02 (30170)"
@@ -4870,7 +4870,7 @@
         }
       ],
       "instructor": "Lian Duan",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4966,7 +4966,7 @@
         }
       ],
       "instructor": "Bret Jackson",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5090,7 +5090,7 @@
         }
       ],
       "instructor": "Paul Cantrell",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5162,7 +5162,7 @@
         }
       ],
       "instructor": "Zuoyu Tian",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "15",
       "crosslistings": [
         "LING 305-01 (30433)"
@@ -5188,7 +5188,7 @@
         }
       ],
       "instructor": "Joslenne Peña",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5434,7 +5434,7 @@
         }
       ],
       "instructor": "Joyce Minor",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5482,7 +5482,7 @@
         }
       ],
       "instructor": "Mario Solis-Garcia",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5629,7 +5629,7 @@
         }
       ],
       "instructor": "Alexander Von Hafften",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6125,7 +6125,7 @@
         }
       ],
       "instructor": "Rivi Handler-Spitz",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "15",
       "crosslistings": [
         "CHIN 251-01 (30139)",
@@ -6200,11 +6200,11 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "7",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. Prerequisite(s): FREN 204",
+      "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. *This course will include a 10-day study away component in Louisiana during Spring Break in March 2027. Prerequisite(s): FREN 204",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -6492,7 +6492,7 @@
         }
       ],
       "instructor": "Aurora Masum-Javed",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6588,7 +6588,7 @@
         }
       ],
       "instructor": "James Dawes",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6660,7 +6660,7 @@
         }
       ],
       "instructor": "Andrea Kaston Tange",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6830,7 +6830,7 @@
         }
       ],
       "instructor": "Penelope Geng",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6950,7 +6950,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-01 (30046)"
@@ -6976,7 +6976,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-02 (30048)"
@@ -7002,7 +7002,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-L1 (30050)"
@@ -7028,7 +7028,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-L2 (30052)"
@@ -7257,7 +7257,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -7413,7 +7413,7 @@
         }
       ],
       "instructor": "Megan Butler",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7513,7 +7513,7 @@
         }
       ],
       "instructor": "Stotra Chakrabarti",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "12",
       "crosslistings": [
         "BIOL 385-01 (30074)"
@@ -7539,7 +7539,7 @@
         }
       ],
       "instructor": "Stotra Chakrabarti",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "12",
       "crosslistings": [
         "BIOL 385-L1 (30076)"
@@ -8147,7 +8147,7 @@
         }
       ],
       "instructor": "Claude Cassagne",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8171,7 +8171,7 @@
         }
       ],
       "instructor": "Aida Lewis",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8243,11 +8243,11 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "7",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "",
+      "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. *This course will include a 10-day study away component in Louisiana during Spring Break in March 2027. Prerequisite(s): FREN 204",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27FREN%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -8267,8 +8267,8 @@
         }
       ],
       "instructor": "Juliette Rogers, Duchess Harris",
-      "open_seats": "0",
-      "max_enrollment": "6",
+      "open_seats": "4",
+      "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "In his unpublished essay, “I choose exile,” Richard Wright declared, “To live in Paris is to allow one’s sensibilities to be moved by physical beauty. I love my adopted city. Its sunsets, its teeming boulevards, its slow and humane tempo of life have entered deeply into my heart.” Paulette Nardal wrote in her essay “Awakening of Racial Consciousness” that living in Paris in the 1920s had created for Black women the “need of racial solidarity that would not be merely material” and an “awakening to race consciousness” that they had not experienced or understood fully before leaving home and meeting Blacks from other countries in Paris. This course will look at the relationship that Blacks have had to France in the nineteenth and twentieth centuries. We will explore the art, literature, music and political protest that were generated in the “City of Lights.” The presence of African Americans has usually been seen, by both themselves and others, as a commentary on race. We will examine the lives of Blacks who left the United States expressly to escape the burdens of discrimination and came to Paris as self-conscious refugees from racism. We will also examine the lives of Blacks who left the French colonies to pursue a western education in France, but who developed broader philosophical ideologies, including the cultural, artistic and literary movements of la Négritude. We will examine their experiences and critique the myth of a color-blind France. *This course will include a 10-day study away component in France during Spring Break in March 2027 Prerequisite(s): FREN 204",
@@ -8315,7 +8315,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "21",
+      "open_seats": "20",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8435,7 +8435,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "25",
       "crosslistings": [
         "ENVI 239-01 (30313)",
@@ -8486,7 +8486,7 @@
         }
       ],
       "instructor": "I-Chun Catherine Chang",
-      "open_seats": "4",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8534,7 +8534,7 @@
         }
       ],
       "instructor": "Eric Carter",
-      "open_seats": "9",
+      "open_seats": "10",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8730,7 +8730,7 @@
         }
       ],
       "instructor": "Kristina Curry Rogers",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "47",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9405,7 +9405,7 @@
       ],
       "instructor": "Kiarina Kordela",
       "open_seats": "0",
-      "max_enrollment": "35",
+      "max_enrollment": "38",
       "crosslistings": [
         "MCST 278-01 (30359)",
         "POLI 278-01 (30360)",
@@ -9835,7 +9835,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "3",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10035,7 +10035,7 @@
         }
       ],
       "instructor": "Em Buchanan",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10083,7 +10083,7 @@
         }
       ],
       "instructor": "Elisabeth Figueroa",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10351,7 +10351,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "1",
+      "open_seats": "3",
       "max_enrollment": "22",
       "crosslistings": [
         "POLI 285-01 (30399)"
@@ -10535,7 +10535,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11023,7 +11023,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -11103,7 +11103,7 @@
         }
       ],
       "instructor": "Megan Butler",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11381,7 +11381,7 @@
         }
       ],
       "instructor": "Zuoyu Tian",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "15",
       "crosslistings": [
         "COMP 394-01 (30768)"
@@ -11605,7 +11605,7 @@
         }
       ],
       "instructor": "William Grodzicki",
-      "open_seats": "3",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11773,7 +11773,7 @@
         }
       ],
       "instructor": "Dave Ehren",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11797,7 +11797,7 @@
         }
       ],
       "instructor": "Alexander Hanhart",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11947,7 +11947,7 @@
         }
       ],
       "instructor": "Yariana Diaz",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12043,7 +12043,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12192,7 +12192,7 @@
       ],
       "instructor": "Kiarina Kordela",
       "open_seats": "0",
-      "max_enrollment": "35",
+      "max_enrollment": "38",
       "crosslistings": [
         "GERM 278-01 (30358)",
         "POLI 278-01 (30360)",
@@ -12246,7 +12246,7 @@
         }
       ],
       "instructor": "Katie Thornton",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12314,8 +12314,8 @@
       "title": "Audiovisual Research in American Culture",
       "meetings": [
         {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
+          "days": "TBA",
+          "time": "",
           "room": ""
         }
       ],
@@ -12829,7 +12829,7 @@
       "title": "Keyboard Skills",
       "meetings": [],
       "instructor": "",
-      "open_seats": "19",
+      "open_seats": "18",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12973,7 +12973,7 @@
         }
       ],
       "instructor": "Amy Ihlan",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13048,7 +13048,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 200-01 (30505)"
@@ -13098,7 +13098,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13146,7 +13146,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13242,7 +13242,7 @@
         }
       ],
       "instructor": "Gina Wood",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13338,7 +13338,7 @@
         }
       ],
       "instructor": "Gina Wood",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13410,7 +13410,7 @@
         }
       ],
       "instructor": "Nicholas Brundy",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13458,7 +13458,7 @@
         }
       ],
       "instructor": "Emma Fitzsimmons",
-      "open_seats": "7",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13866,7 +13866,7 @@
         }
       ],
       "instructor": "Tonnis ter Veldhuis",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13890,7 +13890,7 @@
         }
       ],
       "instructor": "Tonnis ter Veldhuis",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14058,7 +14058,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14106,7 +14106,7 @@
         }
       ],
       "instructor": "Rothin Datta",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14374,7 +14374,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14423,7 +14423,7 @@
       ],
       "instructor": "Kiarina Kordela",
       "open_seats": "0",
-      "max_enrollment": "35",
+      "max_enrollment": "38",
       "crosslistings": [
         "GERM 278-01 (30358)",
         "MCST 278-01 (30359)",
@@ -14450,7 +14450,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "1",
+      "open_seats": "3",
       "max_enrollment": "22",
       "crosslistings": [
         "INTL 285-01 (30398)"
@@ -14698,7 +14698,7 @@
         }
       ],
       "instructor": "J. Ernesto Ortiz Díaz",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15038,7 +15038,7 @@
         }
       ],
       "instructor": "Darcy Burgund",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15062,7 +15062,7 @@
         }
       ],
       "instructor": "Darcy Burgund",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15777,7 +15777,7 @@
       ],
       "instructor": "Kiarina Kordela",
       "open_seats": "0",
-      "max_enrollment": "35",
+      "max_enrollment": "38",
       "crosslistings": [
         "GERM 278-01 (30358)",
         "MCST 278-01 (30359)",
@@ -15834,7 +15834,7 @@
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "description": "This course surveys historical antagonism against Jews and Judaism from the time of Jesus to that of Martin Luther. Students will focus on the New Testament’s complex presentations of Jews and Jewish religious praxis, the development of anti-Judaism within early Christianity, anti-Jewish violence concomitant with race-making projects in medieval Christian Europe, and the antisemitism of early Protestant reformers. Based on our examination of Christian identity formation via descriptions, images, and stereotypes of Jews, we will assess the sociopolitical, material, and religious implications of antisemitism over the past two millennia.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15980,7 +15980,7 @@
         }
       ],
       "instructor": "Oksana Kashchenko",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16004,7 +16004,7 @@
         }
       ],
       "instructor": "Oksana Kashchenko",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16100,7 +16100,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16124,7 +16124,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 294-02 (30615)"
@@ -16222,7 +16222,7 @@
         }
       ],
       "instructor": "Christina Hughes",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16299,7 +16299,7 @@
         }
       ],
       "instructor": "Christina Hughes",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "23",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16445,7 +16445,7 @@
         }
       ],
       "instructor": "Fernanda Bartolomei-Merlin",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16613,7 +16613,7 @@
         }
       ],
       "instructor": "Rosa Rull-Montoya",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16637,7 +16637,7 @@
         }
       ],
       "instructor": "Toni Dorca",
-      "open_seats": "15",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16685,7 +16685,7 @@
         }
       ],
       "instructor": "Blanca Gimeno Escudero",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16733,7 +16733,7 @@
         }
       ],
       "instructor": "Claudia Giannini",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16988,7 +16988,7 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [
         "COMP 112-01 (30167)"
@@ -17014,7 +17014,7 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [
         "COMP 112-02 (30169)"
@@ -17308,7 +17308,7 @@
         }
       ],
       "instructor": "Leslie Myint",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17718,7 +17718,7 @@
         }
       ],
       "instructor": "Cheng Xiong",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17742,7 +17742,7 @@
         }
       ],
       "instructor": "Robert Rosen",
-      "open_seats": "22",
+      "open_seats": "21",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -18179,7 +18179,7 @@
       "seat_reservations": "",
       "description": "In 1972, sixteen Black women gathered in a St. Paul living room to charter the Minneapolis/St.Paul chapter of The Links, Incorporated — one of the nation’s oldest and most consequential volunteer service organizations of Black professional women. Fifty years later, their chapter has accumulated boxes of meeting minutes, photographs, correspondence, and event programs, a celebrated exhibit at the Ramsey County Historical Society, and an archive at the Minnesota Historical Society. Yet no undergraduate course has ever studied them. This course changes that. Working in equal parts as historians, oral historians, and digital archivists, students will interview current Links members, conduct archival research at two Twin Cities institutions, and build a permanent digital archive on Macalester’s Omeka platform — the same platform used for the Human Computers at NASA project, a prior Macalester student-faculty collaboration that documented the buried histories of Black women mathematicians at NASA. In doing so, students will ask fundamental questions: How do Black women organize for community change? What does it mean to document a history that has deliberately kept itself private? Whose voices belong in an archive, and who gets to build one? The final deliverable is not a paper. It is a curated digital collection — built from primary documents in two institutional archives, interviews with living members, and student curatorial judgment — that will remain publicly accessible long after the course ends. No prerequisites. Open to all students.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "U.S Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27WGSS%27%20num=%27294%27%20sect=%2705%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
