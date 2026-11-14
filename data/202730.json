@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-14T05:27:30.084790+00:00",
+  "scraped_at": "2026-11-14T13:09:20.104366+00:00",
   "course_count": 741,
   "courses": [
     {
@@ -4942,7 +4942,7 @@
         }
       ],
       "instructor": "Lauren Milne",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8730,7 +8730,7 @@
         }
       ],
       "instructor": "Kristina Curry Rogers",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "47",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10083,7 +10083,7 @@
         }
       ],
       "instructor": "Elisabeth Figueroa",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10155,7 +10155,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "11",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14892,7 +14892,7 @@
         }
       ],
       "instructor": "Violet Brown",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14916,7 +14916,7 @@
         }
       ],
       "instructor": "Violet Brown",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
