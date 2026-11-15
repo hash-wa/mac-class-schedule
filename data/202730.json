@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-15T05:25:19.681006+00:00",
+  "scraped_at": "2026-11-15T13:38:40.642663+00:00",
   "course_count": 741,
   "courses": [
     {
@@ -13650,7 +13650,7 @@
         }
       ],
       "instructor": "Michelle Milne",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "27",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13722,7 +13722,7 @@
         }
       ],
       "instructor": "James Heyman, Brian Adams",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
