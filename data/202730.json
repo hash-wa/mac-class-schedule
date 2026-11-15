@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-14T22:05:56.028301+00:00",
+  "scraped_at": "2026-11-15T05:25:19.681006+00:00",
   "course_count": 741,
   "courses": [
     {
@@ -491,7 +491,7 @@
         }
       ],
       "instructor": "Juliette Rogers, Duchess Harris",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
@@ -911,7 +911,7 @@
         }
       ],
       "instructor": "Olga González",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6348,7 +6348,7 @@
         }
       ],
       "instructor": "Sarah Ghazal Ali",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8267,7 +8267,7 @@
         }
       ],
       "instructor": "Juliette Rogers, Duchess Harris",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9404,7 +9404,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "38",
       "crosslistings": [
         "MCST 278-01 (30359)",
@@ -11304,7 +11304,7 @@
         }
       ],
       "instructor": "Morgan Sleeper",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "MUSI 220-01 (30431)"
@@ -12191,7 +12191,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "38",
       "crosslistings": [
         "GERM 278-01 (30358)",
@@ -12246,7 +12246,7 @@
         }
       ],
       "instructor": "Katie Thornton",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12516,7 +12516,7 @@
         }
       ],
       "instructor": "Morgan Sleeper",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "LING 220-01 (30430)"
@@ -13098,7 +13098,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13530,7 +13530,7 @@
         }
       ],
       "instructor": "Gina Wood",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14422,7 +14422,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "38",
       "crosslistings": [
         "GERM 278-01 (30358)",
@@ -15776,7 +15776,7 @@
         }
       ],
       "instructor": "Kiarina Kordela",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "38",
       "crosslistings": [
         "GERM 278-01 (30358)",
@@ -16100,7 +16100,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
