@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-15T22:36:28.801044+00:00",
+  "scraped_at": "2026-11-16T05:23:28.547432+00:00",
   "course_count": 741,
   "courses": [
     {
@@ -641,7 +641,7 @@
         }
       ],
       "instructor": "Arjun Guneratne",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -785,7 +785,7 @@
         }
       ],
       "instructor": "Erik Davis",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "9",
       "crosslistings": [
         "RELI 311-01 (30604)"
@@ -4250,7 +4250,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "PHIL 200-01 (30504)"
@@ -6540,7 +6540,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "16",
+      "open_seats": "17",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7487,7 +7487,7 @@
         }
       ],
       "instructor": "Holly Barcus",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [
         "GEOG 375-01 (30328)"
@@ -8680,7 +8680,7 @@
         }
       ],
       "instructor": "Holly Barcus",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [
         "ENVI 375-01 (30329)"
@@ -10351,7 +10351,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "22",
       "crosslistings": [
         "POLI 285-01 (30399)"
@@ -11304,7 +11304,7 @@
         }
       ],
       "instructor": "Morgan Sleeper",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "MUSI 220-01 (30431)"
@@ -12516,7 +12516,7 @@
         }
       ],
       "instructor": "Morgan Sleeper",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "LING 220-01 (30430)"
@@ -13048,7 +13048,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 200-01 (30505)"
@@ -13098,7 +13098,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14450,7 +14450,7 @@
         }
       ],
       "instructor": "Nadya Nedelsky",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "22",
       "crosslistings": [
         "INTL 285-01 (30398)"
@@ -15086,7 +15086,7 @@
         }
       ],
       "instructor": "Erika DeAngelis",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15880,7 +15880,7 @@
         }
       ],
       "instructor": "Erik Davis",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "9",
       "crosslistings": [
         "ANTH 311-01 (30605)"
@@ -16198,7 +16198,7 @@
         }
       ],
       "instructor": "Khaldoun Samman",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17912,7 +17912,7 @@
         }
       ],
       "instructor": "Myrl Beam",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
