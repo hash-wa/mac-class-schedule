@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-16T05:23:28.547432+00:00",
-  "course_count": 741,
+  "scraped_at": "2026-11-16T15:09:12.421181+00:00",
+  "course_count": 740,
   "courses": [
     {
       "crn": "30712",
@@ -69,7 +69,7 @@
         }
       ],
       "instructor": "Myrl Beam",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "WGSS 205-01 (30704)"
@@ -541,7 +541,7 @@
         }
       ],
       "instructor": "Kirisitina Sailiata",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "12",
       "crosslistings": [
         "MCST 394-01 (30864)"
@@ -6224,7 +6224,7 @@
         }
       ],
       "instructor": "Gonzalo Guzmán",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6524,30 +6524,6 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30240",
-      "subject": "ENGL",
-      "subject_name": "English and Creative Writing",
-      "course_number": "208",
-      "section": "01",
-      "title": "Literary Publishing",
-      "meetings": [
-        {
-          "days": "W",
-          "time": "7:00 - 10:00 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "",
-      "open_seats": "17",
-      "max_enrollment": "20",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course approaches the dynamic field of publishing, from acquisitions of literary titles to their entrance into the marketplace, from the writer’s hands to the editor’s desk to the reader’s library. With explorations into the history of the book, new technologies, and the vibrant literary scene in the Twin Cities and beyond, this course illuminates the complex realities of how literature meets our culture.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "U.S Identities and Differences, Writing WC",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENGL%27%20num=%27208%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30241",
@@ -10973,7 +10949,7 @@
         }
       ],
       "instructor": "Satoko Suzuki",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12320,7 +12296,7 @@
         }
       ],
       "instructor": "Kirisitina Sailiata",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "12",
       "crosslistings": [
         "AMST 394-01 (30863)"
@@ -14034,7 +14010,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15086,7 +15062,7 @@
         }
       ],
       "instructor": "Erika DeAngelis",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15671,7 +15647,7 @@
         }
       ],
       "instructor": "Susanna Drake",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "WGSS 225-01 (30595)"
@@ -16174,7 +16150,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17936,7 +17912,7 @@
         }
       ],
       "instructor": "Myrl Beam",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 205-01 (30705)"
@@ -17962,7 +17938,7 @@
         }
       ],
       "instructor": "Susanna Drake",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "RELI 225-01 (30594)"
