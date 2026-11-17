@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-16T15:09:12.421181+00:00",
-  "course_count": 740,
+  "scraped_at": "2026-11-17T01:43:35.842260+00:00",
+  "course_count": 736,
   "courses": [
     {
       "crn": "30712",
@@ -175,7 +175,7 @@
       ],
       "instructor": "Christie Manning",
       "open_seats": "1",
-      "max_enrollment": "22",
+      "max_enrollment": "23",
       "crosslistings": [
         "ENVI 237-01 (30265)"
       ],
@@ -253,7 +253,7 @@
         }
       ],
       "instructor": "Kirisitina Sailiata",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "ENVI 268-01 (30006)"
@@ -567,7 +567,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -591,7 +591,7 @@
         }
       ],
       "instructor": "Hilary Chart",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -665,7 +665,7 @@
         }
       ],
       "instructor": "Samantha Blatt",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -771,32 +771,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30605",
-      "subject": "ANTH",
-      "subject_name": "Anthropology",
-      "course_number": "311",
-      "section": "01",
-      "title": "Ritual",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Erik Davis",
-      "open_seats": "1",
-      "max_enrollment": "9",
-      "crosslistings": [
-        "RELI 311-01 (30604)"
-      ],
-      "seat_reservations": "",
-      "description": "The word \"ritual\" is used in many contexts to refer to types of practice that are considered centrally important, as well as formalistic and repetitive. This seminar-style course concentrates on the concept of ritual as a central component of social practice, within and without religious groupings. Focusing on developing the concept of ritual, we will focus on ritual across traditions. This requires students to ’work with’ concepts - forming a conception of what they mean by ritual, and be willing to change that conception when faced with contradictory evidence.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Writing WA",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ANTH%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30020",
       "subject": "ANTH",
       "subject_name": "Anthropology",
@@ -885,7 +859,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "8",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [
         "RELI 394-01 (30860)"
@@ -1480,33 +1454,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27111%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30591",
-      "subject": "ASIA",
-      "subject_name": "Asian Studies",
-      "course_number": "194",
-      "section": "01",
-      "title": "How to Get to Nirvana",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Erik Davis, Jake Nagasawa",
-      "open_seats": "1",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "RELI 194-01 (30590)",
-        "PHIL 194-01 (30592)"
-      ],
-      "seat_reservations": "",
-      "description": "This course explores the historical development of Buddhist thought and practice across Asia by tracing how communities of monks, scholars, and philosophers sought to understand and embody the path to liberation. Including studies of major schools and figures in Buddhism, including Nāgārjuna, Vasubandhu, and Buddhaghosa, students examine how diverse Buddhist traditions emerged from shared questions about mind, self, causality, and the nature of awakening. Along the way, the course cultivates key academic skills in textual interpretation, argumentation, and historical contextualization. Students learn to analyze philosophical ideas within their religious and cultural settings, compare perspectives across regions and time periods, and engage critically with both primary sources and modern scholarship. By combining close reading with cross-cultural inquiry and philosophical reasoning, students gain insight not only into the development of Buddhism but also into the broader processes by which ideas travel, transform, and shape worlds. The course provides both newcomers and those with prior background a rigorous and rewarding foundation for further study in religion, philosophy, or intellectual history.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ASIA%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30776",
       "subject": "ASIA",
       "subject_name": "Asian Studies",
@@ -1521,7 +1468,7 @@
         }
       ],
       "instructor": "Chun Chen",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "25",
       "crosslistings": [
         "HIST 194-02 (30761)"
@@ -1787,7 +1734,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-01 (30047)"
@@ -1813,7 +1760,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-02 (30049)"
@@ -1839,7 +1786,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-L1 (30051)"
@@ -1865,7 +1812,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-L2 (30053)"
@@ -1891,7 +1838,7 @@
         }
       ],
       "instructor": "Sarah Boyer",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1915,7 +1862,7 @@
         }
       ],
       "instructor": "Kristina Curry Rogers",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1987,8 +1934,8 @@
         }
       ],
       "instructor": "Ruth Isenberg",
-      "open_seats": "1",
-      "max_enrollment": "28",
+      "open_seats": "5",
+      "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2011,8 +1958,8 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "0",
-      "max_enrollment": "28",
+      "open_seats": "1",
+      "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2036,7 +1983,7 @@
       ],
       "instructor": "Robin Shields-Cutler",
       "open_seats": "0",
-      "max_enrollment": "28",
+      "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2060,7 +2007,7 @@
       ],
       "instructor": "Joseph Ly",
       "open_seats": "1",
-      "max_enrollment": "22",
+      "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2083,8 +2030,8 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "3",
-      "max_enrollment": "22",
+      "open_seats": "4",
+      "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2107,8 +2054,8 @@
         }
       ],
       "instructor": "Joseph Ly",
-      "open_seats": "1",
-      "max_enrollment": "22",
+      "open_seats": "0",
+      "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2131,8 +2078,8 @@
         }
       ],
       "instructor": "Joseph Ly",
-      "open_seats": "0",
-      "max_enrollment": "22",
+      "open_seats": "1",
+      "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2203,8 +2150,8 @@
         }
       ],
       "instructor": "Linda Jeanguenin",
-      "open_seats": "1",
-      "max_enrollment": "22",
+      "open_seats": "2",
+      "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "Cells are the foundational organizing units of all life on our planet. In this course, we study the ways in which these nanomachines use the shapes and interactions of molecules to store and convert information, energy, and mass, and to communicate with their environments. The workings of single-celled bacteria to multicellular organisms, and the complex behaviors of multi-species ecosystems all depend on the working of these miniscule molecular gears packed inside cells. This course covers the structures and behavior of biological molecules, the metabolic reactions that power life, the properties of the fluid, complex membranes that organize biological molecules in space and time, the ways in which information is sent and received within and between cells, and molecular-scale understandings of health and disease processes. Three lecture hours each week. Prerequisite(s): BIOL 190; and CHEM 112 or CHEM 115",
@@ -3253,7 +3200,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3325,7 +3272,7 @@
         }
       ],
       "instructor": "Sophia Lemonholm",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3397,7 +3344,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3421,7 +3368,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3445,7 +3392,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "2",
+      "open_seats": "5",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3715,7 +3662,7 @@
         }
       ],
       "instructor": "Jeffrey Buenaflor",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4596,7 +4543,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [
         "RELI 294-01 (30601)"
@@ -4768,7 +4715,7 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [
         "STAT 112-01 (30168)"
@@ -6200,7 +6147,7 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6224,7 +6171,7 @@
         }
       ],
       "instructor": "Gonzalo Guzmán",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6444,7 +6391,7 @@
         }
       ],
       "instructor": "Matt Burgess",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6516,7 +6463,7 @@
         }
       ],
       "instructor": "James Dawes",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6710,7 +6657,7 @@
         }
       ],
       "instructor": "Daylanne English",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6830,7 +6777,7 @@
         }
       ],
       "instructor": "Andrea Kaston Tange",
-      "open_seats": "4",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6926,7 +6873,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-01 (30046)"
@@ -6952,7 +6899,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-02 (30048)"
@@ -6978,7 +6925,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-L1 (30050)"
@@ -7004,7 +6951,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-L2 (30052)"
@@ -7030,7 +6977,7 @@
         }
       ],
       "instructor": "Louisa Bradtmiller",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7080,7 +7027,7 @@
         }
       ],
       "instructor": "Mindy Price",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7112,7 +7059,7 @@
       "seat_reservations": "",
       "description": "Germany has played a leading role in Europe’s transition to renewable energy. It also has a long history of organized opposition to vaccination. What connects these seemingly divergent attitudes toward science, technology, and the natural world? This course explores the intersections of ecology, esotericism, and conspiracy in German-speaking Europe, from Romantic nature philosophy to contemporary environmental activism and alternative health movements. Topics include Germany’s rejection of nuclear power, the institutional acceptance of homeopathy, and the political uses of ideals of natural purity. Through literature, visual art, film, board games, and scientific and philosophical writings, we will examine how appeals to nature have inspired projects of personal transformation, social emancipation, and racial exclusion. What does it mean to live naturally? Who can claim to speak for nature? And how do we distinguish the ecological insight that everything is connected from the suspicion that nothing happens by chance? Taught in English. No previous knowledge required.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27230%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -7184,7 +7131,7 @@
       ],
       "instructor": "Christie Manning",
       "open_seats": "1",
-      "max_enrollment": "22",
+      "max_enrollment": "23",
       "crosslistings": [
         "AMST 237-01 (30266)"
       ],
@@ -7260,7 +7207,7 @@
         }
       ],
       "instructor": "Kirisitina Sailiata",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "AMST 268-01 (30005)"
@@ -7312,7 +7259,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7389,7 +7336,7 @@
         }
       ],
       "instructor": "Megan Butler",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7439,7 +7386,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7715,7 +7662,7 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7739,7 +7686,7 @@
         }
       ],
       "instructor": "Erica Petersen",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8003,7 +7950,7 @@
         }
       ],
       "instructor": "Juliette Rogers",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8075,7 +8022,7 @@
         }
       ],
       "instructor": "Erica Petersen",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8219,7 +8166,7 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8291,7 +8238,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "20",
+      "open_seats": "19",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8462,7 +8409,7 @@
         }
       ],
       "instructor": "I-Chun Catherine Chang",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8560,7 +8507,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8754,7 +8701,7 @@
         }
       ],
       "instructor": "Raymond Rogers",
-      "open_seats": "34",
+      "open_seats": "33",
       "max_enrollment": "48",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8778,7 +8725,7 @@
         }
       ],
       "instructor": "Jeff Thole",
-      "open_seats": "15",
+      "open_seats": "14",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9362,7 +9309,7 @@
       "seat_reservations": "",
       "description": "Germany has played a leading role in Europe’s transition to renewable energy. It also has a long history of organized opposition to vaccination. What connects these seemingly divergent attitudes toward science, technology, and the natural world? This course explores the intersections of ecology, esotericism, and conspiracy in German-speaking Europe, from Romantic nature philosophy to contemporary environmental activism and alternative health movements. Topics include Germany’s rejection of nuclear power, the institutional acceptance of homeopathy, and the political uses of ideals of natural purity. Through literature, visual art, film, board games, and scientific and philosophical writings, we will examine how appeals to nature have inspired projects of personal transformation, social emancipation, and racial exclusion. What does it mean to live naturally? Who can claim to speak for nature? And how do we distinguish the ecological insight that everything is connected from the suspicion that nothing happens by chance? Taught in English. No previous knowledge required.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27GERM%27%20num=%27230%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -9580,7 +9527,7 @@
         }
       ],
       "instructor": "Chun Chen",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "25",
       "crosslistings": [
         "ASIA 194-02 (30776)"
@@ -9630,7 +9577,7 @@
         }
       ],
       "instructor": "Tara Hollies",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [
         "RELI 215-01 (30372)"
@@ -9892,7 +9839,7 @@
       "seat_reservations": "",
       "description": "This course will survey the history of the Maya peoples from the mythic past to the present and will center the problem of authority in two senses of the term. First, which peoples and institutions have held authority over Maya peoples in different historical periods, and how has that authority been contested and been co-opted? We will pay special attention to the particular sorts of authority held by missionaries in Maya communities. Second, who has the authority to tell Maya history? What sources and archives inform historical research into this history, and how have these knowledge bases been constructed? How have Maya organic intellectuals and scholars shaped historical narratives about the Maya people? To answer these many questions, we will closely read Maya texts from the Popol Vuh to modern day testimonios and conversion accounts.",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -9910,7 +9857,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10634,7 +10581,7 @@
         }
       ],
       "instructor": "Satoko Suzuki",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10682,7 +10629,7 @@
         }
       ],
       "instructor": "Kyoshin Sasahara",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10877,7 +10824,7 @@
         }
       ],
       "instructor": "Sachiko Dorsey",
-      "open_seats": "12",
+      "open_seats": "10",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10901,7 +10848,7 @@
         }
       ],
       "instructor": "Kyoshin Sasahara",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10925,7 +10872,7 @@
         }
       ],
       "instructor": "Kyoshin Sasahara",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11079,7 +11026,7 @@
         }
       ],
       "instructor": "Megan Butler",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11182,7 +11129,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 342-01 (30549)"
@@ -12019,7 +11966,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "1",
+      "open_seats": "3",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12117,7 +12064,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12322,7 +12269,7 @@
         }
       ],
       "instructor": "Morgan Adamson",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12805,7 +12752,7 @@
       "title": "Keyboard Skills",
       "meetings": [],
       "instructor": "",
-      "open_seats": "18",
+      "open_seats": "15",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12877,7 +12824,7 @@
         }
       ],
       "instructor": "Amanda Evans",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12981,33 +12928,6 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27121%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30592",
-      "subject": "PHIL",
-      "subject_name": "Philosophy",
-      "course_number": "194",
-      "section": "01",
-      "title": "How to Get to Nirvana",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Erik Davis, Jake Nagasawa",
-      "open_seats": "1",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "RELI 194-01 (30590)",
-        "ASIA 194-01 (30591)"
-      ],
-      "seat_reservations": "",
-      "description": "This course explores the historical development of Buddhist thought and practice across Asia by tracing how communities of monks, scholars, and philosophers sought to understand and embody the path to liberation. Including studies of major schools and figures in Buddhism, including Nāgārjuna, Vasubandhu, and Buddhaghosa, students examine how diverse Buddhist traditions emerged from shared questions about mind, self, causality, and the nature of awakening. Along the way, the course cultivates key academic skills in textual interpretation, argumentation, and historical contextualization. Students learn to analyze philosophical ideas within their religious and cultural settings, compare perspectives across regions and time periods, and engage critically with both primary sources and modern scholarship. By combining close reading with cross-cultural inquiry and philosophical reasoning, students gain insight not only into the development of Buddhism but also into the broader processes by which ideas travel, transform, and shape worlds. The course provides both newcomers and those with prior background a rigorous and rewarding foundation for further study in religion, philosophy, or intellectual history.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27PHIL%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30504",
@@ -13314,7 +13234,7 @@
         }
       ],
       "instructor": "Gina Wood",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13410,7 +13330,7 @@
         }
       ],
       "instructor": "Kyllian Griffin",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "10",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13434,7 +13354,7 @@
         }
       ],
       "instructor": "Emma Fitzsimmons",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13626,8 +13546,8 @@
         }
       ],
       "instructor": "Michelle Milne",
-      "open_seats": "10",
-      "max_enrollment": "27",
+      "open_seats": "5",
+      "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "A study of electric charge and currents, electric and magnetic fields, electromagnetic waves, and geometrical and physical optics. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 127. Prerequisite(s): PHYS 226 and MATH 137 (MATH 137 may also be taken concurrently). Spring semester. (4 Credits) Prerequisite(s): PHYS 226 and MATH 137 (MATH 137 may also be taken concurrently).",
@@ -13650,8 +13570,8 @@
         }
       ],
       "instructor": "James Heyman",
-      "open_seats": "0",
-      "max_enrollment": "27",
+      "open_seats": "5",
+      "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "A study of electric charge and currents, electric and magnetic fields, electromagnetic waves, and geometrical and physical optics. Three lectures and one two-hour laboratory per week. Students cannot receive credit for both this course and PHYS 127. Prerequisite(s): PHYS 226 and MATH 137 (MATH 137 may also be taken concurrently). Spring semester. (4 Credits) Prerequisite(s): PHYS 226 and MATH 137 (MATH 137 may also be taken concurrently).",
@@ -13986,7 +13906,7 @@
         }
       ],
       "instructor": "Patrick Schmidt",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14010,7 +13930,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14502,7 +14422,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14526,7 +14446,7 @@
         }
       ],
       "instructor": "Lisa Mueller",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14600,7 +14520,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [
         "LATI 342-01 (30550)"
@@ -14626,7 +14546,7 @@
         }
       ],
       "instructor": "Patrick Schmidt",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15062,7 +14982,7 @@
         }
       ],
       "instructor": "Erika DeAngelis",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15110,7 +15030,7 @@
         }
       ],
       "instructor": "Melina Singh",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15520,7 +15440,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15528,33 +15448,6 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27100%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30590",
-      "subject": "RELI",
-      "subject_name": "Religious Studies",
-      "course_number": "194",
-      "section": "01",
-      "title": "How to Get to Nirvana",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "1:20 - 2:50 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Erik Davis, Jake Nagasawa",
-      "open_seats": "1",
-      "max_enrollment": "16",
-      "crosslistings": [
-        "ASIA 194-01 (30591)",
-        "PHIL 194-01 (30592)"
-      ],
-      "seat_reservations": "",
-      "description": "This course explores the historical development of Buddhist thought and practice across Asia by tracing how communities of monks, scholars, and philosophers sought to understand and embody the path to liberation. Including studies of major schools and figures in Buddhism, including Nāgārjuna, Vasubandhu, and Buddhaghosa, students examine how diverse Buddhist traditions emerged from shared questions about mind, self, causality, and the nature of awakening. Along the way, the course cultivates key academic skills in textual interpretation, argumentation, and historical contextualization. Students learn to analyze philosophical ideas within their religious and cultural settings, compare perspectives across regions and time periods, and engage critically with both primary sources and modern scholarship. By combining close reading with cross-cultural inquiry and philosophical reasoning, students gain insight not only into the development of Buddhism but also into the broader processes by which ideas travel, transform, and shape worlds. The course provides both newcomers and those with prior background a rigorous and rewarding foundation for further study in religion, philosophy, or intellectual history.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30593",
@@ -15607,6 +15500,30 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30939",
+      "subject": "RELI",
+      "subject_name": "Religious Studies",
+      "course_number": "194",
+      "section": "04",
+      "title": "The Dalai Lama’s Religion: An Exploration of Tibetan Buddhism",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "1:20 - 2:50 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "Jake Nagasawa",
+      "open_seats": "14",
+      "max_enrollment": "20",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "Varies by semester. Consult the department or class schedule for current listing.",
+      "distribution_requirements": "Humanities",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27194%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30372",
       "subject": "RELI",
       "subject_name": "Religious Studies",
@@ -15621,7 +15538,7 @@
         }
       ],
       "instructor": "Tara Hollies",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 215-01 (30371)"
@@ -15780,7 +15697,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [
         "CLAS 294-03 (30602)"
@@ -15797,20 +15714,20 @@
       "subject_name": "Religious Studies",
       "course_number": "294",
       "section": "02",
-      "title": "Antisemitism Before Modernity",
+      "title": "Jews and Christians",
       "meetings": [
         {
           "days": "T R",
-          "time": "1:20 - 2:50 pm",
+          "time": "9:40 - 11:10 am",
           "room": ""
         }
       ],
       "instructor": "Susanna Drake, Nicholas Schaser",
-      "open_seats": "14",
+      "open_seats": "13",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course surveys historical antagonism against Jews and Judaism from the time of Jesus to that of Martin Luther. Students will focus on the New Testament’s complex presentations of Jews and Jewish religious praxis, the development of anti-Judaism within early Christianity, anti-Jewish violence concomitant with race-making projects in medieval Christian Europe, and the antisemitism of early Protestant reformers. Based on our examination of Christian identity formation via descriptions, images, and stereotypes of Jews, we will assess the sociopolitical, material, and religious implications of antisemitism over the past two millennia.",
+      "description": "This course surveys historical relations between Jews and Christians from the time of Jesus to that of Martin Luther. Students will focus on the New Testament’s complex presentations of Jews and Jewish religious praxis, the development of anti-Judaism within early Christianity, rabbinic responses to Christianity, anti-Jewish violence concomitant with race-making projects in European Christendom, and the antisemitism of early Protestant reformers. Based on our examination of Christian and Jewish identity formation via descriptions and images, we will assess the sociopolitical, material, and religious implications of antisemitism over the past two millennia.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -15842,32 +15759,6 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
-      "crn": "30604",
-      "subject": "RELI",
-      "subject_name": "Religious Studies",
-      "course_number": "311",
-      "section": "01",
-      "title": "Ritual",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "9:40 - 11:10 am",
-          "room": ""
-        }
-      ],
-      "instructor": "Erik Davis",
-      "open_seats": "1",
-      "max_enrollment": "9",
-      "crosslistings": [
-        "ANTH 311-01 (30605)"
-      ],
-      "seat_reservations": "",
-      "description": "The word \"ritual\" is used in many contexts to refer to types of practice that are considered centrally important, as well as formalistic and repetitive. This seminar-style course concentrates on the concept of ritual as a central component of social practice, within and without religious groupings. Focusing on developing the concept of ritual, we will focus on ritual across traditions. This requires students to ’work with’ concepts - forming a conception of what they mean by ritual, and be willing to change that conception when faced with contradictory evidence.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Writing WA",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27RELI%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
       "crn": "30860",
       "subject": "RELI",
       "subject_name": "Religious Studies",
@@ -15882,7 +15773,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "8",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [
         "ANTH 394-04 (30861)"
@@ -16150,7 +16041,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16174,7 +16065,7 @@
         }
       ],
       "instructor": "Khaldoun Samman",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16299,7 +16190,7 @@
         }
       ],
       "instructor": "Khaldoun Samman",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "23",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16373,7 +16264,7 @@
         }
       ],
       "instructor": "Erik Larson",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16517,7 +16408,7 @@
         }
       ],
       "instructor": "Claire Lozano",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16964,7 +16855,7 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [
         "COMP 112-01 (30167)"
@@ -17718,7 +17609,7 @@
         }
       ],
       "instructor": "Robert Rosen",
-      "open_seats": "21",
+      "open_seats": "20",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -18096,7 +17987,7 @@
         }
       ],
       "instructor": "Melanie Yazzie",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
