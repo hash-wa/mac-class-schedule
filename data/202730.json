@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-17T01:43:35.842260+00:00",
+  "scraped_at": "2026-11-17T15:40:21.214706+00:00",
   "course_count": 736,
   "courses": [
     {
@@ -859,7 +859,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [
         "RELI 394-01 (30860)"
@@ -1934,7 +1934,7 @@
         }
       ],
       "instructor": "Ruth Isenberg",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1958,7 +1958,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2864,7 +2864,7 @@
         }
       ],
       "instructor": "Kathryn Splan",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7180,7 +7180,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "11",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -8358,7 +8358,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "11",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [
         "ENVI 239-01 (30313)",
@@ -8409,7 +8409,7 @@
         }
       ],
       "instructor": "I-Chun Catherine Chang",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10126,7 +10126,7 @@
         }
       ],
       "instructor": "David Moore",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10946,7 +10946,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "11",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -11528,7 +11528,7 @@
         }
       ],
       "instructor": "William Grodzicki",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12994,7 +12994,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13066,7 +13066,7 @@
         }
       ],
       "instructor": "Aila O'Loughlin",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15030,7 +15030,7 @@
         }
       ],
       "instructor": "Melina Singh",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15440,7 +15440,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15773,7 +15773,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [
         "ANTH 394-04 (30861)"
@@ -17367,7 +17367,7 @@
         }
       ],
       "instructor": "Marciano Silva Dos Santos",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
