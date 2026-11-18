@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-18T00:42:58.153175+00:00",
-  "course_count": 736,
+  "scraped_at": "2026-11-18T15:18:59.203514+00:00",
+  "course_count": 737,
   "courses": [
     {
       "crn": "30712",
@@ -147,7 +147,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 229-01 (30377)",
@@ -359,7 +359,7 @@
         }
       ],
       "instructor": "Jake Nagasawa",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "RELI 294-03 (30011)"
@@ -567,7 +567,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -591,7 +591,7 @@
         }
       ],
       "instructor": "Hilary Chart",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -787,7 +787,9 @@
       "instructor": "Ron Barrett",
       "open_seats": "17",
       "max_enrollment": "20",
-      "crosslistings": [],
+      "crosslistings": [
+        "ENVI 394-01 (30957)"
+      ],
       "seat_reservations": "",
       "description": "This course explores the human determinants of infectious diseases ranging from Paleolithic parasites to 21st Century pathogens. Yet even as we examine the latest disease threats, we will find that their evolution and emergence in human populations are largely based on ancient and recurring themes – i.e. the ways that people have interacted with, and disrupted, their natural and social environments. These lessons will help us gain further understanding into current issues such as animal- human spillover events, the evolution of virulence, and the inevitable rise of antibiotic resistance. This course is especially geared for students who enjoy making connections between the social and natural sciences. Previous courses in biology and anthropology are recommended but not required.",
       "distribution_requirements": "Social science",
@@ -1223,7 +1225,7 @@
         }
       ],
       "instructor": "Serdar Yalçin",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1274,7 +1276,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [
         "ASIA 350-01 (30722)"
@@ -1682,7 +1684,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "16",
       "crosslistings": [
         "ART 350-01 (30721)"
@@ -1958,7 +1960,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2006,7 +2008,7 @@
         }
       ],
       "instructor": "Joseph Ly",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2030,7 +2032,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2864,7 +2866,7 @@
         }
       ],
       "instructor": "Kathryn Splan",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "41",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2912,7 +2914,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "3",
+      "open_seats": "1",
       "max_enrollment": "40",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2936,7 +2938,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "40",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3080,7 +3082,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "8",
+      "open_seats": "6",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5233,7 +5235,7 @@
         }
       ],
       "instructor": "Will Mitchell",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "MATH 365-01 (30194)"
@@ -7283,7 +7285,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7522,6 +7524,32 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30957",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "394",
+      "section": "04",
+      "title": "Human Ecology of Infectious Diseases",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Ron Barrett",
+      "open_seats": "17",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "ANTH 394-01 (30020)"
+      ],
+      "seat_reservations": "",
+      "description": "This course explores the human determinants of infectious diseases ranging from Paleolithic parasites to 21st Century pathogens. Yet even as we examine the latest disease threats, we will find that their evolution and emergence in human populations are largely based on ancient and recurring themes – i.e. the ways that people have interacted with, and disrupted, their natural and social environments. These lessons will help us gain further understanding into current issues such as animal- human spillover events, the evolution of virulence, and the inevitable rise of antibiotic resistance. This course is especially geared for students who enjoy making connections between the social and natural sciences. Previous courses in biology and anthropology are recommended but not required.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2704%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30779",
@@ -9655,7 +9683,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 229-01 (30378)",
@@ -9708,7 +9736,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9881,7 +9909,7 @@
         }
       ],
       "instructor": "Amy Sullivan",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "WGSS 250-01 (30389)"
@@ -10200,7 +10228,7 @@
         }
       ],
       "instructor": "Vanessa Voller",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11818,7 +11846,7 @@
         }
       ],
       "instructor": "Will Mitchell",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "COMP 365-01 (30193)"
@@ -12014,7 +12042,7 @@
         }
       ],
       "instructor": "Rory Solomon",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12994,7 +13022,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13474,7 +13502,7 @@
         }
       ],
       "instructor": "Saki Khan",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "36",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13522,7 +13550,7 @@
         }
       ],
       "instructor": "Saki Khan",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14422,7 +14450,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15440,7 +15468,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15747,7 +15775,7 @@
         }
       ],
       "instructor": "Jake Nagasawa",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 294-01 (30010)"
@@ -17855,7 +17883,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 229-01 (30377)",
@@ -17909,7 +17937,7 @@
         }
       ],
       "instructor": "Amy Sullivan",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 350-01 (30388)"
