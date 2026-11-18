@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-17T15:40:21.214706+00:00",
+  "scraped_at": "2026-11-18T00:42:58.153175+00:00",
   "course_count": 736,
   "courses": [
     {
@@ -174,7 +174,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "23",
       "crosslistings": [
         "ENVI 237-01 (30265)"
@@ -567,7 +567,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "11",
+      "open_seats": "13",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -641,7 +641,7 @@
         }
       ],
       "instructor": "Arjun Guneratne",
-      "open_seats": "2",
+      "open_seats": "0",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -761,7 +761,7 @@
         }
       ],
       "instructor": "Robert Weiner",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -859,7 +859,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [
         "RELI 394-01 (30860)"
@@ -1934,7 +1934,7 @@
         }
       ],
       "instructor": "Ruth Isenberg",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "32",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2030,7 +2030,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2248,7 +2248,7 @@
         }
       ],
       "instructor": "Ruth Isenberg",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2272,7 +2272,7 @@
         }
       ],
       "instructor": "Ruth Isenberg",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2344,7 +2344,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2864,8 +2864,8 @@
         }
       ],
       "instructor": "Kathryn Splan",
-      "open_seats": "0",
-      "max_enrollment": "36",
+      "open_seats": "3",
+      "max_enrollment": "41",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course provides an intuitive, yet rigorous, understanding of how energy is stored and transferred in chemical systems. We start with the behavior of individual atoms and molecules (using the foundation of atomic and molecular structure laid in CHEM 111 , and then build up to the macroscopic concepts of thermodynamics. We focus on free energy as a powerful tool for predicting physical and chemical behavior. We then apply our understanding of energetics to electrochemical systems and the rates of chemical reactions. Three lectures and one three-hour laboratory per week. Lab fee of $7 required. Prerequisite(s): CHEM 111 with a grade of C- or better, or satisfactory performance on a placement examination, or a score of 4 or 5 on the AP Chemistry test, or a score of 5, 6, or 7 on the IB Chemistry test. One may take the placement exam or use an AP/IB test score only if you have not previously enrolled in CHEM 111.",
@@ -2888,8 +2888,8 @@
         }
       ],
       "instructor": "",
-      "open_seats": "0",
-      "max_enrollment": "36",
+      "open_seats": "1",
+      "max_enrollment": "41",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course provides an intuitive, yet rigorous, understanding of how energy is stored and transferred in chemical systems. We start with the behavior of individual atoms and molecules (using the foundation of atomic and molecular structure laid in CHEM 111 , and then build up to the macroscopic concepts of thermodynamics. We focus on free energy as a powerful tool for predicting physical and chemical behavior. We then apply our understanding of energetics to electrochemical systems and the rates of chemical reactions. Three lectures and one three-hour laboratory per week. Lab fee of $7 required. Prerequisite(s): CHEM 111 with a grade of C- or better, or satisfactory performance on a placement examination, or a score of 4 or 5 on the AP Chemistry test, or a score of 5, 6, or 7 on the IB Chemistry test. One may take the placement exam or use an AP/IB test score only if you have not previously enrolled in CHEM 111.",
@@ -2912,8 +2912,8 @@
         }
       ],
       "instructor": "",
-      "open_seats": "0",
-      "max_enrollment": "36",
+      "open_seats": "3",
+      "max_enrollment": "40",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course provides an intuitive, yet rigorous, understanding of how energy is stored and transferred in chemical systems. We start with the behavior of individual atoms and molecules (using the foundation of atomic and molecular structure laid in CHEM 111 , and then build up to the macroscopic concepts of thermodynamics. We focus on free energy as a powerful tool for predicting physical and chemical behavior. We then apply our understanding of energetics to electrochemical systems and the rates of chemical reactions. Three lectures and one three-hour laboratory per week. Lab fee of $7 required. Prerequisite(s): CHEM 111 with a grade of C- or better, or satisfactory performance on a placement examination, or a score of 4 or 5 on the AP Chemistry test, or a score of 5, 6, or 7 on the IB Chemistry test. One may take the placement exam or use an AP/IB test score only if you have not previously enrolled in CHEM 111.",
@@ -2936,8 +2936,8 @@
         }
       ],
       "instructor": "",
-      "open_seats": "0",
-      "max_enrollment": "36",
+      "open_seats": "1",
+      "max_enrollment": "40",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course provides an intuitive, yet rigorous, understanding of how energy is stored and transferred in chemical systems. We start with the behavior of individual atoms and molecules (using the foundation of atomic and molecular structure laid in CHEM 111 , and then build up to the macroscopic concepts of thermodynamics. We focus on free energy as a powerful tool for predicting physical and chemical behavior. We then apply our understanding of energetics to electrochemical systems and the rates of chemical reactions. Three lectures and one three-hour laboratory per week. Lab fee of $7 required. Prerequisite(s): CHEM 111 with a grade of C- or better, or satisfactory performance on a placement examination, or a score of 4 or 5 on the AP Chemistry test, or a score of 5, 6, or 7 on the IB Chemistry test. One may take the placement exam or use an AP/IB test score only if you have not previously enrolled in CHEM 111.",
@@ -3064,6 +3064,30 @@
       "distribution_requirements": "",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27112%27%20sect=%27L5%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30956",
+      "subject": "CHEM",
+      "subject_name": "Chemistry",
+      "course_number": "112",
+      "section": "L6",
+      "title": "General Chemistry II: Energetics and Reactivity",
+      "meetings": [
+        {
+          "days": "W",
+          "time": "7:00 - 10:00 pm",
+          "room": ""
+        }
+      ],
+      "instructor": "",
+      "open_seats": "8",
+      "max_enrollment": "18",
+      "crosslistings": [],
+      "seat_reservations": "",
+      "description": "This course provides an intuitive, yet rigorous, understanding of how energy is stored and transferred in chemical systems. We start with the behavior of individual atoms and molecules (using the foundation of atomic and molecular structure laid in CHEM 111 , and then build up to the macroscopic concepts of thermodynamics. We focus on free energy as a powerful tool for predicting physical and chemical behavior. We then apply our understanding of energetics to electrochemical systems and the rates of chemical reactions. Three lectures and one three-hour laboratory per week. Lab fee of $7 required. Prerequisite(s): CHEM 111 with a grade of C- or better, or satisfactory performance on a placement examination, or a score of 4 or 5 on the AP Chemistry test, or a score of 5, 6, or 7 on the IB Chemistry test. One may take the placement exam or use an AP/IB test score only if you have not previously enrolled in CHEM 111.",
+      "distribution_requirements": "Natural science and mathematics",
+      "gen_ed_requirements": "Quantitative Thinking Q2",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27CHEM%27%20num=%27112%27%20sect=%27L6%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30094",
@@ -4593,7 +4617,7 @@
         }
       ],
       "instructor": "Haci Gündüz",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4617,7 +4641,7 @@
         }
       ],
       "instructor": "Haci Gündüz",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4715,8 +4739,8 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "0",
-      "max_enrollment": "24",
+      "open_seats": "1",
+      "max_enrollment": "27",
       "crosslistings": [
         "STAT 112-01 (30168)"
       ],
@@ -4741,8 +4765,8 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "0",
-      "max_enrollment": "24",
+      "open_seats": "1",
+      "max_enrollment": "27",
       "crosslistings": [
         "STAT 112-02 (30170)"
       ],
@@ -4937,7 +4961,7 @@
         }
       ],
       "instructor": "Shilad Sen",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7130,7 +7154,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "23",
       "crosslistings": [
         "AMST 237-01 (30266)"
@@ -7498,30 +7522,6 @@
       "distribution_requirements": "Natural science and mathematics",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30872",
-      "subject": "ENVI",
-      "subject_name": "Environmental Studies",
-      "course_number": "394",
-      "section": "03",
-      "title": "Monuments & Memorials: Purpose, Meaning & Design",
-      "meetings": [
-        {
-          "days": "T R",
-          "time": "3:00 - 4:30 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Tony Siebenaler-Ransom",
-      "open_seats": "15",
-      "max_enrollment": "15",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "What does it mean to set aside and develop a space for a memorial or monument? What are the purposes and goals of those objects and places? How are these employed and reflected in the design? Legacy, memory, honor, education, influence: which is primary? How does the order of these change the spatial design? What are the necessary components and spatial requirements for a place to honor George Floyd, or Renee Goode and Alex Pretti? We begin with a brief historical overview of elevated meaning in place making. We will explore historic and contemporary examples by reading and discussing analyses of international and local monuments and memorials, their context, the relation to power, and if we think these spaces achieve their goals. The course will also focus on the tools designers use to achieve these experiences in place. We will explore preservation and ecological restoration as a form of memorial, and how this type of framework may or may not be useful. Coursework will focus on research, reading and discussion, and the majority of the assignment work will be writing. Students will explore writing in different formats: case study, proposal, reflective writing, and will be challenged to use both narrative and professional voices to communicate design ideas. Students will develop guidelines for memorials as part of the final project. This course is recommended for Juniors or Seniors as it is a deeper engagement with specialized subject matter. Students will be expected to be more self-directed. Basic coursework skills and an ability to do analysis/research independently is highly recommended.",
-      "distribution_requirements": "",
-      "gen_ed_requirements": "",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27394%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30779",
@@ -8701,7 +8701,7 @@
         }
       ],
       "instructor": "Raymond Rogers",
-      "open_seats": "33",
+      "open_seats": "34",
       "max_enrollment": "48",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8749,7 +8749,7 @@
         }
       ],
       "instructor": "Jeff Thole",
-      "open_seats": "19",
+      "open_seats": "20",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9708,7 +9708,7 @@
         }
       ],
       "instructor": "Jess Pearson",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10581,7 +10581,7 @@
         }
       ],
       "instructor": "Satoko Suzuki",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -10605,7 +10605,7 @@
         }
       ],
       "instructor": "Kyoshin Sasahara",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11155,7 +11155,7 @@
         }
       ],
       "instructor": "Zuoyu Tian",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11528,7 +11528,7 @@
         }
       ],
       "instructor": "William Grodzicki",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11696,7 +11696,7 @@
         }
       ],
       "instructor": "Dave Ehren",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12800,7 +12800,7 @@
         }
       ],
       "instructor": "Amanda Evans",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12994,7 +12994,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "9",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13066,7 +13066,7 @@
         }
       ],
       "instructor": "Aila O'Loughlin",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13354,7 +13354,7 @@
         }
       ],
       "instructor": "Emma Fitzsimmons",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13906,7 +13906,7 @@
         }
       ],
       "instructor": "Patrick Schmidt",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15514,7 +15514,7 @@
         }
       ],
       "instructor": "Jake Nagasawa",
-      "open_seats": "14",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15773,7 +15773,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "5",
+      "open_seats": "6",
       "max_enrollment": "12",
       "crosslistings": [
         "ANTH 394-04 (30861)"
@@ -16065,7 +16065,7 @@
         }
       ],
       "instructor": "Khaldoun Samman",
-      "open_seats": "3",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16089,7 +16089,7 @@
         }
       ],
       "instructor": "Christina Hughes",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16432,7 +16432,7 @@
         }
       ],
       "instructor": "Cynthia Kauffeld",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16855,8 +16855,8 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "0",
-      "max_enrollment": "24",
+      "open_seats": "1",
+      "max_enrollment": "27",
       "crosslistings": [
         "COMP 112-01 (30167)"
       ],
@@ -16881,8 +16881,8 @@
         }
       ],
       "instructor": "Susan Fox",
-      "open_seats": "0",
-      "max_enrollment": "24",
+      "open_seats": "1",
+      "max_enrollment": "27",
       "crosslistings": [
         "COMP 112-02 (30169)"
       ],
