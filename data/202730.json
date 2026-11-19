@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-18T15:18:59.203514+00:00",
-  "course_count": 737,
+  "scraped_at": "2026-11-19T00:01:21.290223+00:00",
+  "course_count": 739,
   "courses": [
     {
       "crn": "30712",
@@ -147,7 +147,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 229-01 (30377)",
@@ -174,7 +174,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "0",
+      "open_seats": "2",
       "max_enrollment": "23",
       "crosslistings": [
         "ENVI 237-01 (30265)"
@@ -491,7 +491,7 @@
         }
       ],
       "instructor": "Juliette Rogers, Duchess Harris",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
@@ -591,7 +591,7 @@
         }
       ],
       "instructor": "Hilary Chart",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -761,7 +761,7 @@
         }
       ],
       "instructor": "Robert Weiner",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -785,7 +785,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "17",
+      "open_seats": "16",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 394-01 (30957)"
@@ -1127,7 +1127,7 @@
         }
       ],
       "instructor": "Mara Duvra",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1151,7 +1151,7 @@
         }
       ],
       "instructor": "Samael Leopold Sullivan",
-      "open_seats": "5",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1522,7 +1522,7 @@
         }
       ],
       "instructor": "James Laine",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [
         "RELI 236-01 (30596)",
@@ -1657,7 +1657,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [
         "ENVI 294-01 (30270)",
@@ -1736,7 +1736,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-01 (30047)"
@@ -1814,7 +1814,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "ENVI 170-L2 (30053)"
@@ -1864,7 +1864,7 @@
         }
       ],
       "instructor": "Kristina Curry Rogers",
-      "open_seats": "0",
+      "open_seats": "2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1888,7 +1888,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1912,7 +1912,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1936,8 +1936,8 @@
         }
       ],
       "instructor": "Ruth Isenberg",
-      "open_seats": "3",
-      "max_enrollment": "32",
+      "open_seats": "1",
+      "max_enrollment": "31",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -1960,8 +1960,8 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "0",
-      "max_enrollment": "32",
+      "open_seats": "2",
+      "max_enrollment": "33",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "An introduction to the principles of genetics, including patterns of inheritance, structure and function of genetic material, flow of genetic information, and control of gene expression. This course also introduces students to the methodologies used in genetics research, such as gene mapping, gene expression techniques, DNA sequencing, introductory genomics, and gene manipulation. Bioethical and sociocultural issues that emerge from the applications of genetic concepts and methodologies are discussed. Three lecture hours and one three-hour laboratory each week.",
@@ -2128,7 +2128,7 @@
         }
       ],
       "instructor": "Phillip Rivera",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "22",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2152,7 +2152,7 @@
         }
       ],
       "instructor": "Linda Jeanguenin",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2298,7 +2298,7 @@
         }
       ],
       "instructor": "Michelle Tianyi Tong",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2322,7 +2322,7 @@
         }
       ],
       "instructor": "Michelle Tianyi Tong",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2668,7 +2668,7 @@
         }
       ],
       "instructor": "Sebastiano De Bona",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [
         "ENVI 394-02 (30777)"
@@ -2694,7 +2694,7 @@
         }
       ],
       "instructor": "Sebastiano De Bona",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [
         "ENVI 394-L1 (30779)"
@@ -2866,7 +2866,7 @@
         }
       ],
       "instructor": "Kathryn Splan",
-      "open_seats": "4",
+      "open_seats": "2",
       "max_enrollment": "41",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2914,7 +2914,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "40",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2962,7 +2962,7 @@
         }
       ],
       "instructor": "Isabella Nimm",
-      "open_seats": "0",
+      "open_seats": "2",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3082,7 +3082,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "6",
+      "open_seats": "1",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4149,7 +4149,7 @@
         }
       ],
       "instructor": "Beth Severy-Hoven",
-      "open_seats": "16",
+      "open_seats": "15",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4249,7 +4249,7 @@
         }
       ],
       "instructor": "James Laine",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [
         "RELI 236-01 (30596)",
@@ -4819,7 +4819,7 @@
         }
       ],
       "instructor": "Amin Alhashim",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4915,7 +4915,7 @@
         }
       ],
       "instructor": "Lauren Milne",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5554,7 +5554,7 @@
         }
       ],
       "instructor": "Jessica Kiser",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6173,13 +6173,13 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. *This course will include a 10-day study away component in Louisiana during Spring Break in March 2027. Prerequisite(s): FREN 204",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27EDUC%27%20num=%27294%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -6297,7 +6297,7 @@
         }
       ],
       "instructor": "Coral Lumbley",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6585,7 +6585,7 @@
         }
       ],
       "instructor": "Peter Bognanni",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6899,7 +6899,7 @@
         }
       ],
       "instructor": "Mary Heskel",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-01 (30046)"
@@ -6977,7 +6977,7 @@
         }
       ],
       "instructor": "Michael Anderson",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "22",
       "crosslistings": [
         "BIOL 170-L2 (30052)"
@@ -7037,6 +7037,32 @@
       "distribution_requirements": "Social science",
       "gen_ed_requirements": "",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27215%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
+      "crn": "30960",
+      "subject": "ENVI",
+      "subject_name": "Environmental Studies",
+      "course_number": "215",
+      "section": "02",
+      "title": "Environmental Politics/Policy",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Tony Siebenaler-Ransom",
+      "open_seats": "13",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "POLI 215-02 (30961)"
+      ],
+      "seat_reservations": "",
+      "description": "This course provides an introduction to the field of Environmental Politics and Policy. Using a project-based investigative approach, this course will explore the governance structures that shape the urban environment: both historic origins and contemporary discourse. As the saying goes, “All politics is local,” and this course will explore policy origins and impacts from the neighborhood up to the national level. There will be a special focus on zoning and community input, especially as applied to pollution allowances and stormwater.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27ENVI%27%20num=%27215%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30261",
@@ -7130,7 +7156,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "1",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 234-01 (30264)"
@@ -7156,7 +7182,7 @@
         }
       ],
       "instructor": "Christie Manning",
-      "open_seats": "0",
+      "open_seats": "2",
       "max_enrollment": "23",
       "crosslistings": [
         "AMST 237-01 (30266)"
@@ -7206,7 +7232,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -7309,7 +7335,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [
         "HIST 294-02 (30271)",
@@ -7386,7 +7412,7 @@
         }
       ],
       "instructor": "Roopali Phadke",
-      "open_seats": "13",
+      "open_seats": "10",
       "max_enrollment": "16",
       "crosslistings": [
         "POLI 237-01 (30274)"
@@ -7514,7 +7540,7 @@
         }
       ],
       "instructor": "Sebastiano De Bona",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [
         "BIOL 394-03 (30778)"
@@ -7540,7 +7566,7 @@
         }
       ],
       "instructor": "Ron Barrett",
-      "open_seats": "17",
+      "open_seats": "16",
       "max_enrollment": "20",
       "crosslistings": [
         "ANTH 394-01 (30020)"
@@ -7566,7 +7592,7 @@
         }
       ],
       "instructor": "Sebastiano De Bona",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [
         "BIOL 394-L1 (30780)"
@@ -8194,13 +8220,13 @@
         }
       ],
       "instructor": "Joëlle Vitiello",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
       "description": "This course is an introduction to the multiple facets of francophone cultures and heritage, old and new, in the Western Hemisphere. It explores historical connections between France and the United States; Quebec, Acadia and Louisiana; Louisiana, Haiti and creole cultures, from the Caribbean to the Twin Cities; French, Franco-American and Metis heritage and communities in the Midwest and along the Mississippi. The course also explores connections between francophone cultures and the Americas (Hmong, Vietnamese, African and North American). The textbookHéritages francophones: Enquêtes Interculturelles is supplemented with authentic materials (visual, musical, filmic, and print). Visits to different sites and opportunities to meet with different communities of francophone heritage in the Twin Cities are built into the course. Work includes presentations, opportunities to develop small digital projects in French, and short essays. *This course will include a 10-day study away component in Louisiana during Spring Break in March 2027. Prerequisite(s): FREN 204",
       "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "",
+      "gen_ed_requirements": "Internationalism or U.S. Identities and Differences",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27FREN%27%20num=%27311%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
@@ -8218,7 +8244,7 @@
         }
       ],
       "instructor": "Juliette Rogers, Duchess Harris",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "13",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8386,7 +8412,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "25",
       "crosslistings": [
         "ENVI 239-01 (30313)",
@@ -8437,7 +8463,7 @@
         }
       ],
       "instructor": "I-Chun Catherine Chang",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8485,7 +8511,7 @@
         }
       ],
       "instructor": "Eric Carter",
-      "open_seats": "10",
+      "open_seats": "8",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8801,7 +8827,7 @@
         }
       ],
       "instructor": "Alan Chapman",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8825,7 +8851,7 @@
         }
       ],
       "instructor": "Alan Chapman",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9257,7 +9283,7 @@
         }
       ],
       "instructor": "Amanda Wolfson",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9305,7 +9331,7 @@
         }
       ],
       "instructor": "Francesca Caligiuri Shields",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9683,7 +9709,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 229-01 (30378)",
@@ -9710,7 +9736,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "1",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 234-01 (30263)"
@@ -9834,7 +9860,7 @@
         }
       ],
       "instructor": "Tom Robertson",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "15",
       "crosslistings": [
         "ENVI 294-01 (30270)",
@@ -9865,7 +9891,7 @@
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
-      "description": "This course will survey the history of the Maya peoples from the mythic past to the present and will center the problem of authority in two senses of the term. First, which peoples and institutions have held authority over Maya peoples in different historical periods, and how has that authority been contested and been co-opted? We will pay special attention to the particular sorts of authority held by missionaries in Maya communities. Second, who has the authority to tell Maya history? What sources and archives inform historical research into this history, and how have these knowledge bases been constructed? How have Maya organic intellectuals and scholars shaped historical narratives about the Maya people? To answer these many questions, we will closely read Maya texts from the Popol Vuh to modern day testimonios and conversion accounts.",
+      "description": "This course will survey the history of the Maya peoples from the mythic past to the present and will center the problem of authority in two senses of the term. First, which peoples and institutions have held authority over Maya peoples in different historical periods, and how has that authority been contested and been co-opted? We will pay special attention to the particular sorts of authority held by missionaries in Maya communities. Second, who has the authority to tell Maya history? What sources and archives inform historical research into this history, and how have these knowledge bases been constructed? How have Maya organic intellectuals and scholars shaped historical narratives about the Maya people? To answer these many questions, we will closely read Maya texts from the Popol Vuh to modern day testimonios and conversion accounts. Can count towards \"Colonization and Empire\" or \"Race and Indigeneity\" or \"Latin America and the Caribbean\" fields.",
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27HIST%27%20num=%27294%27%20sect=%2703%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
@@ -10974,7 +11000,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "12",
+      "open_seats": "13",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -11281,7 +11307,7 @@
         }
       ],
       "instructor": "James Laine",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [
         "RELI 236-01 (30596)",
@@ -11308,7 +11334,7 @@
         }
       ],
       "instructor": "Morgan Sleeper",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11580,7 +11606,7 @@
         }
       ],
       "instructor": "William Grodzicki",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11628,7 +11654,7 @@
         }
       ],
       "instructor": "Curtis Balz",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11652,7 +11678,7 @@
         }
       ],
       "instructor": "Curtis Balz",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11994,7 +12020,7 @@
         }
       ],
       "instructor": "Brad Stiffler",
-      "open_seats": "3",
+      "open_seats": "1",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12804,7 +12830,7 @@
         }
       ],
       "instructor": "Darcy Burgund",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12900,7 +12926,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12948,7 +12974,7 @@
         }
       ],
       "instructor": "Amy Ihlan",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13070,7 +13096,7 @@
         }
       ],
       "instructor": "Geoffrey Gorham",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13334,7 +13360,7 @@
         }
       ],
       "instructor": "Nicholas Brundy",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13454,7 +13480,7 @@
         }
       ],
       "instructor": "Gina Wood",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13526,7 +13552,7 @@
         }
       ],
       "instructor": "Saki Khan",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13550,7 +13576,7 @@
         }
       ],
       "instructor": "Saki Khan",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14186,6 +14212,32 @@
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27215%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
+      "crn": "30961",
+      "subject": "POLI",
+      "subject_name": "Political Science",
+      "course_number": "215",
+      "section": "02",
+      "title": "Environmental Politics/Policy",
+      "meetings": [
+        {
+          "days": "T R",
+          "time": "9:40 - 11:10 am",
+          "room": ""
+        }
+      ],
+      "instructor": "Tony Siebenaler-Ransom",
+      "open_seats": "13",
+      "max_enrollment": "20",
+      "crosslistings": [
+        "ENVI 215-02 (30960)"
+      ],
+      "seat_reservations": "",
+      "description": "This course provides an introduction to the field of Environmental Politics and Policy. Using a project-based investigative approach, this course will explore the governance structures that shape the urban environment: both historic origins and contemporary discourse. As the saying goes, “All politics is local,” and this course will explore policy origins and impacts from the neighborhood up to the national level. There will be a special focus on zoning and community input, especially as applied to pollution allowances and stormwater.",
+      "distribution_requirements": "Social science",
+      "gen_ed_requirements": "",
+      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27POLI%27%20num=%27215%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
+    },
+    {
       "crn": "30538",
       "subject": "POLI",
       "subject_name": "Political Science",
@@ -14248,7 +14300,7 @@
         }
       ],
       "instructor": "Roopali Phadke",
-      "open_seats": "13",
+      "open_seats": "10",
       "max_enrollment": "16",
       "crosslistings": [
         "ENVI 337-01 (30273)"
@@ -14696,7 +14748,7 @@
         }
       ],
       "instructor": "Keira Leneman",
-      "open_seats": "2",
+      "open_seats": "3",
       "max_enrollment": "34",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14768,7 +14820,7 @@
         }
       ],
       "instructor": "Jamie Atkins",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14792,7 +14844,7 @@
         }
       ],
       "instructor": "Jamie Atkins",
-      "open_seats": "0",
+      "open_seats": "2",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15516,7 +15568,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [
         "WGSS 194-01 (30862)"
@@ -15618,7 +15670,7 @@
         }
       ],
       "instructor": "James Laine",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "12",
       "crosslistings": [
         "ASIA 236-01 (30597)",
@@ -16117,7 +16169,7 @@
         }
       ],
       "instructor": "Christina Hughes",
-      "open_seats": "3",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16364,7 +16416,7 @@
         }
       ],
       "instructor": "Daniel Coral Reyes",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16628,7 +16680,7 @@
         }
       ],
       "instructor": "Claudia Giannini",
-      "open_seats": "4",
+      "open_seats": "3",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17781,7 +17833,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [
         "RELI 194-03 (30763)"
@@ -17883,7 +17935,7 @@
         }
       ],
       "instructor": "Walter Greason",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "HIST 229-01 (30377)",
