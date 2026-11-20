@@ -1,8 +1,8 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-19T20:08:46.469617+00:00",
-  "course_count": 739,
+  "scraped_at": "2026-11-20T06:13:26.572786+00:00",
+  "course_count": 738,
   "courses": [
     {
       "crn": "30712",
@@ -1225,7 +1225,7 @@
         }
       ],
       "instructor": "Serdar Yalçin",
-      "open_seats": "4",
+      "open_seats": "5",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1276,7 +1276,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "16",
       "crosslistings": [
         "ASIA 350-01 (30722)"
@@ -1470,7 +1470,7 @@
         }
       ],
       "instructor": "Chun Chen",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "25",
       "crosslistings": [
         "HIST 194-02 (30761)"
@@ -1684,7 +1684,7 @@
         }
       ],
       "instructor": "Kari Shepherdson-Scott",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "16",
       "crosslistings": [
         "ART 350-01 (30721)"
@@ -1960,7 +1960,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "33",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2032,7 +2032,7 @@
         }
       ],
       "instructor": "Mary Montgomery",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2890,7 +2890,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "41",
       "crosslistings": [],
       "seat_reservations": "",
@@ -2914,7 +2914,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "40",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3346,7 +3346,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "6",
+      "open_seats": "5",
       "max_enrollment": "42",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3394,7 +3394,7 @@
         }
       ],
       "instructor": "Keith Kuwata",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4149,7 +4149,7 @@
         }
       ],
       "instructor": "Beth Severy-Hoven",
-      "open_seats": "15",
+      "open_seats": "16",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4199,7 +4199,7 @@
         }
       ],
       "instructor": "Brian Lush",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4543,7 +4543,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 294-03 (30545)"
@@ -4867,7 +4867,7 @@
         }
       ],
       "instructor": "Lian Duan",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4963,7 +4963,7 @@
         }
       ],
       "instructor": "Shilad Sen",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5479,7 +5479,7 @@
         }
       ],
       "instructor": "Alexander Von Hafften",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7053,7 +7053,7 @@
         }
       ],
       "instructor": "Tony Siebenaler-Ransom",
-      "open_seats": "8",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 215-02 (30961)"
@@ -7103,7 +7103,7 @@
         }
       ],
       "instructor": "Ross Shields",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [
         "GERM 230-01 (30759)"
@@ -7208,7 +7208,7 @@
         }
       ],
       "instructor": "Mindy Price",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7232,7 +7232,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -7362,7 +7362,7 @@
         }
       ],
       "instructor": "Melanie Yazzie",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [
         "WGSS 294-01 (30706)"
@@ -7462,7 +7462,7 @@
         }
       ],
       "instructor": "Holly Barcus",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [
         "GEOG 375-01 (30328)"
@@ -8292,7 +8292,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "19",
+      "open_seats": "20",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8412,7 +8412,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [
         "ENVI 239-01 (30313)",
@@ -8439,7 +8439,7 @@
         }
       ],
       "instructor": "Daniel Trudeau",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8463,7 +8463,7 @@
         }
       ],
       "instructor": "I-Chun Catherine Chang",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8657,7 +8657,7 @@
         }
       ],
       "instructor": "Holly Barcus",
-      "open_seats": "1",
+      "open_seats": "2",
       "max_enrollment": "16",
       "crosslistings": [
         "ENVI 375-01 (30329)"
@@ -8707,7 +8707,7 @@
         }
       ],
       "instructor": "Kristina Curry Rogers",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "47",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9019,7 +9019,7 @@
         }
       ],
       "instructor": "Emily First",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "8",
       "crosslistings": [],
       "seat_reservations": "",
@@ -9355,7 +9355,7 @@
         }
       ],
       "instructor": "Ross Shields",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 230-01 (30760)"
@@ -9581,7 +9581,7 @@
         }
       ],
       "instructor": "Chun Chen",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "25",
       "crosslistings": [
         "ASIA 194-02 (30776)"
@@ -10180,7 +10180,7 @@
         }
       ],
       "instructor": "David Moore",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -11000,7 +11000,7 @@
         }
       ],
       "instructor": "Xavier Haro-Carrión",
-      "open_seats": "13",
+      "open_seats": "12",
       "max_enrollment": "25",
       "crosslistings": [
         "GEOG 239-01 (30312)",
@@ -11361,7 +11361,7 @@
       "open_seats": "9",
       "max_enrollment": "15",
       "crosslistings": [
-        "COMP 394-01 (30768)"
+        "COMP 294-01 (30768)"
       ],
       "seat_reservations": "",
       "description": "In a world driven by digital communication, how do scholars in linguistics and computer science analyze language data from social media? This course provides you with the opportunity to learn how to apply recent Natural Language Processing (NLP) techniques to understand the dynamics of online discourse. We will cover the following topics in this course: topic modeling and text classification to uncover trends and patterns in large-scale social data, automated detection of harmful content and evaluation of such systems, techniques for identifying and tracking misinformation across platforms, assessment of large language models for bias and fairness, and approaches to building equitable and trustworthy AI systems. We will engage with recent academic papers, critically discussing their methods and findings. Hands-on sessions will provide experience replicating these studies and extending them using different NLP tools. By the end of the course, students will be expected to develop their own research project focused on studying social media language. Proficiency in Python programming is required for this course. Prerequisite(s): COMP 123 or permission of the instructor.",
@@ -11726,7 +11726,7 @@
         }
       ],
       "instructor": "Andrew Beveridge",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12806,7 +12806,7 @@
       "title": "Keyboard Skills",
       "meetings": [],
       "instructor": "",
-      "open_seats": "15",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -13048,7 +13048,7 @@
         }
       ],
       "instructor": "Bixin Guo",
-      "open_seats": "10",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14008,7 +14008,7 @@
         }
       ],
       "instructor": "Paul Dosh",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14154,7 +14154,7 @@
         }
       ],
       "instructor": "Julie Dolan",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14226,7 +14226,7 @@
         }
       ],
       "instructor": "Tony Siebenaler-Ransom",
-      "open_seats": "8",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 215-02 (30960)"
@@ -14476,7 +14476,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 294-02 (30546)"
@@ -15496,7 +15496,7 @@
         }
       ],
       "instructor": "Joan Ostrove, Steve Guglielmo, Keira Leneman, Grace Vieth",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "4",
       "crosslistings": [],
       "seat_reservations": "",
@@ -15568,7 +15568,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "WGSS 194-01 (30862)"
@@ -15594,7 +15594,7 @@
         }
       ],
       "instructor": "Jake Nagasawa",
-      "open_seats": "12",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16047,7 +16047,7 @@
         }
       ],
       "instructor": "Julia Chadaga",
-      "open_seats": "7",
+      "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16121,7 +16121,7 @@
         }
       ],
       "instructor": "Gabriele Gomez",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16535,8 +16535,8 @@
           "room": ""
         }
       ],
-      "instructor": "Blanca Gimeno Escudero",
-      "open_seats": "1",
+      "instructor": "Rosa Rull-Montoya",
+      "open_seats": "0",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16655,7 +16655,7 @@
           "room": ""
         }
       ],
-      "instructor": "Claire Lozano",
+      "instructor": "Blanca Gimeno Escudero",
       "open_seats": "6",
       "max_enrollment": "20",
       "crosslistings": [],
@@ -16680,7 +16680,7 @@
         }
       ],
       "instructor": "Claudia Giannini",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -16712,30 +16712,6 @@
       "distribution_requirements": "Humanities",
       "gen_ed_requirements": "Internationalism, Writing WA",
       "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SPAN%27%20num=%27305%27%20sect=%2701%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
-    },
-    {
-      "crn": "30645",
-      "subject": "SPAN",
-      "subject_name": "Spanish",
-      "course_number": "305",
-      "section": "02",
-      "title": "Advanced Oral and Written Expression",
-      "meetings": [
-        {
-          "days": "M W F",
-          "time": "1:10 - 2:10 pm",
-          "room": ""
-        }
-      ],
-      "instructor": "Rosa Rull-Montoya",
-      "open_seats": "12",
-      "max_enrollment": "15",
-      "crosslistings": [],
-      "seat_reservations": "",
-      "description": "This course serves as a bridge between the intermediate and advanced courses in the Department of Spanish and Portuguese. Its main objective is to improve oral and written communication while strengthening grammatical skills and deepening knowledge of Hispanic cultures. Conversations and written essays are based on the cultural and literary themes presented in the textbook, a novel or other literary work, and supporting videos and films. Other course activities vary according to instructors and can include individual and/or group presentations; interviews with native speakers; attending community events related to some celebration of the Hispanic world; or different forms of community engagement. Prerequisite(s): SPAN 204 or SPAN 220 with a minimum grade of C-, or permission of instructor.",
-      "distribution_requirements": "Humanities",
-      "gen_ed_requirements": "Internationalism, Writing WA",
-      "bookstore_url": "https://macalester.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-8345-_-1-_-A&catalogId=10001&storeId=89536&termMapping=Y&courseXml=%3C?xml%20version=%271.0%27%20encoding=%27UTF-8%27?%3E%3Ctextbookorder%3E%3Ccourses%3E%3Ccourse%20term=%27202730%27%20dept=%20%27SPAN%27%20num=%27305%27%20sect=%2702%27%20/%3E%3C/courses%3E%3C/textbookorder%3E"
     },
     {
       "crn": "30646",
@@ -17569,7 +17545,7 @@
         }
       ],
       "instructor": "Trevor Bowen",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17641,7 +17617,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17833,7 +17809,7 @@
         }
       ],
       "instructor": "Lucia Hulsether",
-      "open_seats": "10",
+      "open_seats": "11",
       "max_enrollment": "20",
       "crosslistings": [
         "RELI 194-03 (30763)"
@@ -17859,7 +17835,7 @@
         }
       ],
       "instructor": "Myrl Beam",
-      "open_seats": "9",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -18015,7 +17991,7 @@
         }
       ],
       "instructor": "Melanie Yazzie",
-      "open_seats": "8",
+      "open_seats": "9",
       "max_enrollment": "20",
       "crosslistings": [
         "ENVI 294-02 (30707)"
