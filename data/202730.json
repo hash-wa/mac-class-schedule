@@ -1,7 +1,7 @@
 {
   "term_code": "202730",
   "term_label": "Spring 2027",
-  "scraped_at": "2026-11-20T06:13:26.572786+00:00",
+  "scraped_at": "2026-11-20T19:44:29.632048+00:00",
   "course_count": 738,
   "courses": [
     {
@@ -305,7 +305,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "ASIA 283-01 (30008)",
@@ -761,7 +761,7 @@
         }
       ],
       "instructor": "Robert Weiner",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -983,7 +983,7 @@
         }
       ],
       "instructor": "Chris Willcox",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1127,7 +1127,7 @@
         }
       ],
       "instructor": "Mara Duvra",
-      "open_seats": "6",
+      "open_seats": "7",
       "max_enrollment": "14",
       "crosslistings": [],
       "seat_reservations": "",
@@ -1630,7 +1630,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 281-01 (30007)",
@@ -2418,7 +2418,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "32",
       "crosslistings": [
         "CHEM 351-01 (30110)"
@@ -2444,7 +2444,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "CHEM 351-L1 (30112)"
@@ -2866,7 +2866,7 @@
         }
       ],
       "instructor": "Kathryn Splan",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "41",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3082,7 +3082,7 @@
         }
       ],
       "instructor": "",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3538,7 +3538,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "32",
       "crosslistings": [
         "BIOL 351-01 (30111)"
@@ -3564,7 +3564,7 @@
         }
       ],
       "instructor": "Leah Witus",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "16",
       "crosslistings": [
         "BIOL 351-L1 (30113)"
@@ -3784,7 +3784,7 @@
         }
       ],
       "instructor": "Pei-Wen Fang",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "15",
       "crosslistings": [],
       "seat_reservations": "",
@@ -3832,7 +3832,7 @@
         }
       ],
       "instructor": "Ruoxi Song",
-      "open_seats": "5",
+      "open_seats": "4",
       "max_enrollment": "12",
       "crosslistings": [],
       "seat_reservations": "",
@@ -4543,7 +4543,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "POLI 294-03 (30545)"
@@ -4569,7 +4569,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "15",
       "crosslistings": [
         "RELI 294-01 (30601)"
@@ -5359,7 +5359,7 @@
         }
       ],
       "instructor": "Bridgit Jordan",
-      "open_seats": "0",
+      "open_seats": "1",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -5554,7 +5554,7 @@
         }
       ],
       "instructor": "Jessica Kiser",
-      "open_seats": "1",
+      "open_seats": "0",
       "max_enrollment": "25",
       "crosslistings": [],
       "seat_reservations": "",
@@ -6149,7 +6149,7 @@
         }
       ],
       "instructor": "Kehaulani Fagatele-Folau",
-      "open_seats": "17",
+      "open_seats": "16",
       "max_enrollment": "24",
       "crosslistings": [],
       "seat_reservations": "",
@@ -7462,7 +7462,7 @@
         }
       ],
       "instructor": "Holly Barcus",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [
         "GEOG 375-01 (30328)"
@@ -8292,7 +8292,7 @@
         }
       ],
       "instructor": "William Moseley",
-      "open_seats": "20",
+      "open_seats": "19",
       "max_enrollment": "30",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8657,7 +8657,7 @@
         }
       ],
       "instructor": "Holly Barcus",
-      "open_seats": "2",
+      "open_seats": "1",
       "max_enrollment": "16",
       "crosslistings": [
         "ENVI 375-01 (30329)"
@@ -8827,7 +8827,7 @@
         }
       ],
       "instructor": "Alan Chapman",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -8851,7 +8851,7 @@
         }
       ],
       "instructor": "Alan Chapman",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "18",
       "crosslistings": [],
       "seat_reservations": "",
@@ -12196,7 +12196,7 @@
         }
       ],
       "instructor": "Karin Aguilar-San Juan",
-      "open_seats": "8",
+      "open_seats": "7",
       "max_enrollment": "20",
       "crosslistings": [
         "AMST 281-01 (30007)",
@@ -13408,7 +13408,7 @@
         }
       ],
       "instructor": "Emma Fitzsimmons",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14178,7 +14178,7 @@
         }
       ],
       "instructor": "Julie Dolan",
-      "open_seats": "7",
+      "open_seats": "8",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14326,7 +14326,7 @@
         }
       ],
       "instructor": "Sheharyar Imran",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -14476,7 +14476,7 @@
         }
       ],
       "instructor": "Andrew Latham",
-      "open_seats": "11",
+      "open_seats": "10",
       "max_enrollment": "20",
       "crosslistings": [
         "CLAS 294-02 (30546)"
@@ -15777,7 +15777,7 @@
         }
       ],
       "instructor": "Ahoo Najafian",
-      "open_seats": "3",
+      "open_seats": "2",
       "max_enrollment": "15",
       "crosslistings": [
         "CLAS 294-03 (30602)"
@@ -16097,7 +16097,7 @@
         }
       ],
       "instructor": "Tamara von Schmidt-Pauli",
-      "open_seats": "15",
+      "open_seats": "14",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
@@ -17231,7 +17231,7 @@
         }
       ],
       "instructor": "Leslie Myint",
-      "open_seats": "3",
+      "open_seats": "4",
       "max_enrollment": "20",
       "crosslistings": [],
       "seat_reservations": "",
